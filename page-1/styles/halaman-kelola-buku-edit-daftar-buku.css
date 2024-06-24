@@ -1,0 +1,775 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 100%;
+}.halaman-kelola-buku-edit-daftar-buku-gHB {
+  width: 100%;
+  overflow: hidden;
+  position: relative;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+}
+.halaman-kelola-buku-edit-daftar-buku-gHB .navigation-bar-QU5 {
+  box-sizing: border-box;
+  padding: 1.6rem 3.75rem;
+  width: 100%;
+  text-align: center;
+  font-size: 2.4rem;
+  font-weight: 500;
+  line-height: 1;
+  color: #000000;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: baseline;
+  background-color: #ffffff;
+  flex-shrink: 0;
+}
+.halaman-kelola-buku-edit-daftar-buku-gHB .navigation-bar-QU5 .navigation-bar-QU5-sub-0 {
+}
+.halaman-kelola-buku-edit-daftar-buku-gHB .navigation-bar-QU5 .navigation-bar-QU5-sub-1 {
+  font-size: 2.4rem;
+  font-weight: 500;
+  line-height: 1;
+  color: #38cb89;
+  font-family: Poppins, 'Source Sans Pro';
+}
+.halaman-kelola-buku-edit-daftar-buku-gHB .navigation-bar-QU5 .navigation-bar-QU5-sub-2 {
+}
+.halaman-kelola-buku-edit-daftar-buku-gHB .content-ELd {
+  box-sizing: border-box;
+  padding: 3rem 3.7rem 4.7rem 3.6rem;
+  width: 100%;
+  height: 117.8rem;
+  background-color: #ffffff;
+  flex-shrink: 0;
+}
+.halaman-kelola-buku-edit-daftar-buku-gHB .content-ELd .content-Zdo {
+  width: 100%;
+  height: 100%;
+  display: flex;
+  align-items: flex-start;
+}
+.halaman-kelola-buku-edit-daftar-buku-gHB .content-ELd .content-Zdo .menu-8B7 {
+  margin-right: 0.7rem;
+  box-sizing: border-box;
+  padding: 4rem 4.35rem 20.4rem 4.35rem;
+  width: 31.7rem;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  background-color: #f3f5f6;
+  border-radius: 0.8rem;
+  flex-shrink: 0;
+}
+.halaman-kelola-buku-edit-daftar-buku-gHB .content-ELd .content-Zdo .menu-8B7 .frame-743-3os {
+  margin: 0rem 6.05rem 6rem 6.05rem;
+  width: calc(100% - 12.1rem);
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.halaman-kelola-buku-edit-daftar-buku-gHB .content-ELd .content-Zdo .menu-8B7 .frame-743-3os .elements-menu-avatar-edit-aoo {
+  margin: 0rem 1.55rem 0.6rem 1.35rem;
+  width: calc(100% - 2.9rem);
+  height: 8.2rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.halaman-kelola-buku-edit-daftar-buku-gHB .content-ELd .content-Zdo .menu-8B7 .frame-743-3os .elements-menu-avatar-edit-aoo .avatar-Vvm {
+  width: 8rem;
+  height: 8rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  border-radius: 5.8rem;
+}
+.halaman-kelola-buku-edit-daftar-buku-gHB .content-ELd .content-Zdo .menu-8B7 .frame-743-3os .elements-menu-avatar-edit-aoo .avatar-Vvm .border-radius-light-solid-pill-dn5 {
+  width: 8rem;
+  height: 8rem;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+}
+.halaman-kelola-buku-edit-daftar-buku-gHB .content-ELd .content-Zdo .menu-8B7 .frame-743-3os .elements-menu-avatar-edit-aoo .icon-box-krh {
+  width: 3rem;
+  height: 3rem;
+  position: absolute;
+  left: 4.9rem;
+  top: 5.2rem;
+  object-fit: contain;
+  vertical-align: top;
+  border-radius: 12.5rem;
+}
+.halaman-kelola-buku-edit-daftar-buku-gHB .content-ELd .content-Zdo .menu-8B7 .frame-743-3os .tobi-anson-Unh {
+  font-size: 2rem;
+  font-weight: 600;
+  line-height: 1.6;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.halaman-kelola-buku-edit-daftar-buku-gHB .content-ELd .content-Zdo .menu-8B7 .frame-742-c8D {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.halaman-kelola-buku-edit-daftar-buku-gHB .content-ELd .content-Zdo .menu-8B7 .frame-742-c8D .menu-item-mG1 {
+  margin-bottom: 3.2rem;
+  font-size: 1.6rem;
+  font-weight: 600;
+  line-height: 1.625;
+  color: #6c7274;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.halaman-kelola-buku-edit-daftar-buku-gHB .content-ELd .content-Zdo .menu-8B7 .frame-742-c8D .elements-h9f {
+  margin-bottom: 1.2rem;
+  box-sizing: border-box;
+  padding: 2rem 0;
+  width: 100%;
+  font-size: 1.6rem;
+  font-weight: 600;
+  line-height: 1.625;
+  color: #6c7274;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  border: solid 0 #6c7274;
+  flex-shrink: 0;
+}
+.halaman-kelola-buku-edit-daftar-buku-gHB .content-ELd .content-Zdo .menu-8B7 .frame-742-c8D .elements-bkq {
+  box-sizing: border-box;
+  padding: 2rem 0;
+  width: 100%;
+  font-size: 1.6rem;
+  font-weight: 600;
+  line-height: 1.625;
+  color: #141718;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  border: solid 0.1rem #141718;
+  flex-shrink: 0;
+}
+.halaman-kelola-buku-edit-daftar-buku-gHB .content-ELd .content-Zdo .menu-8B7 .frame-742-c8D .auto-group-71fk-hos {
+  box-sizing: border-box;
+  padding-top: 3.2rem;
+  width: 100%;
+  row-gap: 5.2rem;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.halaman-kelola-buku-edit-daftar-buku-gHB .content-ELd .content-Zdo .menu-8B7 .frame-742-c8D .auto-group-71fk-hos .menu-item-F4h {
+  font-size: 1.6rem;
+  font-weight: 600;
+  line-height: 1.625;
+  color: #6c7274;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.halaman-kelola-buku-edit-daftar-buku-gHB .content-ELd .content-Zdo .menu-8B7 .frame-742-c8D .auto-group-71fk-hos .menu-item-naR {
+  font-size: 1.6rem;
+  font-weight: 600;
+  line-height: 1.625;
+  color: #6c7274;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.halaman-kelola-buku-edit-daftar-buku-gHB .content-ELd .content-Zdo .menu-8B7 .frame-742-c8D .auto-group-71fk-hos .menu-item-Lbw {
+  font-size: 1.6rem;
+  font-weight: 600;
+  line-height: 1.625;
+  color: #6c7274;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.halaman-kelola-buku-edit-daftar-buku-gHB .content-ELd .content-Zdo .menu-8B7 .frame-742-c8D .auto-group-71fk-hos .menu-item-tdT {
+  font-size: 1.6rem;
+  font-weight: 600;
+  line-height: 1.625;
+  color: #6c7274;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.halaman-kelola-buku-edit-daftar-buku-gHB .content-ELd .content-Zdo .auto-group-czss-1i5 {
+  width: 104.3rem;
+  height: 100%;
+  flex-shrink: 0;
+}
+.halaman-kelola-buku-edit-daftar-buku-gHB .content-ELd .content-Zdo .auto-group-czss-1i5 .navigation-bar-mBT {
+  margin-bottom: 0.8rem;
+  box-sizing: border-box;
+  padding: 1.6rem 2.2rem 0rem 2.2rem;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  background-color: #ffffff;
+}
+.halaman-kelola-buku-edit-daftar-buku-gHB .content-ELd .content-Zdo .auto-group-czss-1i5 .navigation-bar-mBT .elements-navigation-link-group--VdF {
+  margin: 0rem 76.4rem 1.8rem 0rem;
+  width: calc(100% - 76.4rem);
+  height: 2.4rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.halaman-kelola-buku-edit-daftar-buku-gHB .content-ELd .content-Zdo .auto-group-czss-1i5 .navigation-bar-mBT .elements-navigation-link-group--VdF .button-QkD {
+  margin-right: 4rem;
+  width: 9.1rem;
+  height: 100%;
+  border: solid 0 #141718;
+  box-sizing: border-box;
+  flex-shrink: 0;
+}
+.halaman-kelola-buku-edit-daftar-buku-gHB .content-ELd .content-Zdo .auto-group-czss-1i5 .navigation-bar-mBT .elements-navigation-link-group--VdF .button-QkD .content-NBF {
+  width: 100%;
+  height: 100%;
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.5;
+  color: #141718;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.halaman-kelola-buku-edit-daftar-buku-gHB .content-ELd .content-Zdo .auto-group-czss-1i5 .navigation-bar-mBT .elements-navigation-link-group--VdF .button-445 {
+  width: 10.4rem;
+  height: 100%;
+  border: solid 0 #141718;
+  box-sizing: border-box;
+  flex-shrink: 0;
+}
+.halaman-kelola-buku-edit-daftar-buku-gHB .content-ELd .content-Zdo .auto-group-czss-1i5 .navigation-bar-mBT .elements-navigation-link-group--VdF .button-445 .content-oXT {
+  width: 100%;
+  height: 100%;
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.5;
+  color: #6c7274;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.halaman-kelola-buku-edit-daftar-buku-gHB .content-ELd .content-Zdo .auto-group-czss-1i5 .navigation-bar-mBT .kembali-7Y9 {
+  margin-left: 0.1rem;
+  font-size: 1.4rem;
+  font-weight: 600;
+  line-height: 2.2857142857;
+  color: #141718;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.halaman-kelola-buku-edit-daftar-buku-gHB .content-ELd .content-Zdo .auto-group-czss-1i5 .form-qU9 {
+  margin-left: 6.5rem;
+  width: 70.7rem;
+  row-gap: 2.4rem;
+  display: flex;
+  flex-direction: column;
+}
+.halaman-kelola-buku-edit-daftar-buku-gHB .content-ELd .content-Zdo .auto-group-czss-1i5 .form-qU9 .judul-buku-1-mMo {
+  font-size: 2rem;
+  font-weight: 600;
+  line-height: 1.6;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.halaman-kelola-buku-edit-daftar-buku-gHB .content-ELd .content-Zdo .auto-group-czss-1i5 .form-qU9 .name-7Rf {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.halaman-kelola-buku-edit-daftar-buku-gHB .content-ELd .content-Zdo .auto-group-czss-1i5 .form-qU9 .name-7Rf .isbn-svd {
+  margin-bottom: 1.2rem;
+  font-size: 1.2rem;
+  font-weight: 700;
+  line-height: 1;
+  text-transform: uppercase;
+  color: #6c7274;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.halaman-kelola-buku-edit-daftar-buku-gHB .content-ELd .content-Zdo .auto-group-czss-1i5 .form-qU9 .name-7Rf .input-DDo {
+  box-sizing: border-box;
+  padding: 0.7rem 1.6rem;
+  width: 100%;
+  overflow: hidden;
+  position: relative;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.625;
+  color: #6c7274;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  border: solid 0.1rem #cacaca;
+  background-color: #ffffff;
+  border-radius: 0.6rem;
+  flex-shrink: 0;
+}
+.halaman-kelola-buku-edit-daftar-buku-gHB .content-ELd .content-Zdo .auto-group-czss-1i5 .form-qU9 .name-gt5 {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.halaman-kelola-buku-edit-daftar-buku-gHB .content-ELd .content-Zdo .auto-group-czss-1i5 .form-qU9 .name-gt5 .judul-epu {
+  margin-bottom: 1.2rem;
+  font-size: 1.2rem;
+  font-weight: 700;
+  line-height: 1;
+  text-transform: uppercase;
+  color: #6c7274;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.halaman-kelola-buku-edit-daftar-buku-gHB .content-ELd .content-Zdo .auto-group-czss-1i5 .form-qU9 .name-gt5 .input-zNy {
+  box-sizing: border-box;
+  padding: 0.7rem 1.6rem;
+  width: 100%;
+  overflow: hidden;
+  position: relative;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.625;
+  color: #6c7274;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  border: solid 0.1rem #cacaca;
+  background-color: #ffffff;
+  border-radius: 0.6rem;
+  flex-shrink: 0;
+}
+.halaman-kelola-buku-edit-daftar-buku-gHB .content-ELd .content-Zdo .auto-group-czss-1i5 .form-qU9 .name-UZ3 {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.halaman-kelola-buku-edit-daftar-buku-gHB .content-ELd .content-Zdo .auto-group-czss-1i5 .form-qU9 .name-UZ3 .penulis-SVs {
+  margin-bottom: 1.2rem;
+  font-size: 1.2rem;
+  font-weight: 700;
+  line-height: 1;
+  text-transform: uppercase;
+  color: #6c7274;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.halaman-kelola-buku-edit-daftar-buku-gHB .content-ELd .content-Zdo .auto-group-czss-1i5 .form-qU9 .name-UZ3 .input-BCZ {
+  box-sizing: border-box;
+  padding: 0.7rem 1.6rem;
+  width: 100%;
+  overflow: hidden;
+  position: relative;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.625;
+  color: #6c7274;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  border: solid 0.1rem #cacaca;
+  background-color: #ffffff;
+  border-radius: 0.6rem;
+  flex-shrink: 0;
+}
+.halaman-kelola-buku-edit-daftar-buku-gHB .content-ELd .content-Zdo .auto-group-czss-1i5 .form-qU9 .name-GE1 {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.halaman-kelola-buku-edit-daftar-buku-gHB .content-ELd .content-Zdo .auto-group-czss-1i5 .form-qU9 .name-GE1 .penerbit-S8V {
+  margin-bottom: 1.2rem;
+  font-size: 1.2rem;
+  font-weight: 700;
+  line-height: 1;
+  text-transform: uppercase;
+  color: #6c7274;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.halaman-kelola-buku-edit-daftar-buku-gHB .content-ELd .content-Zdo .auto-group-czss-1i5 .form-qU9 .name-GE1 .input-AKP {
+  box-sizing: border-box;
+  padding: 0.7rem 1.6rem;
+  width: 100%;
+  overflow: hidden;
+  position: relative;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.625;
+  color: #6c7274;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  border: solid 0.1rem #cacaca;
+  background-color: #ffffff;
+  border-radius: 0.6rem;
+  flex-shrink: 0;
+}
+.halaman-kelola-buku-edit-daftar-buku-gHB .content-ELd .content-Zdo .auto-group-czss-1i5 .form-qU9 .name-f1F {
+  width: 100%;
+  row-gap: 1.2rem;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.halaman-kelola-buku-edit-daftar-buku-gHB .content-ELd .content-Zdo .auto-group-czss-1i5 .form-qU9 .name-f1F .deskripsi-odF {
+  font-size: 1.2rem;
+  font-weight: 700;
+  line-height: 1;
+  text-transform: uppercase;
+  color: #6c7274;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.halaman-kelola-buku-edit-daftar-buku-gHB .content-ELd .content-Zdo .auto-group-czss-1i5 .form-qU9 .name-f1F .input-k2h {
+  box-sizing: border-box;
+  padding: 0.75rem 1.8rem 0.75rem 1.6rem;
+  width: 100%;
+  height: 20.3rem;
+  overflow: hidden;
+  position: relative;
+  border: solid 0.1rem #cacaca;
+  background-color: #ffffff;
+  border-radius: 0.6rem;
+  flex-shrink: 0;
+}
+.halaman-kelola-buku-edit-daftar-buku-gHB .content-ELd .content-Zdo .auto-group-czss-1i5 .form-qU9 .name-f1F .input-k2h .your-email-fvM {
+  max-width: 67.3rem;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.25;
+  color: #141718;
+  font-family: Inter, 'Source Sans Pro';
+}
+.halaman-kelola-buku-edit-daftar-buku-gHB .content-ELd .content-Zdo .auto-group-czss-1i5 .form-qU9 .name-yg9 {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.halaman-kelola-buku-edit-daftar-buku-gHB .content-ELd .content-Zdo .auto-group-czss-1i5 .form-qU9 .name-yg9 .kategori-9ad {
+  margin-bottom: 1.2rem;
+  font-size: 1.2rem;
+  font-weight: 700;
+  line-height: 1;
+  text-transform: uppercase;
+  color: #6c7274;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.halaman-kelola-buku-edit-daftar-buku-gHB .content-ELd .content-Zdo .auto-group-czss-1i5 .form-qU9 .name-yg9 .input-tHK {
+  box-sizing: border-box;
+  padding: 0.7rem 1.6rem;
+  width: 100%;
+  overflow: hidden;
+  position: relative;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.625;
+  color: #6c7274;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  border: solid 0.1rem #cacaca;
+  background-color: #ffffff;
+  border-radius: 0.6rem;
+  flex-shrink: 0;
+}
+.halaman-kelola-buku-edit-daftar-buku-gHB .content-ELd .content-Zdo .auto-group-czss-1i5 .form-qU9 .name-aR3 {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.halaman-kelola-buku-edit-daftar-buku-gHB .content-ELd .content-Zdo .auto-group-czss-1i5 .form-qU9 .name-aR3 .kategori-Xr5 {
+  margin-bottom: 1.2rem;
+  font-size: 1.2rem;
+  font-weight: 700;
+  line-height: 1;
+  text-transform: uppercase;
+  color: #6c7274;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.halaman-kelola-buku-edit-daftar-buku-gHB .content-ELd .content-Zdo .auto-group-czss-1i5 .form-qU9 .name-aR3 .input-GYm {
+  box-sizing: border-box;
+  padding: 0.7rem 1.6rem;
+  width: 100%;
+  overflow: hidden;
+  position: relative;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.625;
+  color: #6c7274;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  border: solid 0.1rem #cacaca;
+  background-color: #ffffff;
+  border-radius: 0.6rem;
+  flex-shrink: 0;
+}
+.halaman-kelola-buku-edit-daftar-buku-gHB .content-ELd .content-Zdo .auto-group-czss-1i5 .form-qU9 .name-YFP {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.halaman-kelola-buku-edit-daftar-buku-gHB .content-ELd .content-Zdo .auto-group-czss-1i5 .form-qU9 .name-YFP .bahasa-JkM {
+  margin-bottom: 1.2rem;
+  font-size: 1.2rem;
+  font-weight: 700;
+  line-height: 1;
+  text-transform: uppercase;
+  color: #6c7274;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.halaman-kelola-buku-edit-daftar-buku-gHB .content-ELd .content-Zdo .auto-group-czss-1i5 .form-qU9 .name-YFP .input-3T3 {
+  box-sizing: border-box;
+  padding: 0.7rem 1.6rem;
+  width: 100%;
+  overflow: hidden;
+  position: relative;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.625;
+  color: #6c7274;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  border: solid 0.1rem #cacaca;
+  background-color: #ffffff;
+  border-radius: 0.6rem;
+  flex-shrink: 0;
+}
+.halaman-kelola-buku-edit-daftar-buku-gHB .content-ELd .content-Zdo .auto-group-czss-1i5 .form-qU9 .name-8UV {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.halaman-kelola-buku-edit-daftar-buku-gHB .content-ELd .content-Zdo .auto-group-czss-1i5 .form-qU9 .name-8UV .cover-JNy {
+  margin-bottom: 1.2rem;
+  font-size: 1.2rem;
+  font-weight: 700;
+  line-height: 1;
+  text-transform: uppercase;
+  color: #6c7274;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.halaman-kelola-buku-edit-daftar-buku-gHB .content-ELd .content-Zdo .auto-group-czss-1i5 .form-qU9 .name-8UV .input-SVB {
+  box-sizing: border-box;
+  padding: 0.7rem 1.6rem;
+  width: 100%;
+  overflow: hidden;
+  position: relative;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.625;
+  color: #6c7274;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  border: solid 0.1rem #cacaca;
+  background-color: #ffffff;
+  border-radius: 0.6rem;
+  flex-shrink: 0;
+}
+.halaman-kelola-buku-edit-daftar-buku-gHB .content-ELd .content-Zdo .auto-group-czss-1i5 .form-qU9 .button-jDP {
+  width: 10.3rem;
+  height: 4rem;
+  text-align: center;
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.75;
+  letter-spacing: -0.04rem;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #141718;
+  border-radius: 0.8rem;
+  flex-shrink: 0;
+}
+.halaman-kelola-buku-edit-daftar-buku-gHB .footer-zf7 {
+  margin: 0 0.1rem;
+  box-sizing: border-box;
+  padding: 8rem 14.1rem 3.2rem 16rem;
+  width: calc(100% - 0.2rem);
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  background-color: #141718;
+  flex-shrink: 0;
+}
+.halaman-kelola-buku-edit-daftar-buku-gHB .footer-zf7 .logo-and-links-iLD {
+  margin: 0rem 0rem 4.9rem 0.15rem;
+  width: 113.55rem;
+  height: 2.4rem;
+  flex-shrink: 0;
+}
+.halaman-kelola-buku-edit-daftar-buku-gHB .footer-zf7 .logo-and-links-iLD .logo-and-slogan-EpM {
+  width: 41.15rem;
+  height: 100%;
+  display: flex;
+  align-items: center;
+}
+.halaman-kelola-buku-edit-daftar-buku-gHB .footer-zf7 .logo-and-links-iLD .logo-and-slogan-EpM .perpusapp-zHj {
+  margin-right: 1.85rem;
+  text-align: center;
+  font-size: 2.4rem;
+  font-weight: 500;
+  line-height: 1;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: baseline;
+  flex-shrink: 0;
+}
+.halaman-kelola-buku-edit-daftar-buku-gHB .footer-zf7 .logo-and-links-iLD .logo-and-slogan-EpM .perpusapp-zHj .perpusapp-zHj-sub-0 {
+}
+.halaman-kelola-buku-edit-daftar-buku-gHB .footer-zf7 .logo-and-links-iLD .logo-and-slogan-EpM .perpusapp-zHj .perpusapp-zHj-sub-1 {
+  font-size: 2.4rem;
+  font-weight: 500;
+  line-height: 1;
+  color: #38cb89;
+  font-family: Poppins, 'Source Sans Pro';
+}
+.halaman-kelola-buku-edit-daftar-buku-gHB .footer-zf7 .logo-and-links-iLD .logo-and-slogan-EpM .perpusapp-zHj .perpusapp-zHj-sub-2 {
+}
+.halaman-kelola-buku-edit-daftar-buku-gHB .footer-zf7 .logo-and-links-iLD .logo-and-slogan-EpM .perpusapp-zHj .perpusapp-zHj-sub-3 {
+  font-size: 2.4rem;
+  font-weight: 500;
+  line-height: 1;
+  color: #6c7274;
+  font-family: Poppins, 'Source Sans Pro';
+}
+.halaman-kelola-buku-edit-daftar-buku-gHB .footer-zf7 .logo-and-links-iLD .logo-and-slogan-EpM .rectangle-319-eFo {
+  margin-right: 3.2rem;
+  width: 0.1rem;
+  height: 2.4rem;
+  background-color: #6c7274;
+  flex-shrink: 0;
+}
+.halaman-kelola-buku-edit-daftar-buku-gHB .footer-zf7 .logo-and-links-iLD .logo-and-slogan-EpM .gift-decoration-store-yos {
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.5714285714;
+  color: #e8ecef;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.halaman-kelola-buku-edit-daftar-buku-gHB .footer-zf7 .bottom-bar-Jr9 {
+  margin-right: 1.9rem;
+  box-sizing: border-box;
+  padding: 1.6rem 0;
+  width: calc(100% - 1.9rem);
+  height: 5.6rem;
+  display: flex;
+  align-items: center;
+  border: solid 0.1rem #6c7274;
+  flex-shrink: 0;
+}
+.halaman-kelola-buku-edit-daftar-buku-gHB .footer-zf7 .bottom-bar-Jr9 .copyright-Ejo {
+  margin: 0rem 49.5rem 0.4rem 0rem;
+  display: flex;
+  column-gap: 2.8rem;
+  align-items: center;
+  flex-shrink: 0;
+}
+.halaman-kelola-buku-edit-daftar-buku-gHB .footer-zf7 .bottom-bar-Jr9 .copyright-Ejo .copyright-2023-3legant-all-rights-reserved-a2y {
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.6666666667;
+  color: #e8ecef;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.halaman-kelola-buku-edit-daftar-buku-gHB .footer-zf7 .bottom-bar-Jr9 .copyright-Ejo .privacy-policy-61K {
+  font-size: 1.2rem;
+  font-weight: 600;
+  line-height: 1.6666666667;
+  color: #fdfdfd;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.halaman-kelola-buku-edit-daftar-buku-gHB .footer-zf7 .bottom-bar-Jr9 .copyright-Ejo .terms-of-use-Drd {
+  font-size: 1.2rem;
+  font-weight: 600;
+  line-height: 1.6666666667;
+  color: #fdfdfd;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.halaman-kelola-buku-edit-daftar-buku-gHB .footer-zf7 .bottom-bar-Jr9 .social-icon-Mhw {
+  box-sizing: border-box;
+  padding: 0.2rem 0.2rem 0.2rem 0rem;
+  height: 100%;
+  display: flex;
+  column-gap: 3.2rem;
+  align-items: center;
+  flex-shrink: 0;
+}
+.halaman-kelola-buku-edit-daftar-buku-gHB .footer-zf7 .bottom-bar-Jr9 .social-icon-Mhw .social-outline-instagram-Gpu {
+  width: 2rem;
+  height: 2rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.halaman-kelola-buku-edit-daftar-buku-gHB .footer-zf7 .bottom-bar-Jr9 .social-icon-Mhw .social-outline-facebook-p5j {
+  width: 1.2rem;
+  height: 1.8rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.halaman-kelola-buku-edit-daftar-buku-gHB .footer-zf7 .bottom-bar-Jr9 .social-icon-Mhw .social-outline-youtube-MLZ {
+  width: 2rem;
+  height: 1.8rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}

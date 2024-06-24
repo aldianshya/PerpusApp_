@@ -1,0 +1,465 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 100%;
+}.halaman-kelola-buku-daftar-buku-AxV {
+  width: 100%;
+  overflow: hidden;
+  position: relative;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+}
+.halaman-kelola-buku-daftar-buku-AxV .logo-hSd {
+  box-sizing: border-box;
+  padding: 1.6rem 3.75rem;
+  width: 100%;
+  text-align: center;
+  font-size: 2.4rem;
+  font-weight: 500;
+  line-height: 1;
+  color: #000000;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: baseline;
+  background-color: #ffffff;
+  flex-shrink: 0;
+}
+.halaman-kelola-buku-daftar-buku-AxV .logo-hSd .logo-hSd-sub-0 {
+}
+.halaman-kelola-buku-daftar-buku-AxV .logo-hSd .logo-hSd-sub-1 {
+  font-size: 2.4rem;
+  font-weight: 500;
+  line-height: 1;
+  color: #38cb89;
+  font-family: Poppins, 'Source Sans Pro';
+}
+.halaman-kelola-buku-daftar-buku-AxV .logo-hSd .logo-hSd-sub-2 {
+}
+.halaman-kelola-buku-daftar-buku-AxV .content-1Lq {
+  box-sizing: border-box;
+  padding: 3rem 3.7rem 4.3rem 3.6rem;
+  width: 100%;
+  height: 99.1rem;
+  background-color: #ffffff;
+  flex-shrink: 0;
+}
+.halaman-kelola-buku-daftar-buku-AxV .content-1Lq .content-vTo {
+  width: 100%;
+  height: 100%;
+  display: flex;
+  align-items: flex-start;
+}
+.halaman-kelola-buku-daftar-buku-AxV .content-1Lq .content-vTo .menu-stq {
+  margin-right: 0.7rem;
+  box-sizing: border-box;
+  padding: 4rem 4.35rem 20.4rem 4.35rem;
+  width: 31.7rem;
+  height: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  background-color: #f3f5f6;
+  border-radius: 0.8rem;
+  flex-shrink: 0;
+}
+.halaman-kelola-buku-daftar-buku-AxV .content-1Lq .content-vTo .menu-stq .frame-743-oXb {
+  margin: 0rem 6.05rem 6rem 6.05rem;
+  width: calc(100% - 12.1rem);
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.halaman-kelola-buku-daftar-buku-AxV .content-1Lq .content-vTo .menu-stq .frame-743-oXb .elements-menu-avatar-edit-w81 {
+  margin: 0rem 1.55rem 0.6rem 1.35rem;
+  width: calc(100% - 2.9rem);
+  height: 8.2rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.halaman-kelola-buku-daftar-buku-AxV .content-1Lq .content-vTo .menu-stq .frame-743-oXb .elements-menu-avatar-edit-w81 .avatar-Eso {
+  width: 8rem;
+  height: 8rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  border-radius: 5.8rem;
+}
+.halaman-kelola-buku-daftar-buku-AxV .content-1Lq .content-vTo .menu-stq .frame-743-oXb .elements-menu-avatar-edit-w81 .avatar-Eso .border-radius-light-solid-pill-yqP {
+  width: 8rem;
+  height: 8rem;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+}
+.halaman-kelola-buku-daftar-buku-AxV .content-1Lq .content-vTo .menu-stq .frame-743-oXb .elements-menu-avatar-edit-w81 .icon-box-i2H {
+  width: 3rem;
+  height: 3rem;
+  position: absolute;
+  left: 4.9rem;
+  top: 5.2rem;
+  object-fit: contain;
+  vertical-align: top;
+  border-radius: 12.5rem;
+}
+.halaman-kelola-buku-daftar-buku-AxV .content-1Lq .content-vTo .menu-stq .frame-743-oXb .tobi-anson-EFX {
+  font-size: 2rem;
+  font-weight: 600;
+  line-height: 1.6;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.halaman-kelola-buku-daftar-buku-AxV .content-1Lq .content-vTo .menu-stq .frame-742-Mb3 {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.halaman-kelola-buku-daftar-buku-AxV .content-1Lq .content-vTo .menu-stq .frame-742-Mb3 .menu-item-usT {
+  margin-bottom: 3.2rem;
+  font-size: 1.6rem;
+  font-weight: 600;
+  line-height: 1.625;
+  color: #6c7274;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.halaman-kelola-buku-daftar-buku-AxV .content-1Lq .content-vTo .menu-stq .frame-742-Mb3 .elements-qWD {
+  margin-bottom: 1.2rem;
+  box-sizing: border-box;
+  padding: 2rem 0;
+  width: 100%;
+  font-size: 1.6rem;
+  font-weight: 600;
+  line-height: 1.625;
+  color: #6c7274;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  border: solid 0 #141718;
+  flex-shrink: 0;
+}
+.halaman-kelola-buku-daftar-buku-AxV .content-1Lq .content-vTo .menu-stq .frame-742-Mb3 .elements-9Wu {
+  box-sizing: border-box;
+  padding: 2rem 0;
+  width: 100%;
+  font-size: 1.6rem;
+  font-weight: 600;
+  line-height: 1.625;
+  color: #141718;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  border: solid 0.1rem #141718;
+  flex-shrink: 0;
+}
+.halaman-kelola-buku-daftar-buku-AxV .content-1Lq .content-vTo .menu-stq .frame-742-Mb3 .auto-group-uxf3-FZw {
+  box-sizing: border-box;
+  padding-top: 3.2rem;
+  width: 100%;
+  row-gap: 5.2rem;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.halaman-kelola-buku-daftar-buku-AxV .content-1Lq .content-vTo .menu-stq .frame-742-Mb3 .auto-group-uxf3-FZw .menu-item-nZs {
+  font-size: 1.6rem;
+  font-weight: 600;
+  line-height: 1.625;
+  color: #6c7274;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.halaman-kelola-buku-daftar-buku-AxV .content-1Lq .content-vTo .menu-stq .frame-742-Mb3 .auto-group-uxf3-FZw .menu-item-X1f {
+  font-size: 1.6rem;
+  font-weight: 600;
+  line-height: 1.625;
+  color: #6c7274;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.halaman-kelola-buku-daftar-buku-AxV .content-1Lq .content-vTo .menu-stq .frame-742-Mb3 .auto-group-uxf3-FZw .menu-item-fdf {
+  font-size: 1.6rem;
+  font-weight: 600;
+  line-height: 1.625;
+  color: #6c7274;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.halaman-kelola-buku-daftar-buku-AxV .content-1Lq .content-vTo .menu-stq .frame-742-Mb3 .auto-group-uxf3-FZw .menu-item-R73 {
+  font-size: 1.6rem;
+  font-weight: 600;
+  line-height: 1.625;
+  color: #6c7274;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.halaman-kelola-buku-daftar-buku-AxV .content-1Lq .content-vTo .auto-group-hp3f-933 {
+  width: 104.3rem;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.halaman-kelola-buku-daftar-buku-AxV .content-1Lq .content-vTo .auto-group-hp3f-933 .navigation-bar-gof {
+  margin-bottom: 0.9rem;
+  box-sizing: border-box;
+  padding: 1.6rem 2.2rem;
+  width: 100%;
+  height: 5.6rem;
+  background-color: #ffffff;
+  flex-shrink: 0;
+}
+.halaman-kelola-buku-daftar-buku-AxV .content-1Lq .content-vTo .auto-group-hp3f-933 .navigation-bar-gof .elements-navigation-link-group--RFT {
+  width: 21.1rem;
+  height: 100%;
+  display: flex;
+  align-items: center;
+}
+.halaman-kelola-buku-daftar-buku-AxV .content-1Lq .content-vTo .auto-group-hp3f-933 .navigation-bar-gof .elements-navigation-link-group--RFT .button-NAh {
+  margin-right: 4rem;
+  width: 8rem;
+  height: 100%;
+  border: solid 0 #141718;
+  box-sizing: border-box;
+  flex-shrink: 0;
+}
+.halaman-kelola-buku-daftar-buku-AxV .content-1Lq .content-vTo .auto-group-hp3f-933 .navigation-bar-gof .elements-navigation-link-group--RFT .button-NAh .content-89s {
+  width: 100%;
+  height: 100%;
+  font-size: 1.4rem;
+  font-weight: 500;
+  line-height: 1.7142857143;
+  color: #141718;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.halaman-kelola-buku-daftar-buku-AxV .content-1Lq .content-vTo .auto-group-hp3f-933 .navigation-bar-gof .elements-navigation-link-group--RFT .button-d6d {
+  width: 9.1rem;
+  height: 100%;
+  border: solid 0 #141718;
+  box-sizing: border-box;
+  flex-shrink: 0;
+}
+.halaman-kelola-buku-daftar-buku-AxV .content-1Lq .content-vTo .auto-group-hp3f-933 .navigation-bar-gof .elements-navigation-link-group--RFT .button-d6d .content-a1s {
+  width: 100%;
+  height: 100%;
+  font-size: 1.4rem;
+  font-weight: 500;
+  line-height: 1.7142857143;
+  color: #6c7274;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+/* Style for the table container */
+.halaman-kelola-buku-daftar-buku-AxV .content-1Lq .content-vTo .auto-group-hp3f-933 .table-smf {
+  margin: 1rem 3.8rem; /* Adjust the margin as needed */
+  width: calc(100% - 7.6rem);
+  height: 100%; /* Let the height adjust based on content */
+  position: relative;
+  flex-shrink: 0;
+}
+
+/* Style for the table header */
+.halaman-kelola-buku-daftar-buku-AxV .content-1Lq .content-vTo .auto-group-hp3f-933 .table-smf thead {
+  background-color: #f2f2f2; /* Light gray background for the header */
+}
+
+/* Style for the table header cells */
+.halaman-kelola-buku-daftar-buku-AxV .content-1Lq .content-vTo .auto-group-hp3f-933 .table-smf th {
+  padding: 1rem; /* Adjust padding as needed */
+}
+
+/* Style for the table body cells */
+.halaman-kelola-buku-daftar-buku-AxV .content-1Lq .content-vTo .auto-group-hp3f-933 .table-smf td {
+  padding: 1rem; /* Adjust padding as needed */
+  border-bottom: 1px solid #141718; /* Add a bottom border for each row */
+}
+
+/* Style for the "Edit" button */
+.halaman-kelola-buku-daftar-buku-AxV .content-1Lq .content-vTo .auto-group-hp3f-933 .table-smf .butoon-RBT {
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+}
+
+/* Style for the "Edit" button icon */
+.halaman-kelola-buku-daftar-buku-AxV .content-1Lq .content-vTo .auto-group-hp3f-933 .table-smf .outline-edit-9NM {
+  margin-right: 0.5rem; /* Adjust margin as needed */
+}
+
+/* Style for the "Edit" button text */
+.halaman-kelola-buku-daftar-buku-AxV .content-1Lq .content-vTo .auto-group-hp3f-933 .table-smf .edit-5mo {
+  font-size: 1rem; /* Adjust font size as needed */
+}
+
+.halaman-kelola-buku-daftar-buku-AxV .footer-zr9 {
+  margin: 0 0.1rem;
+  box-sizing: border-box;
+  padding: 8rem 14.1rem 3.2rem 16rem;
+  width: calc(100% - 0.2rem);
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  background-color: #141718;
+  flex-shrink: 0;
+}
+.halaman-kelola-buku-daftar-buku-AxV .footer-zr9 .logo-and-links-7vm {
+  margin: 0rem 0rem 4.9rem 0.15rem;
+  width: 113.55rem;
+  height: 2.4rem;
+  flex-shrink: 0;
+}
+.halaman-kelola-buku-daftar-buku-AxV .footer-zr9 .logo-and-links-7vm .logo-and-slogan-Sy3 {
+  width: 41.15rem;
+  height: 100%;
+  display: flex;
+  align-items: center;
+}
+.halaman-kelola-buku-daftar-buku-AxV .footer-zr9 .logo-and-links-7vm .logo-and-slogan-Sy3 .perpusapp-b5F {
+  margin-right: 1.85rem;
+  text-align: center;
+  font-size: 2.4rem;
+  font-weight: 500;
+  line-height: 1;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: baseline;
+  flex-shrink: 0;
+}
+.halaman-kelola-buku-daftar-buku-AxV .footer-zr9 .logo-and-links-7vm .logo-and-slogan-Sy3 .perpusapp-b5F .perpusapp-b5F-sub-0 {
+}
+.halaman-kelola-buku-daftar-buku-AxV .footer-zr9 .logo-and-links-7vm .logo-and-slogan-Sy3 .perpusapp-b5F .perpusapp-b5F-sub-1 {
+  font-size: 2.4rem;
+  font-weight: 500;
+  line-height: 1;
+  color: #38cb89;
+  font-family: Poppins, 'Source Sans Pro';
+}
+.halaman-kelola-buku-daftar-buku-AxV .footer-zr9 .logo-and-links-7vm .logo-and-slogan-Sy3 .perpusapp-b5F .perpusapp-b5F-sub-2 {
+}
+.halaman-kelola-buku-daftar-buku-AxV .footer-zr9 .logo-and-links-7vm .logo-and-slogan-Sy3 .perpusapp-b5F .perpusapp-b5F-sub-3 {
+  font-size: 2.4rem;
+  font-weight: 500;
+  line-height: 1;
+  color: #6c7274;
+  font-family: Poppins, 'Source Sans Pro';
+}
+.halaman-kelola-buku-daftar-buku-AxV .footer-zr9 .logo-and-links-7vm .logo-and-slogan-Sy3 .rectangle-319-eBw {
+  margin-right: 3.2rem;
+  width: 0.1rem;
+  height: 2.4rem;
+  background-color: #6c7274;
+  flex-shrink: 0;
+}
+.halaman-kelola-buku-daftar-buku-AxV .footer-zr9 .logo-and-links-7vm .logo-and-slogan-Sy3 .gift-decoration-store-kkm {
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.5714285714;
+  color: #e8ecef;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.halaman-kelola-buku-daftar-buku-AxV .footer-zr9 .bottom-bar-t6H {
+  margin-right: 1.9rem;
+  box-sizing: border-box;
+  padding: 1.6rem 0;
+  width: calc(100% - 1.9rem);
+  height: 5.6rem;
+  display: flex;
+  align-items: center;
+  border: solid 0.1rem #6c7274;
+  flex-shrink: 0;
+}
+.halaman-kelola-buku-daftar-buku-AxV .footer-zr9 .bottom-bar-t6H .copyright-QaR {
+  margin: 0rem 49.5rem 0.4rem 0rem;
+  display: flex;
+  column-gap: 2.8rem;
+  align-items: center;
+  flex-shrink: 0;
+}
+.halaman-kelola-buku-daftar-buku-AxV .footer-zr9 .bottom-bar-t6H .copyright-QaR .copyright-2023-3legant-all-rights-reserved-Xuw {
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.6666666667;
+  color: #e8ecef;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.halaman-kelola-buku-daftar-buku-AxV .footer-zr9 .bottom-bar-t6H .copyright-QaR .privacy-policy-qfj {
+  font-size: 1.2rem;
+  font-weight: 600;
+  line-height: 1.6666666667;
+  color: #fdfdfd;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.halaman-kelola-buku-daftar-buku-AxV .footer-zr9 .bottom-bar-t6H .copyright-QaR .terms-of-use-mpH {
+  font-size: 1.2rem;
+  font-weight: 600;
+  line-height: 1.6666666667;
+  color: #fdfdfd;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.halaman-kelola-buku-daftar-buku-AxV .footer-zr9 .bottom-bar-t6H .social-icon-iDj {
+  box-sizing: border-box;
+  padding: 0.2rem 0.2rem 0.2rem 0rem;
+  height: 100%;
+  display: flex;
+  column-gap: 3.2rem;
+  align-items: center;
+  flex-shrink: 0;
+}
+.halaman-kelola-buku-daftar-buku-AxV .footer-zr9 .bottom-bar-t6H .social-icon-iDj .social-outline-instagram-3G1 {
+  width: 2rem;
+  height: 2rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.halaman-kelola-buku-daftar-buku-AxV .footer-zr9 .bottom-bar-t6H .social-icon-iDj .social-outline-facebook-zBF {
+  width: 1.2rem;
+  height: 1.8rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.halaman-kelola-buku-daftar-buku-AxV .footer-zr9 .bottom-bar-t6H .social-icon-iDj .social-outline-youtube-8HT {
+  width: 2rem;
+  height: 1.8rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}

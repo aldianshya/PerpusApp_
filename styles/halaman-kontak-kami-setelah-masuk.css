@@ -1,0 +1,926 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 144rem;
+}.halaman-kontak-kami-setelah-masuk-yso {
+  box-sizing: border-box;
+  padding-top: 1.6rem;
+  width: 100%;
+  overflow: hidden;
+  position: relative;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  background-color: #ffffff;
+}
+.halaman-kontak-kami-setelah-masuk-yso .navigation-bar-siH {
+  margin: 0rem 16rem 1.6rem 14.65rem;
+  width: calc(100% - 30.65rem);
+  height: 2.8rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.halaman-kontak-kami-setelah-masuk-yso .navigation-bar-siH .auto-group-adph-nKT {
+  box-sizing: border-box;
+  padding: 0.2rem 21.8rem 0.2rem 0rem;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.halaman-kontak-kami-setelah-masuk-yso .navigation-bar-siH .auto-group-adph-nKT .legant-WmF {
+  margin-right: 20.45rem;
+  cursor: pointer;
+  text-align: center;
+  font-size: 2.4rem;
+  font-weight: 500;
+  line-height: 1;
+  color: #000000;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: baseline;
+  flex-shrink: 0;
+}
+.halaman-kontak-kami-setelah-masuk-yso .navigation-bar-siH .auto-group-adph-nKT .legant-WmF .legant-WmF-sub-0 {
+}
+.halaman-kontak-kami-setelah-masuk-yso .navigation-bar-siH .auto-group-adph-nKT .legant-WmF .legant-WmF-sub-1 {
+  font-size: 2.4rem;
+  font-weight: 500;
+  line-height: 1;
+  color: #38cb89;
+  font-family: Poppins, 'Source Sans Pro';
+}
+.halaman-kontak-kami-setelah-masuk-yso .navigation-bar-siH .auto-group-adph-nKT .legant-WmF .legant-WmF-sub-2 {
+}
+.halaman-kontak-kami-setelah-masuk-yso .navigation-bar-siH .auto-group-adph-nKT .elements-navigation-link-group--ods {
+  height: 100%;
+  display: flex;
+  column-gap: 4rem;
+  align-items: center;
+  flex-shrink: 0;
+}
+.halaman-kontak-kami-setelah-masuk-yso .navigation-bar-siH .auto-group-adph-nKT .elements-navigation-link-group--ods .elements-navigation-link--9Bw {
+  width: 5.6rem;
+  height: 100%;
+  cursor: pointer;
+  flex-shrink: 0;
+}
+.halaman-kontak-kami-setelah-masuk-yso .navigation-bar-siH .auto-group-adph-nKT .elements-navigation-link-group--ods .elements-navigation-link--9Bw .button-hDT {
+  width: 100%;
+  height: 100%;
+  border: solid 0 #141718;
+  box-sizing: border-box;
+}
+.halaman-kontak-kami-setelah-masuk-yso .navigation-bar-siH .auto-group-adph-nKT .elements-navigation-link-group--ods .elements-navigation-link--9Bw .button-hDT .content-4Zo {
+  width: 100%;
+  height: 100%;
+  font-size: 1.4rem;
+  font-weight: 500;
+  line-height: 1.7142857143;
+  color: #6c7274;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.halaman-kontak-kami-setelah-masuk-yso .navigation-bar-siH .auto-group-adph-nKT .elements-navigation-link-group--ods .elements-navigation-link--wdb {
+  width: 13.1rem;
+  height: 100%;
+  cursor: pointer;
+  background-color: #ffffff;
+  flex-shrink: 0;
+}
+.halaman-kontak-kami-setelah-masuk-yso .navigation-bar-siH .auto-group-adph-nKT .elements-navigation-link-group--ods .elements-navigation-link--wdb .button-6WV {
+  width: 100%;
+  height: 100%;
+  border: solid 0 #6c7274;
+  box-sizing: border-box;
+}
+.halaman-kontak-kami-setelah-masuk-yso .navigation-bar-siH .auto-group-adph-nKT .elements-navigation-link-group--ods .elements-navigation-link--wdb .button-6WV .content-s1T {
+  width: 100%;
+  height: 100%;
+  font-size: 1.4rem;
+  font-weight: 500;
+  line-height: 1.7142857143;
+  color: #6c7274;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.halaman-kontak-kami-setelah-masuk-yso .navigation-bar-siH .auto-group-adph-nKT .elements-navigation-link-group--ods .auto-group-e8wf-Zey {
+  width: 18.2rem;
+  height: 100%;
+  position: relative;
+  flex-shrink: 0;
+}
+.halaman-kontak-kami-setelah-masuk-yso .navigation-bar-siH .auto-group-adph-nKT .elements-navigation-link-group--ods .auto-group-e8wf-Zey .elements-navigation-link--7gV {
+  width: 11.5704rem;
+  height: 2.4rem;
+  cursor: pointer;
+  position: absolute;
+  left: 0;
+  top: 0;
+}
+.halaman-kontak-kami-setelah-masuk-yso .navigation-bar-siH .auto-group-adph-nKT .elements-navigation-link-group--ods .auto-group-e8wf-Zey .elements-navigation-link--7gV .button-rPB {
+  width: 100%;
+  height: 100%;
+  border: solid 0 #141718;
+  box-sizing: border-box;
+}
+.halaman-kontak-kami-setelah-masuk-yso .navigation-bar-siH .auto-group-adph-nKT .elements-navigation-link-group--ods .auto-group-e8wf-Zey .elements-navigation-link--7gV .button-rPB .content-p57 {
+  margin-right: 6.7704rem;
+  width: 4.8rem;
+  height: 100%;
+  font-size: 1.4rem;
+  font-weight: 500;
+  line-height: 1.7142857143;
+  color: #6c7274;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.halaman-kontak-kami-setelah-masuk-yso .navigation-bar-siH .auto-group-adph-nKT .elements-navigation-link-group--ods .auto-group-e8wf-Zey .button-Vww {
+  width: 9.4rem;
+  height: 2.4rem;
+  position: absolute;
+  left: 8.8rem;
+  top: 0;
+  font-size: 1.4rem;
+  font-weight: 500;
+  line-height: 1.7142857143;
+  color: #141718;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border: solid 0 #141718;
+  box-sizing: border-box;
+}
+.halaman-kontak-kami-setelah-masuk-yso .navigation-bar-siH .icons-Nkq {
+  height: 100%;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.halaman-kontak-kami-setelah-masuk-yso .navigation-bar-siH .icons-Nkq .auto-group-7fnk-vnM {
+  box-sizing: border-box;
+  padding: 0.2rem 1.6rem 0.2rem 0.2rem;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.halaman-kontak-kami-setelah-masuk-yso .navigation-bar-siH .icons-Nkq .auto-group-7fnk-vnM .interface-outline-search-02-TnH {
+  margin-right: 1.8rem;
+  width: 2rem;
+  height: 2rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.halaman-kontak-kami-setelah-masuk-yso .navigation-bar-siH .icons-Nkq .auto-group-7fnk-vnM .interface-outline-user-circle-BTP {
+  width: 2.4rem;
+  height: 2.4rem;
+  cursor: pointer;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.halaman-kontak-kami-setelah-masuk-yso .navigation-bar-siH .icons-Nkq .elements-navigation-cart-button-iCR {
+  box-sizing: border-box;
+  padding: 0.4rem 0rem 0.4rem 0.372rem;
+  height: 100%;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.halaman-kontak-kami-setelah-masuk-yso .navigation-bar-siH .icons-Nkq .elements-navigation-cart-button-iCR .outline-shopping-bag-2iu {
+  margin-right: 0.7721rem;
+  width: 1.8559rem;
+  height: 1.8rem;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.halaman-kontak-kami-setelah-masuk-yso .navigation-bar-siH .icons-Nkq .elements-navigation-cart-button-iCR .frame-3-AaD {
+  width: 2rem;
+  height: 100%;
+  overflow: hidden;
+  position: relative;
+  text-align: center;
+  font-size: 1.2rem;
+  font-weight: 700;
+  line-height: 0.8333333333;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #141718;
+  border-radius: 1rem;
+  flex-shrink: 0;
+}
+.halaman-kontak-kami-setelah-masuk-yso .content-SXj {
+  box-sizing: border-box;
+  padding: 1.6rem 15.9rem 8rem 15.95rem;
+  width: 100%;
+  row-gap: 4.8rem;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  background-color: #ffffff;
+  flex-shrink: 0;
+}
+.halaman-kontak-kami-setelah-masuk-yso .content-SXj .header-ZcM {
+  margin-right: 28.65rem;
+  width: 83.5rem;
+  flex-shrink: 0;
+}
+.halaman-kontak-kami-setelah-masuk-yso .content-SXj .header-ZcM .breadcrumbs-link-group-vC1 {
+  margin: 0rem 65.3rem 4rem 0rem;
+  width: calc(100% - 65.3rem);
+  height: 2.4rem;
+  display: flex;
+  align-items: center;
+}
+.halaman-kontak-kami-setelah-masuk-yso .content-SXj .header-ZcM .breadcrumbs-link-group-vC1 .breadcrumbs-button-Dwo {
+  margin-right: 0.4416rem;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.halaman-kontak-kami-setelah-masuk-yso .content-SXj .header-ZcM .breadcrumbs-link-group-vC1 .breadcrumbs-button-Dwo .link-xuP {
+  margin-right: 0.8584rem;
+  font-size: 1.4rem;
+  font-weight: 500;
+  line-height: 1.7142857143;
+  color: #5f5f5f;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.halaman-kontak-kami-setelah-masuk-yso .content-SXj .header-ZcM .breadcrumbs-link-group-vC1 .breadcrumbs-button-Dwo .icon-chevron-right-6Eu {
+  width: 0.3rem;
+  height: 0.6rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.halaman-kontak-kami-setelah-masuk-yso .content-SXj .header-ZcM .breadcrumbs-link-group-vC1 .auto-group-p3jb-S3s {
+  box-sizing: border-box;
+  padding-left: 1.6rem;
+  height: 100%;
+  font-size: 1.4rem;
+  font-weight: 500;
+  line-height: 1.7142857143;
+  color: #111111;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.halaman-kontak-kami-setelah-masuk-yso .content-SXj .header-ZcM .header-k4Z {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+}
+.halaman-kontak-kami-setelah-masuk-yso .content-SXj .header-ZcM .header-k4Z .kami-percaya-terdapat-banyak-kekurangan-pada-website-inihubungi-kami-uCM {
+  margin-bottom: 2.3rem;
+  max-width: 83rem;
+  font-size: 5.4rem;
+  font-weight: 500;
+  line-height: 1.0740740741;
+  letter-spacing: -0.1rem;
+  color: #141718;
+  font-family: Poppins, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.halaman-kontak-kami-setelah-masuk-yso .content-SXj .header-ZcM .header-k4Z .lorem-ipsum-dolor-sit-amet-consectetur-adipiscing-elit-integer-nec-odio-praesent-libero-sed-cursus-ante-dapibus-diam-sed-nisi-nulla-quis-sem-at-nibh-elementum-imperdiet-duis-sagittis-ipsum-praesent-mauris-fusce-nec-tellus-sed-augue-semper-porta-mauris-massa-vestibulum-lacinia-arcu-eget-nulla-class-aptent-taciti-sociosqu-ad-litora-torquent-per-conubia-nostra-per-inceptos-himenaeos-curabitur-sodales-ligula-in-libero-sed-dignissim-lacinia-nunc-n1F {
+  max-width: 83.5rem;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.625;
+  color: #141718;
+  font-family: Inter, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.halaman-kontak-kami-setelah-masuk-yso .content-SXj .feature-section-uzy {
+  margin: 0rem 0.15rem 0rem 0.1rem;
+  width: calc(100% - 0.25rem);
+  height: 41.3rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.halaman-kontak-kami-setelah-masuk-yso .content-SXj .feature-section-uzy .image-placeholder-SV7 {
+  height: 100%;
+  overflow: hidden;
+  position: relative;
+  flex-shrink: 0;
+}
+.halaman-kontak-kami-setelah-masuk-yso .content-SXj .feature-section-uzy .image-placeholder-SV7 .paste-image-QB3 {
+  width: 56rem;
+  height: 41.3rem;
+  position: relative;
+  background-size: 100% 135.338%;
+  background-position: 0 -11.3391rem;
+  background-image: url('../assets/paste-image-MZK.png');
+}
+.halaman-kontak-kami-setelah-masuk-yso .content-SXj .feature-section-uzy .content-udb {
+  box-sizing: border-box;
+  padding: 7.25rem 3.4rem 7.25rem 7.2rem;
+  width: 55.9rem;
+  height: 100%;
+  background-color: #f3f5f6;
+  flex-shrink: 0;
+}
+.halaman-kontak-kami-setelah-masuk-yso .content-SXj .feature-section-uzy .content-udb .title-FBf {
+  width: 100%;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+}
+.halaman-kontak-kami-setelah-masuk-yso .content-SXj .feature-section-uzy .content-udb .title-FBf .title-oU5 {
+  margin-bottom: 1.6rem;
+  font-size: 4rem;
+  font-weight: 500;
+  line-height: 1.1;
+  letter-spacing: -0.04rem;
+  color: #111111;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.halaman-kontak-kami-setelah-masuk-yso .content-SXj .feature-section-uzy .content-udb .title-FBf .phosfluorescently-en-j6q {
+  max-width: 45.3rem;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.625;
+  color: #343839;
+  font-family: Inter, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.halaman-kontak-kami-setelah-masuk-yso .content-SXj .contact-section-SG9 {
+  margin-left: 0.05rem;
+  width: calc(100% - 0.05rem);
+  row-gap: 4rem;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.halaman-kontak-kami-setelah-masuk-yso .content-SXj .contact-section-SG9 .title-NQh {
+  margin-right: 0.1rem;
+  text-align: center;
+  font-size: 4rem;
+  font-weight: 500;
+  line-height: 1.1;
+  letter-spacing: -0.04rem;
+  color: #111111;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.halaman-kontak-kami-setelah-masuk-yso .content-SXj .contact-section-SG9 .info-tP3 {
+  width: 100%;
+  height: 15.6rem;
+  display: flex;
+  align-items: center;
+  background-color: #ffffff;
+  flex-shrink: 0;
+}
+.halaman-kontak-kami-setelah-masuk-yso .content-SXj .contact-section-SG9 .info-tP3 .card-01-SfT {
+  margin-right: 2.4rem;
+  box-sizing: border-box;
+  padding: 1.867rem 4.883rem 1.6rem 4.883rem;
+  width: 35.7667rem;
+  height: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  background-color: #f3f5f6;
+  flex-shrink: 0;
+}
+.halaman-kontak-kami-setelah-masuk-yso .content-SXj .contact-section-SG9 .info-tP3 .card-01-SfT .outline-store-01-N3K {
+  margin: 0rem 0rem 1.867rem 0rem;
+  width: 2.6517rem;
+  height: 2.6667rem;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.halaman-kontak-kami-setelah-masuk-yso .content-SXj .contact-section-SG9 .info-tP3 .card-01-SfT .text-gJu {
+  width: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.halaman-kontak-kami-setelah-masuk-yso .content-SXj .contact-section-SG9 .info-tP3 .card-01-SfT .text-gJu .alamat-eFj {
+  margin-bottom: 0.8rem;
+  font-size: 1.6rem;
+  font-weight: 700;
+  line-height: 1;
+  text-transform: uppercase;
+  color: #6c7274;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.halaman-kontak-kami-setelah-masuk-yso .content-SXj .contact-section-SG9 .info-tP3 .card-01-SfT .text-gJu .mendalo-darat-kabupaten-muaro-jambi-provinsi-jambi-a9P {
+  max-width: 26rem;
+  text-align: center;
+  font-size: 1.6rem;
+  font-weight: 600;
+  line-height: 1.625;
+  color: #141718;
+  font-family: Inter, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.halaman-kontak-kami-setelah-masuk-yso .content-SXj .contact-section-SG9 .info-tP3 .card-2-gCR {
+  margin-right: 2.3999rem;
+  box-sizing: border-box;
+  padding: 2rem 10.183rem 4.2rem 10.183rem;
+  width: 35.7667rem;
+  height: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  background-color: #f3f5f6;
+  flex-shrink: 0;
+}
+.halaman-kontak-kami-setelah-masuk-yso .content-SXj .contact-section-SG9 .info-tP3 .card-2-gCR .outline-call-CRf {
+  margin-bottom: 2rem;
+  width: 2.4rem;
+  height: 2.4rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.halaman-kontak-kami-setelah-masuk-yso .content-SXj .contact-section-SG9 .info-tP3 .card-2-gCR .text-LXs {
+  width: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.halaman-kontak-kami-setelah-masuk-yso .content-SXj .contact-section-SG9 .info-tP3 .card-2-gCR .text-LXs .kontak-kami-WBT {
+  margin-bottom: 0.8rem;
+  text-align: center;
+  font-size: 1.6rem;
+  font-weight: 700;
+  line-height: 1;
+  text-transform: uppercase;
+  color: #6c7274;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.halaman-kontak-kami-setelah-masuk-yso .content-SXj .contact-section-SG9 .info-tP3 .card-2-gCR .text-LXs .item-628-2275-888-223-Ca5 {
+  text-align: center;
+  font-size: 1.6rem;
+  font-weight: 600;
+  line-height: 1.625;
+  color: #141718;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.halaman-kontak-kami-setelah-masuk-yso .content-SXj .contact-section-SG9 .info-tP3 .card-3-hmj {
+  box-sizing: border-box;
+  padding: 2rem 9.233rem 4.2rem 9.233rem;
+  width: 35.7667rem;
+  height: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  background-color: #f3f5f6;
+  flex-shrink: 0;
+}
+.halaman-kontak-kami-setelah-masuk-yso .content-SXj .contact-section-SG9 .info-tP3 .card-3-hmj .communication-outline-mail-RBw {
+  margin: 0rem 0rem 2rem 0rem;
+  width: 2.6667rem;
+  height: 2.4rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.halaman-kontak-kami-setelah-masuk-yso .content-SXj .contact-section-SG9 .info-tP3 .card-3-hmj .text-8s3 {
+  width: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.halaman-kontak-kami-setelah-masuk-yso .content-SXj .contact-section-SG9 .info-tP3 .card-3-hmj .text-8s3 .email-6Yy {
+  margin-bottom: 0.8rem;
+  text-align: center;
+  font-size: 1.6rem;
+  font-weight: 700;
+  line-height: 1;
+  text-transform: uppercase;
+  color: #6c7274;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.halaman-kontak-kami-setelah-masuk-yso .content-SXj .contact-section-SG9 .info-tP3 .card-3-hmj .text-8s3 .helloperpusappcom-d37 {
+  text-align: center;
+  font-size: 1.6rem;
+  font-weight: 600;
+  line-height: 1.625;
+  color: #141718;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.halaman-kontak-kami-setelah-masuk-yso .content-SXj .contact-section-SG9 .get-in-touch-8Vf {
+  margin-right: 0.1rem;
+  width: calc(100% - 0.1rem);
+  height: 40.4rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.halaman-kontak-kami-setelah-masuk-yso .content-SXj .contact-section-SG9 .get-in-touch-8Vf .form-UJd {
+  margin-right: 2.8rem;
+  width: 54.4rem;
+  height: 100%;
+  row-gap: 2.4rem;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.halaman-kontak-kami-setelah-masuk-yso .content-SXj .contact-section-SG9 .get-in-touch-8Vf .form-UJd .name-orh {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.halaman-kontak-kami-setelah-masuk-yso .content-SXj .contact-section-SG9 .get-in-touch-8Vf .form-UJd .name-orh .nama-lengkap-yWH {
+  margin-bottom: 1.2rem;
+  font-size: 1.2rem;
+  font-weight: 700;
+  line-height: 1;
+  text-transform: uppercase;
+  color: #6c7274;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.halaman-kontak-kami-setelah-masuk-yso .content-SXj .contact-section-SG9 .get-in-touch-8Vf .form-UJd .name-orh .input-hx5 {
+  box-sizing: border-box;
+  padding: 0.7rem 1.6rem;
+  width: 100%;
+  overflow: hidden;
+  position: relative;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.625;
+  color: #6c7274;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  border: solid 0.1rem #cacaca;
+  background-color: #ffffff;
+  border-radius: 0.6rem;
+  flex-shrink: 0;
+}
+.halaman-kontak-kami-setelah-masuk-yso .content-SXj .contact-section-SG9 .get-in-touch-8Vf .form-UJd .email-nTj {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.halaman-kontak-kami-setelah-masuk-yso .content-SXj .contact-section-SG9 .get-in-touch-8Vf .form-UJd .email-nTj .alamat-email-kQZ {
+  margin-bottom: 1.2rem;
+  font-size: 1.2rem;
+  font-weight: 700;
+  line-height: 1;
+  text-transform: uppercase;
+  color: #6c7274;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.halaman-kontak-kami-setelah-masuk-yso .content-SXj .contact-section-SG9 .get-in-touch-8Vf .form-UJd .email-nTj .input-GNu {
+  box-sizing: border-box;
+  padding: 0.7rem 1.6rem;
+  width: 100%;
+  overflow: hidden;
+  position: relative;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.625;
+  color: #6c7274;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  border: solid 0.1rem #cacaca;
+  background-color: #ffffff;
+  border-radius: 0.6rem;
+  flex-shrink: 0;
+}
+.halaman-kontak-kami-setelah-masuk-yso .content-SXj .contact-section-SG9 .get-in-touch-8Vf .form-UJd .message-YrD {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.halaman-kontak-kami-setelah-masuk-yso .content-SXj .contact-section-SG9 .get-in-touch-8Vf .form-UJd .message-YrD .pesan-uwf {
+  margin-bottom: 1.2rem;
+  font-size: 1.2rem;
+  font-weight: 700;
+  line-height: 1;
+  text-transform: uppercase;
+  color: #6c7274;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.halaman-kontak-kami-setelah-masuk-yso .content-SXj .contact-section-SG9 .get-in-touch-8Vf .form-UJd .message-YrD .input-FEq {
+  box-sizing: border-box;
+  padding: 1.6rem;
+  width: 100%;
+  height: 14rem;
+  overflow: hidden;
+  position: relative;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.625;
+  color: #6c7274;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  border: solid 0.1rem #cacaca;
+  background-color: #ffffff;
+  border-radius: 0.6rem;
+  flex-shrink: 0;
+}
+.halaman-kontak-kami-setelah-masuk-yso .content-SXj .contact-section-SG9 .get-in-touch-8Vf .form-UJd .button-L1P {
+  width: 16.7rem;
+  height: 4rem;
+  text-align: center;
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.75;
+  letter-spacing: -0.04rem;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #141718;
+  border-radius: 0.8rem;
+  flex-shrink: 0;
+}
+.halaman-kontak-kami-setelah-masuk-yso .content-SXj .contact-section-SG9 .get-in-touch-8Vf .image-placeholder-cUh {
+  box-sizing: border-box;
+  padding: 16.033rem 25rem 19.033rem 25rem;
+  width: 54.8rem;
+  height: 100%;
+  overflow: hidden;
+  position: relative;
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/paste-image-bg-ctq.png');
+  flex-shrink: 0;
+}
+.halaman-kontak-kami-setelah-masuk-yso .content-SXj .contact-section-SG9 .get-in-touch-8Vf .image-placeholder-cUh .location-8hw {
+  box-sizing: border-box;
+  padding: 0.4318rem 0.4rem;
+  width: 100%;
+  height: 100%;
+  overflow: hidden;
+  position: relative;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/subtract-nCy.png');
+}
+.halaman-kontak-kami-setelah-masuk-yso .content-SXj .contact-section-SG9 .get-in-touch-8Vf .image-placeholder-cUh .location-8hw .icon-svR {
+  margin-bottom: 0.4698rem;
+  width: 4rem;
+  height: 4rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.halaman-kontak-kami-setelah-masuk-yso .footer-9N9 {
+  box-sizing: border-box;
+  padding: 8rem 16rem 3.2rem 14.65rem;
+  width: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  background-color: #141718;
+  flex-shrink: 0;
+}
+.halaman-kontak-kami-setelah-masuk-yso .footer-9N9 .logo-and-links-5mb {
+  margin-bottom: 5.7rem;
+  width: 100%;
+  height: 2.4rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.halaman-kontak-kami-setelah-masuk-yso .footer-9N9 .logo-and-links-5mb .logo-and-slogan-EY1 {
+  margin-right: 27.8rem;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.halaman-kontak-kami-setelah-masuk-yso .footer-9N9 .logo-and-links-5mb .logo-and-slogan-EY1 .legant-PA1 {
+  margin-right: 1.85rem;
+  text-align: center;
+  font-size: 2.4rem;
+  font-weight: 500;
+  line-height: 1;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: baseline;
+  flex-shrink: 0;
+}
+.halaman-kontak-kami-setelah-masuk-yso .footer-9N9 .logo-and-links-5mb .logo-and-slogan-EY1 .legant-PA1 .legant-PA1-sub-0 {
+}
+.halaman-kontak-kami-setelah-masuk-yso .footer-9N9 .logo-and-links-5mb .logo-and-slogan-EY1 .legant-PA1 .legant-PA1-sub-1 {
+  font-size: 2.4rem;
+  font-weight: 500;
+  line-height: 1;
+  color: #38cb89;
+  font-family: Poppins, 'Source Sans Pro';
+}
+.halaman-kontak-kami-setelah-masuk-yso .footer-9N9 .logo-and-links-5mb .logo-and-slogan-EY1 .legant-PA1 .legant-PA1-sub-2 {
+}
+.halaman-kontak-kami-setelah-masuk-yso .footer-9N9 .logo-and-links-5mb .logo-and-slogan-EY1 .legant-PA1 .legant-PA1-sub-3 {
+  font-size: 2.4rem;
+  font-weight: 500;
+  line-height: 1;
+  color: #6c7274;
+  font-family: Poppins, 'Source Sans Pro';
+}
+.halaman-kontak-kami-setelah-masuk-yso .footer-9N9 .logo-and-links-5mb .logo-and-slogan-EY1 .rectangle-319-SnV {
+  margin-right: 3.2rem;
+  width: 0.1rem;
+  height: 2.4rem;
+  background-color: #6c7274;
+  flex-shrink: 0;
+}
+.halaman-kontak-kami-setelah-masuk-yso .footer-9N9 .logo-and-links-5mb .logo-and-slogan-EY1 .gift-decoration-store-nbT {
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.5714285714;
+  color: #e8ecef;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.halaman-kontak-kami-setelah-masuk-yso .footer-9N9 .logo-and-links-5mb .nav-KbP {
+  margin: 0.1rem 0;
+  height: calc(100% - 0.2rem);
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.halaman-kontak-kami-setelah-masuk-yso .footer-9N9 .logo-and-links-5mb .nav-KbP .home-4os {
+  margin-right: 4rem;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.5714285714;
+  color: #fdfdfd;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.halaman-kontak-kami-setelah-masuk-yso .footer-9N9 .logo-and-links-5mb .nav-KbP .shop-1DK {
+  margin-right: 2.2rem;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.5714285714;
+  color: #fdfdfd;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.halaman-kontak-kami-setelah-masuk-yso .footer-9N9 .logo-and-links-5mb .nav-KbP .auto-group-sbj9-LmP {
+  margin-right: 4rem;
+  box-sizing: border-box;
+  padding-left: 1.8rem;
+  height: 100%;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.5714285714;
+  color: #fdfdfd;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.halaman-kontak-kami-setelah-masuk-yso .footer-9N9 .logo-and-links-5mb .nav-KbP .contact-us-qy3 {
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.5714285714;
+  color: #fdfdfd;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.halaman-kontak-kami-setelah-masuk-yso .footer-9N9 .bottom-bar-mrh {
+  margin: 0rem 0.2rem 0rem 1.35rem;
+  box-sizing: border-box;
+  padding: 1.6rem 0;
+  width: calc(100% - 1.55rem);
+  height: 5.6rem;
+  display: flex;
+  align-items: center;
+  border: solid 0.1rem #6c7274;
+  flex-shrink: 0;
+}
+.halaman-kontak-kami-setelah-masuk-yso .footer-9N9 .bottom-bar-mrh .copyright-68H {
+  margin: 0rem 49.5rem 0.4rem 0rem;
+  display: flex;
+  column-gap: 2.8rem;
+  align-items: center;
+  flex-shrink: 0;
+}
+.halaman-kontak-kami-setelah-masuk-yso .footer-9N9 .bottom-bar-mrh .copyright-68H .copyright-2023-3legant-all-rights-reserved-cMX {
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.6666666667;
+  color: #e8ecef;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.halaman-kontak-kami-setelah-masuk-yso .footer-9N9 .bottom-bar-mrh .copyright-68H .privacy-policy-8Ks {
+  font-size: 1.2rem;
+  font-weight: 600;
+  line-height: 1.6666666667;
+  color: #fdfdfd;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.halaman-kontak-kami-setelah-masuk-yso .footer-9N9 .bottom-bar-mrh .copyright-68H .terms-of-use-4zD {
+  font-size: 1.2rem;
+  font-weight: 600;
+  line-height: 1.6666666667;
+  color: #fdfdfd;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.halaman-kontak-kami-setelah-masuk-yso .footer-9N9 .bottom-bar-mrh .social-icon-bjF {
+  box-sizing: border-box;
+  padding: 0.2rem 0.2rem 0.2rem 0rem;
+  height: 100%;
+  display: flex;
+  column-gap: 3.2rem;
+  align-items: center;
+  flex-shrink: 0;
+}
+.halaman-kontak-kami-setelah-masuk-yso .footer-9N9 .bottom-bar-mrh .social-icon-bjF .social-outline-instagram-Kv9 {
+  width: 2rem;
+  height: 2rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.halaman-kontak-kami-setelah-masuk-yso .footer-9N9 .bottom-bar-mrh .social-icon-bjF .social-outline-facebook-4sj {
+  width: 1.2rem;
+  height: 1.8rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.halaman-kontak-kami-setelah-masuk-yso .footer-9N9 .bottom-bar-mrh .social-icon-bjF .social-outline-youtube-1Y5 {
+  width: 2rem;
+  height: 1.8rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}

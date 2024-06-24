@@ -1,0 +1,2774 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 100%;
+}.halaman-utama-sebelum-masuk-BKP {
+  box-sizing: border-box;
+  padding-top: 1.6rem;
+  width: 100%;
+  overflow: hidden;
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  background-color: #ffffff;
+}
+.halaman-utama-sebelum-masuk-BKP .navigation-bar-59s {
+  margin: 0rem 16rem 1.6rem 14.65rem;
+  width: calc(100% - 30.65rem);
+  height: 4rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.halaman-utama-sebelum-masuk-BKP .navigation-bar-59s .auto-group-pa43-wrH {
+  box-sizing: border-box;
+  padding: 0.5rem 2.672rem 0.7rem 0rem;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.halaman-utama-sebelum-masuk-BKP .navigation-bar-59s .auto-group-pa43-wrH .perpusapp-TJq {
+  margin: 0.2rem 23.286rem 0rem 0rem;
+  text-align: center;
+  font-size: 2.4rem;
+  font-weight: 500;
+  line-height: 1;
+  color: #000000;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: baseline;
+  flex-shrink: 0;
+}
+.halaman-utama-sebelum-masuk-BKP .navigation-bar-59s .auto-group-pa43-wrH .perpusapp-TJq .perpusapp-TJq-sub-0 {
+}
+.halaman-utama-sebelum-masuk-BKP .navigation-bar-59s .auto-group-pa43-wrH .perpusapp-TJq .perpusapp-TJq-sub-1 {
+  font-size: 2.4rem;
+  font-weight: 500;
+  line-height: 1;
+  color: #38cb89;
+  font-family: Poppins, 'Source Sans Pro';
+}
+.halaman-utama-sebelum-masuk-BKP .navigation-bar-59s .auto-group-pa43-wrH .perpusapp-TJq .perpusapp-TJq-sub-2 {
+}
+.halaman-utama-sebelum-masuk-BKP .navigation-bar-59s .auto-group-pa43-wrH .elements-navigation-link-group--Xi1 {
+  margin: 0.3rem 16.964rem 0.1rem 0rem;
+  height: calc(100% - 0.4rem);
+  display: flex;
+  column-gap: 4rem;
+  align-items: center;
+  flex-shrink: 0;
+}
+.halaman-utama-sebelum-masuk-BKP .navigation-bar-59s .auto-group-pa43-wrH .elements-navigation-link-group--Xi1 .button-qTo {
+  width: 5.6rem;
+  height: 100%;
+  border: solid 0 #141718;
+  box-sizing: border-box;
+  flex-shrink: 0;
+}
+.halaman-utama-sebelum-masuk-BKP .navigation-bar-59s .auto-group-pa43-wrH .elements-navigation-link-group--Xi1 .button-qTo .content-o9j {
+  width: 100%;
+  height: 100%;
+  font-size: 1.4rem;
+  font-weight: 500;
+  line-height: 1.7142857143;
+  color: #141718;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.halaman-utama-sebelum-masuk-BKP .navigation-bar-59s .auto-group-pa43-wrH .elements-navigation-link-group--Xi1 .elements-navigation-link--tgy {
+  width: 13.1rem;
+  height: 100%;
+  cursor: pointer;
+  flex-shrink: 0;
+}
+.halaman-utama-sebelum-masuk-BKP .navigation-bar-59s .auto-group-pa43-wrH .elements-navigation-link-group--Xi1 .elements-navigation-link--tgy .button-dPf {
+  width: 100%;
+  height: 100%;
+  border: solid 0 #141718;
+  box-sizing: border-box;
+}
+.halaman-utama-sebelum-masuk-BKP .navigation-bar-59s .auto-group-pa43-wrH .elements-navigation-link-group--Xi1 .elements-navigation-link--tgy .button-dPf .content-zV7 {
+  width: 100%;
+  height: 100%;
+  font-size: 1.4rem;
+  font-weight: 500;
+  line-height: 1.7142857143;
+  color: #6c7274;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.halaman-utama-sebelum-masuk-BKP .navigation-bar-59s .auto-group-pa43-wrH .elements-navigation-link-group--Xi1 .auto-group-wfrb-uMB {
+  width: 18.2rem;
+  height: 100%;
+  position: relative;
+  flex-shrink: 0;
+}
+.halaman-utama-sebelum-masuk-BKP .navigation-bar-59s .auto-group-pa43-wrH .elements-navigation-link-group--Xi1 .auto-group-wfrb-uMB .button-rXK {
+  width: 11.5704rem;
+  height: 2.4rem;
+  cursor: pointer;
+  position: absolute;
+  left: 0;
+  top: 0;
+  border: solid 0 #141718;
+  box-sizing: border-box;
+}
+.halaman-utama-sebelum-masuk-BKP .navigation-bar-59s .auto-group-pa43-wrH .elements-navigation-link-group--Xi1 .auto-group-wfrb-uMB .button-rXK .content-bUu {
+  margin-right: 6.7704rem;
+  width: 4.8rem;
+  height: 100%;
+  font-size: 1.4rem;
+  font-weight: 500;
+  line-height: 1.7142857143;
+  color: #6c7274;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.halaman-utama-sebelum-masuk-BKP .navigation-bar-59s .auto-group-pa43-wrH .elements-navigation-link-group--Xi1 .auto-group-wfrb-uMB .elements-navigation-link--HMj {
+  width: 9.4rem;
+  height: 2.4rem;
+  cursor: pointer;
+  position: absolute;
+  left: 8.8rem;
+  top: 0;
+}
+.halaman-utama-sebelum-masuk-BKP .navigation-bar-59s .auto-group-pa43-wrH .elements-navigation-link-group--Xi1 .auto-group-wfrb-uMB .elements-navigation-link--HMj .button-oL5 {
+  width: 100%;
+  height: 100%;
+  font-size: 1.4rem;
+  font-weight: 500;
+  line-height: 1.7142857143;
+  color: #6c7274;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border: solid 0 #141718;
+  box-sizing: border-box;
+}
+.halaman-utama-sebelum-masuk-BKP .navigation-bar-59s .auto-group-pa43-wrH .masuk-iT3 {
+  cursor: pointer;
+  display: flex;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.75;
+  color: #6e6d7a;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.halaman-utama-sebelum-masuk-BKP .navigation-bar-59s .icons-3kD {
+  width: 7.3281rem;
+  height: 100%;
+  cursor: pointer;
+  flex-shrink: 0;
+}
+.halaman-utama-sebelum-masuk-BKP .navigation-bar-59s .icons-3kD .sign-up-oUV {
+  width: 100%;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 1.4rem;
+  font-weight: 500;
+  line-height: 1.4285714286;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  background-color: #38cb89;
+  border-radius: 0.8rem;
+}
+.halaman-utama-sebelum-masuk-BKP .hero-JRF {
+  box-sizing: border-box;
+  padding: 14.766rem 0rem 7.983rem 37.425rem;
+  width: 100%;
+  overflow: hidden;
+  position: relative;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  background-color: #000000;
+  flex-shrink: 0;
+}
+.halaman-utama-sebelum-masuk-BKP .hero-JRF .auto-group-wjyp-26M {
+  margin: 0rem 37.425rem 0.083rem 0rem;
+  width: 62.3rem;
+  height: 25.1656rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.halaman-utama-sebelum-masuk-BKP .hero-JRF .auto-group-wjyp-26M .inputsearch-wDK {
+  box-sizing: border-box;
+  padding: 2rem 48.8rem 2.1rem 2.5rem;
+  width: 62.3rem;
+  height: 5.8rem;
+  position: absolute;
+  left: 0;
+  top: 19.3656rem;
+  display: flex;
+  align-items: center;
+  background-color: #38cb89;
+  border-radius: 5rem;
+}
+.halaman-utama-sebelum-masuk-BKP .hero-JRF .auto-group-wjyp-26M .inputsearch-wDK .svg-qZb {
+  margin: 0rem 1.541rem 0.138rem 0rem;
+  width: 1.5586rem;
+  height: 1.5623rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.halaman-utama-sebelum-masuk-BKP .hero-JRF .auto-group-wjyp-26M .inputsearch-wDK .cari-buku-N3j {
+  display: flex;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #141718;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.halaman-utama-sebelum-masuk-BKP .hero-JRF .auto-group-wjyp-26M .main-cta-gKK {
+  width: 59.7rem;
+  height: 19.4rem;
+  position: absolute;
+  left: 1.3092rem;
+  top: 0;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+}
+.halaman-utama-sebelum-masuk-BKP .hero-JRF .auto-group-wjyp-26M .main-cta-gKK .perpustakaan-untuk-semua-28H {
+  margin-bottom: 3rem;
+  max-width: 34rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 3.2rem;
+  font-weight: 700;
+  line-height: 1.25;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.halaman-utama-sebelum-masuk-BKP .hero-JRF .auto-group-wjyp-26M .main-cta-gKK .sumber-pengetahuan-terlengkap-anda-dan-temui-dunia-baru-dengan-koleksi-besar-kami-tersedia-buku-buku-terbaik-dari-berbagai-genre-siap-untuk-dibaca-kapan-saja-selamat-datang-di-perpustakaan-digital-impian-jHb {
+  max-width: 59.7rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.75;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.halaman-utama-sebelum-masuk-BKP .hero-JRF .arrow-1-kiV {
+  margin: 0rem 0rem 3.797rem 106.575rem;
+  width: 70.2002rem;
+  height: 0.7854rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.halaman-utama-sebelum-masuk-BKP .hero-pc1 .trending-searches-39K {
+  width: 100%;
+  height: 3rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.halaman-utama-sebelum-masuk-BKP .hero-pc1 .trending-searches-39K .trending-searches-NSV {
+  margin: 0.2rem 0.455rem 0rem 0rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.3333333333;
+  color: #38cb89;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.halaman-utama-sebelum-masuk-BKP .hero-pc1 .trending-searches-39K .search-term-UVX {
+  margin-right: 0.7953rem;
+  width: 11.7906rem;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.4285714286;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  border: solid 0.1rem #38cb89;
+  box-sizing: border-box;
+  border-radius: 5rem;
+  flex-shrink: 0;
+}
+.halaman-utama-sebelum-masuk-BKP .hero-pc1 .trending-searches-39K .search-term-9Lm {
+  margin-right: 0.9453rem;
+  width: 5.0156rem;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.4285714286;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  border: solid 0.1rem #38cb89;
+  box-sizing: border-box;
+  border-radius: 5rem;
+  flex-shrink: 0;
+}
+.halaman-utama-sebelum-masuk-BKP .hero-pc1 .trending-searches-39K .search-term-Ed7 {
+  margin-right: 0.6953rem;
+  width: 6.2531rem;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.4285714286;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  border: solid 0.1rem #38cb89;
+  box-sizing: border-box;
+  border-radius: 5rem;
+  flex-shrink: 0;
+}
+.halaman-utama-sebelum-masuk-BKP .hero-pc1 .trending-searches-39K .search-term-7wo {
+  margin-right: 0.6453rem;
+  width: 11.4016rem;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.4285714286;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  border: solid 0.1rem #38cb89;
+  box-sizing: border-box;
+  border-radius: 5rem;
+  flex-shrink: 0;
+}
+.halaman-utama-sebelum-masuk-BKP .hero-pc1 .trending-searches-39K .search-term-11b {
+  margin-right: 0.6953rem;
+  width: 9.1797rem;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.4285714286;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  border: solid 0.1rem #38cb89;
+  box-sizing: border-box;
+  border-radius: 5rem;
+  flex-shrink: 0;
+}
+.halaman-utama-sebelum-masuk-BKP .hero-pc1 .trending-searches-39K .search-term-VSZ {
+  width: 10.5766rem;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.4285714286;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  border: solid 0.1rem #38cb89;
+  box-sizing: border-box;
+  border-radius: 5rem;
+  flex-shrink: 0;
+}
+.halaman-utama-sebelum-masuk-BKP .product-carousel-kZP {
+  box-sizing: border-box;
+  padding: 4.8rem 0rem 4.8rem 16rem;
+  width: 323rem;
+  background-color: #ffffff;
+  flex-shrink: 0;
+}
+.halaman-utama-sebelum-masuk-BKP .product-carousel-kZP .title-fgM {
+  margin: 0rem 190.2rem 4.8rem 0rem;
+  width: calc(100% - 190.2rem);
+  height: 4.4rem;
+  display: flex;
+  align-items: center;
+}
+.halaman-utama-sebelum-masuk-BKP .product-carousel-kZP .title-fgM .rekomendasi-CAV {
+  margin-right: 78.4rem;
+  font-size: 4rem;
+  font-weight: 500;
+  line-height: 1.1;
+  letter-spacing: -0.04rem;
+  color: #000000;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.halaman-utama-sebelum-masuk-BKP .product-carousel-kZP .title-fgM .navigation-dots-uqb {
+  margin: 1.4rem 0;
+  box-sizing: border-box;
+  padding-right: 4.8rem;
+  height: calc(100% - 2.8rem);
+  display: flex;
+  column-gap: 0.8rem;
+  align-items: center;
+  flex-shrink: 0;
+}
+.halaman-utama-sebelum-masuk-BKP .product-carousel-kZP .title-fgM .navigation-dots-uqb .elements-EN5 {
+  width: 1.6rem;
+  height: 1.6rem;
+  object-fit: contain;
+  vertical-align: top;
+  border-radius: 10rem;
+  flex-shrink: 0;
+}
+.halaman-utama-sebelum-masuk-BKP .product-carousel-kZP .title-fgM .navigation-dots-uqb .elements-MxV {
+  width: 1.6rem;
+  height: 1.6rem;
+  object-fit: contain;
+  vertical-align: top;
+  border-radius: 10rem;
+  flex-shrink: 0;
+}
+.halaman-utama-sebelum-masuk-BKP .product-carousel-kZP .title-fgM .navigation-dots-uqb .elements-hmT {
+  width: 1.6rem;
+  height: 1.6rem;
+  object-fit: contain;
+  vertical-align: top;
+  border-radius: 10rem;
+  flex-shrink: 0;
+}
+.halaman-utama-sebelum-masuk-BKP .product-carousel-kZP .product-card-SU9 {
+  width: 100%;
+  height: 48.5rem;
+  display: flex;
+  align-items: center;
+}
+.halaman-utama-sebelum-masuk-BKP .product-carousel-kZP .product-card-SU9 .auto-group-lydz-nnu {
+  box-sizing: border-box;
+  padding-right: 2.4rem;
+  width: 143rem;
+  height: 100%;
+  display: flex;
+  column-gap: 2.4rem;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.halaman-utama-sebelum-masuk-BKP .product-carousel-kZP .product-card-SU9 .auto-group-lydz-nnu .product-card-JmF {
+  width: 26.2rem;
+  cursor: pointer;
+  flex-shrink: 0;
+}
+.halaman-utama-sebelum-masuk-BKP .product-carousel-kZP .product-card-SU9 .auto-group-lydz-nnu .product-card-JmF .image-placeholder-4Ed {
+  margin-bottom: 1.2rem;
+  box-sizing: border-box;
+  padding: 1.6rem;
+  width: 100%;
+  overflow: hidden;
+  position: relative;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/paste-image-bg-gXK.png');
+}
+.halaman-utama-sebelum-masuk-BKP .product-carousel-kZP .product-card-SU9 .auto-group-lydz-nnu .product-card-JmF .image-placeholder-4Ed .auto-group-mb63-nAd {
+  margin-bottom: 21.5rem;
+  width: 100%;
+  height: 5.6rem;
+  flex-shrink: 0;
+}
+.halaman-utama-sebelum-masuk-BKP .product-carousel-kZP .product-card-SU9 .auto-group-lydz-nnu .product-card-JmF .image-placeholder-4Ed .auto-group-mb63-nAd .badges-j5s {
+  margin-right: 15.9rem;
+  width: 7.1rem;
+  height: 100%;
+}
+.halaman-utama-sebelum-masuk-BKP .product-carousel-kZP .product-card-SU9 .auto-group-lydz-nnu .product-card-JmF .image-placeholder-4Ed .auto-group-mb63-nAd .badges-j5s .badge-medium-sSy {
+  margin: 0rem 0.8rem 3.2rem 0rem;
+  width: 6.3rem;
+  height: 2.4rem;
+  text-align: center;
+  font-size: 1.6rem;
+  font-weight: 700;
+  line-height: 1;
+  text-transform: uppercase;
+  color: #111111;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #ffffff;
+  border-radius: 0.4rem;
+}
+.halaman-utama-sebelum-masuk-BKP .product-carousel-kZP .product-card-SU9 .auto-group-lydz-nnu .product-card-JmF .image-placeholder-4Ed .button-hover-LLZ {
+  width: 100%;
+  height: 4.6rem;
+  text-align: center;
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.75;
+  letter-spacing: -0.04rem;
+  color: #fdfdfd;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  box-shadow: 0 0.8rem 1.6rem rgba(0, 0, 0, 0.0364401229);
+  background-color: #141718;
+  border-radius: 0.8rem;
+  flex-shrink: 0;
+}
+.halaman-utama-sebelum-masuk-BKP .product-carousel-kZP .product-card-SU9 .auto-group-lydz-nnu .product-card-JmF .textprice-aEu {
+  width: 12.5rem;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+}
+.halaman-utama-sebelum-masuk-BKP .product-carousel-kZP .product-card-SU9 .auto-group-lydz-nnu .product-card-JmF .textprice-aEu .auto-group-9knf-WPT {
+  box-sizing: border-box;
+  padding-bottom: 0.4rem;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.halaman-utama-sebelum-masuk-BKP .product-carousel-kZP .product-card-SU9 .auto-group-lydz-nnu .product-card-JmF .textprice-aEu .auto-group-9knf-WPT .rating-rating-group-FM3 {
+  margin-bottom: 0.4rem;
+  display: flex;
+  column-gap: 0.2rem;
+  align-items: center;
+  flex-shrink: 0;
+}
+.halaman-utama-sebelum-masuk-BKP .product-carousel-kZP .product-card-SU9 .auto-group-lydz-nnu .product-card-JmF .textprice-aEu .auto-group-9knf-WPT .rating-rating-group-FM3 .star-icon-n65 {
+  width: 1.6rem;
+  height: 1.6rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.halaman-utama-sebelum-masuk-BKP .product-carousel-kZP .product-card-SU9 .auto-group-lydz-nnu .product-card-JmF .textprice-aEu .auto-group-9knf-WPT .rating-rating-group-FM3 .star-icon-X3f {
+  width: 1.6rem;
+  height: 1.6rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.halaman-utama-sebelum-masuk-BKP .product-carousel-kZP .product-card-SU9 .auto-group-lydz-nnu .product-card-JmF .textprice-aEu .auto-group-9knf-WPT .rating-rating-group-FM3 .star-icon-FkM {
+  width: 1.6rem;
+  height: 1.6rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.halaman-utama-sebelum-masuk-BKP .product-carousel-kZP .product-card-SU9 .auto-group-lydz-nnu .product-card-JmF .textprice-aEu .auto-group-9knf-WPT .rating-rating-group-FM3 .star-icon-QNM {
+  width: 1.6rem;
+  height: 1.6rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.halaman-utama-sebelum-masuk-BKP .product-carousel-kZP .product-card-SU9 .auto-group-lydz-nnu .product-card-JmF .textprice-aEu .auto-group-9knf-WPT .rating-rating-group-FM3 .star-icon-YzM {
+  width: 1.6rem;
+  height: 1.6rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.halaman-utama-sebelum-masuk-BKP .product-carousel-kZP .product-card-SU9 .auto-group-lydz-nnu .product-card-JmF .textprice-aEu .auto-group-9knf-WPT .bintang-JCq {
+  font-size: 1.6rem;
+  font-weight: 600;
+  line-height: 1.625;
+  color: #141718;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.halaman-utama-sebelum-masuk-BKP .product-carousel-kZP .product-card-SU9 .auto-group-lydz-nnu .product-card-JmF .textprice-aEu .price-2uX {
+  width: 100%;
+  font-size: 1.4rem;
+  font-weight: 600;
+  line-height: 1.5714285714;
+  color: #111111;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.halaman-utama-sebelum-masuk-BKP .product-carousel-kZP .product-card-SU9 .auto-group-lydz-nnu .product-card-Z8m {
+  width: 26.2rem;
+  cursor: pointer;
+  flex-shrink: 0;
+}
+.halaman-utama-sebelum-masuk-BKP .product-carousel-kZP .product-card-SU9 .auto-group-lydz-nnu .product-card-Z8m .image-placeholder-6uP {
+  margin-bottom: 1.2rem;
+  box-sizing: border-box;
+  padding: 1.6rem;
+  width: 100%;
+  height: 34.9rem;
+  overflow: hidden;
+  position: relative;
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/paste-image-bg-tEV.png');
+}
+.halaman-utama-sebelum-masuk-BKP .product-carousel-kZP .product-card-SU9 .auto-group-lydz-nnu .product-card-Z8m .image-placeholder-6uP .auto-group-cgfd-2o3 {
+  margin-bottom: 26.1rem;
+  width: 100%;
+  height: 5.6rem;
+}
+.halaman-utama-sebelum-masuk-BKP .product-carousel-kZP .product-card-SU9 .auto-group-lydz-nnu .product-card-Z8m .image-placeholder-6uP .auto-group-cgfd-2o3 .badges-Nc1 {
+  margin-right: 15.9rem;
+  width: 7.1rem;
+  height: 100%;
+}
+.halaman-utama-sebelum-masuk-BKP .product-carousel-kZP .product-card-SU9 .auto-group-lydz-nnu .product-card-Z8m .image-placeholder-6uP .auto-group-cgfd-2o3 .badges-Nc1 .badge-medium-jBf {
+  margin: 0rem 0.8rem 3.2rem 0rem;
+  width: 6.3rem;
+  height: 2.4rem;
+  text-align: center;
+  font-size: 1.6rem;
+  font-weight: 700;
+  line-height: 1;
+  text-transform: uppercase;
+  color: #111111;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #ffffff;
+  border-radius: 0.4rem;
+}
+.halaman-utama-sebelum-masuk-BKP .product-carousel-kZP .product-card-SU9 .auto-group-lydz-nnu .product-card-Z8m .textprice-NEd {
+  width: 8.8rem;
+  row-gap: 0.4rem;
+  display: flex;
+  flex-direction: column;
+}
+.halaman-utama-sebelum-masuk-BKP .product-carousel-kZP .product-card-SU9 .auto-group-lydz-nnu .product-card-Z8m .textprice-NEd .rating-rating-group-6wK {
+  width: 100%;
+  display: flex;
+  column-gap: 0.2rem;
+  align-items: center;
+  flex-shrink: 0;
+}
+.halaman-utama-sebelum-masuk-BKP .product-carousel-kZP .product-card-SU9 .auto-group-lydz-nnu .product-card-Z8m .textprice-NEd .rating-rating-group-6wK .star-icon-SEV {
+  width: 1.6rem;
+  height: 1.6rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.halaman-utama-sebelum-masuk-BKP .product-carousel-kZP .product-card-SU9 .auto-group-lydz-nnu .product-card-Z8m .textprice-NEd .rating-rating-group-6wK .star-icon-zG1 {
+  width: 1.6rem;
+  height: 1.6rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.halaman-utama-sebelum-masuk-BKP .product-carousel-kZP .product-card-SU9 .auto-group-lydz-nnu .product-card-Z8m .textprice-NEd .rating-rating-group-6wK .star-icon-jDb {
+  width: 1.6rem;
+  height: 1.6rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.halaman-utama-sebelum-masuk-BKP .product-carousel-kZP .product-card-SU9 .auto-group-lydz-nnu .product-card-Z8m .textprice-NEd .rating-rating-group-6wK .star-icon-5YM {
+  width: 1.6rem;
+  height: 1.6rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.halaman-utama-sebelum-masuk-BKP .product-carousel-kZP .product-card-SU9 .auto-group-lydz-nnu .product-card-Z8m .textprice-NEd .rating-rating-group-6wK .star-icon-2Tb {
+  width: 1.6rem;
+  height: 1.6rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.halaman-utama-sebelum-masuk-BKP .product-carousel-kZP .product-card-SU9 .auto-group-lydz-nnu .product-card-Z8m .textprice-NEd .pulang-mRB {
+  font-size: 1.6rem;
+  font-weight: 600;
+  line-height: 1.625;
+  color: #141718;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.halaman-utama-sebelum-masuk-BKP .product-carousel-kZP .product-card-SU9 .auto-group-lydz-nnu .product-card-Z8m .textprice-NEd .tere-liye-Jvu {
+  font-size: 1.4rem;
+  font-weight: 600;
+  line-height: 1.5714285714;
+  color: #111111;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.halaman-utama-sebelum-masuk-BKP .product-carousel-kZP .product-card-SU9 .auto-group-lydz-nnu .product-card-rBj {
+  width: 26.2rem;
+  cursor: pointer;
+  flex-shrink: 0;
+}
+.halaman-utama-sebelum-masuk-BKP .product-carousel-kZP .product-card-SU9 .auto-group-lydz-nnu .product-card-rBj .image-placeholder-PxM {
+  margin-bottom: 1.2rem;
+  box-sizing: border-box;
+  padding: 1.6rem;
+  width: 100%;
+  height: 34.9rem;
+  overflow: hidden;
+  position: relative;
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/paste-image-bg-9h3.png');
+}
+.halaman-utama-sebelum-masuk-BKP .product-carousel-kZP .product-card-SU9 .auto-group-lydz-nnu .product-card-rBj .image-placeholder-PxM .auto-group-tm95-L6u {
+  margin-bottom: 26.1rem;
+  width: 100%;
+  height: 5.6rem;
+}
+.halaman-utama-sebelum-masuk-BKP .product-carousel-kZP .product-card-SU9 .auto-group-lydz-nnu .product-card-rBj .image-placeholder-PxM .auto-group-tm95-L6u .badges-5aH {
+  margin-right: 15.9rem;
+  width: 7.1rem;
+  height: 100%;
+}
+.halaman-utama-sebelum-masuk-BKP .product-carousel-kZP .product-card-SU9 .auto-group-lydz-nnu .product-card-rBj .image-placeholder-PxM .auto-group-tm95-L6u .badges-5aH .badge-medium-2VX {
+  margin: 0rem 0.8rem 3.2rem 0rem;
+  width: 6.3rem;
+  height: 2.4rem;
+  text-align: center;
+  font-size: 1.6rem;
+  font-weight: 700;
+  line-height: 1;
+  text-transform: uppercase;
+  color: #111111;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #ffffff;
+  border-radius: 0.4rem;
+}
+.halaman-utama-sebelum-masuk-BKP .product-carousel-kZP .product-card-SU9 .auto-group-lydz-nnu .product-card-rBj .textprice-sm3 {
+  width: 12.5rem;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+}
+.halaman-utama-sebelum-masuk-BKP .product-carousel-kZP .product-card-SU9 .auto-group-lydz-nnu .product-card-rBj .textprice-sm3 .auto-group-bjqx-pgH {
+  box-sizing: border-box;
+  padding-bottom: 0.4rem;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.halaman-utama-sebelum-masuk-BKP .product-carousel-kZP .product-card-SU9 .auto-group-lydz-nnu .product-card-rBj .textprice-sm3 .auto-group-bjqx-pgH .rating-rating-group-Ak9 {
+  margin-bottom: 0.4rem;
+  display: flex;
+  column-gap: 0.2rem;
+  align-items: center;
+  flex-shrink: 0;
+}
+.halaman-utama-sebelum-masuk-BKP .product-carousel-kZP .product-card-SU9 .auto-group-lydz-nnu .product-card-rBj .textprice-sm3 .auto-group-bjqx-pgH .rating-rating-group-Ak9 .star-icon-W3K {
+  width: 1.6rem;
+  height: 1.6rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.halaman-utama-sebelum-masuk-BKP .product-carousel-kZP .product-card-SU9 .auto-group-lydz-nnu .product-card-rBj .textprice-sm3 .auto-group-bjqx-pgH .rating-rating-group-Ak9 .star-icon-SSm {
+  width: 1.6rem;
+  height: 1.6rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.halaman-utama-sebelum-masuk-BKP .product-carousel-kZP .product-card-SU9 .auto-group-lydz-nnu .product-card-rBj .textprice-sm3 .auto-group-bjqx-pgH .rating-rating-group-Ak9 .star-icon-zUH {
+  width: 1.6rem;
+  height: 1.6rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.halaman-utama-sebelum-masuk-BKP .product-carousel-kZP .product-card-SU9 .auto-group-lydz-nnu .product-card-rBj .textprice-sm3 .auto-group-bjqx-pgH .rating-rating-group-Ak9 .star-icon-9MB {
+  width: 1.6rem;
+  height: 1.6rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.halaman-utama-sebelum-masuk-BKP .product-carousel-kZP .product-card-SU9 .auto-group-lydz-nnu .product-card-rBj .textprice-sm3 .auto-group-bjqx-pgH .rating-rating-group-Ak9 .star-icon-Vfw {
+  width: 1.6rem;
+  height: 1.6rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.halaman-utama-sebelum-masuk-BKP .product-carousel-kZP .product-card-SU9 .auto-group-lydz-nnu .product-card-rBj .textprice-sm3 .auto-group-bjqx-pgH .hujan-eHw {
+  font-size: 1.6rem;
+  font-weight: 600;
+  line-height: 1.625;
+  color: #141718;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.halaman-utama-sebelum-masuk-BKP .product-carousel-kZP .product-card-SU9 .auto-group-lydz-nnu .product-card-rBj .textprice-sm3 .price-yb7 {
+  width: 100%;
+  font-size: 1.4rem;
+  font-weight: 600;
+  line-height: 1.5714285714;
+  color: #111111;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.halaman-utama-sebelum-masuk-BKP .product-carousel-kZP .product-card-SU9 .auto-group-lydz-nnu .product-card-WL9 {
+  width: 26.2rem;
+  cursor: pointer;
+  flex-shrink: 0;
+}
+.halaman-utama-sebelum-masuk-BKP .product-carousel-kZP .product-card-SU9 .auto-group-lydz-nnu .product-card-WL9 .image-placeholder-GKK {
+  margin-bottom: 1.2rem;
+  box-sizing: border-box;
+  padding: 1.6rem;
+  width: 100%;
+  height: 34.9rem;
+  overflow: hidden;
+  position: relative;
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/paste-image-bg-8js.png');
+}
+.halaman-utama-sebelum-masuk-BKP .product-carousel-kZP .product-card-SU9 .auto-group-lydz-nnu .product-card-WL9 .image-placeholder-GKK .auto-group-ufnb-121 {
+  margin-bottom: 26.1rem;
+  width: 100%;
+  height: 5.6rem;
+}
+.halaman-utama-sebelum-masuk-BKP .product-carousel-kZP .product-card-SU9 .auto-group-lydz-nnu .product-card-WL9 .image-placeholder-GKK .auto-group-ufnb-121 .badges-La5 {
+  margin-right: 15.9rem;
+  width: 7.1rem;
+  height: 100%;
+}
+.halaman-utama-sebelum-masuk-BKP .product-carousel-kZP .product-card-SU9 .auto-group-lydz-nnu .product-card-WL9 .image-placeholder-GKK .auto-group-ufnb-121 .badges-La5 .badge-medium-6JM {
+  margin: 0rem 0.8rem 3.2rem 0rem;
+  width: 6.3rem;
+  height: 2.4rem;
+  text-align: center;
+  font-size: 1.6rem;
+  font-weight: 700;
+  line-height: 1;
+  text-transform: uppercase;
+  color: #111111;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #ffffff;
+  border-radius: 0.4rem;
+}
+.halaman-utama-sebelum-masuk-BKP .product-carousel-kZP .product-card-SU9 .auto-group-lydz-nnu .product-card-WL9 .textprice-XuT {
+  row-gap: 0.4rem;
+  display: flex;
+  flex-direction: column;
+}
+.halaman-utama-sebelum-masuk-BKP .product-carousel-kZP .product-card-SU9 .auto-group-lydz-nnu .product-card-WL9 .textprice-XuT .rating-rating-group-5g5 {
+  display: flex;
+  column-gap: 0.2rem;
+  align-items: center;
+  flex-shrink: 0;
+}
+.halaman-utama-sebelum-masuk-BKP .product-carousel-kZP .product-card-SU9 .auto-group-lydz-nnu .product-card-WL9 .textprice-XuT .rating-rating-group-5g5 .star-icon-25X {
+  width: 1.6rem;
+  height: 1.6rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.halaman-utama-sebelum-masuk-BKP .product-carousel-kZP .product-card-SU9 .auto-group-lydz-nnu .product-card-WL9 .textprice-XuT .rating-rating-group-5g5 .star-icon-mYu {
+  width: 1.6rem;
+  height: 1.6rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.halaman-utama-sebelum-masuk-BKP .product-carousel-kZP .product-card-SU9 .auto-group-lydz-nnu .product-card-WL9 .textprice-XuT .rating-rating-group-5g5 .star-icon-K4d {
+  width: 1.6rem;
+  height: 1.6rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.halaman-utama-sebelum-masuk-BKP .product-carousel-kZP .product-card-SU9 .auto-group-lydz-nnu .product-card-WL9 .textprice-XuT .rating-rating-group-5g5 .star-icon-esb {
+  width: 1.6rem;
+  height: 1.6rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.halaman-utama-sebelum-masuk-BKP .product-carousel-kZP .product-card-SU9 .auto-group-lydz-nnu .product-card-WL9 .textprice-XuT .rating-rating-group-5g5 .star-icon-BsX {
+  width: 1.6rem;
+  height: 1.6rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.halaman-utama-sebelum-masuk-BKP .product-carousel-kZP .product-card-SU9 .auto-group-lydz-nnu .product-card-WL9 .textprice-XuT .kala-senja-menyapa-Kyj {
+  font-size: 1.6rem;
+  font-weight: 600;
+  line-height: 1.625;
+  color: #141718;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.halaman-utama-sebelum-masuk-BKP .product-carousel-kZP .product-card-SU9 .auto-group-lydz-nnu .product-card-WL9 .textprice-XuT .price-4wK {
+  width: 13.1rem;
+  height: 2.2rem;
+  font-size: 1.4rem;
+  font-weight: 600;
+  line-height: 1.5714285714;
+  color: #111111;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+}
+.halaman-utama-sebelum-masuk-BKP .product-carousel-kZP .product-card-SU9 .auto-group-lydz-nnu .product-card-ZdB {
+  width: 26.2rem;
+  cursor: pointer;
+  flex-shrink: 0;
+}
+.halaman-utama-sebelum-masuk-BKP .product-carousel-kZP .product-card-SU9 .auto-group-lydz-nnu .product-card-ZdB .image-placeholder-7Po {
+  margin-bottom: 1.2rem;
+  box-sizing: border-box;
+  padding: 1.6rem;
+  width: 100%;
+  height: 34.9rem;
+  overflow: hidden;
+  position: relative;
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/paste-image-bg-D2H.png');
+}
+.halaman-utama-sebelum-masuk-BKP .product-carousel-kZP .product-card-SU9 .auto-group-lydz-nnu .product-card-ZdB .image-placeholder-7Po .badges-crM {
+  margin: 0rem 15.9rem 26.1rem 0rem;
+  width: 7.1rem;
+  height: 5.6rem;
+}
+.halaman-utama-sebelum-masuk-BKP .product-carousel-kZP .product-card-SU9 .auto-group-lydz-nnu .product-card-ZdB .image-placeholder-7Po .badges-crM .badge-medium-Yk1 {
+  margin: 0rem 0.8rem 3.2rem 0rem;
+  width: 6.3rem;
+  height: 2.4rem;
+  text-align: center;
+  font-size: 1.6rem;
+  font-weight: 700;
+  line-height: 1;
+  text-transform: uppercase;
+  color: #111111;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #ffffff;
+  border-radius: 0.4rem;
+}
+.halaman-utama-sebelum-masuk-BKP .product-carousel-kZP .product-card-SU9 .auto-group-lydz-nnu .product-card-ZdB .textprice-Q1X {
+  row-gap: 0.4rem;
+  display: flex;
+  flex-direction: column;
+}
+.halaman-utama-sebelum-masuk-BKP .product-carousel-kZP .product-card-SU9 .auto-group-lydz-nnu .product-card-ZdB .textprice-Q1X .rating-rating-group-9E1 {
+  display: flex;
+  column-gap: 0.2rem;
+  align-items: center;
+  flex-shrink: 0;
+}
+.halaman-utama-sebelum-masuk-BKP .product-carousel-kZP .product-card-SU9 .auto-group-lydz-nnu .product-card-ZdB .textprice-Q1X .rating-rating-group-9E1 .star-icon-svh {
+  width: 1.6rem;
+  height: 1.6rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.halaman-utama-sebelum-masuk-BKP .product-carousel-kZP .product-card-SU9 .auto-group-lydz-nnu .product-card-ZdB .textprice-Q1X .rating-rating-group-9E1 .star-icon-RSR {
+  width: 1.6rem;
+  height: 1.6rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.halaman-utama-sebelum-masuk-BKP .product-carousel-kZP .product-card-SU9 .auto-group-lydz-nnu .product-card-ZdB .textprice-Q1X .rating-rating-group-9E1 .star-icon-NMf {
+  width: 1.6rem;
+  height: 1.6rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.halaman-utama-sebelum-masuk-BKP .product-carousel-kZP .product-card-SU9 .auto-group-lydz-nnu .product-card-ZdB .textprice-Q1X .rating-rating-group-9E1 .star-icon-Wim {
+  width: 1.6rem;
+  height: 1.6rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.halaman-utama-sebelum-masuk-BKP .product-carousel-kZP .product-card-SU9 .auto-group-lydz-nnu .product-card-ZdB .textprice-Q1X .rating-rating-group-9E1 .star-icon-fLm {
+  width: 1.6rem;
+  height: 1.6rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.halaman-utama-sebelum-masuk-BKP .product-carousel-kZP .product-card-SU9 .auto-group-lydz-nnu .product-card-ZdB .textprice-Q1X .kurniawan-perspektif-pendidikan-dalam-bingkai-ilmu-dan-tokoh-QZF {
+  max-width: 22.1rem;
+  font-size: 1.6rem;
+  font-weight: 600;
+  line-height: 1.625;
+  color: #141718;
+  font-family: Inter, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.halaman-utama-sebelum-masuk-BKP .product-carousel-kZP .product-card-SU9 .auto-group-lydz-nnu .product-card-ZdB .textprice-Q1X .kurniawan-ipq {
+  font-size: 1.4rem;
+  font-weight: 600;
+  line-height: 1.5714285714;
+  color: #111111;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.halaman-utama-sebelum-masuk-BKP .product-carousel-kZP .product-card-SU9 .auto-group-4cu1-481 {
+  width: 164rem;
+  height: 100%;
+  position: relative;
+  flex-shrink: 0;
+}
+.halaman-utama-sebelum-masuk-BKP .product-carousel-kZP .product-card-SU9 .auto-group-4cu1-481 .product-card-oLV {
+  width: 49.6rem;
+  height: 48.5rem;
+  cursor: pointer;
+  position: absolute;
+  left: 0;
+  top: 0;
+}
+.halaman-utama-sebelum-masuk-BKP .product-carousel-kZP .product-card-SU9 .auto-group-4cu1-481 .product-card-oLV .image-placeholder-LbK {
+  margin-bottom: 1.2rem;
+  box-sizing: border-box;
+  padding: 1.6rem;
+  width: 26.2rem;
+  height: 34.9rem;
+  overflow: hidden;
+  position: relative;
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/paste-image-bg-qww.png');
+}
+.halaman-utama-sebelum-masuk-BKP .product-carousel-kZP .product-card-SU9 .auto-group-4cu1-481 .product-card-oLV .image-placeholder-LbK .badges-s5T {
+  margin: 0rem 15.9rem 26.1rem 0rem;
+  width: 7.1rem;
+  height: 5.6rem;
+}
+.halaman-utama-sebelum-masuk-BKP .product-carousel-kZP .product-card-SU9 .auto-group-4cu1-481 .product-card-oLV .image-placeholder-LbK .badges-s5T .badge-medium-zfs {
+  margin: 0rem 0.8rem 3.2rem 0rem;
+  width: 6.3rem;
+  height: 2.4rem;
+  text-align: center;
+  font-size: 1.6rem;
+  font-weight: 700;
+  line-height: 1;
+  text-transform: uppercase;
+  color: #111111;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #ffffff;
+  border-radius: 0.4rem;
+}
+.halaman-utama-sebelum-masuk-BKP .product-carousel-kZP .product-card-SU9 .auto-group-4cu1-481 .product-card-oLV .textprice-FLu {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+}
+.halaman-utama-sebelum-masuk-BKP .product-carousel-kZP .product-card-SU9 .auto-group-4cu1-481 .product-card-oLV .textprice-FLu .rating-rating-group-QDo {
+  margin-bottom: 0.4rem;
+  width: 8.8rem;
+  height: 1.6rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.halaman-utama-sebelum-masuk-BKP .product-carousel-kZP .product-card-SU9 .auto-group-4cu1-481 .product-card-oLV .textprice-FLu .kurniawan-perspektif-pendidikan-dalam-bingkai-ilmu-dan-tokoh-jWy {
+  margin-bottom: 5.6rem;
+  font-size: 1.6rem;
+  font-weight: 600;
+  line-height: 1.625;
+  color: #141718;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.halaman-utama-sebelum-masuk-BKP .product-carousel-kZP .product-card-SU9 .auto-group-4cu1-481 .product-card-oLV .textprice-FLu .perpustakaan-umum-kota-jambi-SwB {
+  font-size: 1.4rem;
+  font-weight: 600;
+  line-height: 1.5714285714;
+  color: #111111;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.halaman-utama-sebelum-masuk-BKP .product-carousel-kZP .product-card-SU9 .auto-group-4cu1-481 .product-card-yRK {
+  width: 49.6rem;
+  height: 48.5rem;
+  cursor: pointer;
+  position: absolute;
+  left: 28.6rem;
+  top: 0;
+}
+.halaman-utama-sebelum-masuk-BKP .product-carousel-kZP .product-card-SU9 .auto-group-4cu1-481 .product-card-yRK .image-placeholder-7XX {
+  margin-bottom: 1.2rem;
+  box-sizing: border-box;
+  padding: 1.6rem;
+  width: 26.2rem;
+  height: 34.9rem;
+  overflow: hidden;
+  position: relative;
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/paste-image-bg-4Ps.png');
+}
+.halaman-utama-sebelum-masuk-BKP .product-carousel-kZP .product-card-SU9 .auto-group-4cu1-481 .product-card-yRK .image-placeholder-7XX .badges-3RB {
+  margin: 0rem 15.9rem 26.1rem 0rem;
+  width: 7.1rem;
+  height: 5.6rem;
+}
+.halaman-utama-sebelum-masuk-BKP .product-carousel-kZP .product-card-SU9 .auto-group-4cu1-481 .product-card-yRK .image-placeholder-7XX .badges-3RB .badge-medium-ZuK {
+  margin: 0rem 0.8rem 3.2rem 0rem;
+  width: 6.3rem;
+  height: 2.4rem;
+  text-align: center;
+  font-size: 1.6rem;
+  font-weight: 700;
+  line-height: 1;
+  text-transform: uppercase;
+  color: #111111;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #ffffff;
+  border-radius: 0.4rem;
+}
+.halaman-utama-sebelum-masuk-BKP .product-carousel-kZP .product-card-SU9 .auto-group-4cu1-481 .product-card-yRK .textprice-pqF {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+}
+.halaman-utama-sebelum-masuk-BKP .product-carousel-kZP .product-card-SU9 .auto-group-4cu1-481 .product-card-yRK .textprice-pqF .rating-rating-group-nGH {
+  margin-bottom: 0.4rem;
+  width: 8.8rem;
+  height: 1.6rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.halaman-utama-sebelum-masuk-BKP .product-carousel-kZP .product-card-SU9 .auto-group-4cu1-481 .product-card-yRK .textprice-pqF .kurniawan-perspektif-pendidikan-dalam-bingkai-ilmu-dan-tokoh-KGD {
+  margin-bottom: 5.6rem;
+  font-size: 1.6rem;
+  font-weight: 600;
+  line-height: 1.625;
+  color: #141718;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.halaman-utama-sebelum-masuk-BKP .product-carousel-kZP .product-card-SU9 .auto-group-4cu1-481 .product-card-yRK .textprice-pqF .perpustakaan-umum-kota-jambi-qVT {
+  font-size: 1.4rem;
+  font-weight: 600;
+  line-height: 1.5714285714;
+  color: #111111;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.halaman-utama-sebelum-masuk-BKP .product-carousel-kZP .product-card-SU9 .auto-group-4cu1-481 .product-card-NVP {
+  width: 49.6rem;
+  height: 48.5rem;
+  cursor: pointer;
+  position: absolute;
+  left: 57.2rem;
+  top: 0;
+}
+.halaman-utama-sebelum-masuk-BKP .product-carousel-kZP .product-card-SU9 .auto-group-4cu1-481 .product-card-NVP .image-placeholder-ukD {
+  margin-bottom: 1.2rem;
+  box-sizing: border-box;
+  padding: 1.6rem;
+  width: 26.2rem;
+  height: 34.9rem;
+  overflow: hidden;
+  position: relative;
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/paste-image-bg-atR.png');
+}
+.halaman-utama-sebelum-masuk-BKP .product-carousel-kZP .product-card-SU9 .auto-group-4cu1-481 .product-card-NVP .image-placeholder-ukD .badges-dw7 {
+  margin: 0rem 15.9rem 26.1rem 0rem;
+  width: 7.1rem;
+  height: 5.6rem;
+}
+.halaman-utama-sebelum-masuk-BKP .product-carousel-kZP .product-card-SU9 .auto-group-4cu1-481 .product-card-NVP .image-placeholder-ukD .badges-dw7 .badge-medium-a5f {
+  margin: 0rem 0.8rem 3.2rem 0rem;
+  width: 6.3rem;
+  height: 2.4rem;
+  text-align: center;
+  font-size: 1.6rem;
+  font-weight: 700;
+  line-height: 1;
+  text-transform: uppercase;
+  color: #111111;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #ffffff;
+  border-radius: 0.4rem;
+}
+.halaman-utama-sebelum-masuk-BKP .product-carousel-kZP .product-card-SU9 .auto-group-4cu1-481 .product-card-NVP .textprice-dJq {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+}
+.halaman-utama-sebelum-masuk-BKP .product-carousel-kZP .product-card-SU9 .auto-group-4cu1-481 .product-card-NVP .textprice-dJq .rating-rating-group-P37 {
+  margin-bottom: 0.4rem;
+  width: 8.8rem;
+  height: 1.6rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.halaman-utama-sebelum-masuk-BKP .product-carousel-kZP .product-card-SU9 .auto-group-4cu1-481 .product-card-NVP .textprice-dJq .kurniawan-perspektif-pendidikan-dalam-bingkai-ilmu-dan-tokoh-v33 {
+  margin-bottom: 5.6rem;
+  font-size: 1.6rem;
+  font-weight: 600;
+  line-height: 1.625;
+  color: #141718;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.halaman-utama-sebelum-masuk-BKP .product-carousel-kZP .product-card-SU9 .auto-group-4cu1-481 .product-card-NVP .textprice-dJq .perpustakaan-umum-kota-jambi-S1P {
+  font-size: 1.4rem;
+  font-weight: 600;
+  line-height: 1.5714285714;
+  color: #111111;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.halaman-utama-sebelum-masuk-BKP .product-carousel-kZP .product-card-SU9 .auto-group-4cu1-481 .product-card-a7b {
+  width: 49.6rem;
+  height: 48.5rem;
+  cursor: pointer;
+  position: absolute;
+  left: 85.8rem;
+  top: 0;
+}
+.halaman-utama-sebelum-masuk-BKP .product-carousel-kZP .product-card-SU9 .auto-group-4cu1-481 .product-card-a7b .image-placeholder-WX3 {
+  margin-bottom: 1.2rem;
+  box-sizing: border-box;
+  padding: 1.6rem;
+  width: 26.2rem;
+  height: 34.9rem;
+  overflow: hidden;
+  position: relative;
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/paste-image-bg-k1X.png');
+}
+.halaman-utama-sebelum-masuk-BKP .product-carousel-kZP .product-card-SU9 .auto-group-4cu1-481 .product-card-a7b .image-placeholder-WX3 .badges-31B {
+  margin: 0rem 15.9rem 26.1rem 0rem;
+  width: 7.1rem;
+  height: 5.6rem;
+}
+.halaman-utama-sebelum-masuk-BKP .product-carousel-kZP .product-card-SU9 .auto-group-4cu1-481 .product-card-a7b .image-placeholder-WX3 .badges-31B .badge-medium-ArV {
+  margin: 0rem 0.8rem 3.2rem 0rem;
+  width: 6.3rem;
+  height: 2.4rem;
+  text-align: center;
+  font-size: 1.6rem;
+  font-weight: 700;
+  line-height: 1;
+  text-transform: uppercase;
+  color: #111111;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #ffffff;
+  border-radius: 0.4rem;
+}
+.halaman-utama-sebelum-masuk-BKP .product-carousel-kZP .product-card-SU9 .auto-group-4cu1-481 .product-card-a7b .textprice-2Nu {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+}
+.halaman-utama-sebelum-masuk-BKP .product-carousel-kZP .product-card-SU9 .auto-group-4cu1-481 .product-card-a7b .textprice-2Nu .rating-rating-group-n7B {
+  margin-bottom: 0.4rem;
+  width: 8.8rem;
+  height: 1.6rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.halaman-utama-sebelum-masuk-BKP .product-carousel-kZP .product-card-SU9 .auto-group-4cu1-481 .product-card-a7b .textprice-2Nu .kurniawan-perspektif-pendidikan-dalam-bingkai-ilmu-dan-tokoh-K77 {
+  margin-bottom: 5.6rem;
+  font-size: 1.6rem;
+  font-weight: 600;
+  line-height: 1.625;
+  color: #141718;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.halaman-utama-sebelum-masuk-BKP .product-carousel-kZP .product-card-SU9 .auto-group-4cu1-481 .product-card-a7b .textprice-2Nu .perpustakaan-umum-kota-jambi-qLM {
+  font-size: 1.4rem;
+  font-weight: 600;
+  line-height: 1.5714285714;
+  color: #111111;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.halaman-utama-sebelum-masuk-BKP .product-carousel-kZP .product-card-SU9 .auto-group-4cu1-481 .product-card-a33 {
+  width: 49.6rem;
+  height: 48.5rem;
+  cursor: pointer;
+  position: absolute;
+  left: 114.4rem;
+  top: 0;
+}
+.halaman-utama-sebelum-masuk-BKP .product-carousel-kZP .product-card-SU9 .auto-group-4cu1-481 .product-card-a33 .image-placeholder-ur1 {
+  margin-bottom: 1.2rem;
+  box-sizing: border-box;
+  padding: 1.6rem;
+  width: 26.2rem;
+  height: 34.9rem;
+  overflow: hidden;
+  position: relative;
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/paste-image-bg-2zu.png');
+}
+.halaman-utama-sebelum-masuk-BKP .product-carousel-kZP .product-card-SU9 .auto-group-4cu1-481 .product-card-a33 .image-placeholder-ur1 .badges-dn1 {
+  margin: 0rem 15.9rem 26.1rem 0rem;
+  width: 7.1rem;
+  height: 5.6rem;
+}
+.halaman-utama-sebelum-masuk-BKP .product-carousel-kZP .product-card-SU9 .auto-group-4cu1-481 .product-card-a33 .image-placeholder-ur1 .badges-dn1 .badge-medium-NDo {
+  margin: 0rem 0.8rem 3.2rem 0rem;
+  width: 6.3rem;
+  height: 2.4rem;
+  text-align: center;
+  font-size: 1.6rem;
+  font-weight: 700;
+  line-height: 1;
+  text-transform: uppercase;
+  color: #111111;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #ffffff;
+  border-radius: 0.4rem;
+}
+.halaman-utama-sebelum-masuk-BKP .product-carousel-kZP .product-card-SU9 .auto-group-4cu1-481 .product-card-a33 .textprice-RC5 {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+}
+.halaman-utama-sebelum-masuk-BKP .product-carousel-kZP .product-card-SU9 .auto-group-4cu1-481 .product-card-a33 .textprice-RC5 .rating-rating-group-Nd7 {
+  margin-bottom: 0.4rem;
+  width: 8.8rem;
+  height: 1.6rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.halaman-utama-sebelum-masuk-BKP .product-carousel-kZP .product-card-SU9 .auto-group-4cu1-481 .product-card-a33 .textprice-RC5 .kurniawan-perspektif-pendidikan-dalam-bingkai-ilmu-dan-tokoh-iS5 {
+  margin-bottom: 5.6rem;
+  font-size: 1.6rem;
+  font-weight: 600;
+  line-height: 1.625;
+  color: #141718;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.halaman-utama-sebelum-masuk-BKP .product-carousel-kZP .product-card-SU9 .auto-group-4cu1-481 .product-card-a33 .textprice-RC5 .perpustakaan-umum-kota-jambi-S7B {
+  font-size: 1.4rem;
+  font-weight: 600;
+  line-height: 1.5714285714;
+  color: #111111;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.halaman-utama-sebelum-masuk-BKP .banner-kdf {
+  margin-bottom: 8rem;
+  box-sizing: border-box;
+  padding-left: 20.3rem;
+  width: 100%;
+  height: 53.2rem;
+  display: flex;
+  align-items: center;
+  background-color: #e8ecef;
+  flex-shrink: 0;
+}
+.halaman-utama-sebelum-masuk-BKP .banner-kdf .buku5-1-gnD {
+  margin-right: 17.7rem;
+  width: 34rem;
+  height: 53.2rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.halaman-utama-sebelum-masuk-BKP .banner-kdf .content-2LH {
+  box-sizing: border-box;
+  padding: 9.4rem 7.2rem 6.6rem 7.2rem;
+  width: 72rem;
+  height: 100%;
+  background-color: #141718;
+  flex-shrink: 0;
+}
+.halaman-utama-sebelum-masuk-BKP .banner-kdf .content-2LH .title-9vh {
+  margin-bottom: 2.4rem;
+  row-gap: 1rem;
+  display: flex;
+  flex-direction: column;
+}
+.halaman-utama-sebelum-masuk-BKP .banner-kdf .content-2LH .title-9vh .sale-srh {
+  font-size: 1.6rem;
+  font-weight: 700;
+  line-height: 1;
+  text-transform: uppercase;
+  color: #38cb89;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.halaman-utama-sebelum-masuk-BKP .banner-kdf .content-2LH .title-9vh .title-RdK {
+  font-size: 4rem;
+  font-weight: 500;
+  line-height: 1.1;
+  letter-spacing: -0.04rem;
+  color: #fdfdfd;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.halaman-utama-sebelum-masuk-BKP .banner-kdf .content-2LH .title-9vh .title-xt9 {
+  font-size: 2.4rem;
+  font-weight: 500;
+  line-height: 1.8333333333;
+  letter-spacing: -0.04rem;
+  color: #fdfdfd;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.halaman-utama-sebelum-masuk-BKP .banner-kdf .content-2LH .title-9vh .phosfluorescently-en-HvR {
+  max-width: 43.5rem;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.6;
+  color: #fdfdfd;
+  font-family: Inter, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.halaman-utama-sebelum-masuk-BKP .banner-kdf .content-2LH .timer-27K {
+  width: 36rem;
+  height: 11.8rem;
+  cursor: pointer;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.625;
+  color: #fdfdfd;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.halaman-utama-sebelum-masuk-BKP .categories-uwo {
+  margin: 0rem 7.2rem 15.489rem 7.2rem;
+  width: calc(100% - 14.4rem);
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.halaman-utama-sebelum-masuk-BKP .categories-uwo .kategori-3HK {
+  margin-bottom: 4.6875rem;
+  font-size: 4rem;
+  font-weight: 500;
+  line-height: 1.1;
+  letter-spacing: -0.04rem;
+  color: #22262e;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.halaman-utama-sebelum-masuk-BKP .categories-uwo .container-mDK {
+  width: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.halaman-utama-sebelum-masuk-BKP .categories-uwo .container-mDK .auto-group-hrz3-7Y5 {
+  margin-bottom: 3.9875rem;
+  width: 100%;
+  height: 25.1125rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.halaman-utama-sebelum-masuk-BKP .categories-uwo .container-mDK .auto-group-hrz3-7Y5 .shot-TM3 {
+  box-sizing: border-box;
+  padding-top: 0.0125rem;
+  width: 29.7rem;
+  height: 100%;
+  cursor: pointer;
+  flex-shrink: 0;
+}
+.halaman-utama-sebelum-masuk-BKP .categories-uwo .container-mDK .auto-group-hrz3-7Y5 .shot-TM3 .thumbnail-Bnq {
+  margin-bottom: 0.825rem;
+  width: 100%;
+  overflow: hidden;
+  position: relative;
+  border-radius: 0.8rem;
+}
+.halaman-utama-sebelum-masuk-BKP .categories-uwo .container-mDK .auto-group-hrz3-7Y5 .shot-TM3 .thumbnail-Bnq .overlay-jpM {
+  width: 29.7rem;
+  height: 22.275rem;
+  object-fit: cover;
+  vertical-align: top;
+}
+.halaman-utama-sebelum-masuk-BKP .categories-uwo .container-mDK .auto-group-hrz3-7Y5 .shot-TM3 .avatar-name-fxu {
+  margin-right: 19.0328rem;
+  width: calc(100% - 19.0328rem);
+  height: 2rem;
+  display: flex;
+  align-items: center;
+}
+.halaman-utama-sebelum-masuk-BKP .categories-uwo .container-mDK .auto-group-hrz3-7Y5 .shot-TM3 .avatar-name-fxu .name-11B {
+  margin-right: 0.8rem;
+  display: flex;
+  font-size: 1.4rem;
+  font-weight: 500;
+  line-height: 1.4285714286;
+  color: #0d0c22;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.halaman-utama-sebelum-masuk-BKP .categories-uwo .container-mDK .auto-group-hrz3-7Y5 .shot-TM3 .avatar-name-fxu .badge-XkD {
+  margin: 0.3rem 0;
+  width: 2.6672rem;
+  height: calc(100% - 0.6rem);
+  display: flex;
+  font-size: 1rem;
+  font-weight: 700;
+  line-height: 1;
+  text-transform: uppercase;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  align-items: center;
+  justify-content: center;
+  background-color: #cccccc;
+  border-radius: 0.3rem;
+  flex-shrink: 0;
+}
+.halaman-utama-sebelum-masuk-BKP .categories-uwo .container-mDK .auto-group-hrz3-7Y5 .auto-group-fict-D7F {
+  box-sizing: border-box;
+  padding: 0.013rem 0rem 0rem 3.6rem;
+  height: 100%;
+  display: flex;
+  column-gap: 3.6rem;
+  align-items: center;
+  flex-shrink: 0;
+}
+.halaman-utama-sebelum-masuk-BKP .categories-uwo .container-mDK .auto-group-hrz3-7Y5 .auto-group-fict-D7F .shot-vGZ {
+  box-sizing: border-box;
+  padding: 0.0125rem 0;
+  width: 29.7rem;
+  height: 100%;
+  cursor: pointer;
+  flex-shrink: 0;
+}
+.halaman-utama-sebelum-masuk-BKP .categories-uwo .container-mDK .auto-group-hrz3-7Y5 .auto-group-fict-D7F .shot-vGZ .thumbnail-4df {
+  margin-bottom: 0.8rem;
+  width: 100%;
+  overflow: hidden;
+  position: relative;
+  border-radius: 0.8rem;
+}
+.halaman-utama-sebelum-masuk-BKP .categories-uwo .container-mDK .auto-group-hrz3-7Y5 .auto-group-fict-D7F .shot-vGZ .thumbnail-4df .overlay-1oo {
+  width: 29.7rem;
+  height: 22.275rem;
+  object-fit: cover;
+  vertical-align: top;
+}
+.halaman-utama-sebelum-masuk-BKP .categories-uwo .container-mDK .auto-group-hrz3-7Y5 .auto-group-fict-D7F .shot-vGZ .avatar-name-wxM {
+  margin-right: 18.5328rem;
+  width: calc(100% - 18.5328rem);
+  height: 2rem;
+  display: flex;
+  align-items: center;
+}
+.halaman-utama-sebelum-masuk-BKP .categories-uwo .container-mDK .auto-group-hrz3-7Y5 .auto-group-fict-D7F .shot-vGZ .avatar-name-wxM .name-VDB {
+  margin-right: 0.8rem;
+  display: flex;
+  font-size: 1.4rem;
+  font-weight: 500;
+  line-height: 1.4285714286;
+  color: #0d0c22;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.halaman-utama-sebelum-masuk-BKP .categories-uwo .container-mDK .auto-group-hrz3-7Y5 .auto-group-fict-D7F .shot-vGZ .avatar-name-wxM .badge-Dey {
+  margin: 0.3rem 0;
+  width: 3.5672rem;
+  height: calc(100% - 0.6rem);
+  display: flex;
+  font-size: 1rem;
+  font-weight: 700;
+  line-height: 1;
+  text-transform: uppercase;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  align-items: center;
+  justify-content: center;
+  background-color: #cccccc;
+  border-radius: 0.3rem;
+  flex-shrink: 0;
+}
+.halaman-utama-sebelum-masuk-BKP .categories-uwo .container-mDK .auto-group-hrz3-7Y5 .auto-group-fict-D7F .shot-hq3 {
+  box-sizing: border-box;
+  padding: 0.0125rem 0;
+  width: 29.7rem;
+  height: 100%;
+  cursor: pointer;
+  flex-shrink: 0;
+}
+.halaman-utama-sebelum-masuk-BKP .categories-uwo .container-mDK .auto-group-hrz3-7Y5 .auto-group-fict-D7F .shot-hq3 .thumbnail-3tu {
+  margin-bottom: 0.8rem;
+  width: 100%;
+  height: 22.275rem;
+  overflow: hidden;
+  position: relative;
+  border-radius: 0.8rem;
+}
+.halaman-utama-sebelum-masuk-BKP .categories-uwo .container-mDK .auto-group-hrz3-7Y5 .auto-group-fict-D7F .shot-hq3 .thumbnail-3tu .overlay-Pxm {
+  width: 29.7rem;
+  height: 33rem;
+  object-fit: cover;
+  vertical-align: top;
+}
+.halaman-utama-sebelum-masuk-BKP .categories-uwo .container-mDK .auto-group-hrz3-7Y5 .auto-group-fict-D7F .shot-hq3 .avatar-name-8vM {
+  margin-right: 15.1328rem;
+  width: calc(100% - 15.1328rem);
+  height: 2rem;
+  display: flex;
+  align-items: center;
+}
+.halaman-utama-sebelum-masuk-BKP .categories-uwo .container-mDK .auto-group-hrz3-7Y5 .auto-group-fict-D7F .shot-hq3 .avatar-name-8vM .name-5Ko {
+  margin-right: 0.8rem;
+  display: flex;
+  font-size: 1.4rem;
+  font-weight: 500;
+  line-height: 1.4285714286;
+  color: #0d0c22;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.halaman-utama-sebelum-masuk-BKP .categories-uwo .container-mDK .auto-group-hrz3-7Y5 .auto-group-fict-D7F .shot-hq3 .avatar-name-8vM .badge-DB7 {
+  margin: 0.3rem 0;
+  width: 3.5672rem;
+  height: calc(100% - 0.6rem);
+  display: flex;
+  font-size: 1rem;
+  font-weight: 700;
+  line-height: 1;
+  text-transform: uppercase;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  align-items: center;
+  justify-content: center;
+  background-color: #cccccc;
+  border-radius: 0.3rem;
+  flex-shrink: 0;
+}
+.halaman-utama-sebelum-masuk-BKP .categories-uwo .container-mDK .auto-group-hrz3-7Y5 .auto-group-fict-D7F .shot-hc5 {
+  box-sizing: border-box;
+  padding: 0.0125rem 0;
+  width: 29.7rem;
+  height: 100%;
+  cursor: pointer;
+  flex-shrink: 0;
+}
+.halaman-utama-sebelum-masuk-BKP .categories-uwo .container-mDK .auto-group-hrz3-7Y5 .auto-group-fict-D7F .shot-hc5 .thumbnail-rE5 {
+  margin-bottom: 0.8rem;
+  width: 100%;
+  overflow: hidden;
+  position: relative;
+  border-radius: 0.8rem;
+}
+.halaman-utama-sebelum-masuk-BKP .categories-uwo .container-mDK .auto-group-hrz3-7Y5 .auto-group-fict-D7F .shot-hc5 .thumbnail-rE5 .overlay-CYq {
+  width: 29.7rem;
+  height: 22.275rem;
+  object-fit: cover;
+  vertical-align: top;
+}
+.halaman-utama-sebelum-masuk-BKP .categories-uwo .container-mDK .auto-group-hrz3-7Y5 .auto-group-fict-D7F .shot-hc5 .avatar-name-9DB {
+  margin-right: 16.9328rem;
+  width: calc(100% - 16.9328rem);
+  height: 2rem;
+  display: flex;
+  align-items: center;
+}
+.halaman-utama-sebelum-masuk-BKP .categories-uwo .container-mDK .auto-group-hrz3-7Y5 .auto-group-fict-D7F .shot-hc5 .avatar-name-9DB .name-HKP {
+  margin-right: 0.8rem;
+  display: flex;
+  font-size: 1.4rem;
+  font-weight: 500;
+  line-height: 1.4285714286;
+  color: #0d0c22;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.halaman-utama-sebelum-masuk-BKP .categories-uwo .container-mDK .auto-group-hrz3-7Y5 .auto-group-fict-D7F .shot-hc5 .avatar-name-9DB .badge-csT {
+  margin: 0.3rem 0;
+  width: 3.5672rem;
+  height: calc(100% - 0.6rem);
+  display: flex;
+  font-size: 1rem;
+  font-weight: 700;
+  line-height: 1;
+  text-transform: uppercase;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  align-items: center;
+  justify-content: center;
+  background-color: #cccccc;
+  border-radius: 0.3rem;
+  flex-shrink: 0;
+}
+.halaman-utama-sebelum-masuk-BKP .categories-uwo .container-mDK .auto-group-h6kj-73X {
+  margin-bottom: 4.0234rem;
+  width: 100%;
+  height: 25.1rem;
+  display: flex;
+  column-gap: 3.6rem;
+  align-items: center;
+  flex-shrink: 0;
+}
+.halaman-utama-sebelum-masuk-BKP .categories-uwo .container-mDK .auto-group-h6kj-73X .shot-2wB {
+  box-sizing: border-box;
+  padding: 0.0125rem 0;
+  width: 29.7rem;
+  height: 100%;
+  cursor: pointer;
+  flex-shrink: 0;
+}
+.halaman-utama-sebelum-masuk-BKP .categories-uwo .container-mDK .auto-group-h6kj-73X .shot-2wB .thumbnail-NEM {
+  margin-bottom: 0.8rem;
+  width: 100%;
+  overflow: hidden;
+  position: relative;
+  border-radius: 0.8rem;
+}
+.halaman-utama-sebelum-masuk-BKP .categories-uwo .container-mDK .auto-group-h6kj-73X .shot-2wB .thumbnail-NEM .overlay-8DX {
+  width: 29.7rem;
+  height: 22.275rem;
+  object-fit: cover;
+  vertical-align: top;
+}
+.halaman-utama-sebelum-masuk-BKP .categories-uwo .container-mDK .auto-group-h6kj-73X .shot-2wB .avatar-name-Tmb {
+  margin-right: 15.4328rem;
+  width: calc(100% - 15.4328rem);
+  height: 2rem;
+  display: flex;
+  align-items: center;
+}
+.halaman-utama-sebelum-masuk-BKP .categories-uwo .container-mDK .auto-group-h6kj-73X .shot-2wB .avatar-name-Tmb .name-CjB {
+  margin-right: 0.8rem;
+  display: flex;
+  font-size: 1.4rem;
+  font-weight: 500;
+  line-height: 1.4285714286;
+  color: #0d0c22;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.halaman-utama-sebelum-masuk-BKP .categories-uwo .container-mDK .auto-group-h6kj-73X .shot-2wB .avatar-name-Tmb .badge-LaV {
+  margin: 0.3rem 0;
+  width: 2.6672rem;
+  height: calc(100% - 0.6rem);
+  display: flex;
+  font-size: 1rem;
+  font-weight: 700;
+  line-height: 1;
+  text-transform: uppercase;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  align-items: center;
+  justify-content: center;
+  background-color: #cccccc;
+  border-radius: 0.3rem;
+  flex-shrink: 0;
+}
+.halaman-utama-sebelum-masuk-BKP .categories-uwo .container-mDK .auto-group-h6kj-73X .shot-Rbw {
+  box-sizing: border-box;
+  padding: 0.0125rem 0;
+  width: 29.7rem;
+  height: 100%;
+  cursor: pointer;
+  flex-shrink: 0;
+}
+.halaman-utama-sebelum-masuk-BKP .categories-uwo .container-mDK .auto-group-h6kj-73X .shot-Rbw .thumbnail-aDw {
+  margin-bottom: 0.8rem;
+  width: 100%;
+  overflow: hidden;
+  position: relative;
+  border-radius: 0.8rem;
+}
+.halaman-utama-sebelum-masuk-BKP .categories-uwo .container-mDK .auto-group-h6kj-73X .shot-Rbw .thumbnail-aDw .overlay-KhK {
+  width: 29.7rem;
+  height: 22.275rem;
+  object-fit: cover;
+  vertical-align: top;
+}
+.halaman-utama-sebelum-masuk-BKP .categories-uwo .container-mDK .auto-group-h6kj-73X .shot-Rbw .avatar-name-G6m {
+  margin-right: 10.0328rem;
+  width: calc(100% - 10.0328rem);
+  height: 2rem;
+  display: flex;
+  align-items: center;
+}
+.halaman-utama-sebelum-masuk-BKP .categories-uwo .container-mDK .auto-group-h6kj-73X .shot-Rbw .avatar-name-G6m .name-QTs {
+  margin-right: 0.8rem;
+  display: flex;
+  font-size: 1.4rem;
+  font-weight: 500;
+  line-height: 1.4285714286;
+  color: #0d0c22;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.halaman-utama-sebelum-masuk-BKP .categories-uwo .container-mDK .auto-group-h6kj-73X .shot-Rbw .avatar-name-G6m .badge-u9j {
+  margin: 0.3rem 0;
+  width: 3.5672rem;
+  height: calc(100% - 0.6rem);
+  display: flex;
+  font-size: 1rem;
+  font-weight: 700;
+  line-height: 1;
+  text-transform: uppercase;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  align-items: center;
+  justify-content: center;
+  background-color: #cccccc;
+  border-radius: 0.3rem;
+  flex-shrink: 0;
+}
+.halaman-utama-sebelum-masuk-BKP .categories-uwo .container-mDK .auto-group-h6kj-73X .shot-B7F {
+  box-sizing: border-box;
+  padding: 0.0125rem 0;
+  width: 29.7rem;
+  height: 100%;
+  cursor: pointer;
+  flex-shrink: 0;
+}
+.halaman-utama-sebelum-masuk-BKP .categories-uwo .container-mDK .auto-group-h6kj-73X .shot-B7F .thumbnail-icy {
+  margin-bottom: 0.8rem;
+  width: 100%;
+  height: 22.275rem;
+  overflow: hidden;
+  position: relative;
+  border-radius: 0.8rem;
+}
+.halaman-utama-sebelum-masuk-BKP .categories-uwo .container-mDK .auto-group-h6kj-73X .shot-B7F .thumbnail-icy .overlay-f2R {
+  width: 29.7rem;
+  height: 35.5rem;
+  object-fit: cover;
+  vertical-align: top;
+}
+.halaman-utama-sebelum-masuk-BKP .categories-uwo .container-mDK .auto-group-h6kj-73X .shot-B7F .avatar-name-zaV {
+  margin-right: 15.0328rem;
+  width: calc(100% - 15.0328rem);
+  height: 2rem;
+  display: flex;
+  align-items: center;
+}
+.halaman-utama-sebelum-masuk-BKP .categories-uwo .container-mDK .auto-group-h6kj-73X .shot-B7F .avatar-name-zaV .name-L8Z {
+  margin-right: 0.8rem;
+  display: flex;
+  font-size: 1.4rem;
+  font-weight: 500;
+  line-height: 1.4285714286;
+  color: #0d0c22;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.halaman-utama-sebelum-masuk-BKP .categories-uwo .container-mDK .auto-group-h6kj-73X .shot-B7F .avatar-name-zaV .badge-Tiy {
+  margin: 0.3rem 0;
+  width: 2.6672rem;
+  height: calc(100% - 0.6rem);
+  display: flex;
+  font-size: 1rem;
+  font-weight: 700;
+  line-height: 1;
+  text-transform: uppercase;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  align-items: center;
+  justify-content: center;
+  background-color: #cccccc;
+  border-radius: 0.3rem;
+  flex-shrink: 0;
+}
+.halaman-utama-sebelum-masuk-BKP .categories-uwo .container-mDK .auto-group-h6kj-73X .shot-jwP {
+  box-sizing: border-box;
+  padding: 0.0125rem 0;
+  width: 29.7rem;
+  height: 100%;
+  cursor: pointer;
+  flex-shrink: 0;
+}
+.halaman-utama-sebelum-masuk-BKP .categories-uwo .container-mDK .auto-group-h6kj-73X .shot-jwP .thumbnail-Uty {
+  margin-bottom: 0.8rem;
+  width: 100%;
+  overflow: hidden;
+  position: relative;
+  border-radius: 0.8rem;
+}
+.halaman-utama-sebelum-masuk-BKP .categories-uwo .container-mDK .auto-group-h6kj-73X .shot-jwP .thumbnail-Uty .overlay-S57 {
+  width: 29.7rem;
+  height: 22.275rem;
+  object-fit: cover;
+  vertical-align: top;
+}
+.halaman-utama-sebelum-masuk-BKP .categories-uwo .container-mDK .auto-group-h6kj-73X .shot-jwP .avatar-name-Amo {
+  margin-right: 14.0328rem;
+  width: calc(100% - 14.0328rem);
+  height: 2rem;
+  display: flex;
+  align-items: center;
+}
+.halaman-utama-sebelum-masuk-BKP .categories-uwo .container-mDK .auto-group-h6kj-73X .shot-jwP .avatar-name-Amo .name-Jt1 {
+  margin-right: 0.8rem;
+  display: flex;
+  font-size: 1.4rem;
+  font-weight: 500;
+  line-height: 1.4285714286;
+  color: #0d0c22;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.halaman-utama-sebelum-masuk-BKP .categories-uwo .container-mDK .auto-group-h6kj-73X .shot-jwP .avatar-name-Amo .badge-F2Z {
+  margin: 0.3rem 0;
+  width: 3.5672rem;
+  height: calc(100% - 0.6rem);
+  display: flex;
+  font-size: 1rem;
+  font-weight: 700;
+  line-height: 1;
+  text-transform: uppercase;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  align-items: center;
+  justify-content: center;
+  background-color: #cccccc;
+  border-radius: 0.3rem;
+  flex-shrink: 0;
+}
+.halaman-utama-sebelum-masuk-BKP .categories-uwo .container-mDK .auto-group-6ivx-7qT {
+  margin-bottom: 4rem;
+  width: 100%;
+  height: 25.1rem;
+  display: flex;
+  column-gap: 3.6rem;
+  align-items: center;
+  flex-shrink: 0;
+}
+.halaman-utama-sebelum-masuk-BKP .categories-uwo .container-mDK .auto-group-6ivx-7qT .shot-qmT {
+  box-sizing: border-box;
+  padding: 0.0125rem 0;
+  width: 29.7rem;
+  height: 100%;
+  cursor: pointer;
+  flex-shrink: 0;
+}
+.halaman-utama-sebelum-masuk-BKP .categories-uwo .container-mDK .auto-group-6ivx-7qT .shot-qmT .thumbnail-ayw {
+  margin-bottom: 0.8rem;
+  width: 100%;
+  overflow: hidden;
+  position: relative;
+  border-radius: 0.8rem;
+}
+.halaman-utama-sebelum-masuk-BKP .categories-uwo .container-mDK .auto-group-6ivx-7qT .shot-qmT .thumbnail-ayw .overlay-YA5 {
+  width: 29.7rem;
+  height: 22.275rem;
+  object-fit: cover;
+  vertical-align: top;
+}
+.halaman-utama-sebelum-masuk-BKP .categories-uwo .container-mDK .auto-group-6ivx-7qT .shot-qmT .avatar-name-UZX {
+  margin-right: 17.2328rem;
+  width: calc(100% - 17.2328rem);
+  height: 2rem;
+  display: flex;
+  align-items: center;
+}
+.halaman-utama-sebelum-masuk-BKP .categories-uwo .container-mDK .auto-group-6ivx-7qT .shot-qmT .avatar-name-UZX .name-1pM {
+  margin-right: 0.8rem;
+  display: flex;
+  font-size: 1.4rem;
+  font-weight: 500;
+  line-height: 1.4285714286;
+  color: #0d0c22;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.halaman-utama-sebelum-masuk-BKP .categories-uwo .container-mDK .auto-group-6ivx-7qT .shot-qmT .avatar-name-UZX .badge-wxu {
+  margin: 0.3rem 0;
+  width: 2.6672rem;
+  height: calc(100% - 0.6rem);
+  display: flex;
+  font-size: 1rem;
+  font-weight: 700;
+  line-height: 1;
+  text-transform: uppercase;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  align-items: center;
+  justify-content: center;
+  background-color: #cccccc;
+  border-radius: 0.3rem;
+  flex-shrink: 0;
+}
+.halaman-utama-sebelum-masuk-BKP .categories-uwo .container-mDK .auto-group-6ivx-7qT .shot-d53 {
+  box-sizing: border-box;
+  padding: 0.0125rem 0;
+  width: 29.7rem;
+  height: 100%;
+  cursor: pointer;
+  flex-shrink: 0;
+}
+.halaman-utama-sebelum-masuk-BKP .categories-uwo .container-mDK .auto-group-6ivx-7qT .shot-d53 .thumbnail-mBF {
+  margin-bottom: 0.8rem;
+  width: 100%;
+  overflow: hidden;
+  position: relative;
+  border-radius: 0.8rem;
+}
+.halaman-utama-sebelum-masuk-BKP .categories-uwo .container-mDK .auto-group-6ivx-7qT .shot-d53 .thumbnail-mBF .image-Jws {
+  width: 29.7rem;
+  height: 22.275rem;
+  position: relative;
+  background-size: 100% 100%;
+  background-image: url('../assets/image-LyF.png');
+}
+.halaman-utama-sebelum-masuk-BKP .categories-uwo .container-mDK .auto-group-6ivx-7qT .shot-d53 .avatar-name-pQR {
+  margin-right: 12.5328rem;
+  width: calc(100% - 12.5328rem);
+  height: 2rem;
+  display: flex;
+  align-items: center;
+}
+.halaman-utama-sebelum-masuk-BKP .categories-uwo .container-mDK .auto-group-6ivx-7qT .shot-d53 .avatar-name-pQR .name-Mv9 {
+  margin-right: 0.8rem;
+  display: flex;
+  font-size: 1.4rem;
+  font-weight: 500;
+  line-height: 1.4285714286;
+  color: #0d0c22;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.halaman-utama-sebelum-masuk-BKP .categories-uwo .container-mDK .auto-group-6ivx-7qT .shot-d53 .avatar-name-pQR .badge-6Mw {
+  margin: 0.3rem 0;
+  width: 2.6672rem;
+  height: calc(100% - 0.6rem);
+  display: flex;
+  font-size: 1rem;
+  font-weight: 700;
+  line-height: 1;
+  text-transform: uppercase;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  align-items: center;
+  justify-content: center;
+  background-color: #cccccc;
+  border-radius: 0.3rem;
+  flex-shrink: 0;
+}
+.halaman-utama-sebelum-masuk-BKP .categories-uwo .container-mDK .auto-group-6ivx-7qT .shot-mys {
+  box-sizing: border-box;
+  padding: 0.0125rem 0;
+  width: 29.7rem;
+  height: 100%;
+  cursor: pointer;
+  flex-shrink: 0;
+}
+.halaman-utama-sebelum-masuk-BKP .categories-uwo .container-mDK .auto-group-6ivx-7qT .shot-mys .thumbnail-iu7 {
+  margin-bottom: 0.8rem;
+  width: 100%;
+  height: 22.275rem;
+  overflow: hidden;
+  position: relative;
+  border-radius: 0.8rem;
+}
+.halaman-utama-sebelum-masuk-BKP .categories-uwo .container-mDK .auto-group-6ivx-7qT .shot-mys .thumbnail-iu7 .image-5Ds {
+  width: 100%;
+  height: 100%;
+  overflow: hidden;
+  position: relative;
+  background-size: 100% 100%;
+  background-image: url('../assets/image-bg-wus.png');
+}
+.halaman-utama-sebelum-masuk-BKP .categories-uwo .container-mDK .auto-group-6ivx-7qT .shot-mys .thumbnail-iu7 .image-5Ds .image-3-EsT {
+  width: 44.9rem;
+  height: 54.9rem;
+  object-fit: cover;
+  vertical-align: top;
+}
+.halaman-utama-sebelum-masuk-BKP .categories-uwo .container-mDK .auto-group-6ivx-7qT .shot-mys .thumbnail-iu7 .image-5Ds .image-5Ds-bg {
+  width: 29.7rem;
+  height: 22.275rem;
+  position: relative;
+  background-image: url('REPLACE_IMAGE:2398a7c8c7c56be6cd385408d6d71fcfe7e6f1be');
+}
+.halaman-utama-sebelum-masuk-BKP .categories-uwo .container-mDK .auto-group-6ivx-7qT .shot-mys .avatar-name-K8D {
+  margin-right: 9.5328rem;
+  width: calc(100% - 9.5328rem);
+  height: 2rem;
+  display: flex;
+  align-items: center;
+}
+.halaman-utama-sebelum-masuk-BKP .categories-uwo .container-mDK .auto-group-6ivx-7qT .shot-mys .avatar-name-K8D .name-SyX {
+  margin-right: 0.8rem;
+  display: flex;
+  font-size: 1.4rem;
+  font-weight: 500;
+  line-height: 1.4285714286;
+  color: #0d0c22;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.halaman-utama-sebelum-masuk-BKP .categories-uwo .container-mDK .auto-group-6ivx-7qT .shot-mys .avatar-name-K8D .badge-b5j {
+  margin: 0.3rem 0;
+  width: 3.5672rem;
+  height: calc(100% - 0.6rem);
+  display: flex;
+  font-size: 1rem;
+  font-weight: 700;
+  line-height: 1;
+  text-transform: uppercase;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  align-items: center;
+  justify-content: center;
+  background-color: #cccccc;
+  border-radius: 0.3rem;
+  flex-shrink: 0;
+}
+.halaman-utama-sebelum-masuk-BKP .categories-uwo .container-mDK .auto-group-6ivx-7qT .shot-tKj {
+  box-sizing: border-box;
+  padding: 0.0125rem 0;
+  width: 29.7rem;
+  height: 100%;
+  cursor: pointer;
+  flex-shrink: 0;
+}
+.halaman-utama-sebelum-masuk-BKP .categories-uwo .container-mDK .auto-group-6ivx-7qT .shot-tKj .thumbnail-EPb {
+  margin-bottom: 0.8rem;
+  width: 100%;
+  overflow: hidden;
+  position: relative;
+  border-radius: 0.8rem;
+}
+.halaman-utama-sebelum-masuk-BKP .categories-uwo .container-mDK .auto-group-6ivx-7qT .shot-tKj .thumbnail-EPb .image-nAD {
+  width: 29.7rem;
+  height: 22.275rem;
+  position: relative;
+  background-size: 100% 100%;
+  background-image: url('../assets/image-EcH.png');
+}
+.halaman-utama-sebelum-masuk-BKP .categories-uwo .container-mDK .auto-group-6ivx-7qT .shot-tKj .avatar-name-Hsf {
+  margin-right: 16.3328rem;
+  width: calc(100% - 16.3328rem);
+  height: 2rem;
+  display: flex;
+  align-items: center;
+}
+.halaman-utama-sebelum-masuk-BKP .categories-uwo .container-mDK .auto-group-6ivx-7qT .shot-tKj .avatar-name-Hsf .name-EY1 {
+  margin-right: 0.8rem;
+  display: flex;
+  font-size: 1.4rem;
+  font-weight: 500;
+  line-height: 1.4285714286;
+  color: #0d0c22;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.halaman-utama-sebelum-masuk-BKP .categories-uwo .container-mDK .auto-group-6ivx-7qT .shot-tKj .avatar-name-Hsf .badge-a65 {
+  margin: 0.3rem 0;
+  width: 2.6672rem;
+  height: calc(100% - 0.6rem);
+  display: flex;
+  font-size: 1rem;
+  font-weight: 700;
+  line-height: 1;
+  text-transform: uppercase;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  align-items: center;
+  justify-content: center;
+  background-color: #cccccc;
+  border-radius: 0.3rem;
+  flex-shrink: 0;
+}
+.halaman-utama-sebelum-masuk-BKP .categories-uwo .container-mDK .auto-group-mxtv-s5B {
+  width: 100%;
+  height: 25.1rem;
+  display: flex;
+  column-gap: 3.6rem;
+  align-items: center;
+  flex-shrink: 0;
+}
+.halaman-utama-sebelum-masuk-BKP .categories-uwo .container-mDK .auto-group-mxtv-s5B .shot-nxq {
+  box-sizing: border-box;
+  padding: 0.0125rem 0;
+  width: 29.7rem;
+  height: 100%;
+  cursor: pointer;
+  flex-shrink: 0;
+}
+.halaman-utama-sebelum-masuk-BKP .categories-uwo .container-mDK .auto-group-mxtv-s5B .shot-nxq .thumbnail-jNH {
+  margin-bottom: 0.8rem;
+  width: 100%;
+  overflow: hidden;
+  position: relative;
+  border-radius: 0.8rem;
+}
+.halaman-utama-sebelum-masuk-BKP .categories-uwo .container-mDK .auto-group-mxtv-s5B .shot-nxq .thumbnail-jNH .image-VMT {
+  width: 29.7rem;
+  height: 22.275rem;
+  position: relative;
+  background-size: 100% 100%;
+  background-image: url('../assets/image-NB3.png');
+}
+.halaman-utama-sebelum-masuk-BKP .categories-uwo .container-mDK .auto-group-mxtv-s5B .shot-nxq .avatar-name-QjK {
+  margin-right: 18.2328rem;
+  width: calc(100% - 18.2328rem);
+  height: 2rem;
+  display: flex;
+  align-items: center;
+}
+.halaman-utama-sebelum-masuk-BKP .categories-uwo .container-mDK .auto-group-mxtv-s5B .shot-nxq .avatar-name-QjK .name-MPf {
+  margin-right: 0.8rem;
+  display: flex;
+  font-size: 1.4rem;
+  font-weight: 500;
+  line-height: 1.4285714286;
+  color: #0d0c22;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.halaman-utama-sebelum-masuk-BKP .categories-uwo .container-mDK .auto-group-mxtv-s5B .shot-nxq .avatar-name-QjK .badge-UjB {
+  margin: 0.3rem 0;
+  width: 3.5672rem;
+  height: calc(100% - 0.6rem);
+  display: flex;
+  font-size: 1rem;
+  font-weight: 700;
+  line-height: 1;
+  text-transform: uppercase;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  align-items: center;
+  justify-content: center;
+  background-color: #cccccc;
+  border-radius: 0.3rem;
+  flex-shrink: 0;
+}
+.halaman-utama-sebelum-masuk-BKP .categories-uwo .container-mDK .auto-group-mxtv-s5B .shot-xuF {
+  box-sizing: border-box;
+  padding: 0.0125rem 0;
+  width: 29.7rem;
+  height: 100%;
+  cursor: pointer;
+  flex-shrink: 0;
+}
+.halaman-utama-sebelum-masuk-BKP .categories-uwo .container-mDK .auto-group-mxtv-s5B .shot-xuF .thumbnail-upV {
+  margin-bottom: 0.8rem;
+  width: 100%;
+  overflow: hidden;
+  position: relative;
+  border-radius: 0.8rem;
+}
+.halaman-utama-sebelum-masuk-BKP .categories-uwo .container-mDK .auto-group-mxtv-s5B .shot-xuF .thumbnail-upV .image-U6u {
+  width: 29.7rem;
+  height: 22.275rem;
+  position: relative;
+  background-size: 100% 100%;
+  background-image: url('../assets/image-rKb.png');
+}
+.halaman-utama-sebelum-masuk-BKP .categories-uwo .container-mDK .auto-group-mxtv-s5B .shot-xuF .avatar-name-ndP {
+  margin-right: 15.4328rem;
+  width: calc(100% - 15.4328rem);
+  height: 2rem;
+  display: flex;
+  align-items: center;
+}
+.halaman-utama-sebelum-masuk-BKP .categories-uwo .container-mDK .auto-group-mxtv-s5B .shot-xuF .avatar-name-ndP .name-Xay {
+  margin-right: 0.8rem;
+  display: flex;
+  font-size: 1.4rem;
+  font-weight: 500;
+  line-height: 1.4285714286;
+  color: #0d0c22;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.halaman-utama-sebelum-masuk-BKP .categories-uwo .container-mDK .auto-group-mxtv-s5B .shot-xuF .avatar-name-ndP .badge-4L1 {
+  margin: 0.3rem 0;
+  width: 2.6672rem;
+  height: calc(100% - 0.6rem);
+  display: flex;
+  font-size: 1rem;
+  font-weight: 700;
+  line-height: 1;
+  text-transform: uppercase;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  align-items: center;
+  justify-content: center;
+  background-color: #cccccc;
+  border-radius: 0.3rem;
+  flex-shrink: 0;
+}
+.halaman-utama-sebelum-masuk-BKP .categories-uwo .container-mDK .auto-group-mxtv-s5B .shot-kCq {
+  box-sizing: border-box;
+  padding: 0.0125rem 0;
+  width: 29.7rem;
+  height: 100%;
+  cursor: pointer;
+  flex-shrink: 0;
+}
+.halaman-utama-sebelum-masuk-BKP .categories-uwo .container-mDK .auto-group-mxtv-s5B .shot-kCq .thumbnail-hNy {
+  margin-bottom: 0.8rem;
+  width: 100%;
+  overflow: hidden;
+  position: relative;
+  border-radius: 0.8rem;
+}
+.halaman-utama-sebelum-masuk-BKP .categories-uwo .container-mDK .auto-group-mxtv-s5B .shot-kCq .thumbnail-hNy .image-4DX {
+  width: 29.7rem;
+  height: 22.275rem;
+  position: relative;
+  background-size: 100% 100%;
+  background-image: url('../assets/image-XVK.png');
+}
+.halaman-utama-sebelum-masuk-BKP .categories-uwo .container-mDK .auto-group-mxtv-s5B .shot-kCq .avatar-name-aBs {
+  margin-right: 18.3328rem;
+  width: calc(100% - 18.3328rem);
+  height: 2rem;
+  display: flex;
+  align-items: center;
+}
+.halaman-utama-sebelum-masuk-BKP .categories-uwo .container-mDK .auto-group-mxtv-s5B .shot-kCq .avatar-name-aBs .name-JtZ {
+  margin-right: 0.8rem;
+  display: flex;
+  font-size: 1.4rem;
+  font-weight: 500;
+  line-height: 1.4285714286;
+  color: #0d0c22;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.halaman-utama-sebelum-masuk-BKP .categories-uwo .container-mDK .auto-group-mxtv-s5B .shot-kCq .avatar-name-aBs .badge-3bF {
+  margin: 0.3rem 0;
+  width: 3.5672rem;
+  height: calc(100% - 0.6rem);
+  display: flex;
+  font-size: 1rem;
+  font-weight: 700;
+  line-height: 1;
+  text-transform: uppercase;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  align-items: center;
+  justify-content: center;
+  background-color: #cccccc;
+  border-radius: 0.3rem;
+  flex-shrink: 0;
+}
+.halaman-utama-sebelum-masuk-BKP .categories-uwo .container-mDK .auto-group-mxtv-s5B .shot-wAq {
+  box-sizing: border-box;
+  padding: 0.0125rem 0;
+  width: 29.7rem;
+  height: 100%;
+  cursor: pointer;
+  flex-shrink: 0;
+}
+.halaman-utama-sebelum-masuk-BKP .categories-uwo .container-mDK .auto-group-mxtv-s5B .shot-wAq .thumbnail-sqB {
+  margin-bottom: 0.8rem;
+  width: 100%;
+  height: 22.275rem;
+  overflow: hidden;
+  position: relative;
+  border-radius: 0.8rem;
+}
+.halaman-utama-sebelum-masuk-BKP .categories-uwo .container-mDK .auto-group-mxtv-s5B .shot-wAq .thumbnail-sqB .image-dJZ {
+  width: 100%;
+  height: 100%;
+  overflow: hidden;
+  position: relative;
+  background-size: 100% 100%;
+  background-image: url('../assets/image-bg-yAR.png');
+}
+.halaman-utama-sebelum-masuk-BKP .categories-uwo .container-mDK .auto-group-mxtv-s5B .shot-wAq .thumbnail-sqB .image-dJZ .image-dJZ-bg {
+  width: 29.7rem;
+  height: 22.275rem;
+  position: relative;
+  background-image: url('REPLACE_IMAGE:2398a7c8c7c56be6cd385408d6d71fcfe7e6f1be');
+}
+.halaman-utama-sebelum-masuk-BKP .categories-uwo .container-mDK .auto-group-mxtv-s5B .shot-wAq .avatar-name-LCy {
+  margin-right: 10.0328rem;
+  width: calc(100% - 10.0328rem);
+  height: 2rem;
+  display: flex;
+  align-items: center;
+}
+.halaman-utama-sebelum-masuk-BKP .categories-uwo .container-mDK .auto-group-mxtv-s5B .shot-wAq .avatar-name-LCy .name-sih {
+  margin-right: 0.8rem;
+  display: flex;
+  font-size: 1.4rem;
+  font-weight: 500;
+  line-height: 1.4285714286;
+  color: #0d0c22;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.halaman-utama-sebelum-masuk-BKP .categories-uwo .container-mDK .auto-group-mxtv-s5B .shot-wAq .avatar-name-LCy .badge-Cky {
+  margin: 0.3rem 0;
+  width: 3.5672rem;
+  height: calc(100% - 0.6rem);
+  display: flex;
+  font-size: 1rem;
+  font-weight: 700;
+  line-height: 1;
+  text-transform: uppercase;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  align-items: center;
+  justify-content: center;
+  background-color: #cccccc;
+  border-radius: 0.3rem;
+  flex-shrink: 0;
+}
+.halaman-utama-sebelum-masuk-BKP .footer-UiV {
+  box-sizing: border-box;
+  padding: 8rem 16rem 3.2rem 14.65rem;
+  width: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  background-color: #141718;
+  flex-shrink: 0;
+}
+.halaman-utama-sebelum-masuk-BKP .footer-UiV .logo-and-links-CuP {
+  margin-bottom: 5.7rem;
+  width: 100%;
+  height: 2.4rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.halaman-utama-sebelum-masuk-BKP .footer-UiV .logo-and-links-CuP .logo-and-slogan-YiM {
+  margin-right: 27.8rem;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.halaman-utama-sebelum-masuk-BKP .footer-UiV .logo-and-links-CuP .logo-and-slogan-YiM .legant-gJm {
+  margin-right: 1.85rem;
+  text-align: center;
+  font-size: 2.4rem;
+  font-weight: 500;
+  line-height: 1;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: baseline;
+  flex-shrink: 0;
+}
+.halaman-utama-sebelum-masuk-BKP .footer-UiV .logo-and-links-CuP .logo-and-slogan-YiM .legant-gJm .legant-gJm-sub-0 {
+}
+.halaman-utama-sebelum-masuk-BKP .footer-UiV .logo-and-links-CuP .logo-and-slogan-YiM .legant-gJm .legant-gJm-sub-1 {
+  font-size: 2.4rem;
+  font-weight: 500;
+  line-height: 1;
+  color: #38cb89;
+  font-family: Poppins, 'Source Sans Pro';
+}
+.halaman-utama-sebelum-masuk-BKP .footer-UiV .logo-and-links-CuP .logo-and-slogan-YiM .legant-gJm .legant-gJm-sub-2 {
+}
+.halaman-utama-sebelum-masuk-BKP .footer-UiV .logo-and-links-CuP .logo-and-slogan-YiM .legant-gJm .legant-gJm-sub-3 {
+  font-size: 2.4rem;
+  font-weight: 500;
+  line-height: 1;
+  color: #6c7274;
+  font-family: Poppins, 'Source Sans Pro';
+}
+.halaman-utama-sebelum-masuk-BKP .footer-UiV .logo-and-links-CuP .logo-and-slogan-YiM .rectangle-319-JzM {
+  margin-right: 3.2rem;
+  width: 0.1rem;
+  height: 2.4rem;
+  background-color: #6c7274;
+  flex-shrink: 0;
+}
+.halaman-utama-sebelum-masuk-BKP .footer-UiV .logo-and-links-CuP .logo-and-slogan-YiM .gift-decoration-store-eYR {
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.5714285714;
+  color: #e8ecef;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.halaman-utama-sebelum-masuk-BKP .footer-UiV .logo-and-links-CuP .nav-NzD {
+  margin: 0.1rem 0;
+  height: calc(100% - 0.2rem);
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.halaman-utama-sebelum-masuk-BKP .footer-UiV .logo-and-links-CuP .nav-NzD .home-iYH {
+  margin-right: 4rem;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.5714285714;
+  color: #fdfdfd;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.halaman-utama-sebelum-masuk-BKP .footer-UiV .logo-and-links-CuP .nav-NzD .shop-reV {
+  margin-right: 2.2rem;
+  cursor: pointer;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.5714285714;
+  color: #fdfdfd;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.halaman-utama-sebelum-masuk-BKP .footer-UiV .logo-and-links-CuP .nav-NzD .auto-group-jhhu-o3w {
+  margin-right: 4rem;
+  box-sizing: border-box;
+  padding-left: 1.8rem;
+  height: 100%;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.5714285714;
+  color: #fdfdfd;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.halaman-utama-sebelum-masuk-BKP .footer-UiV .logo-and-links-CuP .nav-NzD .contact-us-WDF {
+  cursor: pointer;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.5714285714;
+  color: #fdfdfd;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.halaman-utama-sebelum-masuk-BKP .footer-UiV .bottom-bar-2xH {
+  margin: 0rem 0.2rem 0rem 1.35rem;
+  box-sizing: border-box;
+  padding: 1.6rem 0;
+  width: calc(100% - 1.55rem);
+  height: 5.6rem;
+  display: flex;
+  align-items: center;
+  border: solid 0.1rem #6c7274;
+  flex-shrink: 0;
+}
+.halaman-utama-sebelum-masuk-BKP .footer-UiV .bottom-bar-2xH .copyright-jrh {
+  margin: 0rem 49.8rem 0.4rem 0rem;
+  display: flex;
+  column-gap: 2.8rem;
+  align-items: center;
+  flex-shrink: 0;
+}
+.halaman-utama-sebelum-masuk-BKP .footer-UiV .bottom-bar-2xH .copyright-jrh .copyright-2023-3legant-all-rights-reserved-sCD {
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.6666666667;
+  color: #e8ecef;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.halaman-utama-sebelum-masuk-BKP .footer-UiV .bottom-bar-2xH .copyright-jrh .privacy-policy-mYV {
+  font-size: 1.2rem;
+  font-weight: 600;
+  line-height: 1.6666666667;
+  color: #fdfdfd;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.halaman-utama-sebelum-masuk-BKP .footer-UiV .bottom-bar-2xH .copyright-jrh .terms-of-use-6qf {
+  font-size: 1.2rem;
+  font-weight: 600;
+  line-height: 1.6666666667;
+  color: #fdfdfd;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.halaman-utama-sebelum-masuk-BKP .footer-UiV .bottom-bar-2xH .social-icon-qHT {
+  box-sizing: border-box;
+  padding: 0.2rem 0.2rem 0.2rem 0rem;
+  height: 100%;
+  display: flex;
+  column-gap: 3.2rem;
+  align-items: center;
+  flex-shrink: 0;
+}
+.halaman-utama-sebelum-masuk-BKP .footer-UiV .bottom-bar-2xH .social-icon-qHT .social-outline-instagram-MFo {
+  width: 2rem;
+  height: 2rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.halaman-utama-sebelum-masuk-BKP .footer-UiV .bottom-bar-2xH .social-icon-qHT .social-outline-facebook-h4m {
+  width: 1.2rem;
+  height: 1.8rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.halaman-utama-sebelum-masuk-BKP .footer-UiV .bottom-bar-2xH .social-icon-qHT .social-outline-youtube-SHF {
+  width: 2rem;
+  height: 1.8rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}

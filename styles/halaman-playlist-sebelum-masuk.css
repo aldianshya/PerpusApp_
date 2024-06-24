@@ -1,0 +1,1007 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 144rem;
+}.halaman-playlist-sebelum-masuk-sFo {
+  width: 100%;
+  overflow: hidden;
+  position: relative;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  background-color: #ffffff;
+}
+.halaman-playlist-sebelum-masuk-sFo .auto-group-2ev9-Pzq {
+  box-sizing: border-box;
+  padding: 0rem 0.1rem 10rem 0.1rem;
+  width: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.halaman-playlist-sebelum-masuk-sFo .auto-group-2ev9-Pzq .navigation-bar-7fw {
+  box-sizing: border-box;
+  padding: 1.6rem 16rem 1.6rem 14.65rem;
+  width: 100%;
+  height: 7.2rem;
+  display: flex;
+  align-items: center;
+  background-color: #ffffff;
+  flex-shrink: 0;
+}
+.halaman-playlist-sebelum-masuk-sFo .auto-group-2ev9-Pzq .navigation-bar-7fw .logo-deH {
+  margin: 0.8rem 16.3rem 0.8rem 0rem;
+  width: 13.2rem;
+  height: calc(100% - 1.6rem);
+  cursor: pointer;
+  text-align: center;
+  font-size: 2.4rem;
+  font-weight: 500;
+  line-height: 1;
+  color: #000000;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+}
+.halaman-playlist-sebelum-masuk-sFo .auto-group-2ev9-Pzq .navigation-bar-7fw .logo-deH .logo-deH-sub-0 {
+}
+.halaman-playlist-sebelum-masuk-sFo .auto-group-2ev9-Pzq .navigation-bar-7fw .logo-deH .logo-deH-sub-1 {
+  font-size: 2.4rem;
+  font-weight: 500;
+  line-height: 1;
+  color: #38cb89;
+  font-family: Poppins, 'Source Sans Pro';
+}
+.halaman-playlist-sebelum-masuk-sFo .auto-group-2ev9-Pzq .navigation-bar-7fw .logo-deH .logo-deH-sub-2 {
+}
+.halaman-playlist-sebelum-masuk-sFo .auto-group-2ev9-Pzq .navigation-bar-7fw .elements-navigation-link-group--tyX {
+  margin: 0.8rem 20.822rem 0.8rem 0rem;
+  height: calc(100% - 1.6rem);
+  display: flex;
+  column-gap: 4rem;
+  align-items: center;
+  flex-shrink: 0;
+}
+.halaman-playlist-sebelum-masuk-sFo .auto-group-2ev9-Pzq .navigation-bar-7fw .elements-navigation-link-group--tyX .elements-navigation-link--zmf {
+  width: 5.6rem;
+  height: 100%;
+  cursor: pointer;
+  flex-shrink: 0;
+}
+.halaman-playlist-sebelum-masuk-sFo .auto-group-2ev9-Pzq .navigation-bar-7fw .elements-navigation-link-group--tyX .elements-navigation-link--zmf .button-kF3 {
+  width: 100%;
+  height: 100%;
+  border: solid 0 #141718;
+  box-sizing: border-box;
+}
+.halaman-playlist-sebelum-masuk-sFo .auto-group-2ev9-Pzq .navigation-bar-7fw .elements-navigation-link-group--tyX .elements-navigation-link--zmf .button-kF3 .content-WED {
+  width: 100%;
+  height: 100%;
+  font-size: 1.4rem;
+  font-weight: 500;
+  line-height: 1.7142857143;
+  color: #6c7274;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.halaman-playlist-sebelum-masuk-sFo .auto-group-2ev9-Pzq .navigation-bar-7fw .elements-navigation-link-group--tyX .elements-navigation-link--Csj {
+  width: 13.1rem;
+  height: 100%;
+  cursor: pointer;
+  flex-shrink: 0;
+}
+.halaman-playlist-sebelum-masuk-sFo .auto-group-2ev9-Pzq .navigation-bar-7fw .elements-navigation-link-group--tyX .elements-navigation-link--Csj .button-xc1 {
+  width: 100%;
+  height: 100%;
+  border: solid 0 #141718;
+  box-sizing: border-box;
+}
+.halaman-playlist-sebelum-masuk-sFo .auto-group-2ev9-Pzq .navigation-bar-7fw .elements-navigation-link-group--tyX .elements-navigation-link--Csj .button-xc1 .content-8WV {
+  width: 100%;
+  height: 100%;
+  font-size: 1.4rem;
+  font-weight: 500;
+  line-height: 1.7142857143;
+  color: #6c7274;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.halaman-playlist-sebelum-masuk-sFo .auto-group-2ev9-Pzq .navigation-bar-7fw .elements-navigation-link-group--tyX .auto-group-vu8b-qvh {
+  width: 18.2rem;
+  height: 100%;
+  position: relative;
+  flex-shrink: 0;
+}
+.halaman-playlist-sebelum-masuk-sFo .auto-group-2ev9-Pzq .navigation-bar-7fw .elements-navigation-link-group--tyX .auto-group-vu8b-qvh .button-nqw {
+  width: 11.7272rem;
+  height: 2.4rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  border: solid 0 #141718;
+  box-sizing: border-box;
+}
+.halaman-playlist-sebelum-masuk-sFo .auto-group-2ev9-Pzq .navigation-bar-7fw .elements-navigation-link-group--tyX .auto-group-vu8b-qvh .button-nqw .content-vx9 {
+  margin-right: 6.9272rem;
+  width: 4.8rem;
+  height: 100%;
+  font-size: 1.4rem;
+  font-weight: 500;
+  line-height: 1.7142857143;
+  color: #141718;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.halaman-playlist-sebelum-masuk-sFo .auto-group-2ev9-Pzq .navigation-bar-7fw .elements-navigation-link-group--tyX .auto-group-vu8b-qvh .elements-navigation-link--Re1 {
+  width: 9.4rem;
+  height: 2.4rem;
+  cursor: pointer;
+  position: absolute;
+  left: 8.8rem;
+  top: 0;
+}
+.halaman-playlist-sebelum-masuk-sFo .auto-group-2ev9-Pzq .navigation-bar-7fw .elements-navigation-link-group--tyX .auto-group-vu8b-qvh .elements-navigation-link--Re1 .button-x89 {
+  width: 100%;
+  height: 100%;
+  font-size: 1.4rem;
+  font-weight: 500;
+  line-height: 1.7142857143;
+  color: #6c7274;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border: solid 0 #141718;
+  box-sizing: border-box;
+}
+.halaman-playlist-sebelum-masuk-sFo .auto-group-2ev9-Pzq .navigation-bar-7fw .icons-U6V {
+  height: 100%;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.halaman-playlist-sebelum-masuk-sFo .auto-group-2ev9-Pzq .navigation-bar-7fw .icons-U6V .auto-group-aydm-qBw {
+  box-sizing: border-box;
+  padding: 0.6rem 1.6rem 0.6rem 0.228rem;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.halaman-playlist-sebelum-masuk-sFo .auto-group-2ev9-Pzq .navigation-bar-7fw .icons-U6V .auto-group-aydm-qBw .interface-outline-search-02-Z7w {
+  margin-right: 1.7719rem;
+  width: 2rem;
+  height: 2rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.halaman-playlist-sebelum-masuk-sFo .auto-group-2ev9-Pzq .navigation-bar-7fw .icons-U6V .auto-group-aydm-qBw .masuk-tAD {
+  cursor: pointer;
+  display: flex;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.75;
+  color: #6e6d7a;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.halaman-playlist-sebelum-masuk-sFo .auto-group-2ev9-Pzq .navigation-bar-7fw .icons-U6V .sign-up-1kd {
+  width: 7.3281rem;
+  height: 100%;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 1.4rem;
+  font-weight: 500;
+  line-height: 1.4285714286;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  background-color: #38cb89;
+  border-radius: 0.8rem;
+  flex-shrink: 0;
+}
+.halaman-playlist-sebelum-masuk-sFo .auto-group-2ev9-Pzq .image-placeholder-header-JUq {
+  margin: 0rem 15.9rem 6rem 15.9rem;
+  box-sizing: border-box;
+  padding: 11.5rem 39.75rem 11.5rem 39.65rem;
+  width: calc(100% - 31.8rem);
+  height: 39.2rem;
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/paste-image-bg-vdf.png');
+  flex-shrink: 0;
+}
+.halaman-playlist-sebelum-masuk-sFo .auto-group-2ev9-Pzq .image-placeholder-header-JUq .title-ax9 {
+  width: 100%;
+  height: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+}
+.halaman-playlist-sebelum-masuk-sFo .auto-group-2ev9-Pzq .image-placeholder-header-JUq .title-ax9 .breadcrumbs-link-group-ja9 {
+  margin: 0rem 9.5rem 2.4rem 9.5rem;
+  width: calc(100% - 19rem);
+  height: 2.4rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.halaman-playlist-sebelum-masuk-sFo .auto-group-2ev9-Pzq .image-placeholder-header-JUq .title-ax9 .breadcrumbs-link-group-ja9 .breadcrumbs-button-FYV {
+  margin-right: 0.4416rem;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.halaman-playlist-sebelum-masuk-sFo .auto-group-2ev9-Pzq .image-placeholder-header-JUq .title-ax9 .breadcrumbs-link-group-ja9 .breadcrumbs-button-FYV .link-oK7 {
+  margin-right: 0.8584rem;
+  font-size: 1.4rem;
+  font-weight: 500;
+  line-height: 1.7142857143;
+  color: #5f5f5f;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.halaman-playlist-sebelum-masuk-sFo .auto-group-2ev9-Pzq .image-placeholder-header-JUq .title-ax9 .breadcrumbs-link-group-ja9 .breadcrumbs-button-FYV .icon-chevron-right-jCm {
+  width: 0.3rem;
+  height: 0.6rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.halaman-playlist-sebelum-masuk-sFo .auto-group-2ev9-Pzq .image-placeholder-header-JUq .title-ax9 .breadcrumbs-link-group-ja9 .auto-group-hddu-fMK {
+  box-sizing: border-box;
+  padding-left: 1.6rem;
+  height: 100%;
+  font-size: 1.4rem;
+  font-weight: 500;
+  line-height: 1.7142857143;
+  color: #111111;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.halaman-playlist-sebelum-masuk-sFo .auto-group-2ev9-Pzq .image-placeholder-header-JUq .title-ax9 .album-ZxV {
+  margin: 0rem 0.1rem 2.3rem 0rem;
+  font-size: 5.4rem;
+  font-weight: 500;
+  line-height: 1.0740740741;
+  letter-spacing: -0.1rem;
+  color: #000000;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.halaman-playlist-sebelum-masuk-sFo .auto-group-2ev9-Pzq .image-placeholder-header-JUq .title-ax9 .kreasikan-albummu-sesuka-hatimu-sTP {
+  text-align: center;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.6;
+  color: #111111;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.halaman-playlist-sebelum-masuk-sFo .auto-group-2ev9-Pzq .grids-xzd {
+  margin: 0 15.9rem;
+  width: calc(100% - 31.8rem);
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.halaman-playlist-sebelum-masuk-sFo .auto-group-2ev9-Pzq .grids-xzd .toolbar-Job {
+  margin-bottom: 4rem;
+  width: 100%;
+  height: 2.6rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.halaman-playlist-sebelum-masuk-sFo .auto-group-2ev9-Pzq .grids-xzd .toolbar-Job .dropdown1-425 {
+  margin-right: 89.4rem;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.halaman-playlist-sebelum-masuk-sFo .auto-group-2ev9-Pzq .grids-xzd .toolbar-Job .dropdown1-425 .buat-playlist-1T7 {
+  margin-right: 2.6rem;
+  font-size: 1.6rem;
+  font-weight: 600;
+  line-height: 1.625;
+  color: #6c7274;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.halaman-playlist-sebelum-masuk-sFo .auto-group-2ev9-Pzq .grids-xzd .toolbar-Job .dropdown1-425 .icon-plus-circle-M1B {
+  margin-top: 0.1rem;
+  width: 1.7rem;
+  height: 1.7rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.halaman-playlist-sebelum-masuk-sFo .auto-group-2ev9-Pzq .grids-xzd .toolbar-Job .button-4gH {
+  box-sizing: border-box;
+  padding-right: 0.4773rem;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  border: solid 0 #111111;
+  flex-shrink: 0;
+}
+.halaman-playlist-sebelum-masuk-sFo .auto-group-2ev9-Pzq .grids-xzd .toolbar-Job .button-4gH .content-DZB {
+  margin-right: 0.9227rem;
+  width: 6.3rem;
+  height: 100%;
+  font-size: 1.6rem;
+  font-weight: 600;
+  line-height: 1.625;
+  color: #111111;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+}
+.halaman-playlist-sebelum-masuk-sFo .auto-group-2ev9-Pzq .grids-xzd .toolbar-Job .button-4gH .icon-chevron-down-XJy {
+  width: 1rem;
+  height: 0.5rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.halaman-playlist-sebelum-masuk-sFo .auto-group-2ev9-Pzq .grids-xzd .product-eeV {
+  width: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.halaman-playlist-sebelum-masuk-sFo .auto-group-2ev9-Pzq .grids-xzd .product-eeV .list-1V3 {
+  margin-bottom: 7.7rem;
+  width: 100%;
+  cursor: pointer;
+  row-gap: 2.1rem;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.halaman-playlist-sebelum-masuk-sFo .auto-group-2ev9-Pzq .grids-xzd .product-eeV .list-1V3 .row-01-9r9 {
+  margin-right: 8.9881rem;
+  width: calc(100% - 8.9881rem);
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.halaman-playlist-sebelum-masuk-sFo .auto-group-2ev9-Pzq .grids-xzd .product-eeV .list-1V3 .row-01-9r9 .elements-card-u4d {
+  margin: 0rem 8.988rem 0.3rem 0rem;
+  width: 47.0119rem;
+  height: 17.5rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.halaman-playlist-sebelum-masuk-sFo .auto-group-2ev9-Pzq .grids-xzd .product-eeV .list-1V3 .row-01-9r9 .elements-card-u4d .content-RHs {
+  box-sizing: border-box;
+  padding: 2.4rem;
+  width: 28.2119rem;
+  height: 17.5rem;
+  position: absolute;
+  left: 18.8rem;
+  top: 0;
+  background-color: #e8ecef;
+  border-radius: 0 1.5rem 1.5rem 0;
+}
+.halaman-playlist-sebelum-masuk-sFo .auto-group-2ev9-Pzq .grids-xzd .product-eeV .list-1V3 .row-01-9r9 .elements-card-u4d .content-RHs .textprice-MSR {
+  width: 15.5rem;
+  height: 5.3rem;
+}
+.halaman-playlist-sebelum-masuk-sFo .auto-group-2ev9-Pzq .grids-xzd .product-eeV .list-1V3 .row-01-9r9 .elements-card-u4d .content-RHs .textprice-MSR .angel-book-hWH {
+  margin-bottom: 0.5rem;
+  font-size: 2.8rem;
+  font-weight: 600;
+  line-height: 0.9285714286;
+  color: #141718;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.halaman-playlist-sebelum-masuk-sFo .auto-group-2ev9-Pzq .grids-xzd .product-eeV .list-1V3 .row-01-9r9 .elements-card-u4d .content-RHs .textprice-MSR .by-farhan-XER {
+  font-size: 1.6rem;
+  font-weight: 600;
+  line-height: 1.375;
+  color: #6c7274;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.halaman-playlist-sebelum-masuk-sFo .auto-group-2ev9-Pzq .grids-xzd .product-eeV .list-1V3 .row-01-9r9 .elements-card-u4d .elements-card-dHT {
+  width: 47rem;
+  height: 17.5rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  border-radius: 1.5rem;
+}
+.halaman-playlist-sebelum-masuk-sFo .auto-group-2ev9-Pzq .grids-xzd .product-eeV .list-1V3 .row-01-9r9 .elements-card-u4d .elements-card-dHT .image-placeholder-meZ {
+  margin-right: 28.2rem;
+  width: 18.8rem;
+  height: 100%;
+  overflow: hidden;
+  position: relative;
+}
+.halaman-playlist-sebelum-masuk-sFo .auto-group-2ev9-Pzq .grids-xzd .product-eeV .list-1V3 .row-01-9r9 .elements-card-u4d .elements-card-dHT .image-placeholder-meZ .paste-image-Wc9 {
+  width: 18.8rem;
+  height: 17.5rem;
+  object-fit: cover;
+  vertical-align: top;
+  border-radius: 1.5rem 0 0 1.5rem;
+}
+.halaman-playlist-sebelum-masuk-sFo .auto-group-2ev9-Pzq .grids-xzd .product-eeV .list-1V3 .row-01-9r9 .elements-card-DWZ {
+  margin-top: 0.3rem;
+  width: 47.0119rem;
+  height: 17.5rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.halaman-playlist-sebelum-masuk-sFo .auto-group-2ev9-Pzq .grids-xzd .product-eeV .list-1V3 .row-01-9r9 .elements-card-DWZ .content-AAu {
+  box-sizing: border-box;
+  padding: 2.4rem;
+  width: 28.2119rem;
+  height: 17.5rem;
+  position: absolute;
+  left: 18.8rem;
+  top: 0;
+  background-color: #000000;
+  border-radius: 0 1.5rem 1.5rem 0;
+}
+.halaman-playlist-sebelum-masuk-sFo .auto-group-2ev9-Pzq .grids-xzd .product-eeV .list-1V3 .row-01-9r9 .elements-card-DWZ .content-AAu .textprice-JH7 {
+  width: 15.5rem;
+  height: 5.3rem;
+}
+.halaman-playlist-sebelum-masuk-sFo .auto-group-2ev9-Pzq .grids-xzd .product-eeV .list-1V3 .row-01-9r9 .elements-card-DWZ .content-AAu .textprice-JH7 .angel-book-2U1 {
+  margin-bottom: 0.5rem;
+  font-size: 2.8rem;
+  font-weight: 600;
+  line-height: 0.9285714286;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.halaman-playlist-sebelum-masuk-sFo .auto-group-2ev9-Pzq .grids-xzd .product-eeV .list-1V3 .row-01-9r9 .elements-card-DWZ .content-AAu .textprice-JH7 .by-farhan-mAh {
+  font-size: 1.6rem;
+  font-weight: 600;
+  line-height: 1.375;
+  color: #6c7274;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.halaman-playlist-sebelum-masuk-sFo .auto-group-2ev9-Pzq .grids-xzd .product-eeV .list-1V3 .row-01-9r9 .elements-card-DWZ .elements-card-gHf {
+  width: 47rem;
+  height: 17.5rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  border-radius: 1.5rem;
+}
+.halaman-playlist-sebelum-masuk-sFo .auto-group-2ev9-Pzq .grids-xzd .product-eeV .list-1V3 .row-01-9r9 .elements-card-DWZ .elements-card-gHf .image-placeholder-E4H {
+  margin-right: 28.2rem;
+  width: 18.8rem;
+  height: 100%;
+  overflow: hidden;
+  position: relative;
+}
+.halaman-playlist-sebelum-masuk-sFo .auto-group-2ev9-Pzq .grids-xzd .product-eeV .list-1V3 .row-01-9r9 .elements-card-DWZ .elements-card-gHf .image-placeholder-E4H .paste-image-y1s {
+  width: 18.8rem;
+  height: 17.5rem;
+  object-fit: cover;
+  vertical-align: top;
+  border-radius: 1.5rem 0 0 1.5rem;
+}
+.halaman-playlist-sebelum-masuk-sFo .auto-group-2ev9-Pzq .grids-xzd .product-eeV .list-1V3 .row-5-UjK {
+  margin-right: 8.9881rem;
+  width: calc(100% - 8.9881rem);
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.halaman-playlist-sebelum-masuk-sFo .auto-group-2ev9-Pzq .grids-xzd .product-eeV .list-1V3 .row-5-UjK .elements-card-Dwo {
+  margin: 0rem 8.988rem 0.3rem 0rem;
+  width: 47.0119rem;
+  height: 17.5rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.halaman-playlist-sebelum-masuk-sFo .auto-group-2ev9-Pzq .grids-xzd .product-eeV .list-1V3 .row-5-UjK .elements-card-Dwo .content-9Kf {
+  box-sizing: border-box;
+  padding: 2.4rem;
+  width: 28.2119rem;
+  height: 17.5rem;
+  position: absolute;
+  left: 18.8rem;
+  top: 0;
+  background-color: #e8ecef;
+  border-radius: 0 1.5rem 1.5rem 0;
+}
+.halaman-playlist-sebelum-masuk-sFo .auto-group-2ev9-Pzq .grids-xzd .product-eeV .list-1V3 .row-5-UjK .elements-card-Dwo .content-9Kf .textprice-5j7 {
+  width: 15.5rem;
+  height: 5.3rem;
+}
+.halaman-playlist-sebelum-masuk-sFo .auto-group-2ev9-Pzq .grids-xzd .product-eeV .list-1V3 .row-5-UjK .elements-card-Dwo .content-9Kf .textprice-5j7 .angel-book-2eM {
+  margin-bottom: 0.5rem;
+  font-size: 2.8rem;
+  font-weight: 600;
+  line-height: 0.9285714286;
+  color: #141718;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.halaman-playlist-sebelum-masuk-sFo .auto-group-2ev9-Pzq .grids-xzd .product-eeV .list-1V3 .row-5-UjK .elements-card-Dwo .content-9Kf .textprice-5j7 .by-farhan-AkZ {
+  font-size: 1.6rem;
+  font-weight: 600;
+  line-height: 1.375;
+  color: #6c7274;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.halaman-playlist-sebelum-masuk-sFo .auto-group-2ev9-Pzq .grids-xzd .product-eeV .list-1V3 .row-5-UjK .elements-card-Dwo .elements-card-tRf {
+  width: 47rem;
+  height: 17.5rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  border-radius: 1.5rem;
+}
+.halaman-playlist-sebelum-masuk-sFo .auto-group-2ev9-Pzq .grids-xzd .product-eeV .list-1V3 .row-5-UjK .elements-card-Dwo .elements-card-tRf .image-placeholder-F1K {
+  margin-right: 28.2rem;
+  width: 18.8rem;
+  height: 100%;
+  overflow: hidden;
+  position: relative;
+}
+.halaman-playlist-sebelum-masuk-sFo .auto-group-2ev9-Pzq .grids-xzd .product-eeV .list-1V3 .row-5-UjK .elements-card-Dwo .elements-card-tRf .image-placeholder-F1K .paste-image-PdK {
+  width: 18.8rem;
+  height: 17.5rem;
+  object-fit: cover;
+  vertical-align: top;
+  border-radius: 1.5rem 0 0 1.5rem;
+}
+.halaman-playlist-sebelum-masuk-sFo .auto-group-2ev9-Pzq .grids-xzd .product-eeV .list-1V3 .row-5-UjK .elements-card-7ZK {
+  margin-top: 0.3rem;
+  width: 47.0119rem;
+  height: 17.5rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.halaman-playlist-sebelum-masuk-sFo .auto-group-2ev9-Pzq .grids-xzd .product-eeV .list-1V3 .row-5-UjK .elements-card-7ZK .content-TNH {
+  box-sizing: border-box;
+  padding: 2.4rem;
+  width: 28.2119rem;
+  height: 17.5rem;
+  position: absolute;
+  left: 18.8rem;
+  top: 0;
+  background-color: #000000;
+  border-radius: 0 1.5rem 1.5rem 0;
+}
+.halaman-playlist-sebelum-masuk-sFo .auto-group-2ev9-Pzq .grids-xzd .product-eeV .list-1V3 .row-5-UjK .elements-card-7ZK .content-TNH .textprice-Cam {
+  width: 15.5rem;
+  height: 5.3rem;
+}
+.halaman-playlist-sebelum-masuk-sFo .auto-group-2ev9-Pzq .grids-xzd .product-eeV .list-1V3 .row-5-UjK .elements-card-7ZK .content-TNH .textprice-Cam .angel-book-YPj {
+  margin-bottom: 0.5rem;
+  font-size: 2.8rem;
+  font-weight: 600;
+  line-height: 0.9285714286;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.halaman-playlist-sebelum-masuk-sFo .auto-group-2ev9-Pzq .grids-xzd .product-eeV .list-1V3 .row-5-UjK .elements-card-7ZK .content-TNH .textprice-Cam .by-farhan-fz9 {
+  font-size: 1.6rem;
+  font-weight: 600;
+  line-height: 1.375;
+  color: #6c7274;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.halaman-playlist-sebelum-masuk-sFo .auto-group-2ev9-Pzq .grids-xzd .product-eeV .list-1V3 .row-5-UjK .elements-card-7ZK .elements-card-nYy {
+  width: 47rem;
+  height: 17.5rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  border-radius: 1.5rem;
+}
+.halaman-playlist-sebelum-masuk-sFo .auto-group-2ev9-Pzq .grids-xzd .product-eeV .list-1V3 .row-5-UjK .elements-card-7ZK .elements-card-nYy .image-placeholder-YHF {
+  margin-right: 28.2rem;
+  width: 18.8rem;
+  height: 100%;
+  overflow: hidden;
+  position: relative;
+}
+.halaman-playlist-sebelum-masuk-sFo .auto-group-2ev9-Pzq .grids-xzd .product-eeV .list-1V3 .row-5-UjK .elements-card-7ZK .elements-card-nYy .image-placeholder-YHF .paste-image-guF {
+  width: 18.8rem;
+  height: 17.5rem;
+  object-fit: cover;
+  vertical-align: top;
+  border-radius: 1.5rem 0 0 1.5rem;
+}
+.halaman-playlist-sebelum-masuk-sFo .auto-group-2ev9-Pzq .grids-xzd .product-eeV .list-1V3 .row-4-cH7 {
+  margin-right: 8.9881rem;
+  width: calc(100% - 8.9881rem);
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.halaman-playlist-sebelum-masuk-sFo .auto-group-2ev9-Pzq .grids-xzd .product-eeV .list-1V3 .row-4-cH7 .elements-card-MkV {
+  margin: 0rem 8.988rem 0.3rem 0rem;
+  width: 47.0119rem;
+  height: 17.5rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.halaman-playlist-sebelum-masuk-sFo .auto-group-2ev9-Pzq .grids-xzd .product-eeV .list-1V3 .row-4-cH7 .elements-card-MkV .content-tkR {
+  box-sizing: border-box;
+  padding: 2.4rem;
+  width: 28.2119rem;
+  height: 17.5rem;
+  position: absolute;
+  left: 18.8rem;
+  top: 0;
+  background-color: #e8ecef;
+  border-radius: 0 1.5rem 1.5rem 0;
+}
+.halaman-playlist-sebelum-masuk-sFo .auto-group-2ev9-Pzq .grids-xzd .product-eeV .list-1V3 .row-4-cH7 .elements-card-MkV .content-tkR .textprice-37X {
+  width: 15.5rem;
+  height: 5.3rem;
+}
+.halaman-playlist-sebelum-masuk-sFo .auto-group-2ev9-Pzq .grids-xzd .product-eeV .list-1V3 .row-4-cH7 .elements-card-MkV .content-tkR .textprice-37X .angel-book-z2m {
+  margin-bottom: 0.5rem;
+  font-size: 2.8rem;
+  font-weight: 600;
+  line-height: 0.9285714286;
+  color: #141718;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.halaman-playlist-sebelum-masuk-sFo .auto-group-2ev9-Pzq .grids-xzd .product-eeV .list-1V3 .row-4-cH7 .elements-card-MkV .content-tkR .textprice-37X .by-farhan-uvR {
+  font-size: 1.6rem;
+  font-weight: 600;
+  line-height: 1.375;
+  color: #6c7274;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.halaman-playlist-sebelum-masuk-sFo .auto-group-2ev9-Pzq .grids-xzd .product-eeV .list-1V3 .row-4-cH7 .elements-card-MkV .elements-card-S9f {
+  width: 47rem;
+  height: 17.5rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  border-radius: 1.5rem;
+}
+.halaman-playlist-sebelum-masuk-sFo .auto-group-2ev9-Pzq .grids-xzd .product-eeV .list-1V3 .row-4-cH7 .elements-card-MkV .elements-card-S9f .image-placeholder-amf {
+  margin-right: 28.2rem;
+  width: 18.8rem;
+  height: 100%;
+  overflow: hidden;
+  position: relative;
+}
+.halaman-playlist-sebelum-masuk-sFo .auto-group-2ev9-Pzq .grids-xzd .product-eeV .list-1V3 .row-4-cH7 .elements-card-MkV .elements-card-S9f .image-placeholder-amf .paste-image-8YH {
+  width: 18.8rem;
+  height: 17.5rem;
+  object-fit: cover;
+  vertical-align: top;
+  border-radius: 1.5rem 0 0 1.5rem;
+}
+.halaman-playlist-sebelum-masuk-sFo .auto-group-2ev9-Pzq .grids-xzd .product-eeV .list-1V3 .row-4-cH7 .elements-card-TaZ {
+  margin-top: 0.3rem;
+  width: 47.0119rem;
+  height: 17.5rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.halaman-playlist-sebelum-masuk-sFo .auto-group-2ev9-Pzq .grids-xzd .product-eeV .list-1V3 .row-4-cH7 .elements-card-TaZ .content-QVo {
+  box-sizing: border-box;
+  padding: 2.4rem;
+  width: 28.2119rem;
+  height: 17.5rem;
+  position: absolute;
+  left: 18.8rem;
+  top: 0;
+  background-color: #000000;
+  border-radius: 0 1.5rem 1.5rem 0;
+}
+.halaman-playlist-sebelum-masuk-sFo .auto-group-2ev9-Pzq .grids-xzd .product-eeV .list-1V3 .row-4-cH7 .elements-card-TaZ .content-QVo .textprice-9iH {
+  width: 15.5rem;
+  height: 5.3rem;
+}
+.halaman-playlist-sebelum-masuk-sFo .auto-group-2ev9-Pzq .grids-xzd .product-eeV .list-1V3 .row-4-cH7 .elements-card-TaZ .content-QVo .textprice-9iH .angel-book-W33 {
+  margin-bottom: 0.5rem;
+  font-size: 2.8rem;
+  font-weight: 600;
+  line-height: 0.9285714286;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.halaman-playlist-sebelum-masuk-sFo .auto-group-2ev9-Pzq .grids-xzd .product-eeV .list-1V3 .row-4-cH7 .elements-card-TaZ .content-QVo .textprice-9iH .by-farhan-Ezd {
+  font-size: 1.6rem;
+  font-weight: 600;
+  line-height: 1.375;
+  color: #6c7274;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.halaman-playlist-sebelum-masuk-sFo .auto-group-2ev9-Pzq .grids-xzd .product-eeV .list-1V3 .row-4-cH7 .elements-card-TaZ .elements-card-mUm {
+  width: 47rem;
+  height: 17.5rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  border-radius: 1.5rem;
+}
+.halaman-playlist-sebelum-masuk-sFo .auto-group-2ev9-Pzq .grids-xzd .product-eeV .list-1V3 .row-4-cH7 .elements-card-TaZ .elements-card-mUm .image-placeholder-ieu {
+  margin-right: 28.2rem;
+  width: 18.8rem;
+  height: 100%;
+  overflow: hidden;
+  position: relative;
+}
+.halaman-playlist-sebelum-masuk-sFo .auto-group-2ev9-Pzq .grids-xzd .product-eeV .list-1V3 .row-4-cH7 .elements-card-TaZ .elements-card-mUm .image-placeholder-ieu .paste-image-4Cy {
+  width: 18.8rem;
+  height: 17.5rem;
+  object-fit: cover;
+  vertical-align: top;
+  border-radius: 1.5rem 0 0 1.5rem;
+}
+.halaman-playlist-sebelum-masuk-sFo .auto-group-2ev9-Pzq .grids-xzd .product-eeV .button-NDf {
+  margin: 0 47.1rem;
+  width: calc(100% - 94.2rem);
+  height: 4rem;
+  text-align: center;
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.75;
+  letter-spacing: -0.04rem;
+  color: #141718;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border: solid 0.1rem #141718;
+  box-sizing: border-box;
+  border-radius: 8rem;
+  flex-shrink: 0;
+}
+.halaman-playlist-sebelum-masuk-sFo .footer-DVB {
+  box-sizing: border-box;
+  padding: 8rem 16rem 3.2rem 14.65rem;
+  width: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  background-color: #141718;
+  flex-shrink: 0;
+}
+.halaman-playlist-sebelum-masuk-sFo .footer-DVB .logo-and-links-wvy {
+  margin-bottom: 5.7rem;
+  width: 100%;
+  height: 2.4rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.halaman-playlist-sebelum-masuk-sFo .footer-DVB .logo-and-links-wvy .logo-and-slogan-gtZ {
+  margin-right: 27.8rem;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.halaman-playlist-sebelum-masuk-sFo .footer-DVB .logo-and-links-wvy .logo-and-slogan-gtZ .logo-2xR {
+  margin-right: 1.85rem;
+  width: 13.2rem;
+  height: 100%;
+  cursor: pointer;
+  text-align: center;
+  font-size: 2.4rem;
+  font-weight: 500;
+  line-height: 1;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+}
+.halaman-playlist-sebelum-masuk-sFo .footer-DVB .logo-and-links-wvy .logo-and-slogan-gtZ .logo-2xR .logo-2xR-sub-0 {
+}
+.halaman-playlist-sebelum-masuk-sFo .footer-DVB .logo-and-links-wvy .logo-and-slogan-gtZ .logo-2xR .logo-2xR-sub-1 {
+  font-size: 2.4rem;
+  font-weight: 500;
+  line-height: 1;
+  color: #38cb89;
+  font-family: Poppins, 'Source Sans Pro';
+}
+.halaman-playlist-sebelum-masuk-sFo .footer-DVB .logo-and-links-wvy .logo-and-slogan-gtZ .logo-2xR .logo-2xR-sub-2 {
+}
+.halaman-playlist-sebelum-masuk-sFo .footer-DVB .logo-and-links-wvy .logo-and-slogan-gtZ .rectangle-319-MdK {
+  margin-right: 3.2rem;
+  width: 0.1rem;
+  height: 2.4rem;
+  background-color: #6c7274;
+  flex-shrink: 0;
+}
+.halaman-playlist-sebelum-masuk-sFo .footer-DVB .logo-and-links-wvy .logo-and-slogan-gtZ .gift-decoration-store-tNM {
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.5714285714;
+  color: #e8ecef;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.halaman-playlist-sebelum-masuk-sFo .footer-DVB .logo-and-links-wvy .nav-pG1 {
+  margin: 0.1rem 0;
+  height: calc(100% - 0.2rem);
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.halaman-playlist-sebelum-masuk-sFo .footer-DVB .logo-and-links-wvy .nav-pG1 .home-MFw {
+  margin-right: 4rem;
+  cursor: pointer;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.5714285714;
+  color: #fdfdfd;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.halaman-playlist-sebelum-masuk-sFo .footer-DVB .logo-and-links-wvy .nav-pG1 .shop-tFs {
+  margin-right: 2.2rem;
+  cursor: pointer;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.5714285714;
+  color: #fdfdfd;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.halaman-playlist-sebelum-masuk-sFo .footer-DVB .logo-and-links-wvy .nav-pG1 .auto-group-a8z9-chf {
+  margin-right: 4rem;
+  box-sizing: border-box;
+  padding-left: 1.8rem;
+  height: 100%;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.5714285714;
+  color: #fdfdfd;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.halaman-playlist-sebelum-masuk-sFo .footer-DVB .logo-and-links-wvy .nav-pG1 .contact-us-Wo3 {
+  cursor: pointer;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.5714285714;
+  color: #fdfdfd;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.halaman-playlist-sebelum-masuk-sFo .footer-DVB .bottom-bar-r6D {
+  margin: 0rem 0.2rem 0rem 1.35rem;
+  box-sizing: border-box;
+  padding: 1.6rem 0;
+  width: calc(100% - 1.55rem);
+  height: 5.6rem;
+  display: flex;
+  align-items: center;
+  border: solid 0.1rem #6c7274;
+  flex-shrink: 0;
+}
+.halaman-playlist-sebelum-masuk-sFo .footer-DVB .bottom-bar-r6D .copyright-8pR {
+  margin: 0rem 49.8rem 0.4rem 0rem;
+  display: flex;
+  column-gap: 2.8rem;
+  align-items: center;
+  flex-shrink: 0;
+}
+.halaman-playlist-sebelum-masuk-sFo .footer-DVB .bottom-bar-r6D .copyright-8pR .copyright-2023-3legant-all-rights-reserved-rkR {
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.6666666667;
+  color: #e8ecef;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.halaman-playlist-sebelum-masuk-sFo .footer-DVB .bottom-bar-r6D .copyright-8pR .privacy-policy-yKF {
+  font-size: 1.2rem;
+  font-weight: 600;
+  line-height: 1.6666666667;
+  color: #fdfdfd;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.halaman-playlist-sebelum-masuk-sFo .footer-DVB .bottom-bar-r6D .copyright-8pR .terms-of-use-iGq {
+  font-size: 1.2rem;
+  font-weight: 600;
+  line-height: 1.6666666667;
+  color: #fdfdfd;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.halaman-playlist-sebelum-masuk-sFo .footer-DVB .bottom-bar-r6D .social-icon-3pu {
+  box-sizing: border-box;
+  padding: 0.2rem 0.2rem 0.2rem 0rem;
+  height: 100%;
+  display: flex;
+  column-gap: 3.2rem;
+  align-items: center;
+  flex-shrink: 0;
+}
+.halaman-playlist-sebelum-masuk-sFo .footer-DVB .bottom-bar-r6D .social-icon-3pu .social-outline-instagram-mku {
+  width: 2rem;
+  height: 2rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.halaman-playlist-sebelum-masuk-sFo .footer-DVB .bottom-bar-r6D .social-icon-3pu .social-outline-facebook-6oB {
+  width: 1.2rem;
+  height: 1.8rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.halaman-playlist-sebelum-masuk-sFo .footer-DVB .bottom-bar-r6D .social-icon-3pu .social-outline-youtube-dYD {
+  width: 2rem;
+  height: 1.8rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}

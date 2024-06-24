@@ -1,0 +1,2591 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 144rem;
+}.halaman-deskripsi-buku-sebelum-masuk-ncH {
+  width: 100%;
+  overflow: hidden;
+  position: relative;
+  display: flex;
+  flex-direction: column;
+}
+.halaman-deskripsi-buku-sebelum-masuk-ncH .navigation-bar-W2V {
+  margin: 0 0.1rem;
+  box-sizing: border-box;
+  padding: 1.6rem 16rem 1.6rem 14.65rem;
+  width: calc(100% - 0.2rem);
+  height: 7.2rem;
+  display: flex;
+  align-items: center;
+  background-color: #ffffff;
+  flex-shrink: 0;
+}
+.halaman-deskripsi-buku-sebelum-masuk-ncH .navigation-bar-W2V .logo-ywf {
+  margin: 0.8rem 16.3rem 0.8rem 0rem;
+  width: 13.2rem;
+  height: calc(100% - 1.6rem);
+  cursor: pointer;
+  text-align: center;
+  font-size: 2.4rem;
+  font-weight: 500;
+  line-height: 1;
+  color: #000000;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+}
+.halaman-deskripsi-buku-sebelum-masuk-ncH .navigation-bar-W2V .logo-ywf .logo-ywf-sub-0 {
+}
+.halaman-deskripsi-buku-sebelum-masuk-ncH .navigation-bar-W2V .logo-ywf .logo-ywf-sub-1 {
+  font-size: 2.4rem;
+  font-weight: 500;
+  line-height: 1;
+  color: #38cb89;
+  font-family: Poppins, 'Source Sans Pro';
+}
+.halaman-deskripsi-buku-sebelum-masuk-ncH .navigation-bar-W2V .logo-ywf .logo-ywf-sub-2 {
+}
+.halaman-deskripsi-buku-sebelum-masuk-ncH .navigation-bar-W2V .elements-navigation-link-group--pL1 {
+  margin: 0.8rem 20.822rem 0.8rem 0rem;
+  height: calc(100% - 1.6rem);
+  display: flex;
+  column-gap: 4rem;
+  align-items: center;
+  flex-shrink: 0;
+}
+.halaman-deskripsi-buku-sebelum-masuk-ncH .navigation-bar-W2V .elements-navigation-link-group--pL1 .elements-navigation-link--XER {
+  width: 5.6rem;
+  height: 100%;
+  cursor: pointer;
+  flex-shrink: 0;
+}
+.halaman-deskripsi-buku-sebelum-masuk-ncH .navigation-bar-W2V .elements-navigation-link-group--pL1 .elements-navigation-link--XER .button-4k9 {
+  width: 100%;
+  height: 100%;
+  border: solid 0 #141718;
+  box-sizing: border-box;
+}
+.halaman-deskripsi-buku-sebelum-masuk-ncH .navigation-bar-W2V .elements-navigation-link-group--pL1 .elements-navigation-link--XER .button-4k9 .content-pjK {
+  width: 100%;
+  height: 100%;
+  font-size: 1.4rem;
+  font-weight: 500;
+  line-height: 1.7142857143;
+  color: #6c7274;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.halaman-deskripsi-buku-sebelum-masuk-ncH .navigation-bar-W2V .elements-navigation-link-group--pL1 .elements-navigation-link--Kvy {
+  width: 13.1rem;
+  height: 100%;
+  cursor: pointer;
+  flex-shrink: 0;
+}
+.halaman-deskripsi-buku-sebelum-masuk-ncH .navigation-bar-W2V .elements-navigation-link-group--pL1 .elements-navigation-link--Kvy .button-4tZ {
+  width: 100%;
+  height: 100%;
+  border: solid 0 #141718;
+  box-sizing: border-box;
+}
+.halaman-deskripsi-buku-sebelum-masuk-ncH .navigation-bar-W2V .elements-navigation-link-group--pL1 .elements-navigation-link--Kvy .button-4tZ .content-EY9 {
+  width: 100%;
+  height: 100%;
+  font-size: 1.4rem;
+  font-weight: 500;
+  line-height: 1.7142857143;
+  color: #6c7274;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.halaman-deskripsi-buku-sebelum-masuk-ncH .navigation-bar-W2V .elements-navigation-link-group--pL1 .auto-group-4rek-kFb {
+  width: 18.2rem;
+  height: 100%;
+  position: relative;
+  flex-shrink: 0;
+}
+.halaman-deskripsi-buku-sebelum-masuk-ncH .navigation-bar-W2V .elements-navigation-link-group--pL1 .auto-group-4rek-kFb .elements-navigation-link--tch {
+  width: 11.7272rem;
+  height: 2.4rem;
+  cursor: pointer;
+  position: absolute;
+  left: 0;
+  top: 0;
+}
+.halaman-deskripsi-buku-sebelum-masuk-ncH .navigation-bar-W2V .elements-navigation-link-group--pL1 .auto-group-4rek-kFb .elements-navigation-link--tch .button-RMj {
+  width: 100%;
+  height: 100%;
+  border: solid 0 #141718;
+  box-sizing: border-box;
+}
+.halaman-deskripsi-buku-sebelum-masuk-ncH .navigation-bar-W2V .elements-navigation-link-group--pL1 .auto-group-4rek-kFb .elements-navigation-link--tch .button-RMj .content-yPF {
+  margin-right: 6.9272rem;
+  width: 4.8rem;
+  height: 100%;
+  font-size: 1.4rem;
+  font-weight: 500;
+  line-height: 1.7142857143;
+  color: #6c7274;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.halaman-deskripsi-buku-sebelum-masuk-ncH .navigation-bar-W2V .elements-navigation-link-group--pL1 .auto-group-4rek-kFb .elements-navigation-link--3e1 {
+  width: 9.4rem;
+  height: 2.4rem;
+  cursor: pointer;
+  position: absolute;
+  left: 8.8rem;
+  top: 0;
+}
+.halaman-deskripsi-buku-sebelum-masuk-ncH .navigation-bar-W2V .elements-navigation-link-group--pL1 .auto-group-4rek-kFb .elements-navigation-link--3e1 .button-Yqf {
+  width: 100%;
+  height: 100%;
+  font-size: 1.4rem;
+  font-weight: 500;
+  line-height: 1.7142857143;
+  color: #6c7274;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border: solid 0 #141718;
+  box-sizing: border-box;
+}
+.halaman-deskripsi-buku-sebelum-masuk-ncH .navigation-bar-W2V .icons-1DT {
+  height: 100%;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.halaman-deskripsi-buku-sebelum-masuk-ncH .navigation-bar-W2V .icons-1DT .auto-group-c8y3-9Kf {
+  box-sizing: border-box;
+  padding: 0.6rem 1.6rem 0.6rem 0.228rem;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.halaman-deskripsi-buku-sebelum-masuk-ncH .navigation-bar-W2V .icons-1DT .auto-group-c8y3-9Kf .interface-outline-search-02-28Z {
+  margin-right: 1.7719rem;
+  width: 2rem;
+  height: 2rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.halaman-deskripsi-buku-sebelum-masuk-ncH .navigation-bar-W2V .icons-1DT .auto-group-c8y3-9Kf .masuk-Lf3 {
+  cursor: pointer;
+  display: flex;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.75;
+  color: #6e6d7a;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.halaman-deskripsi-buku-sebelum-masuk-ncH .navigation-bar-W2V .icons-1DT .sign-up-4qw {
+  width: 7.3281rem;
+  height: 100%;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 1.4rem;
+  font-weight: 500;
+  line-height: 1.4285714286;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  background-color: #38cb89;
+  border-radius: 0.8rem;
+  flex-shrink: 0;
+}
+.halaman-deskripsi-buku-sebelum-masuk-ncH .product-loop-jx5 {
+  box-sizing: border-box;
+  padding: 1.6rem 16rem 3.2rem 16.1rem;
+  width: 100%;
+  height: 116.8rem;
+  background-color: #ffffff;
+  flex-shrink: 0;
+}
+.halaman-deskripsi-buku-sebelum-masuk-ncH .product-loop-jx5 .product-loop-Gh7 {
+  width: 100%;
+  height: 100%;
+  display: flex;
+  align-items: flex-start;
+}
+.halaman-deskripsi-buku-sebelum-masuk-ncH .product-loop-jx5 .product-loop-Gh7 .product-page-slider-featured-image-2gH {
+  margin-right: 6.2rem;
+  width: 54.8rem;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.halaman-deskripsi-buku-sebelum-masuk-ncH .product-loop-jx5 .product-loop-Gh7 .product-page-slider-featured-image-2gH .image-placeholder-Lgy {
+  margin-bottom: 1.5rem;
+  box-sizing: border-box;
+  padding: 3.204rem 3.294rem 34.45rem 3.2rem;
+  width: 100%;
+  overflow: hidden;
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/paste-image-bg-U3b.png');
+  flex-shrink: 0;
+}
+.halaman-deskripsi-buku-sebelum-masuk-ncH .product-loop-jx5 .product-loop-Gh7 .product-page-slider-featured-image-2gH .image-placeholder-Lgy .badge-large-3bP {
+  margin: 0rem 0rem 27.838rem 0.006rem;
+  width: 7.9145rem;
+  height: 3.4047rem;
+  text-align: center;
+  font-size: 1.8rem;
+  font-weight: 700;
+  line-height: 1;
+  color: #111111;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #ffffff;
+  border-radius: 0.4rem;
+  flex-shrink: 0;
+}
+.halaman-deskripsi-buku-sebelum-masuk-ncH .product-loop-jx5 .product-loop-Gh7 .product-page-slider-featured-image-2gH .image-placeholder-Lgy .auto-group-mybm-g8Z {
+  width: 48.3059rem;
+  height: 4.0027rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.halaman-deskripsi-buku-sebelum-masuk-ncH .product-loop-jx5 .product-loop-Gh7 .product-page-slider-featured-image-2gH .elements-product-loop-meta-aDw {
+  box-sizing: border-box;
+  padding: 2.4rem 18.8rem 13.1rem 0rem;
+  width: 100%;
+  display: grid;
+  grid-template-columns: repeat(3, 15.0033rem);
+  grid-auto-rows: 3.5917rem;
+  border: solid 0.1rem #e8ecef;
+  flex-shrink: 0;
+}
+.halaman-deskripsi-buku-sebelum-masuk-ncH .product-loop-jx5 .product-loop-Gh7 .product-page-slider-featured-image-2gH .elements-product-loop-meta-aDw .deskripsi--SX3 {
+  width: 100%;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.625;
+  color: #343839;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.halaman-deskripsi-buku-sebelum-masuk-ncH .product-loop-jx5 .product-loop-Gh7 .product-page-slider-featured-image-2gH .elements-product-loop-meta-aDw .category-Ahw {
+  display: flex;
+  align-items: center;
+}
+.halaman-deskripsi-buku-sebelum-masuk-ncH .product-loop-jx5 .product-loop-Gh7 .product-page-slider-featured-image-2gH .elements-product-loop-meta-aDw .category-Ahw .judul-XHb {
+  margin-right: 9.6rem;
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.6666666667;
+  color: #6c7274;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.halaman-deskripsi-buku-sebelum-masuk-ncH .product-loop-jx5 .product-loop-Gh7 .product-page-slider-featured-image-2gH .elements-product-loop-meta-aDw .category-Ahw .bintang-f8u {
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.6666666667;
+  color: #141718;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.halaman-deskripsi-buku-sebelum-masuk-ncH .product-loop-jx5 .product-loop-Gh7 .product-page-slider-featured-image-2gH .elements-product-loop-meta-aDw .category-boF {
+  display: flex;
+  align-items: center;
+}
+.halaman-deskripsi-buku-sebelum-masuk-ncH .product-loop-jx5 .product-loop-Gh7 .product-page-slider-featured-image-2gH .elements-product-loop-meta-aDw .category-boF .pengarang-ALZ {
+  margin-right: 6.5rem;
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.6666666667;
+  color: #6c7274;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.halaman-deskripsi-buku-sebelum-masuk-ncH .product-loop-jx5 .product-loop-Gh7 .product-page-slider-featured-image-2gH .elements-product-loop-meta-aDw .category-boF .tere-liye-hbP {
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.6666666667;
+  color: #141718;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.halaman-deskripsi-buku-sebelum-masuk-ncH .product-loop-jx5 .product-loop-Gh7 .product-page-slider-featured-image-2gH .elements-product-loop-meta-aDw .category-ELR {
+  display: flex;
+  align-items: center;
+}
+.halaman-deskripsi-buku-sebelum-masuk-ncH .product-loop-jx5 .product-loop-Gh7 .product-page-slider-featured-image-2gH .elements-product-loop-meta-aDw .category-ELR .isbn-Pz1 {
+  margin-right: 9.9rem;
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.6666666667;
+  color: #6c7274;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.halaman-deskripsi-buku-sebelum-masuk-ncH .product-loop-jx5 .product-loop-Gh7 .product-page-slider-featured-image-2gH .elements-product-loop-meta-aDw .category-ELR .item-9786239726294-jny {
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.6666666667;
+  color: #141718;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.halaman-deskripsi-buku-sebelum-masuk-ncH .product-loop-jx5 .product-loop-Gh7 .product-page-slider-featured-image-2gH .elements-product-loop-meta-aDw .category-4aM {
+  display: flex;
+  align-items: flex-start;
+}
+.halaman-deskripsi-buku-sebelum-masuk-ncH .product-loop-jx5 .product-loop-Gh7 .product-page-slider-featured-image-2gH .elements-product-loop-meta-aDw .category-4aM .penerbit-ppR {
+  margin-right: 7.9rem;
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.6666666667;
+  color: #6c7274;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.halaman-deskripsi-buku-sebelum-masuk-ncH .product-loop-jx5 .product-loop-Gh7 .product-page-slider-featured-image-2gH .elements-product-loop-meta-aDw .category-4aM .penerbit-sabak-grip-MpM {
+  max-width: 8.7rem;
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.6666666667;
+  color: #141718;
+  font-family: Inter, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.halaman-deskripsi-buku-sebelum-masuk-ncH .product-loop-jx5 .product-loop-Gh7 .product-page-slider-featured-image-2gH .elements-product-loop-meta-aDw .category-61F {
+  display: flex;
+  align-items: center;
+}
+.halaman-deskripsi-buku-sebelum-masuk-ncH .product-loop-jx5 .product-loop-Gh7 .product-page-slider-featured-image-2gH .elements-product-loop-meta-aDw .category-61F .kategori-rFK {
+  margin-right: 7.9rem;
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.6666666667;
+  color: #6c7274;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.halaman-deskripsi-buku-sebelum-masuk-ncH .product-loop-jx5 .product-loop-Gh7 .product-page-slider-featured-image-2gH .elements-product-loop-meta-aDw .category-61F .fiksi-nuf {
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.6666666667;
+  color: #141718;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.halaman-deskripsi-buku-sebelum-masuk-ncH .product-loop-jx5 .product-loop-Gh7 .product-page-slider-featured-image-2gH .elements-product-loop-meta-aDw .category-vW5 {
+  display: flex;
+  align-items: center;
+}
+.halaman-deskripsi-buku-sebelum-masuk-ncH .product-loop-jx5 .product-loop-Gh7 .product-page-slider-featured-image-2gH .elements-product-loop-meta-aDw .category-vW5 .bahasa-VJH {
+  margin-right: 8.5rem;
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.6666666667;
+  color: #6c7274;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.halaman-deskripsi-buku-sebelum-masuk-ncH .product-loop-jx5 .product-loop-Gh7 .product-page-slider-featured-image-2gH .elements-product-loop-meta-aDw .category-vW5 .indonesia-qN9 {
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.6666666667;
+  color: #141718;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.halaman-deskripsi-buku-sebelum-masuk-ncH .product-loop-jx5 .product-loop-Gh7 .content-wvy {
+  width: 50.9rem;
+  height: 100%;
+  flex-shrink: 0;
+}
+.halaman-deskripsi-buku-sebelum-masuk-ncH .product-loop-jx5 .product-loop-Gh7 .content-wvy .info-WDP {
+  margin-bottom: 3.2rem;
+  box-sizing: border-box;
+  padding-bottom: 2.4rem;
+  width: 100%;
+  row-gap: 1.6rem;
+  display: flex;
+  flex-direction: column;
+  border: solid 0.1rem #e8ecef;
+}
+.halaman-deskripsi-buku-sebelum-masuk-ncH .product-loop-jx5 .product-loop-Gh7 .content-wvy .info-WDP .tere-liye-bintang-qFf {
+  font-size: 4rem;
+  font-weight: 500;
+  line-height: 1.1;
+  letter-spacing: -0.04rem;
+  color: #141718;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.halaman-deskripsi-buku-sebelum-masuk-ncH .product-loop-jx5 .product-loop-Gh7 .content-wvy .info-WDP .frame-10-ZhT {
+  margin-right: 35.7rem;
+  width: calc(100% - 35.7rem);
+  height: 2rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.halaman-deskripsi-buku-sebelum-masuk-ncH .product-loop-jx5 .product-loop-Gh7 .content-wvy .info-WDP .frame-10-ZhT .rating-rating-group-6hP {
+  margin: 0.2rem 1rem 0.2rem 0rem;
+  height: calc(100% - 0.4rem);
+  display: flex;
+  column-gap: 0.2rem;
+  align-items: center;
+  flex-shrink: 0;
+}
+.halaman-deskripsi-buku-sebelum-masuk-ncH .product-loop-jx5 .product-loop-Gh7 .content-wvy .info-WDP .frame-10-ZhT .rating-rating-group-6hP .star-icon-zGy {
+  width: 1.6rem;
+  height: 1.6rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.halaman-deskripsi-buku-sebelum-masuk-ncH .product-loop-jx5 .product-loop-Gh7 .content-wvy .info-WDP .frame-10-ZhT .rating-rating-group-6hP .star-icon-XXo {
+  width: 1.6rem;
+  height: 1.6rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.halaman-deskripsi-buku-sebelum-masuk-ncH .product-loop-jx5 .product-loop-Gh7 .content-wvy .info-WDP .frame-10-ZhT .rating-rating-group-6hP .star-icon-sbf {
+  width: 1.6rem;
+  height: 1.6rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.halaman-deskripsi-buku-sebelum-masuk-ncH .product-loop-jx5 .product-loop-Gh7 .content-wvy .info-WDP .frame-10-ZhT .rating-rating-group-6hP .star-icon-pG1 {
+  width: 1.6rem;
+  height: 1.6rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.halaman-deskripsi-buku-sebelum-masuk-ncH .product-loop-jx5 .product-loop-Gh7 .content-wvy .info-WDP .frame-10-ZhT .rating-rating-group-6hP .star-icon-NHX {
+  width: 1.6rem;
+  height: 1.6rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.halaman-deskripsi-buku-sebelum-masuk-ncH .product-loop-jx5 .product-loop-Gh7 .content-wvy .info-WDP .frame-10-ZhT .ulasan-7W1 {
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.6666666667;
+  color: #141718;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.halaman-deskripsi-buku-sebelum-masuk-ncH .product-loop-jx5 .product-loop-Gh7 .content-wvy .info-WDP .deskripsi--FcD {
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.625;
+  color: #343839;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.halaman-deskripsi-buku-sebelum-masuk-ncH .product-loop-jx5 .product-loop-Gh7 .content-wvy .info-WDP .bintang-adalah-buku-keempat-dari-serial-bumi-yang-ditulis-oleh-tere-liye-tere-liye-ialah-nama-pena-dari-seorang-penulis-novel-tersohor-di-indonesia-novel-bintang-menceritakan-tentang-raib-seli-dan-ali-mereka-adalah-murid-sma-kelas-11-dan-berteman-baik-penampilan-mereka-sama-seperti-para-murid-sma-lainnya-tetapi-siapa-sangka-bahwa-mereka-memiliki-dan-menyimpan-banyak-rahasia-besar-raib-seorang-remaja-pada-umumnya-tetapi-tanpa-disangka-merupakan-seorang-putri-keturunan-dari-klan-bulan-memiliki-kekuatan-menghilang-dalam-sekejap-kemudian-seli-adalah-seorang-remaja-berasal-dari-klan-matahari-yang-berada-di-bumi-sebab-mamanya-yang-berasal-dari-matahari-turun-dan-menetap-di-bumi-ia-mempunyai-kemampuan-dapat-mengeluarkan-petir-kami-bertiga-teman-baik-remaja-murid-kelas-sebelas-penampilan-kami-sama-seperti-murid-sma-lainnya-tapi-kami-menyimpan-rahasia-besar-namaku-raib-aku-bisa-menghilang-seli-teman-semejaku-bisa-mengeluarkan-petir-dari-telapak-tangannya-dan-ali-si-biang-kerok-sekaligus-si-genius-bisa-berubah-menjadi-beruang-raksasa-kami-bertiga-kemudian-bertualang-ke-dunia-paralel-yang-tidak-diketahui-banyak-orang-yang-disebut-klan-bumi-klan-bulan-klan-matahari-dan-klan-bintang-kami-bertemu-tokoh-tokoh-hebat-penduduk-klan-lain-ini-petualangan-keempat-kami-setelah-tiga-kali-berhasil-menyelamatkan-dunia-paralel-dari-kehancuran-besar-kami-harus-menyaksikan-bahwa-kamilah-yang-melepaskan-musuh-besar-nya-ini-ternyata-bukan-akhir-petualangan-ini-justru-awal-dari-semuanya-buku-keempat-dari-serial-bumi-zJu {
+  max-width: 50.9rem;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.625;
+  color: #6c7274;
+  font-family: Inter, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.halaman-deskripsi-buku-sebelum-masuk-ncH .product-loop-jx5 .product-loop-Gh7 .content-wvy .product-loop-cart-GSm {
+  width: 50.8rem;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+}
+.halaman-deskripsi-buku-sebelum-masuk-ncH .product-loop-jx5 .product-loop-Gh7 .content-wvy .product-loop-cart-GSm .button-1fF {
+  margin-bottom: 1.6rem;
+  width: 100%;
+  height: 5.2rem;
+  cursor: pointer;
+  flex-shrink: 0;
+}
+.halaman-deskripsi-buku-sebelum-masuk-ncH .product-loop-jx5 .product-loop-Gh7 .content-wvy .product-loop-cart-GSm .button-1fF .button-xKb {
+  box-sizing: border-box;
+  padding: 1rem 20.55rem 1rem 20.6rem;
+  width: 100%;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  border: solid 0.1rem #141718;
+  border-radius: 0.8rem;
+}
+.halaman-deskripsi-buku-sebelum-masuk-ncH .product-loop-jx5 .product-loop-Gh7 .content-wvy .product-loop-cart-GSm .button-1fF .button-xKb .icons-heart-line-Uoj {
+  margin: 0rem 0.95rem 0.021rem 0rem;
+  width: 2.2rem;
+  height: 1.7791rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.halaman-deskripsi-buku-sebelum-masuk-ncH .product-loop-jx5 .product-loop-Gh7 .content-wvy .product-loop-cart-GSm .button-1fF .button-xKb .wishlist-bdT {
+  text-align: center;
+  font-size: 1.8rem;
+  font-weight: 500;
+  line-height: 1.7777777778;
+  letter-spacing: -0.04rem;
+  color: #141718;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.halaman-deskripsi-buku-sebelum-masuk-ncH .product-loop-jx5 .product-loop-Gh7 .content-wvy .product-loop-cart-GSm .button-VD3 {
+  width: 100%;
+  height: 5.2rem;
+  cursor: pointer;
+  text-align: center;
+  font-size: 1.8rem;
+  font-weight: 500;
+  line-height: 1.7777777778;
+  letter-spacing: -0.04rem;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #141718;
+  border-radius: 0.8rem;
+  flex-shrink: 0;
+}
+.halaman-deskripsi-buku-sebelum-masuk-ncH .product-carousel-YSD {
+  box-sizing: border-box;
+  padding: 4rem 0rem 8rem 16rem;
+  width: 299.6rem;
+  row-gap: 4.8rem;
+  display: flex;
+  flex-direction: column;
+  background-color: #ffffff;
+  flex-shrink: 0;
+}
+.halaman-deskripsi-buku-sebelum-masuk-ncH .product-carousel-YSD .title-FLd {
+  margin-right: 171.6rem;
+  width: calc(100% - 171.6rem);
+  display: flex;
+  align-items: flex-end;
+  flex-shrink: 0;
+}
+.halaman-deskripsi-buku-sebelum-masuk-ncH .product-carousel-YSD .title-FLd .new-arrivals-bQV {
+  margin-right: 63.8rem;
+  font-size: 2.8rem;
+  font-weight: 500;
+  line-height: 1.2142857143;
+  letter-spacing: -0.06rem;
+  color: #000000;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.halaman-deskripsi-buku-sebelum-masuk-ncH .product-carousel-YSD .title-FLd .button-iV7 {
+  margin-top: 0.6rem;
+  box-sizing: border-box;
+  padding-right: 0.4167rem;
+  display: flex;
+  align-items: center;
+  border: solid 0.1rem #141718;
+  flex-shrink: 0;
+}
+.halaman-deskripsi-buku-sebelum-masuk-ncH .product-carousel-YSD .title-FLd .button-iV7 .get-started-r5X {
+  margin-right: 0.9167rem;
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.75;
+  letter-spacing: -0.04rem;
+  color: #141718;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.halaman-deskripsi-buku-sebelum-masuk-ncH .product-carousel-YSD .title-FLd .button-iV7 .icon-arrow-right-16q {
+  width: 1.1667rem;
+  height: 1rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.halaman-deskripsi-buku-sebelum-masuk-ncH .product-carousel-YSD .product-card-KNR {
+  width: 100%;
+  height: 43.3rem;
+  display: flex;
+  column-gap: 2.4rem;
+  align-items: center;
+  flex-shrink: 0;
+}
+.halaman-deskripsi-buku-sebelum-masuk-ncH .product-carousel-YSD .product-card-KNR .product-card-SC9 {
+  width: 26.2rem;
+  height: 100%;
+  flex-shrink: 0;
+}
+.halaman-deskripsi-buku-sebelum-masuk-ncH .product-carousel-YSD .product-card-KNR .product-card-SC9 .image-placeholder-zDf {
+  margin-bottom: 1.2rem;
+  box-sizing: border-box;
+  padding: 1.6rem;
+  width: 100%;
+  height: 34.9rem;
+  overflow: hidden;
+  position: relative;
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/paste-image-bg-5XP.png');
+}
+.halaman-deskripsi-buku-sebelum-masuk-ncH .product-carousel-YSD .product-card-KNR .product-card-SC9 .image-placeholder-zDf .auto-group-2amr-7ZB {
+  margin-bottom: 26.1rem;
+  box-sizing: border-box;
+  padding-left: 19.8rem;
+  width: 100%;
+  height: 5.6rem;
+}
+.halaman-deskripsi-buku-sebelum-masuk-ncH .product-carousel-YSD .product-card-KNR .product-card-SC9 .image-placeholder-zDf .auto-group-2amr-7ZB .add-to-wishlist-SrM {
+  margin-bottom: 2.4rem;
+  width: 3.2rem;
+  height: 3.2rem;
+  object-fit: contain;
+  vertical-align: top;
+  border-radius: 3.2rem;
+}
+.halaman-deskripsi-buku-sebelum-masuk-ncH .product-carousel-YSD .product-card-KNR .product-card-SC9 .textprice-jKf {
+  width: 8.8rem;
+  row-gap: 0.4rem;
+  display: flex;
+  flex-direction: column;
+}
+.halaman-deskripsi-buku-sebelum-masuk-ncH .product-carousel-YSD .product-card-KNR .product-card-SC9 .textprice-jKf .rating-rating-group-UHF {
+  width: 100%;
+  display: flex;
+  column-gap: 0.2rem;
+  align-items: center;
+  flex-shrink: 0;
+}
+.halaman-deskripsi-buku-sebelum-masuk-ncH .product-carousel-YSD .product-card-KNR .product-card-SC9 .textprice-jKf .rating-rating-group-UHF .star-icon-bcm {
+  width: 1.6rem;
+  height: 1.6rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.halaman-deskripsi-buku-sebelum-masuk-ncH .product-carousel-YSD .product-card-KNR .product-card-SC9 .textprice-jKf .rating-rating-group-UHF .star-icon-jys {
+  width: 1.6rem;
+  height: 1.6rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.halaman-deskripsi-buku-sebelum-masuk-ncH .product-carousel-YSD .product-card-KNR .product-card-SC9 .textprice-jKf .rating-rating-group-UHF .star-icon-6Jd {
+  width: 1.6rem;
+  height: 1.6rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.halaman-deskripsi-buku-sebelum-masuk-ncH .product-carousel-YSD .product-card-KNR .product-card-SC9 .textprice-jKf .rating-rating-group-UHF .star-icon-qn1 {
+  width: 1.6rem;
+  height: 1.6rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.halaman-deskripsi-buku-sebelum-masuk-ncH .product-carousel-YSD .product-card-KNR .product-card-SC9 .textprice-jKf .rating-rating-group-UHF .star-icon-Bqs {
+  width: 1.6rem;
+  height: 1.6rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.halaman-deskripsi-buku-sebelum-masuk-ncH .product-carousel-YSD .product-card-KNR .product-card-SC9 .textprice-jKf .loveseat-sofa-XPw {
+  font-size: 1.6rem;
+  font-weight: 600;
+  line-height: 1.625;
+  color: #141718;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.halaman-deskripsi-buku-sebelum-masuk-ncH .product-carousel-YSD .product-card-KNR .product-card-SC9 .textprice-jKf .tere-liye-4Ps {
+  font-size: 1.4rem;
+  font-weight: 600;
+  line-height: 1.5714285714;
+  color: #141718;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.halaman-deskripsi-buku-sebelum-masuk-ncH .product-carousel-YSD .product-card-KNR .product-card-o6Z {
+  width: 26.2rem;
+  height: 100%;
+  cursor: pointer;
+  flex-shrink: 0;
+}
+.halaman-deskripsi-buku-sebelum-masuk-ncH .product-carousel-YSD .product-card-KNR .product-card-o6Z .image-placeholder-M85 {
+  margin-bottom: 1.2rem;
+  box-sizing: border-box;
+  padding: 1.6rem;
+  width: 100%;
+  height: 34.9rem;
+  overflow: hidden;
+  position: relative;
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/paste-image-bg-oo7.png');
+}
+.halaman-deskripsi-buku-sebelum-masuk-ncH .product-carousel-YSD .product-card-KNR .product-card-o6Z .image-placeholder-M85 .auto-group-y1lf-gAM {
+  width: 100%;
+  height: 5.6rem;
+}
+.halaman-deskripsi-buku-sebelum-masuk-ncH .product-carousel-YSD .product-card-KNR .product-card-o6Z .textprice-Q6M {
+  width: 12.5rem;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+}
+.halaman-deskripsi-buku-sebelum-masuk-ncH .product-carousel-YSD .product-card-KNR .product-card-o6Z .textprice-Q6M .auto-group-vzcb-MGV {
+  box-sizing: border-box;
+  padding-bottom: 0.4rem;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.halaman-deskripsi-buku-sebelum-masuk-ncH .product-carousel-YSD .product-card-KNR .product-card-o6Z .textprice-Q6M .auto-group-vzcb-MGV .rating-rating-group-JBj {
+  margin-bottom: 0.4rem;
+  display: flex;
+  column-gap: 0.2rem;
+  align-items: center;
+  flex-shrink: 0;
+}
+.halaman-deskripsi-buku-sebelum-masuk-ncH .product-carousel-YSD .product-card-KNR .product-card-o6Z .textprice-Q6M .auto-group-vzcb-MGV .rating-rating-group-JBj .star-icon-pvm {
+  width: 1.6rem;
+  height: 1.6rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.halaman-deskripsi-buku-sebelum-masuk-ncH .product-carousel-YSD .product-card-KNR .product-card-o6Z .textprice-Q6M .auto-group-vzcb-MGV .rating-rating-group-JBj .star-icon-Mvh {
+  width: 1.6rem;
+  height: 1.6rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.halaman-deskripsi-buku-sebelum-masuk-ncH .product-carousel-YSD .product-card-KNR .product-card-o6Z .textprice-Q6M .auto-group-vzcb-MGV .rating-rating-group-JBj .star-icon-Jb3 {
+  width: 1.6rem;
+  height: 1.6rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.halaman-deskripsi-buku-sebelum-masuk-ncH .product-carousel-YSD .product-card-KNR .product-card-o6Z .textprice-Q6M .auto-group-vzcb-MGV .rating-rating-group-JBj .star-icon-eeu {
+  width: 1.6rem;
+  height: 1.6rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.halaman-deskripsi-buku-sebelum-masuk-ncH .product-carousel-YSD .product-card-KNR .product-card-o6Z .textprice-Q6M .auto-group-vzcb-MGV .rating-rating-group-JBj .star-icon-QPB {
+  width: 1.6rem;
+  height: 1.6rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.halaman-deskripsi-buku-sebelum-masuk-ncH .product-carousel-YSD .product-card-KNR .product-card-o6Z .textprice-Q6M .auto-group-vzcb-MGV .loveseat-sofa-MJR {
+  font-size: 1.6rem;
+  font-weight: 600;
+  line-height: 1.625;
+  color: #141718;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.halaman-deskripsi-buku-sebelum-masuk-ncH .product-carousel-YSD .product-card-KNR .product-card-o6Z .textprice-Q6M .price-HSy {
+  width: 100%;
+  font-size: 1.4rem;
+  font-weight: 600;
+  line-height: 1.5714285714;
+  color: #141718;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.halaman-deskripsi-buku-sebelum-masuk-ncH .product-carousel-YSD .product-card-KNR .product-card-oRK {
+  width: 26.2rem;
+  height: 100%;
+  cursor: pointer;
+  flex-shrink: 0;
+}
+.halaman-deskripsi-buku-sebelum-masuk-ncH .product-carousel-YSD .product-card-KNR .product-card-oRK .image-placeholder-x3K {
+  margin-bottom: 1.2rem;
+  box-sizing: border-box;
+  padding: 1.6rem;
+  width: 100%;
+  height: 34.9rem;
+  overflow: hidden;
+  position: relative;
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/paste-image-bg-hnH.png');
+}
+.halaman-deskripsi-buku-sebelum-masuk-ncH .product-carousel-YSD .product-card-KNR .product-card-oRK .image-placeholder-x3K .auto-group-wl9z-H5b {
+  width: 100%;
+  height: 5.6rem;
+}
+.halaman-deskripsi-buku-sebelum-masuk-ncH .product-carousel-YSD .product-card-KNR .product-card-oRK .textprice-CiM {
+  width: 12.5rem;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+}
+.halaman-deskripsi-buku-sebelum-masuk-ncH .product-carousel-YSD .product-card-KNR .product-card-oRK .textprice-CiM .auto-group-b7jj-MbF {
+  box-sizing: border-box;
+  padding-bottom: 0.4rem;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.halaman-deskripsi-buku-sebelum-masuk-ncH .product-carousel-YSD .product-card-KNR .product-card-oRK .textprice-CiM .auto-group-b7jj-MbF .rating-rating-group-5GM {
+  margin-bottom: 0.4rem;
+  display: flex;
+  column-gap: 0.2rem;
+  align-items: center;
+  flex-shrink: 0;
+}
+.halaman-deskripsi-buku-sebelum-masuk-ncH .product-carousel-YSD .product-card-KNR .product-card-oRK .textprice-CiM .auto-group-b7jj-MbF .rating-rating-group-5GM .star-icon-oTF {
+  width: 1.6rem;
+  height: 1.6rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.halaman-deskripsi-buku-sebelum-masuk-ncH .product-carousel-YSD .product-card-KNR .product-card-oRK .textprice-CiM .auto-group-b7jj-MbF .rating-rating-group-5GM .star-icon-Xu3 {
+  width: 1.6rem;
+  height: 1.6rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.halaman-deskripsi-buku-sebelum-masuk-ncH .product-carousel-YSD .product-card-KNR .product-card-oRK .textprice-CiM .auto-group-b7jj-MbF .rating-rating-group-5GM .star-icon-UZP {
+  width: 1.6rem;
+  height: 1.6rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.halaman-deskripsi-buku-sebelum-masuk-ncH .product-carousel-YSD .product-card-KNR .product-card-oRK .textprice-CiM .auto-group-b7jj-MbF .rating-rating-group-5GM .star-icon-257 {
+  width: 1.6rem;
+  height: 1.6rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.halaman-deskripsi-buku-sebelum-masuk-ncH .product-carousel-YSD .product-card-KNR .product-card-oRK .textprice-CiM .auto-group-b7jj-MbF .rating-rating-group-5GM .star-icon-mYV {
+  width: 1.6rem;
+  height: 1.6rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.halaman-deskripsi-buku-sebelum-masuk-ncH .product-carousel-YSD .product-card-KNR .product-card-oRK .textprice-CiM .auto-group-b7jj-MbF .loveseat-sofa-JoK {
+  font-size: 1.6rem;
+  font-weight: 600;
+  line-height: 1.625;
+  color: #141718;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.halaman-deskripsi-buku-sebelum-masuk-ncH .product-carousel-YSD .product-card-KNR .product-card-oRK .textprice-CiM .price-3W1 {
+  width: 100%;
+  font-size: 1.4rem;
+  font-weight: 600;
+  line-height: 1.5714285714;
+  color: #141718;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.halaman-deskripsi-buku-sebelum-masuk-ncH .product-carousel-YSD .product-card-KNR .product-card-NYH {
+  width: 26.2rem;
+  height: 100%;
+  cursor: pointer;
+  flex-shrink: 0;
+}
+.halaman-deskripsi-buku-sebelum-masuk-ncH .product-carousel-YSD .product-card-KNR .product-card-NYH .image-placeholder-XRB {
+  margin-bottom: 1.2rem;
+  box-sizing: border-box;
+  padding: 1.6rem;
+  width: 100%;
+  height: 34.9rem;
+  overflow: hidden;
+  position: relative;
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/paste-image-bg-jJy.png');
+}
+.halaman-deskripsi-buku-sebelum-masuk-ncH .product-carousel-YSD .product-card-KNR .product-card-NYH .image-placeholder-XRB .auto-group-vet5-rTT {
+  width: 100%;
+  height: 5.6rem;
+}
+.halaman-deskripsi-buku-sebelum-masuk-ncH .product-carousel-YSD .product-card-KNR .product-card-NYH .textprice-ZMs {
+  width: 12.5rem;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+}
+.halaman-deskripsi-buku-sebelum-masuk-ncH .product-carousel-YSD .product-card-KNR .product-card-NYH .textprice-ZMs .auto-group-ysdq-66u {
+  box-sizing: border-box;
+  padding-bottom: 0.4rem;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.halaman-deskripsi-buku-sebelum-masuk-ncH .product-carousel-YSD .product-card-KNR .product-card-NYH .textprice-ZMs .auto-group-ysdq-66u .rating-rating-group-qKP {
+  margin-bottom: 0.4rem;
+  display: flex;
+  column-gap: 0.2rem;
+  align-items: center;
+  flex-shrink: 0;
+}
+.halaman-deskripsi-buku-sebelum-masuk-ncH .product-carousel-YSD .product-card-KNR .product-card-NYH .textprice-ZMs .auto-group-ysdq-66u .rating-rating-group-qKP .star-icon-a25 {
+  width: 1.6rem;
+  height: 1.6rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.halaman-deskripsi-buku-sebelum-masuk-ncH .product-carousel-YSD .product-card-KNR .product-card-NYH .textprice-ZMs .auto-group-ysdq-66u .rating-rating-group-qKP .star-icon-v5w {
+  width: 1.6rem;
+  height: 1.6rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.halaman-deskripsi-buku-sebelum-masuk-ncH .product-carousel-YSD .product-card-KNR .product-card-NYH .textprice-ZMs .auto-group-ysdq-66u .rating-rating-group-qKP .star-icon-fZK {
+  width: 1.6rem;
+  height: 1.6rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.halaman-deskripsi-buku-sebelum-masuk-ncH .product-carousel-YSD .product-card-KNR .product-card-NYH .textprice-ZMs .auto-group-ysdq-66u .rating-rating-group-qKP .star-icon-ofX {
+  width: 1.6rem;
+  height: 1.6rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.halaman-deskripsi-buku-sebelum-masuk-ncH .product-carousel-YSD .product-card-KNR .product-card-NYH .textprice-ZMs .auto-group-ysdq-66u .rating-rating-group-qKP .star-icon-MS9 {
+  width: 1.6rem;
+  height: 1.6rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.halaman-deskripsi-buku-sebelum-masuk-ncH .product-carousel-YSD .product-card-KNR .product-card-NYH .textprice-ZMs .auto-group-ysdq-66u .loveseat-sofa-JMP {
+  font-size: 1.6rem;
+  font-weight: 600;
+  line-height: 1.625;
+  color: #141718;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.halaman-deskripsi-buku-sebelum-masuk-ncH .product-carousel-YSD .product-card-KNR .product-card-NYH .textprice-ZMs .price-STb {
+  width: 100%;
+  font-size: 1.4rem;
+  font-weight: 600;
+  line-height: 1.5714285714;
+  color: #141718;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.halaman-deskripsi-buku-sebelum-masuk-ncH .product-carousel-YSD .product-card-KNR .product-card-mEy {
+  width: 26.2rem;
+  height: 100%;
+  cursor: pointer;
+  flex-shrink: 0;
+}
+.halaman-deskripsi-buku-sebelum-masuk-ncH .product-carousel-YSD .product-card-KNR .product-card-mEy .image-placeholder-KGV {
+  margin-bottom: 1.2rem;
+  width: 100%;
+  height: 34.9rem;
+  overflow: hidden;
+  position: relative;
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/paste-image-bg-rcy.png');
+}
+.halaman-deskripsi-buku-sebelum-masuk-ncH .product-carousel-YSD .product-card-KNR .product-card-mEy .textprice-2gh {
+  width: 12.5rem;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+}
+.halaman-deskripsi-buku-sebelum-masuk-ncH .product-carousel-YSD .product-card-KNR .product-card-mEy .textprice-2gh .auto-group-15ak-yrq {
+  box-sizing: border-box;
+  padding-bottom: 0.4rem;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.halaman-deskripsi-buku-sebelum-masuk-ncH .product-carousel-YSD .product-card-KNR .product-card-mEy .textprice-2gh .auto-group-15ak-yrq .rating-rating-group-Kvh {
+  margin-bottom: 0.4rem;
+  display: flex;
+  column-gap: 0.2rem;
+  align-items: center;
+  flex-shrink: 0;
+}
+.halaman-deskripsi-buku-sebelum-masuk-ncH .product-carousel-YSD .product-card-KNR .product-card-mEy .textprice-2gh .auto-group-15ak-yrq .rating-rating-group-Kvh .star-icon-rvd {
+  width: 1.6rem;
+  height: 1.6rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.halaman-deskripsi-buku-sebelum-masuk-ncH .product-carousel-YSD .product-card-KNR .product-card-mEy .textprice-2gh .auto-group-15ak-yrq .rating-rating-group-Kvh .star-icon-1oX {
+  width: 1.6rem;
+  height: 1.6rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.halaman-deskripsi-buku-sebelum-masuk-ncH .product-carousel-YSD .product-card-KNR .product-card-mEy .textprice-2gh .auto-group-15ak-yrq .rating-rating-group-Kvh .star-icon-Zq3 {
+  width: 1.6rem;
+  height: 1.6rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.halaman-deskripsi-buku-sebelum-masuk-ncH .product-carousel-YSD .product-card-KNR .product-card-mEy .textprice-2gh .auto-group-15ak-yrq .rating-rating-group-Kvh .star-icon-utu {
+  width: 1.6rem;
+  height: 1.6rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.halaman-deskripsi-buku-sebelum-masuk-ncH .product-carousel-YSD .product-card-KNR .product-card-mEy .textprice-2gh .auto-group-15ak-yrq .rating-rating-group-Kvh .star-icon-f7P {
+  width: 1.6rem;
+  height: 1.6rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.halaman-deskripsi-buku-sebelum-masuk-ncH .product-carousel-YSD .product-card-KNR .product-card-mEy .textprice-2gh .auto-group-15ak-yrq .loveseat-sofa-b13 {
+  font-size: 1.6rem;
+  font-weight: 600;
+  line-height: 1.625;
+  color: #141718;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.halaman-deskripsi-buku-sebelum-masuk-ncH .product-carousel-YSD .product-card-KNR .product-card-mEy .textprice-2gh .price-j7F {
+  width: 100%;
+  font-size: 1.4rem;
+  font-weight: 600;
+  line-height: 1.5714285714;
+  color: #141718;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.halaman-deskripsi-buku-sebelum-masuk-ncH .product-carousel-YSD .product-card-KNR .product-card-T3F {
+  width: 26.2rem;
+  height: 100%;
+  cursor: pointer;
+  flex-shrink: 0;
+}
+.halaman-deskripsi-buku-sebelum-masuk-ncH .product-carousel-YSD .product-card-KNR .product-card-T3F .image-placeholder-CWd {
+  margin-bottom: 1.2rem;
+  width: 100%;
+  height: 34.9rem;
+  overflow: hidden;
+  position: relative;
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/paste-image-bg-gJM.png');
+}
+.halaman-deskripsi-buku-sebelum-masuk-ncH .product-carousel-YSD .product-card-KNR .product-card-T3F .textprice-hyB {
+  width: 12.5rem;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+}
+.halaman-deskripsi-buku-sebelum-masuk-ncH .product-carousel-YSD .product-card-KNR .product-card-T3F .textprice-hyB .auto-group-q9co-3n9 {
+  box-sizing: border-box;
+  padding-bottom: 0.4rem;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.halaman-deskripsi-buku-sebelum-masuk-ncH .product-carousel-YSD .product-card-KNR .product-card-T3F .textprice-hyB .auto-group-q9co-3n9 .rating-rating-group-Pr1 {
+  margin-bottom: 0.4rem;
+  width: 8.8rem;
+  height: 1.6rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.halaman-deskripsi-buku-sebelum-masuk-ncH .product-carousel-YSD .product-card-KNR .product-card-T3F .textprice-hyB .auto-group-q9co-3n9 .loveseat-sofa-XhK {
+  font-size: 1.6rem;
+  font-weight: 600;
+  line-height: 1.625;
+  color: #141718;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.halaman-deskripsi-buku-sebelum-masuk-ncH .product-carousel-YSD .product-card-KNR .product-card-T3F .textprice-hyB .price-4hF {
+  width: 100%;
+  font-size: 1.4rem;
+  font-weight: 600;
+  line-height: 1.5714285714;
+  color: #141718;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.halaman-deskripsi-buku-sebelum-masuk-ncH .product-carousel-YSD .product-card-KNR .product-card-bhB {
+  width: 26.2rem;
+  height: 100%;
+  cursor: pointer;
+  flex-shrink: 0;
+}
+.halaman-deskripsi-buku-sebelum-masuk-ncH .product-carousel-YSD .product-card-KNR .product-card-bhB .image-placeholder-x1w {
+  margin-bottom: 1.2rem;
+  width: 100%;
+  height: 34.9rem;
+  overflow: hidden;
+  position: relative;
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/paste-image-bg-saZ.png');
+}
+.halaman-deskripsi-buku-sebelum-masuk-ncH .product-carousel-YSD .product-card-KNR .product-card-bhB .textprice-56Z {
+  width: 12.5rem;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+}
+.halaman-deskripsi-buku-sebelum-masuk-ncH .product-carousel-YSD .product-card-KNR .product-card-bhB .textprice-56Z .auto-group-emtp-ppq {
+  box-sizing: border-box;
+  padding-bottom: 0.4rem;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.halaman-deskripsi-buku-sebelum-masuk-ncH .product-carousel-YSD .product-card-KNR .product-card-bhB .textprice-56Z .auto-group-emtp-ppq .rating-rating-group-xw3 {
+  margin-bottom: 0.4rem;
+  width: 8.8rem;
+  height: 1.6rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.halaman-deskripsi-buku-sebelum-masuk-ncH .product-carousel-YSD .product-card-KNR .product-card-bhB .textprice-56Z .auto-group-emtp-ppq .loveseat-sofa-WBs {
+  font-size: 1.6rem;
+  font-weight: 600;
+  line-height: 1.625;
+  color: #141718;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.halaman-deskripsi-buku-sebelum-masuk-ncH .product-carousel-YSD .product-card-KNR .product-card-bhB .textprice-56Z .price-eJ5 {
+  width: 100%;
+  font-size: 1.4rem;
+  font-weight: 600;
+  line-height: 1.5714285714;
+  color: #141718;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.halaman-deskripsi-buku-sebelum-masuk-ncH .product-carousel-YSD .product-card-KNR .product-card-BJ1 {
+  width: 26.2rem;
+  height: 100%;
+  cursor: pointer;
+  flex-shrink: 0;
+}
+.halaman-deskripsi-buku-sebelum-masuk-ncH .product-carousel-YSD .product-card-KNR .product-card-BJ1 .image-placeholder-vWV {
+  margin-bottom: 1.2rem;
+  width: 100%;
+  height: 34.9rem;
+  overflow: hidden;
+  position: relative;
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/paste-image-bg.png');
+}
+.halaman-deskripsi-buku-sebelum-masuk-ncH .product-carousel-YSD .product-card-KNR .product-card-BJ1 .textprice-3b7 {
+  width: 12.5rem;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+}
+.halaman-deskripsi-buku-sebelum-masuk-ncH .product-carousel-YSD .product-card-KNR .product-card-BJ1 .textprice-3b7 .auto-group-gqps-zmF {
+  box-sizing: border-box;
+  padding-bottom: 0.4rem;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.halaman-deskripsi-buku-sebelum-masuk-ncH .product-carousel-YSD .product-card-KNR .product-card-BJ1 .textprice-3b7 .auto-group-gqps-zmF .rating-rating-group-wwP {
+  margin-bottom: 0.4rem;
+  width: 8.8rem;
+  height: 1.6rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.halaman-deskripsi-buku-sebelum-masuk-ncH .product-carousel-YSD .product-card-KNR .product-card-BJ1 .textprice-3b7 .auto-group-gqps-zmF .loveseat-sofa-63b {
+  font-size: 1.6rem;
+  font-weight: 600;
+  line-height: 1.625;
+  color: #141718;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.halaman-deskripsi-buku-sebelum-masuk-ncH .product-carousel-YSD .product-card-KNR .product-card-BJ1 .textprice-3b7 .price-cnd {
+  width: 100%;
+  font-size: 1.4rem;
+  font-weight: 600;
+  line-height: 1.5714285714;
+  color: #141718;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.halaman-deskripsi-buku-sebelum-masuk-ncH .product-carousel-YSD .product-card-KNR .product-card-9Xf {
+  width: 26.2rem;
+  height: 100%;
+  cursor: pointer;
+  flex-shrink: 0;
+}
+.halaman-deskripsi-buku-sebelum-masuk-ncH .product-carousel-YSD .product-card-KNR .product-card-9Xf .image-placeholder-6xh {
+  margin-bottom: 1.2rem;
+  width: 100%;
+  height: 34.9rem;
+  overflow: hidden;
+  position: relative;
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/paste-image-bg-qBF.png');
+}
+.halaman-deskripsi-buku-sebelum-masuk-ncH .product-carousel-YSD .product-card-KNR .product-card-9Xf .textprice-RVB {
+  width: 12.5rem;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+}
+.halaman-deskripsi-buku-sebelum-masuk-ncH .product-carousel-YSD .product-card-KNR .product-card-9Xf .textprice-RVB .auto-group-qqyo-acy {
+  box-sizing: border-box;
+  padding-bottom: 0.4rem;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.halaman-deskripsi-buku-sebelum-masuk-ncH .product-carousel-YSD .product-card-KNR .product-card-9Xf .textprice-RVB .auto-group-qqyo-acy .rating-rating-group-ijB {
+  margin-bottom: 0.4rem;
+  width: 8.8rem;
+  height: 1.6rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.halaman-deskripsi-buku-sebelum-masuk-ncH .product-carousel-YSD .product-card-KNR .product-card-9Xf .textprice-RVB .auto-group-qqyo-acy .loveseat-sofa-raV {
+  font-size: 1.6rem;
+  font-weight: 600;
+  line-height: 1.625;
+  color: #141718;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.halaman-deskripsi-buku-sebelum-masuk-ncH .product-carousel-YSD .product-card-KNR .product-card-9Xf .textprice-RVB .price-bHB {
+  width: 100%;
+  font-size: 1.4rem;
+  font-weight: 600;
+  line-height: 1.5714285714;
+  color: #141718;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.halaman-deskripsi-buku-sebelum-masuk-ncH .product-carousel-YSD .product-card-KNR .product-card-7mK {
+  width: 26.2rem;
+  height: 100%;
+  cursor: pointer;
+  flex-shrink: 0;
+}
+.halaman-deskripsi-buku-sebelum-masuk-ncH .product-carousel-YSD .product-card-KNR .product-card-7mK .image-placeholder-ULy {
+  margin-bottom: 1.2rem;
+  width: 100%;
+  height: 34.9rem;
+  overflow: hidden;
+  position: relative;
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/paste-image-bg-Jky.png');
+}
+.halaman-deskripsi-buku-sebelum-masuk-ncH .product-carousel-YSD .product-card-KNR .product-card-7mK .textprice-PTw {
+  width: 12.5rem;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+}
+.halaman-deskripsi-buku-sebelum-masuk-ncH .product-carousel-YSD .product-card-KNR .product-card-7mK .textprice-PTw .auto-group-xgsw-Ybj {
+  box-sizing: border-box;
+  padding-bottom: 0.4rem;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.halaman-deskripsi-buku-sebelum-masuk-ncH .product-carousel-YSD .product-card-KNR .product-card-7mK .textprice-PTw .auto-group-xgsw-Ybj .rating-rating-group-JL1 {
+  margin-bottom: 0.4rem;
+  width: 8.8rem;
+  height: 1.6rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.halaman-deskripsi-buku-sebelum-masuk-ncH .product-carousel-YSD .product-card-KNR .product-card-7mK .textprice-PTw .auto-group-xgsw-Ybj .loveseat-sofa-3Hb {
+  font-size: 1.6rem;
+  font-weight: 600;
+  line-height: 1.625;
+  color: #141718;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.halaman-deskripsi-buku-sebelum-masuk-ncH .product-carousel-YSD .product-card-KNR .product-card-7mK .textprice-PTw .price-yww {
+  width: 100%;
+  font-size: 1.4rem;
+  font-weight: 600;
+  line-height: 1.5714285714;
+  color: #141718;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.halaman-deskripsi-buku-sebelum-masuk-ncH .product-carousel-YSD .pagination-v6V {
+  width: 112rem;
+  background-color: #e8ecef;
+  border-radius: 8rem;
+  flex-shrink: 0;
+}
+.halaman-deskripsi-buku-sebelum-masuk-ncH .product-carousel-YSD .pagination-v6V .rectangle-775-Gw3 {
+  width: 83.4rem;
+  height: 0.4rem;
+  background-color: #343839;
+  border-radius: 8rem;
+}
+.halaman-deskripsi-buku-sebelum-masuk-ncH .tabs-PEy {
+  box-sizing: border-box;
+  padding: 4rem 16rem;
+  width: 100%;
+  height: 147.7rem;
+  background-color: #ffffff;
+  flex-shrink: 0;
+}
+.halaman-deskripsi-buku-sebelum-masuk-ncH .tabs-PEy .review-section-8TT {
+  width: 100%;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+}
+.halaman-deskripsi-buku-sebelum-masuk-ncH .tabs-PEy .review-section-8TT .review-gzm {
+  margin-bottom: 7.1rem;
+  width: 23.4rem;
+  flex-shrink: 0;
+}
+.halaman-deskripsi-buku-sebelum-masuk-ncH .tabs-PEy .review-section-8TT .review-gzm .ulasan-pembaca-2oj {
+  margin-bottom: 2.4rem;
+  font-size: 2.8rem;
+  font-weight: 500;
+  line-height: 1.2142857143;
+  letter-spacing: -0.06rem;
+  color: #22262e;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.halaman-deskripsi-buku-sebelum-masuk-ncH .tabs-PEy .review-section-8TT .review-gzm .frame-738-Mb7 {
+  margin-right: 7.6rem;
+  width: calc(100% - 7.6rem);
+  height: 2rem;
+  display: flex;
+  align-items: center;
+}
+.halaman-deskripsi-buku-sebelum-masuk-ncH .tabs-PEy .review-section-8TT .review-gzm .frame-738-Mb7 .rating-group-Hjf {
+  margin: 0.2rem 0.8rem 0.2rem 0rem;
+  height: calc(100% - 0.4rem);
+  display: flex;
+  column-gap: 0.4rem;
+  align-items: center;
+  flex-shrink: 0;
+}
+.halaman-deskripsi-buku-sebelum-masuk-ncH .tabs-PEy .review-section-8TT .review-gzm .frame-738-Mb7 .rating-group-Hjf .star-icon-bkM {
+  width: 1.6rem;
+  height: 1.6rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.halaman-deskripsi-buku-sebelum-masuk-ncH .tabs-PEy .review-section-8TT .review-gzm .frame-738-Mb7 .rating-group-Hjf .star-icon-k7T {
+  width: 1.6rem;
+  height: 1.6rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.halaman-deskripsi-buku-sebelum-masuk-ncH .tabs-PEy .review-section-8TT .review-gzm .frame-738-Mb7 .rating-group-Hjf .star-icon-tjT {
+  width: 1.6rem;
+  height: 1.6rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.halaman-deskripsi-buku-sebelum-masuk-ncH .tabs-PEy .review-section-8TT .review-gzm .frame-738-Mb7 .rating-group-Hjf .star-icon-F4D {
+  width: 1.6rem;
+  height: 1.6rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.halaman-deskripsi-buku-sebelum-masuk-ncH .tabs-PEy .review-section-8TT .review-gzm .frame-738-Mb7 .rating-group-Hjf .star-icon-PgD {
+  width: 1.6rem;
+  height: 1.6rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.halaman-deskripsi-buku-sebelum-masuk-ncH .tabs-PEy .review-section-8TT .review-gzm .frame-738-Mb7 .ulasan-XXX {
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.6666666667;
+  color: #141718;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.halaman-deskripsi-buku-sebelum-masuk-ncH .tabs-PEy .review-section-8TT .comment-section-fNq {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.halaman-deskripsi-buku-sebelum-masuk-ncH .tabs-PEy .review-section-8TT .comment-section-fNq .comments-title-cos {
+  margin: 0rem 1.6rem 4rem 0rem;
+  width: calc(100% - 1.6rem);
+  height: 4.8rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.halaman-deskripsi-buku-sebelum-masuk-ncH .tabs-PEy .review-section-8TT .comment-section-fNq .comments-title-cos .ulasan-Lzm {
+  margin-right: 72.8rem;
+  font-size: 2.8rem;
+  font-weight: 500;
+  line-height: 1.2142857143;
+  letter-spacing: -0.06rem;
+  color: #000000;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.halaman-deskripsi-buku-sebelum-masuk-ncH .tabs-PEy .review-section-8TT .comment-section-fNq .comments-title-cos .dropdown-ULH {
+  box-sizing: border-box;
+  padding: 0.8rem 0.8rem 0.8rem 1.6rem;
+  height: 100%;
+  overflow: hidden;
+  position: relative;
+  display: flex;
+  align-items: center;
+  border: solid 0.2rem #e8ecef;
+  border-radius: 0.8rem;
+  flex-shrink: 0;
+}
+.halaman-deskripsi-buku-sebelum-masuk-ncH .tabs-PEy .review-section-8TT .comment-section-fNq .comments-title-cos .dropdown-ULH .living-room-oNZ {
+  margin-right: 13.9rem;
+  display: flex;
+  font-size: 1.6rem;
+  font-weight: 600;
+  line-height: 1.625;
+  color: #141718;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.halaman-deskripsi-buku-sebelum-masuk-ncH .tabs-PEy .review-section-8TT .comment-section-fNq .comments-title-cos .dropdown-ULH .button-secondary-small-8Qq {
+  width: 3.2rem;
+  height: 3.2rem;
+  object-fit: contain;
+  vertical-align: top;
+  border-radius: 10rem;
+  flex-shrink: 0;
+}
+.halaman-deskripsi-buku-sebelum-masuk-ncH .tabs-PEy .review-section-8TT .comment-section-fNq .comments-dMb {
+  width: 100%;
+  row-gap: 2.4rem;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.halaman-deskripsi-buku-sebelum-masuk-ncH .tabs-PEy .review-section-8TT .comment-section-fNq .comments-dMb .user-N4H {
+  box-sizing: border-box;
+  padding-right: 2.2rem;
+  width: 100%;
+  height: 20rem;
+  display: flex;
+  align-items: flex-start;
+  border: solid 0.1rem #e8ecef;
+  flex-shrink: 0;
+}
+.halaman-deskripsi-buku-sebelum-masuk-ncH .tabs-PEy .review-section-8TT .comment-section-fNq .comments-dMb .user-N4H .avatarplaceholder-WRP {
+  margin-right: 4rem;
+  width: 7.2rem;
+  height: 7.2rem;
+  overflow: hidden;
+  position: relative;
+  background-color: #f3f5f7;
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/avatarplaceholder-bg-Ssj.png');
+  border-radius: 4.8rem;
+  flex-shrink: 0;
+}
+.halaman-deskripsi-buku-sebelum-masuk-ncH .tabs-PEy .review-section-8TT .comment-section-fNq .comments-dMb .user-N4H .name-and-position-cjK {
+  width: 98.6rem;
+  flex-shrink: 0;
+}
+.halaman-deskripsi-buku-sebelum-masuk-ncH .tabs-PEy .review-section-8TT .comment-section-fNq .comments-dMb .user-N4H .name-and-position-cjK .name-and-feedback-ZuT {
+  margin-bottom: 2.4rem;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+}
+.halaman-deskripsi-buku-sebelum-masuk-ncH .tabs-PEy .review-section-8TT .comment-section-fNq .comments-dMb .user-N4H .name-and-position-cjK .name-and-feedback-ZuT .name-stars-i1f {
+  margin-bottom: 1.6rem;
+  width: 13.1rem;
+  flex-shrink: 0;
+}
+.halaman-deskripsi-buku-sebelum-masuk-ncH .tabs-PEy .review-section-8TT .comment-section-fNq .comments-dMb .user-N4H .name-and-position-cjK .name-and-feedback-ZuT .name-stars-i1f .name-FnH {
+  margin-bottom: 1.6rem;
+  width: 100%;
+  display: flex;
+  align-items: center;
+}
+.halaman-deskripsi-buku-sebelum-masuk-ncH .tabs-PEy .review-section-8TT .comment-section-fNq .comments-dMb .user-N4H .name-and-position-cjK .name-and-feedback-ZuT .name-stars-i1f .name-FnH .sofia-1WZ {
+  margin-right: 0.4rem;
+  font-size: 2rem;
+  font-weight: 600;
+  line-height: 1.6;
+  color: #141718;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.halaman-deskripsi-buku-sebelum-masuk-ncH .tabs-PEy .review-section-8TT .comment-section-fNq .comments-dMb .user-N4H .name-and-position-cjK .name-and-feedback-ZuT .name-stars-i1f .name-FnH .harvetz-jBf {
+  font-size: 2rem;
+  font-weight: 600;
+  line-height: 1.6;
+  color: #141718;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.halaman-deskripsi-buku-sebelum-masuk-ncH .tabs-PEy .review-section-8TT .comment-section-fNq .comments-dMb .user-N4H .name-and-position-cjK .name-and-feedback-ZuT .name-stars-i1f .start-rating-5FX {
+  box-sizing: border-box;
+  padding: 0.168rem 0.103rem 0.138rem 0.103rem;
+  display: flex;
+  align-items: center;
+}
+.halaman-deskripsi-buku-sebelum-masuk-ncH .tabs-PEy .review-section-8TT .comment-section-fNq .comments-dMb .user-N4H .name-and-position-cjK .name-and-feedback-ZuT .name-stars-i1f .start-rating-5FX .icons-star-filled-oBX {
+  margin-right: 0.4061rem;
+  width: 1.3939rem;
+  height: 1.294rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.halaman-deskripsi-buku-sebelum-masuk-ncH .tabs-PEy .review-section-8TT .comment-section-fNq .comments-dMb .user-N4H .name-and-position-cjK .name-and-feedback-ZuT .name-stars-i1f .start-rating-5FX .icons-star-filled-8Do {
+  margin-right: 0.4061rem;
+  width: 1.3939rem;
+  height: 1.294rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.halaman-deskripsi-buku-sebelum-masuk-ncH .tabs-PEy .review-section-8TT .comment-section-fNq .comments-dMb .user-N4H .name-and-position-cjK .name-and-feedback-ZuT .name-stars-i1f .start-rating-5FX .icons-star-filled-TWy {
+  margin-right: 0.4061rem;
+  width: 1.3939rem;
+  height: 1.294rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.halaman-deskripsi-buku-sebelum-masuk-ncH .tabs-PEy .review-section-8TT .comment-section-fNq .comments-dMb .user-N4H .name-and-position-cjK .name-and-feedback-ZuT .name-stars-i1f .start-rating-5FX .icons-star-filled-PvR {
+  margin-right: 0.4061rem;
+  width: 1.3939rem;
+  height: 1.294rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.halaman-deskripsi-buku-sebelum-masuk-ncH .tabs-PEy .review-section-8TT .comment-section-fNq .comments-dMb .user-N4H .name-and-position-cjK .name-and-feedback-ZuT .name-stars-i1f .start-rating-5FX .icons-star-filled-LKs {
+  width: 1.3939rem;
+  height: 1.294rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.halaman-deskripsi-buku-sebelum-masuk-ncH .tabs-PEy .review-section-8TT .comment-section-fNq .comments-dMb .user-N4H .name-and-position-cjK .name-and-feedback-ZuT .i-bought-it-3-weeks-ago-and-now-come-back-just-to-say-awesome-product-i-really-enjoy-it-at-vero-eos-et-accusamus-et-iusto-odio-dignissimos-ducimus-qui-blanditiis-praesentium-voluptatum-deleniti-atque-corrupt-et-quas-molestias-excepturi-sint-non-provident-sah {
+  max-width: 98.6rem;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.625;
+  color: #353945;
+  font-family: Inter, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.halaman-deskripsi-buku-sebelum-masuk-ncH .tabs-PEy .review-section-8TT .comment-section-fNq .comments-dMb .user-N4H .name-and-position-cjK .name-and-feedback-ZuT .i-bought-it-3-weeks-ago-and-now-come-back-just-to-say-awesome-product-i-really-enjoy-it-at-vero-eos-et-accusamus-et-iusto-odio-dignissimos-ducimus-qui-blanditiis-praesentium-voluptatum-deleniti-atque-corrupt-et-quas-molestias-excepturi-sint-non-provident-sah .i-bought-it-3-weeks-ago-and-now-come-back-just-to-say-awesome-product-i-really-enjoy-it-at-vero-eos-et-accusamus-et-iusto-odio-dignissimos-ducimus-qui-blanditiis-praesentium-voluptatum-deleniti-atque-corrupt-et-quas-molestias-excepturi-sint-non-provident-sah-sub-0 {
+}
+.halaman-deskripsi-buku-sebelum-masuk-ncH .tabs-PEy .review-section-8TT .comment-section-fNq .comments-dMb .user-N4H .name-and-position-cjK .name-and-feedback-ZuT .i-bought-it-3-weeks-ago-and-now-come-back-just-to-say-awesome-product-i-really-enjoy-it-at-vero-eos-et-accusamus-et-iusto-odio-dignissimos-ducimus-qui-blanditiis-praesentium-voluptatum-deleniti-atque-corrupt-et-quas-molestias-excepturi-sint-non-provident-sah .i-bought-it-3-weeks-ago-and-now-come-back-just-to-say-awesome-product-i-really-enjoy-it-at-vero-eos-et-accusamus-et-iusto-odio-dignissimos-ducimus-qui-blanditiis-praesentium-voluptatum-deleniti-atque-corrupt-et-quas-molestias-excepturi-sint-non-provident-sah-sub-1 {
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.625;
+  color: #353945;
+  font-family: Inter, 'Source Sans Pro';
+}
+.halaman-deskripsi-buku-sebelum-masuk-ncH .tabs-PEy .review-section-8TT .comment-section-fNq .comments-dMb .user-N4H .name-and-position-cjK .frame-724-JC9 {
+  margin-right: 84.2rem;
+  box-sizing: border-box;
+  padding-right: 1.6rem;
+  width: calc(100% - 84.2rem);
+  display: flex;
+  align-items: center;
+}
+.halaman-deskripsi-buku-sebelum-masuk-ncH .tabs-PEy .review-section-8TT .comment-section-fNq .comments-dMb .user-N4H .name-and-position-cjK .frame-724-JC9 .jam-yang-lalu-qC5 {
+  margin-right: 1.6rem;
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.6666666667;
+  color: #141718;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.halaman-deskripsi-buku-sebelum-masuk-ncH .tabs-PEy .review-section-8TT .comment-section-fNq .comments-dMb .user-N4H .name-and-position-cjK .frame-724-JC9 .suka-Mw7 {
+  font-size: 1.2rem;
+  font-weight: 600;
+  line-height: 1.6666666667;
+  color: #22262e;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.halaman-deskripsi-buku-sebelum-masuk-ncH .tabs-PEy .review-section-8TT .comment-section-fNq .comments-dMb .user-fwo {
+  box-sizing: border-box;
+  padding-right: 2.2rem;
+  width: 100%;
+  height: 20rem;
+  display: flex;
+  align-items: flex-start;
+  border: solid 0.1rem #e8ecef;
+  flex-shrink: 0;
+}
+.halaman-deskripsi-buku-sebelum-masuk-ncH .tabs-PEy .review-section-8TT .comment-section-fNq .comments-dMb .user-fwo .avatarplaceholder-CRw {
+  margin-right: 4rem;
+  width: 7.2rem;
+  height: 7.2rem;
+  overflow: hidden;
+  position: relative;
+  background-color: #f3f5f7;
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/avatarplaceholder-bg-y1s.png');
+  border-radius: 4.8rem;
+  flex-shrink: 0;
+}
+.halaman-deskripsi-buku-sebelum-masuk-ncH .tabs-PEy .review-section-8TT .comment-section-fNq .comments-dMb .user-fwo .name-and-position-Vfw {
+  width: 98.6rem;
+  flex-shrink: 0;
+}
+.halaman-deskripsi-buku-sebelum-masuk-ncH .tabs-PEy .review-section-8TT .comment-section-fNq .comments-dMb .user-fwo .name-and-position-Vfw .name-and-feedback-3SZ {
+  margin-bottom: 2.4rem;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+}
+.halaman-deskripsi-buku-sebelum-masuk-ncH .tabs-PEy .review-section-8TT .comment-section-fNq .comments-dMb .user-fwo .name-and-position-Vfw .name-and-feedback-3SZ .name-stars-z6u {
+  margin-bottom: 1.6rem;
+  width: 14.7rem;
+  flex-shrink: 0;
+}
+.halaman-deskripsi-buku-sebelum-masuk-ncH .tabs-PEy .review-section-8TT .comment-section-fNq .comments-dMb .user-fwo .name-and-position-Vfw .name-and-feedback-3SZ .name-stars-z6u .name-LAm {
+  margin-bottom: 1.6rem;
+  width: 100%;
+  display: flex;
+  align-items: center;
+}
+.halaman-deskripsi-buku-sebelum-masuk-ncH .tabs-PEy .review-section-8TT .comment-section-fNq .comments-dMb .user-fwo .name-and-position-Vfw .name-and-feedback-3SZ .name-stars-z6u .name-LAm .nicolas-H61 {
+  margin-right: 0.4rem;
+  font-size: 2rem;
+  font-weight: 600;
+  line-height: 1.6;
+  color: #141718;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.halaman-deskripsi-buku-sebelum-masuk-ncH .tabs-PEy .review-section-8TT .comment-section-fNq .comments-dMb .user-fwo .name-and-position-Vfw .name-and-feedback-3SZ .name-stars-z6u .name-LAm .jensen-QwK {
+  font-size: 2rem;
+  font-weight: 600;
+  line-height: 1.6;
+  color: #141718;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.halaman-deskripsi-buku-sebelum-masuk-ncH .tabs-PEy .review-section-8TT .comment-section-fNq .comments-dMb .user-fwo .name-and-position-Vfw .name-and-feedback-3SZ .name-stars-z6u .start-rating-wgM {
+  box-sizing: border-box;
+  padding: 0.168rem 0.103rem 0.138rem 0.103rem;
+  display: flex;
+  align-items: center;
+}
+.halaman-deskripsi-buku-sebelum-masuk-ncH .tabs-PEy .review-section-8TT .comment-section-fNq .comments-dMb .user-fwo .name-and-position-Vfw .name-and-feedback-3SZ .name-stars-z6u .start-rating-wgM .icons-star-filled-GCq {
+  margin-right: 0.4061rem;
+  width: 1.3939rem;
+  height: 1.294rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.halaman-deskripsi-buku-sebelum-masuk-ncH .tabs-PEy .review-section-8TT .comment-section-fNq .comments-dMb .user-fwo .name-and-position-Vfw .name-and-feedback-3SZ .name-stars-z6u .start-rating-wgM .icons-star-filled-oTf {
+  margin-right: 0.4061rem;
+  width: 1.3939rem;
+  height: 1.294rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.halaman-deskripsi-buku-sebelum-masuk-ncH .tabs-PEy .review-section-8TT .comment-section-fNq .comments-dMb .user-fwo .name-and-position-Vfw .name-and-feedback-3SZ .name-stars-z6u .start-rating-wgM .icons-star-filled-wZs {
+  margin-right: 0.4061rem;
+  width: 1.3939rem;
+  height: 1.294rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.halaman-deskripsi-buku-sebelum-masuk-ncH .tabs-PEy .review-section-8TT .comment-section-fNq .comments-dMb .user-fwo .name-and-position-Vfw .name-and-feedback-3SZ .name-stars-z6u .start-rating-wgM .icons-star-filled-rwj {
+  margin-right: 0.4061rem;
+  width: 1.3939rem;
+  height: 1.294rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.halaman-deskripsi-buku-sebelum-masuk-ncH .tabs-PEy .review-section-8TT .comment-section-fNq .comments-dMb .user-fwo .name-and-position-Vfw .name-and-feedback-3SZ .name-stars-z6u .start-rating-wgM .icons-star-filled-PAy {
+  width: 1.3939rem;
+  height: 1.294rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.halaman-deskripsi-buku-sebelum-masuk-ncH .tabs-PEy .review-section-8TT .comment-section-fNq .comments-dMb .user-fwo .name-and-position-Vfw .name-and-feedback-3SZ .i-bought-it-3-weeks-ago-and-now-come-back-just-to-say-awesome-product-i-really-enjoy-it-at-vero-eos-et-accusamus-et-iusto-odio-dignissimos-ducimus-qui-blanditiis-praesentium-voluptatum-deleniti-atque-corrupt-et-quas-molestias-excepturi-sint-non-provident-7cm {
+  max-width: 98.6rem;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.625;
+  color: #353945;
+  font-family: Inter, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.halaman-deskripsi-buku-sebelum-masuk-ncH .tabs-PEy .review-section-8TT .comment-section-fNq .comments-dMb .user-fwo .name-and-position-Vfw .name-and-feedback-3SZ .i-bought-it-3-weeks-ago-and-now-come-back-just-to-say-awesome-product-i-really-enjoy-it-at-vero-eos-et-accusamus-et-iusto-odio-dignissimos-ducimus-qui-blanditiis-praesentium-voluptatum-deleniti-atque-corrupt-et-quas-molestias-excepturi-sint-non-provident-7cm .i-bought-it-3-weeks-ago-and-now-come-back-just-to-say-awesome-product-i-really-enjoy-it-at-vero-eos-et-accusamus-et-iusto-odio-dignissimos-ducimus-qui-blanditiis-praesentium-voluptatum-deleniti-atque-corrupt-et-quas-molestias-excepturi-sint-non-provident-7cm-sub-0 {
+}
+.halaman-deskripsi-buku-sebelum-masuk-ncH .tabs-PEy .review-section-8TT .comment-section-fNq .comments-dMb .user-fwo .name-and-position-Vfw .name-and-feedback-3SZ .i-bought-it-3-weeks-ago-and-now-come-back-just-to-say-awesome-product-i-really-enjoy-it-at-vero-eos-et-accusamus-et-iusto-odio-dignissimos-ducimus-qui-blanditiis-praesentium-voluptatum-deleniti-atque-corrupt-et-quas-molestias-excepturi-sint-non-provident-7cm .i-bought-it-3-weeks-ago-and-now-come-back-just-to-say-awesome-product-i-really-enjoy-it-at-vero-eos-et-accusamus-et-iusto-odio-dignissimos-ducimus-qui-blanditiis-praesentium-voluptatum-deleniti-atque-corrupt-et-quas-molestias-excepturi-sint-non-provident-7cm-sub-1 {
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.625;
+  color: #353945;
+  font-family: Inter, 'Source Sans Pro';
+}
+.halaman-deskripsi-buku-sebelum-masuk-ncH .tabs-PEy .review-section-8TT .comment-section-fNq .comments-dMb .user-fwo .name-and-position-Vfw .frame-724-gC1 {
+  margin-right: 84.2rem;
+  box-sizing: border-box;
+  padding-right: 1.6rem;
+  width: calc(100% - 84.2rem);
+  display: flex;
+  align-items: center;
+}
+.halaman-deskripsi-buku-sebelum-masuk-ncH .tabs-PEy .review-section-8TT .comment-section-fNq .comments-dMb .user-fwo .name-and-position-Vfw .frame-724-gC1 .jam-yang-lalu-Ps7 {
+  margin-right: 1.6rem;
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.6666666667;
+  color: #141718;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.halaman-deskripsi-buku-sebelum-masuk-ncH .tabs-PEy .review-section-8TT .comment-section-fNq .comments-dMb .user-fwo .name-and-position-Vfw .frame-724-gC1 .suka-Wwj {
+  font-size: 1.2rem;
+  font-weight: 600;
+  line-height: 1.6666666667;
+  color: #22262e;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.halaman-deskripsi-buku-sebelum-masuk-ncH .tabs-PEy .review-section-8TT .comment-section-fNq .comments-dMb .user-qDK {
+  box-sizing: border-box;
+  padding-right: 2.2rem;
+  width: 100%;
+  height: 20rem;
+  display: flex;
+  align-items: flex-start;
+  border: solid 0.1rem #e8ecef;
+  flex-shrink: 0;
+}
+.halaman-deskripsi-buku-sebelum-masuk-ncH .tabs-PEy .review-section-8TT .comment-section-fNq .comments-dMb .user-qDK .avatarplaceholder-aAu {
+  margin-right: 4rem;
+  width: 7.2rem;
+  height: 7.2rem;
+  overflow: hidden;
+  position: relative;
+  background-color: #f3f5f7;
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/avatarplaceholder-bg-6tR.png');
+  border-radius: 4.8rem;
+  flex-shrink: 0;
+}
+.halaman-deskripsi-buku-sebelum-masuk-ncH .tabs-PEy .review-section-8TT .comment-section-fNq .comments-dMb .user-qDK .name-and-position-V2y {
+  width: 98.6rem;
+  flex-shrink: 0;
+}
+.halaman-deskripsi-buku-sebelum-masuk-ncH .tabs-PEy .review-section-8TT .comment-section-fNq .comments-dMb .user-qDK .name-and-position-V2y .name-and-feedback-dey {
+  margin-bottom: 2.4rem;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+}
+.halaman-deskripsi-buku-sebelum-masuk-ncH .tabs-PEy .review-section-8TT .comment-section-fNq .comments-dMb .user-qDK .name-and-position-V2y .name-and-feedback-dey .name-stars-NcZ {
+  margin-bottom: 1.6rem;
+  width: 14.7rem;
+  flex-shrink: 0;
+}
+.halaman-deskripsi-buku-sebelum-masuk-ncH .tabs-PEy .review-section-8TT .comment-section-fNq .comments-dMb .user-qDK .name-and-position-V2y .name-and-feedback-dey .name-stars-NcZ .name-KXo {
+  margin-bottom: 1.6rem;
+  width: 100%;
+  display: flex;
+  align-items: center;
+}
+.halaman-deskripsi-buku-sebelum-masuk-ncH .tabs-PEy .review-section-8TT .comment-section-fNq .comments-dMb .user-qDK .name-and-position-V2y .name-and-feedback-dey .name-stars-NcZ .name-KXo .nicolas-Ufb {
+  margin-right: 0.4rem;
+  font-size: 2rem;
+  font-weight: 600;
+  line-height: 1.6;
+  color: #141718;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.halaman-deskripsi-buku-sebelum-masuk-ncH .tabs-PEy .review-section-8TT .comment-section-fNq .comments-dMb .user-qDK .name-and-position-V2y .name-and-feedback-dey .name-stars-NcZ .name-KXo .jensen-pDf {
+  font-size: 2rem;
+  font-weight: 600;
+  line-height: 1.6;
+  color: #141718;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.halaman-deskripsi-buku-sebelum-masuk-ncH .tabs-PEy .review-section-8TT .comment-section-fNq .comments-dMb .user-qDK .name-and-position-V2y .name-and-feedback-dey .name-stars-NcZ .start-rating-xKs {
+  box-sizing: border-box;
+  padding: 0.168rem 0.103rem 0.138rem 0.103rem;
+  display: flex;
+  align-items: center;
+}
+.halaman-deskripsi-buku-sebelum-masuk-ncH .tabs-PEy .review-section-8TT .comment-section-fNq .comments-dMb .user-qDK .name-and-position-V2y .name-and-feedback-dey .name-stars-NcZ .start-rating-xKs .icons-star-filled-HN9 {
+  margin-right: 0.4061rem;
+  width: 1.3939rem;
+  height: 1.294rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.halaman-deskripsi-buku-sebelum-masuk-ncH .tabs-PEy .review-section-8TT .comment-section-fNq .comments-dMb .user-qDK .name-and-position-V2y .name-and-feedback-dey .name-stars-NcZ .start-rating-xKs .icons-star-filled-cfK {
+  margin-right: 0.4061rem;
+  width: 1.3939rem;
+  height: 1.294rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.halaman-deskripsi-buku-sebelum-masuk-ncH .tabs-PEy .review-section-8TT .comment-section-fNq .comments-dMb .user-qDK .name-and-position-V2y .name-and-feedback-dey .name-stars-NcZ .start-rating-xKs .icons-star-filled-kmX {
+  margin-right: 0.4061rem;
+  width: 1.3939rem;
+  height: 1.294rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.halaman-deskripsi-buku-sebelum-masuk-ncH .tabs-PEy .review-section-8TT .comment-section-fNq .comments-dMb .user-qDK .name-and-position-V2y .name-and-feedback-dey .name-stars-NcZ .start-rating-xKs .icons-star-filled-tcq {
+  margin-right: 0.4061rem;
+  width: 1.3939rem;
+  height: 1.294rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.halaman-deskripsi-buku-sebelum-masuk-ncH .tabs-PEy .review-section-8TT .comment-section-fNq .comments-dMb .user-qDK .name-and-position-V2y .name-and-feedback-dey .name-stars-NcZ .start-rating-xKs .icons-star-filled-Rcm {
+  width: 1.3939rem;
+  height: 1.294rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.halaman-deskripsi-buku-sebelum-masuk-ncH .tabs-PEy .review-section-8TT .comment-section-fNq .comments-dMb .user-qDK .name-and-position-V2y .name-and-feedback-dey .i-bought-it-3-weeks-ago-and-now-come-back-just-to-say-awesome-product-i-really-enjoy-it-at-vero-eos-et-accusamus-et-iusto-odio-dignissimos-ducimus-qui-blanditiis-praesentium-voluptatum-deleniti-atque-corrupt-et-quas-molestias-excepturi-sint-non-provident-xsb {
+  max-width: 98.6rem;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.625;
+  color: #353945;
+  font-family: Inter, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.halaman-deskripsi-buku-sebelum-masuk-ncH .tabs-PEy .review-section-8TT .comment-section-fNq .comments-dMb .user-qDK .name-and-position-V2y .name-and-feedback-dey .i-bought-it-3-weeks-ago-and-now-come-back-just-to-say-awesome-product-i-really-enjoy-it-at-vero-eos-et-accusamus-et-iusto-odio-dignissimos-ducimus-qui-blanditiis-praesentium-voluptatum-deleniti-atque-corrupt-et-quas-molestias-excepturi-sint-non-provident-xsb .i-bought-it-3-weeks-ago-and-now-come-back-just-to-say-awesome-product-i-really-enjoy-it-at-vero-eos-et-accusamus-et-iusto-odio-dignissimos-ducimus-qui-blanditiis-praesentium-voluptatum-deleniti-atque-corrupt-et-quas-molestias-excepturi-sint-non-provident-xsb-sub-0 {
+}
+.halaman-deskripsi-buku-sebelum-masuk-ncH .tabs-PEy .review-section-8TT .comment-section-fNq .comments-dMb .user-qDK .name-and-position-V2y .name-and-feedback-dey .i-bought-it-3-weeks-ago-and-now-come-back-just-to-say-awesome-product-i-really-enjoy-it-at-vero-eos-et-accusamus-et-iusto-odio-dignissimos-ducimus-qui-blanditiis-praesentium-voluptatum-deleniti-atque-corrupt-et-quas-molestias-excepturi-sint-non-provident-xsb .i-bought-it-3-weeks-ago-and-now-come-back-just-to-say-awesome-product-i-really-enjoy-it-at-vero-eos-et-accusamus-et-iusto-odio-dignissimos-ducimus-qui-blanditiis-praesentium-voluptatum-deleniti-atque-corrupt-et-quas-molestias-excepturi-sint-non-provident-xsb-sub-1 {
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.625;
+  color: #353945;
+  font-family: Inter, 'Source Sans Pro';
+}
+.halaman-deskripsi-buku-sebelum-masuk-ncH .tabs-PEy .review-section-8TT .comment-section-fNq .comments-dMb .user-qDK .name-and-position-V2y .frame-724-MYM {
+  margin-right: 84.2rem;
+  box-sizing: border-box;
+  padding-right: 1.6rem;
+  width: calc(100% - 84.2rem);
+  display: flex;
+  align-items: center;
+}
+.halaman-deskripsi-buku-sebelum-masuk-ncH .tabs-PEy .review-section-8TT .comment-section-fNq .comments-dMb .user-qDK .name-and-position-V2y .frame-724-MYM .jam-yang-lalu-h6R {
+  margin-right: 1.6rem;
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.6666666667;
+  color: #141718;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.halaman-deskripsi-buku-sebelum-masuk-ncH .tabs-PEy .review-section-8TT .comment-section-fNq .comments-dMb .user-qDK .name-and-position-V2y .frame-724-MYM .suka-2eV {
+  font-size: 1.2rem;
+  font-weight: 600;
+  line-height: 1.6666666667;
+  color: #22262e;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.halaman-deskripsi-buku-sebelum-masuk-ncH .tabs-PEy .review-section-8TT .comment-section-fNq .comments-dMb .user-Mgm {
+  box-sizing: border-box;
+  padding-right: 2.2rem;
+  width: 100%;
+  height: 20rem;
+  display: flex;
+  align-items: flex-start;
+  border: solid 0.1rem #e8ecef;
+  flex-shrink: 0;
+}
+.halaman-deskripsi-buku-sebelum-masuk-ncH .tabs-PEy .review-section-8TT .comment-section-fNq .comments-dMb .user-Mgm .avatarplaceholder-HqK {
+  margin-right: 4rem;
+  width: 7.2rem;
+  height: 7.2rem;
+  overflow: hidden;
+  position: relative;
+  background-color: #f3f5f7;
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/avatarplaceholder-bg.png');
+  border-radius: 4.8rem;
+  flex-shrink: 0;
+}
+.halaman-deskripsi-buku-sebelum-masuk-ncH .tabs-PEy .review-section-8TT .comment-section-fNq .comments-dMb .user-Mgm .name-and-position-bLD {
+  width: 98.6rem;
+  flex-shrink: 0;
+}
+.halaman-deskripsi-buku-sebelum-masuk-ncH .tabs-PEy .review-section-8TT .comment-section-fNq .comments-dMb .user-Mgm .name-and-position-bLD .name-and-feedback-9cd {
+  margin-bottom: 2.4rem;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+}
+.halaman-deskripsi-buku-sebelum-masuk-ncH .tabs-PEy .review-section-8TT .comment-section-fNq .comments-dMb .user-Mgm .name-and-position-bLD .name-and-feedback-9cd .name-stars-6Gy {
+  margin-bottom: 1.6rem;
+  width: 14.7rem;
+  flex-shrink: 0;
+}
+.halaman-deskripsi-buku-sebelum-masuk-ncH .tabs-PEy .review-section-8TT .comment-section-fNq .comments-dMb .user-Mgm .name-and-position-bLD .name-and-feedback-9cd .name-stars-6Gy .name-e3b {
+  margin-bottom: 1.6rem;
+  width: 100%;
+  display: flex;
+  align-items: center;
+}
+.halaman-deskripsi-buku-sebelum-masuk-ncH .tabs-PEy .review-section-8TT .comment-section-fNq .comments-dMb .user-Mgm .name-and-position-bLD .name-and-feedback-9cd .name-stars-6Gy .name-e3b .nicolas-bUd {
+  margin-right: 0.4rem;
+  font-size: 2rem;
+  font-weight: 600;
+  line-height: 1.6;
+  color: #141718;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.halaman-deskripsi-buku-sebelum-masuk-ncH .tabs-PEy .review-section-8TT .comment-section-fNq .comments-dMb .user-Mgm .name-and-position-bLD .name-and-feedback-9cd .name-stars-6Gy .name-e3b .jensen-8jT {
+  font-size: 2rem;
+  font-weight: 600;
+  line-height: 1.6;
+  color: #141718;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.halaman-deskripsi-buku-sebelum-masuk-ncH .tabs-PEy .review-section-8TT .comment-section-fNq .comments-dMb .user-Mgm .name-and-position-bLD .name-and-feedback-9cd .name-stars-6Gy .start-rating-UYR {
+  box-sizing: border-box;
+  padding: 0.168rem 0.103rem 0.138rem 0.103rem;
+  display: flex;
+  align-items: center;
+}
+.halaman-deskripsi-buku-sebelum-masuk-ncH .tabs-PEy .review-section-8TT .comment-section-fNq .comments-dMb .user-Mgm .name-and-position-bLD .name-and-feedback-9cd .name-stars-6Gy .start-rating-UYR .icons-star-filled-c8q {
+  margin-right: 0.4061rem;
+  width: 1.3939rem;
+  height: 1.294rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.halaman-deskripsi-buku-sebelum-masuk-ncH .tabs-PEy .review-section-8TT .comment-section-fNq .comments-dMb .user-Mgm .name-and-position-bLD .name-and-feedback-9cd .name-stars-6Gy .start-rating-UYR .icons-star-filled-YHP {
+  margin-right: 0.4061rem;
+  width: 1.3939rem;
+  height: 1.294rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.halaman-deskripsi-buku-sebelum-masuk-ncH .tabs-PEy .review-section-8TT .comment-section-fNq .comments-dMb .user-Mgm .name-and-position-bLD .name-and-feedback-9cd .name-stars-6Gy .start-rating-UYR .icons-star-filled-geV {
+  margin-right: 0.4061rem;
+  width: 1.3939rem;
+  height: 1.294rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.halaman-deskripsi-buku-sebelum-masuk-ncH .tabs-PEy .review-section-8TT .comment-section-fNq .comments-dMb .user-Mgm .name-and-position-bLD .name-and-feedback-9cd .name-stars-6Gy .start-rating-UYR .icons-star-filled-RMB {
+  margin-right: 0.4061rem;
+  width: 1.3939rem;
+  height: 1.294rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.halaman-deskripsi-buku-sebelum-masuk-ncH .tabs-PEy .review-section-8TT .comment-section-fNq .comments-dMb .user-Mgm .name-and-position-bLD .name-and-feedback-9cd .name-stars-6Gy .start-rating-UYR .icons-star-filled-xc1 {
+  width: 1.3939rem;
+  height: 1.294rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.halaman-deskripsi-buku-sebelum-masuk-ncH .tabs-PEy .review-section-8TT .comment-section-fNq .comments-dMb .user-Mgm .name-and-position-bLD .name-and-feedback-9cd .i-bought-it-3-weeks-ago-and-now-come-back-just-to-say-awesome-product-i-really-enjoy-it-at-vero-eos-et-accusamus-et-iusto-odio-dignissimos-ducimus-qui-blanditiis-praesentium-voluptatum-deleniti-atque-corrupt-et-quas-molestias-excepturi-sint-non-provident-uGM {
+  max-width: 98.6rem;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.625;
+  color: #353945;
+  font-family: Inter, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.halaman-deskripsi-buku-sebelum-masuk-ncH .tabs-PEy .review-section-8TT .comment-section-fNq .comments-dMb .user-Mgm .name-and-position-bLD .name-and-feedback-9cd .i-bought-it-3-weeks-ago-and-now-come-back-just-to-say-awesome-product-i-really-enjoy-it-at-vero-eos-et-accusamus-et-iusto-odio-dignissimos-ducimus-qui-blanditiis-praesentium-voluptatum-deleniti-atque-corrupt-et-quas-molestias-excepturi-sint-non-provident-uGM .i-bought-it-3-weeks-ago-and-now-come-back-just-to-say-awesome-product-i-really-enjoy-it-at-vero-eos-et-accusamus-et-iusto-odio-dignissimos-ducimus-qui-blanditiis-praesentium-voluptatum-deleniti-atque-corrupt-et-quas-molestias-excepturi-sint-non-provident-uGM-sub-0 {
+}
+.halaman-deskripsi-buku-sebelum-masuk-ncH .tabs-PEy .review-section-8TT .comment-section-fNq .comments-dMb .user-Mgm .name-and-position-bLD .name-and-feedback-9cd .i-bought-it-3-weeks-ago-and-now-come-back-just-to-say-awesome-product-i-really-enjoy-it-at-vero-eos-et-accusamus-et-iusto-odio-dignissimos-ducimus-qui-blanditiis-praesentium-voluptatum-deleniti-atque-corrupt-et-quas-molestias-excepturi-sint-non-provident-uGM .i-bought-it-3-weeks-ago-and-now-come-back-just-to-say-awesome-product-i-really-enjoy-it-at-vero-eos-et-accusamus-et-iusto-odio-dignissimos-ducimus-qui-blanditiis-praesentium-voluptatum-deleniti-atque-corrupt-et-quas-molestias-excepturi-sint-non-provident-uGM-sub-1 {
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.625;
+  color: #353945;
+  font-family: Inter, 'Source Sans Pro';
+}
+.halaman-deskripsi-buku-sebelum-masuk-ncH .tabs-PEy .review-section-8TT .comment-section-fNq .comments-dMb .user-Mgm .name-and-position-bLD .frame-724-NxZ {
+  margin-right: 84.2rem;
+  box-sizing: border-box;
+  padding-right: 1.6rem;
+  width: calc(100% - 84.2rem);
+  display: flex;
+  align-items: center;
+}
+.halaman-deskripsi-buku-sebelum-masuk-ncH .tabs-PEy .review-section-8TT .comment-section-fNq .comments-dMb .user-Mgm .name-and-position-bLD .frame-724-NxZ .jam-yang-lalu-Wos {
+  margin-right: 1.6rem;
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.6666666667;
+  color: #141718;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.halaman-deskripsi-buku-sebelum-masuk-ncH .tabs-PEy .review-section-8TT .comment-section-fNq .comments-dMb .user-Mgm .name-and-position-bLD .frame-724-NxZ .suka-3Yu {
+  font-size: 1.2rem;
+  font-weight: 600;
+  line-height: 1.6666666667;
+  color: #22262e;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.halaman-deskripsi-buku-sebelum-masuk-ncH .tabs-PEy .review-section-8TT .comment-section-fNq .comments-dMb .user-xfs {
+  box-sizing: border-box;
+  padding-right: 2.2rem;
+  width: 100%;
+  height: 20rem;
+  display: flex;
+  align-items: flex-start;
+  border: solid 0.1rem #e8ecef;
+  flex-shrink: 0;
+}
+.halaman-deskripsi-buku-sebelum-masuk-ncH .tabs-PEy .review-section-8TT .comment-section-fNq .comments-dMb .user-xfs .avatarplaceholder-hdT {
+  margin-right: 4rem;
+  width: 7.2rem;
+  height: 7.2rem;
+  overflow: hidden;
+  position: relative;
+  background-color: #f3f5f7;
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/avatarplaceholder-bg-99K.png');
+  border-radius: 4.8rem;
+  flex-shrink: 0;
+}
+.halaman-deskripsi-buku-sebelum-masuk-ncH .tabs-PEy .review-section-8TT .comment-section-fNq .comments-dMb .user-xfs .name-and-position-C4R {
+  width: 98.6rem;
+  flex-shrink: 0;
+}
+.halaman-deskripsi-buku-sebelum-masuk-ncH .tabs-PEy .review-section-8TT .comment-section-fNq .comments-dMb .user-xfs .name-and-position-C4R .name-and-feedback-jq3 {
+  margin-bottom: 2.4rem;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+}
+.halaman-deskripsi-buku-sebelum-masuk-ncH .tabs-PEy .review-section-8TT .comment-section-fNq .comments-dMb .user-xfs .name-and-position-C4R .name-and-feedback-jq3 .name-stars-5P7 {
+  margin-bottom: 1.6rem;
+  width: 14.7rem;
+  flex-shrink: 0;
+}
+.halaman-deskripsi-buku-sebelum-masuk-ncH .tabs-PEy .review-section-8TT .comment-section-fNq .comments-dMb .user-xfs .name-and-position-C4R .name-and-feedback-jq3 .name-stars-5P7 .name-zky {
+  margin-bottom: 1.6rem;
+  width: 100%;
+  display: flex;
+  align-items: center;
+}
+.halaman-deskripsi-buku-sebelum-masuk-ncH .tabs-PEy .review-section-8TT .comment-section-fNq .comments-dMb .user-xfs .name-and-position-C4R .name-and-feedback-jq3 .name-stars-5P7 .name-zky .nicolas-wgD {
+  margin-right: 0.4rem;
+  font-size: 2rem;
+  font-weight: 600;
+  line-height: 1.6;
+  color: #141718;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.halaman-deskripsi-buku-sebelum-masuk-ncH .tabs-PEy .review-section-8TT .comment-section-fNq .comments-dMb .user-xfs .name-and-position-C4R .name-and-feedback-jq3 .name-stars-5P7 .name-zky .jensen-Uw3 {
+  font-size: 2rem;
+  font-weight: 600;
+  line-height: 1.6;
+  color: #141718;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.halaman-deskripsi-buku-sebelum-masuk-ncH .tabs-PEy .review-section-8TT .comment-section-fNq .comments-dMb .user-xfs .name-and-position-C4R .name-and-feedback-jq3 .name-stars-5P7 .start-rating-pk1 {
+  box-sizing: border-box;
+  padding: 0.168rem 0.103rem 0.138rem 0.103rem;
+  display: flex;
+  align-items: center;
+}
+.halaman-deskripsi-buku-sebelum-masuk-ncH .tabs-PEy .review-section-8TT .comment-section-fNq .comments-dMb .user-xfs .name-and-position-C4R .name-and-feedback-jq3 .name-stars-5P7 .start-rating-pk1 .icons-star-filled-Yg1 {
+  margin-right: 0.4061rem;
+  width: 1.3939rem;
+  height: 1.294rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.halaman-deskripsi-buku-sebelum-masuk-ncH .tabs-PEy .review-section-8TT .comment-section-fNq .comments-dMb .user-xfs .name-and-position-C4R .name-and-feedback-jq3 .name-stars-5P7 .start-rating-pk1 .icons-star-filled-5fw {
+  margin-right: 0.4061rem;
+  width: 1.3939rem;
+  height: 1.294rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.halaman-deskripsi-buku-sebelum-masuk-ncH .tabs-PEy .review-section-8TT .comment-section-fNq .comments-dMb .user-xfs .name-and-position-C4R .name-and-feedback-jq3 .name-stars-5P7 .start-rating-pk1 .icons-star-filled-25P {
+  margin-right: 0.4061rem;
+  width: 1.3939rem;
+  height: 1.294rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.halaman-deskripsi-buku-sebelum-masuk-ncH .tabs-PEy .review-section-8TT .comment-section-fNq .comments-dMb .user-xfs .name-and-position-C4R .name-and-feedback-jq3 .name-stars-5P7 .start-rating-pk1 .icons-star-filled-MdT {
+  margin-right: 0.4061rem;
+  width: 1.3939rem;
+  height: 1.294rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.halaman-deskripsi-buku-sebelum-masuk-ncH .tabs-PEy .review-section-8TT .comment-section-fNq .comments-dMb .user-xfs .name-and-position-C4R .name-and-feedback-jq3 .name-stars-5P7 .start-rating-pk1 .icons-star-filled-gfj {
+  width: 1.3939rem;
+  height: 1.294rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.halaman-deskripsi-buku-sebelum-masuk-ncH .tabs-PEy .review-section-8TT .comment-section-fNq .comments-dMb .user-xfs .name-and-position-C4R .name-and-feedback-jq3 .i-bought-it-3-weeks-ago-and-now-come-back-just-to-say-awesome-product-i-really-enjoy-it-at-vero-eos-et-accusamus-et-iusto-odio-dignissimos-ducimus-qui-blanditiis-praesentium-voluptatum-deleniti-atque-corrupt-et-quas-molestias-excepturi-sint-non-provident-RdK {
+  max-width: 98.6rem;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.625;
+  color: #353945;
+  font-family: Inter, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.halaman-deskripsi-buku-sebelum-masuk-ncH .tabs-PEy .review-section-8TT .comment-section-fNq .comments-dMb .user-xfs .name-and-position-C4R .name-and-feedback-jq3 .i-bought-it-3-weeks-ago-and-now-come-back-just-to-say-awesome-product-i-really-enjoy-it-at-vero-eos-et-accusamus-et-iusto-odio-dignissimos-ducimus-qui-blanditiis-praesentium-voluptatum-deleniti-atque-corrupt-et-quas-molestias-excepturi-sint-non-provident-RdK .i-bought-it-3-weeks-ago-and-now-come-back-just-to-say-awesome-product-i-really-enjoy-it-at-vero-eos-et-accusamus-et-iusto-odio-dignissimos-ducimus-qui-blanditiis-praesentium-voluptatum-deleniti-atque-corrupt-et-quas-molestias-excepturi-sint-non-provident-RdK-sub-0 {
+}
+.halaman-deskripsi-buku-sebelum-masuk-ncH .tabs-PEy .review-section-8TT .comment-section-fNq .comments-dMb .user-xfs .name-and-position-C4R .name-and-feedback-jq3 .i-bought-it-3-weeks-ago-and-now-come-back-just-to-say-awesome-product-i-really-enjoy-it-at-vero-eos-et-accusamus-et-iusto-odio-dignissimos-ducimus-qui-blanditiis-praesentium-voluptatum-deleniti-atque-corrupt-et-quas-molestias-excepturi-sint-non-provident-RdK .i-bought-it-3-weeks-ago-and-now-come-back-just-to-say-awesome-product-i-really-enjoy-it-at-vero-eos-et-accusamus-et-iusto-odio-dignissimos-ducimus-qui-blanditiis-praesentium-voluptatum-deleniti-atque-corrupt-et-quas-molestias-excepturi-sint-non-provident-RdK-sub-1 {
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.625;
+  color: #353945;
+  font-family: Inter, 'Source Sans Pro';
+}
+.halaman-deskripsi-buku-sebelum-masuk-ncH .tabs-PEy .review-section-8TT .comment-section-fNq .comments-dMb .user-xfs .name-and-position-C4R .frame-724-5E1 {
+  margin-right: 84.2rem;
+  box-sizing: border-box;
+  padding-right: 1.6rem;
+  width: calc(100% - 84.2rem);
+  display: flex;
+  align-items: center;
+}
+.halaman-deskripsi-buku-sebelum-masuk-ncH .tabs-PEy .review-section-8TT .comment-section-fNq .comments-dMb .user-xfs .name-and-position-C4R .frame-724-5E1 .jam-yang-lalu-ovh {
+  margin-right: 1.6rem;
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.6666666667;
+  color: #141718;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.halaman-deskripsi-buku-sebelum-masuk-ncH .tabs-PEy .review-section-8TT .comment-section-fNq .comments-dMb .user-xfs .name-and-position-C4R .frame-724-5E1 .suka-MBX {
+  font-size: 1.2rem;
+  font-weight: 600;
+  line-height: 1.6666666667;
+  color: #22262e;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.halaman-deskripsi-buku-sebelum-masuk-ncH .tabs-PEy .review-section-8TT .comment-section-fNq .comments-dMb .button-gDo {
+  margin: 0 47.1rem;
+  width: calc(100% - 94.2rem);
+  height: 4rem;
+  text-align: center;
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.75;
+  letter-spacing: -0.04rem;
+  color: #141718;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border: solid 0.1rem #141718;
+  box-sizing: border-box;
+  border-radius: 8rem;
+  flex-shrink: 0;
+}
+.halaman-deskripsi-buku-sebelum-masuk-ncH .footer-UfT {
+  box-sizing: border-box;
+  padding: 8rem 16rem 3.2rem 14.65rem;
+  width: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  background-color: #141718;
+  flex-shrink: 0;
+}
+.halaman-deskripsi-buku-sebelum-masuk-ncH .footer-UfT .logo-and-links-CrM {
+  margin-bottom: 5.7rem;
+  width: 100%;
+  height: 2.4rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.halaman-deskripsi-buku-sebelum-masuk-ncH .footer-UfT .logo-and-links-CrM .logo-and-slogan-9Wh {
+  margin-right: 27.8rem;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.halaman-deskripsi-buku-sebelum-masuk-ncH .footer-UfT .logo-and-links-CrM .logo-and-slogan-9Wh .legant-tjB {
+  margin-right: 1.85rem;
+  text-align: center;
+  font-size: 2.4rem;
+  font-weight: 500;
+  line-height: 1;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: baseline;
+  flex-shrink: 0;
+}
+.halaman-deskripsi-buku-sebelum-masuk-ncH .footer-UfT .logo-and-links-CrM .logo-and-slogan-9Wh .legant-tjB .legant-tjB-sub-0 {
+}
+.halaman-deskripsi-buku-sebelum-masuk-ncH .footer-UfT .logo-and-links-CrM .logo-and-slogan-9Wh .legant-tjB .legant-tjB-sub-1 {
+  font-size: 2.4rem;
+  font-weight: 500;
+  line-height: 1;
+  color: #38cb89;
+  font-family: Poppins, 'Source Sans Pro';
+}
+.halaman-deskripsi-buku-sebelum-masuk-ncH .footer-UfT .logo-and-links-CrM .logo-and-slogan-9Wh .legant-tjB .legant-tjB-sub-2 {
+}
+.halaman-deskripsi-buku-sebelum-masuk-ncH .footer-UfT .logo-and-links-CrM .logo-and-slogan-9Wh .rectangle-319-eLy {
+  margin-right: 3.2rem;
+  width: 0.1rem;
+  height: 2.4rem;
+  background-color: #6c7274;
+  flex-shrink: 0;
+}
+.halaman-deskripsi-buku-sebelum-masuk-ncH .footer-UfT .logo-and-links-CrM .logo-and-slogan-9Wh .gift-decoration-store-P3f {
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.5714285714;
+  color: #e8ecef;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.halaman-deskripsi-buku-sebelum-masuk-ncH .footer-UfT .logo-and-links-CrM .nav-iLq {
+  margin: 0.1rem 0;
+  height: calc(100% - 0.2rem);
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.halaman-deskripsi-buku-sebelum-masuk-ncH .footer-UfT .logo-and-links-CrM .nav-iLq .home-rC9 {
+  margin-right: 4rem;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.5714285714;
+  color: #fdfdfd;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.halaman-deskripsi-buku-sebelum-masuk-ncH .footer-UfT .logo-and-links-CrM .nav-iLq .shop-BVK {
+  margin-right: 2.2rem;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.5714285714;
+  color: #fdfdfd;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.halaman-deskripsi-buku-sebelum-masuk-ncH .footer-UfT .logo-and-links-CrM .nav-iLq .auto-group-jdsr-ik9 {
+  margin-right: 4rem;
+  box-sizing: border-box;
+  padding-left: 1.8rem;
+  height: 100%;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.5714285714;
+  color: #fdfdfd;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.halaman-deskripsi-buku-sebelum-masuk-ncH .footer-UfT .logo-and-links-CrM .nav-iLq .contact-us-poB {
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.5714285714;
+  color: #fdfdfd;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.halaman-deskripsi-buku-sebelum-masuk-ncH .footer-UfT .bottom-bar-wso {
+  margin: 0rem 0.2rem 0rem 1.35rem;
+  box-sizing: border-box;
+  padding: 1.6rem 0;
+  width: calc(100% - 1.55rem);
+  height: 5.6rem;
+  display: flex;
+  align-items: center;
+  border: solid 0.1rem #6c7274;
+  flex-shrink: 0;
+}
+.halaman-deskripsi-buku-sebelum-masuk-ncH .footer-UfT .bottom-bar-wso .copyright-Fdb {
+  margin: 0rem 49.8rem 0.4rem 0rem;
+  display: flex;
+  column-gap: 2.8rem;
+  align-items: center;
+  flex-shrink: 0;
+}
+.halaman-deskripsi-buku-sebelum-masuk-ncH .footer-UfT .bottom-bar-wso .copyright-Fdb .copyright-2023-3legant-all-rights-reserved-afs {
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.6666666667;
+  color: #e8ecef;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.halaman-deskripsi-buku-sebelum-masuk-ncH .footer-UfT .bottom-bar-wso .copyright-Fdb .privacy-policy-twT {
+  font-size: 1.2rem;
+  font-weight: 600;
+  line-height: 1.6666666667;
+  color: #fdfdfd;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.halaman-deskripsi-buku-sebelum-masuk-ncH .footer-UfT .bottom-bar-wso .copyright-Fdb .terms-of-use-pq7 {
+  font-size: 1.2rem;
+  font-weight: 600;
+  line-height: 1.6666666667;
+  color: #fdfdfd;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.halaman-deskripsi-buku-sebelum-masuk-ncH .footer-UfT .bottom-bar-wso .social-icon-Ae5 {
+  box-sizing: border-box;
+  padding: 0.2rem 0.2rem 0.2rem 0rem;
+  height: 100%;
+  display: flex;
+  column-gap: 3.2rem;
+  align-items: center;
+  flex-shrink: 0;
+}
+.halaman-deskripsi-buku-sebelum-masuk-ncH .footer-UfT .bottom-bar-wso .social-icon-Ae5 .social-outline-instagram-tKB {
+  width: 2rem;
+  height: 2rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.halaman-deskripsi-buku-sebelum-masuk-ncH .footer-UfT .bottom-bar-wso .social-icon-Ae5 .social-outline-facebook-E89 {
+  width: 1.2rem;
+  height: 1.8rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.halaman-deskripsi-buku-sebelum-masuk-ncH .footer-UfT .bottom-bar-wso .social-icon-Ae5 .social-outline-youtube-MiZ {
+  width: 2rem;
+  height: 1.8rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}

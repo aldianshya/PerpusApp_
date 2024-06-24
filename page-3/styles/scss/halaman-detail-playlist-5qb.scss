@@ -1,0 +1,949 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 144rem;
+}.halaman-detail-playlist-xuF {
+  width: 100%;
+  overflow: hidden;
+  position: relative;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+
+  .navigation-bar-rjj {
+    background-color: #ffffff;
+    flex-shrink: 0;
+    box-sizing: border-box;
+    padding: 1.6rem 16rem 1.6rem 14.65rem;
+    width: 100%;
+    height: 6rem;
+    display: flex;
+    align-items: center;
+
+    .logo-Ze9 {
+      font-family: Poppins, 'Source Sans Pro';
+      cursor: pointer;
+      font-weight: 500;
+      white-space: nowrap;
+      display: flex;
+      margin: 0.2rem 20.55rem 0.2rem 0rem;
+      height: calc(100% - 0.4rem);
+      font-size: 2.4rem;
+      justify-content: center;
+      flex-shrink: 0;
+      width: 13.2rem;
+      text-align: center;
+      line-height: 1;
+      color: #000000;
+      align-items: center;
+
+      .logo-Ze9-sub-0 {
+      }
+      .logo-Ze9-sub-1 {
+        font-weight: 500;
+        line-height: 1;
+        color: #38cb89;
+        font-family: Poppins, 'Source Sans Pro';
+        font-size: 2.4rem;
+      }
+      .logo-Ze9-sub-2 {
+      }
+    }
+    .elements-navigation-link-group--R45 {
+      margin: 0.2rem 21.9rem 0.2rem 0rem;
+      height: calc(100% - 0.4rem);
+      display: flex;
+      column-gap: 4rem;
+      align-items: center;
+      flex-shrink: 0;
+
+      .elements-navigation-link--uV3 {
+        width: 5.6rem;
+        height: 100%;
+        cursor: pointer;
+        flex-shrink: 0;
+
+        .button-Szm {
+          width: 100%;
+          height: 100%;
+          border: solid 0 #141718;
+          box-sizing: border-box;
+
+          .content-Qgh {
+            font-size: 1.4rem;
+            line-height: 1.7142857143;
+            color: #6c7274;
+            display: flex;
+            align-items: center;
+            height: 100%;
+            font-weight: 500;
+            font-family: Inter, 'Source Sans Pro';
+            white-space: nowrap;
+            justify-content: center;
+            width: 100%;
+          }
+        }
+      }
+      .elements-navigation-link--utM {
+        width: 13.9rem;
+        height: 100%;
+        cursor: pointer;
+        flex-shrink: 0;
+
+        .button-StH {
+          height: 100%;
+          border: solid 0 #6c7274;
+          box-sizing: border-box;
+          width: 100%;
+
+          .content-DPF {
+            align-items: center;
+            justify-content: center;
+            width: 100%;
+            font-size: 1.4rem;
+            font-weight: 500;
+            line-height: 1.7142857143;
+            color: #6c7274;
+            white-space: nowrap;
+            height: 100%;
+            font-family: Inter, 'Source Sans Pro';
+            display: flex;
+          }
+        }
+      }
+      .auto-group-laxj-Kx5 {
+        width: 17.2rem;
+        height: 100%;
+        position: relative;
+        flex-shrink: 0;
+
+        .button-5RT {
+          border: solid 0 #6c7274;
+          box-sizing: border-box;
+          width: 11.5704rem;
+          height: 2.4rem;
+          position: absolute;
+          left: 0;
+          top: 0;
+
+          .content-E3T {
+            font-family: Inter, 'Source Sans Pro';
+            white-space: nowrap;
+            display: flex;
+            margin-right: 6.7704rem;
+            width: 4.8rem;
+            height: 100%;
+            font-size: 1.4rem;
+            line-height: 1.7142857143;
+            font-weight: 500;
+            color: #141718;
+            align-items: center;
+            justify-content: center;
+          }
+        }
+        .elements-navigation-link--iUR {
+          cursor: pointer;
+          position: absolute;
+          left: 8.8rem;
+          top: 0;
+          width: 8.4rem;
+          height: 2.4rem;
+
+          .button-FUM {
+            line-height: 1.7142857143;
+            white-space: nowrap;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            border: solid 0 #6c7274;
+            height: 100%;
+            font-weight: 500;
+            color: #6c7274;
+            font-family: Inter, 'Source Sans Pro';
+            box-sizing: border-box;
+            width: 100%;
+            font-size: 1.4rem;
+          }
+        }
+      }
+    }
+    .icons-ZE9 {
+      height: 100%;
+      display: flex;
+      align-items: center;
+      flex-shrink: 0;
+
+      .auto-group-o6jo-v4h {
+        box-sizing: border-box;
+        padding: 0.2rem 1.6rem 0.2rem 0.2rem;
+        height: 100%;
+        display: flex;
+        align-items: center;
+        flex-shrink: 0;
+
+        .interface-outline-search-02-eWV {
+          vertical-align: top;
+          flex-shrink: 0;
+          margin-right: 1.8rem;
+          width: 2rem;
+          height: 2rem;
+          object-fit: contain;
+        }
+        .interface-outline-user-circle-Ajj {
+          flex-shrink: 0;
+          width: 2.4rem;
+          height: 2.4rem;
+          cursor: pointer;
+          object-fit: contain;
+          vertical-align: top;
+        }
+      }
+      .elements-navigation-cart-button-uSR {
+        cursor: pointer;
+        display: flex;
+        align-items: center;
+        flex-shrink: 0;
+        box-sizing: border-box;
+        padding: 0.4rem 0rem 0.4rem 0.372rem;
+        height: 100%;
+
+        .outline-shopping-bag-pZP {
+          vertical-align: top;
+          flex-shrink: 0;
+          margin-right: 0.7721rem;
+          width: 1.8559rem;
+          height: 1.8rem;
+          position: relative;
+          object-fit: contain;
+        }
+        .frame-3-kxq {
+          flex-shrink: 0;
+          width: 2rem;
+          line-height: 0.8333333333;
+          color: #ffffff;
+          justify-content: center;
+          border-radius: 1rem;
+          text-align: center;
+          font-size: 1.2rem;
+          white-space: nowrap;
+          overflow: hidden;
+          font-weight: 700;
+          align-items: center;
+          display: flex;
+          background-color: #141718;
+          height: 100%;
+          position: relative;
+          font-family: Inter, 'Source Sans Pro';
+        }
+      }
+    }
+  }
+  .content-Ed7 {
+    background-color: #ffffff;
+    flex-shrink: 0;
+    box-sizing: border-box;
+    padding: 0rem 9.4rem 11rem 13rem;
+    width: 100%;
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+
+    .frame-749-md3 {
+      margin: 0rem 13.2rem 0.4rem 9.6rem;
+      width: calc(100% - 22.8rem);
+      display: flex;
+      flex-direction: column;
+      flex-shrink: 0;
+
+      .auto-group-nk3u-Vow {
+        box-sizing: border-box;
+        padding: 3.2rem 21.8rem 0rem 13.9rem;
+        width: 80.7rem;
+        height: 33.2rem;
+        flex-shrink: 0;
+        margin: 0rem 0rem 3.7rem 18.1rem;
+
+        .frame-751-11b {
+          width: 100%;
+          height: 100%;
+          overflow: hidden;
+          position: relative;
+
+          .beautiful-kitten-with-flowers-outdoors-1-kE5 {
+            width: 207.8rem;
+            height: 242.5rem;
+            background-image: url('REPLACE_IMAGE:1a24720ac00b847c2a4ed1bd769909be9a21f27e');
+            background-repeat: repeat;
+            background-size: 11.85%;
+          }
+        }
+      }
+      .angel-book-4Em {
+        margin-bottom: 1.5rem;
+        font-weight: 500;
+        line-height: 1.0740740741;
+        font-family: Poppins, 'Source Sans Pro';
+        white-space: nowrap;
+        font-size: 5.4rem;
+        letter-spacing: -0.1rem;
+        color: #000000;
+        flex-shrink: 0;
+      }
+      .by-farhan-ycd {
+        margin-bottom: 0.3rem;
+        font-size: 4rem;
+        font-weight: 500;
+        letter-spacing: -0.1rem;
+        flex-shrink: 0;
+        line-height: 1.45;
+        color: #000000;
+        font-family: Poppins, 'Source Sans Pro';
+        white-space: nowrap;
+      }
+      .lorem-ipsum-dolor-sit-amet-consectetur-adipiscing-elit-integer-nec-odio-praesent-libero-sed-cursus-ante-dapibus-diam-hoX {
+        max-width: 80.6rem;
+        font-weight: 500;
+        font-family: Poppins, 'Source Sans Pro';
+        flex-shrink: 0;
+        display: flex;
+        font-size: 2rem;
+        line-height: 2.9;
+        letter-spacing: -0.1rem;
+        color: #000000;
+      }
+    }
+    .content-acR {
+      box-sizing: border-box;
+      padding: 3.55rem 7.2rem 4.15rem 7.2rem;
+      width: 100%;
+      height: 58.7rem;
+      position: relative;
+      flex-shrink: 0;
+      overflow: hidden;
+      background-color: #ffffff;
+      border-radius: 2rem;
+
+      .content-WW5 {
+        height: 100%;
+        align-items: center;
+        display: flex;
+        flex-direction: column;
+        width: 100%;
+
+        .caption-FiZ {
+          align-items: flex-start;
+          border: solid 0.1rem #e8ecef;
+          flex-shrink: 0;
+          box-sizing: border-box;
+          padding: 0rem 50.65rem 0rem 3.2rem;
+          width: 100%;
+          height: 3rem;
+          display: flex;
+
+          .nama-buku-NoB {
+            color: #6c7274;
+            font-family: Inter, 'Source Sans Pro';
+            white-space: nowrap;
+            flex-shrink: 0;
+            margin-right: 36.65rem;
+            font-size: 1.4rem;
+            font-weight: 400;
+            line-height: 1.5714285714;
+          }
+          .provinsi-iMF {
+            flex-shrink: 0;
+            text-align: center;
+            font-size: 1.4rem;
+            font-weight: 400;
+            line-height: 1.5714285714;
+            color: #6c7274;
+            font-family: Inter, 'Source Sans Pro';
+            white-space: nowrap;
+          }
+        }
+        .item-dz1 {
+          height: 12rem;
+          display: flex;
+          align-items: center;
+          border: solid 0.1rem #e8ecef;
+          flex-shrink: 0;
+          box-sizing: border-box;
+          padding: 2.7rem 1.7rem 2.1rem 0.6rem;
+          width: 100%;
+
+          .content-Mf7 {
+            flex-shrink: 0;
+            margin-right: 32.7rem;
+            height: 100%;
+            display: flex;
+            align-items: center;
+
+            .image-placeholder-6Mo {
+              flex-shrink: 0;
+              margin-right: 1.6rem;
+              height: 100%;
+              overflow: hidden;
+              position: relative;
+
+              .paste-image-pYh {
+                width: 6rem;
+                height: 7.2rem;
+                object-fit: cover;
+                vertical-align: top;
+              }
+            }
+            .product-83b {
+              margin: 1.1rem 0;
+              height: calc(100% - 2.2rem);
+              display: flex;
+              flex-direction: column;
+              flex-shrink: 0;
+
+              .hujan-qih {
+                flex-shrink: 0;
+                margin-bottom: 0.8rem;
+                font-size: 1.4rem;
+                font-weight: 600;
+                line-height: 1.5714285714;
+                color: #141718;
+                font-family: Inter, 'Source Sans Pro';
+                white-space: nowrap;
+              }
+              .tere-liye-kKs {
+                flex-shrink: 0;
+                font-size: 1.2rem;
+                font-weight: 400;
+                line-height: 1.6666666667;
+                color: #6c7274;
+                font-family: Inter, 'Source Sans Pro';
+                white-space: nowrap;
+              }
+            }
+          }
+          .perpustakaan-universitas-jambi-Tzy {
+            flex-shrink: 0;
+            margin: 2.6rem 32.1rem 0rem 0rem;
+            max-width: 11.8rem;
+            font-size: 1.4rem;
+            color: #141718;
+            font-family: Inter, 'Source Sans Pro';
+            text-align: center;
+            font-weight: 400;
+            line-height: 1.5714285714;
+          }
+          .button-h8d {
+            margin: 1.8rem 0rem 1.4rem 0rem;
+            text-align: center;
+            font-size: 1.6rem;
+            color: #ffffff;
+            font-family: Inter, 'Source Sans Pro';
+            display: flex;
+            justify-content: center;
+            letter-spacing: -0.04rem;
+            border-radius: 0.8rem;
+            height: calc(100% - 3.2rem);
+            line-height: 1.75;
+            white-space: nowrap;
+            align-items: center;
+            background-color: #141718;
+            width: 15.2rem;
+            font-weight: 500;
+            flex-shrink: 0;
+          }
+        }
+        .item-jLD {
+          align-items: center;
+          border: solid 0.1rem #e8ecef;
+          flex-shrink: 0;
+          box-sizing: border-box;
+          padding: 2.7rem 1.7rem 2.1rem 0.6rem;
+          width: 100%;
+          height: 12rem;
+          display: flex;
+
+          .content-exy {
+            align-items: center;
+            flex-shrink: 0;
+            margin-right: 32.2rem;
+            height: 100%;
+            display: flex;
+
+            .image-placeholder-oay {
+              margin-right: 1.6rem;
+              height: 100%;
+              overflow: hidden;
+              position: relative;
+              flex-shrink: 0;
+
+              .paste-image-xCy {
+                vertical-align: top;
+                width: 6rem;
+                height: 7.2rem;
+                object-fit: cover;
+              }
+            }
+            .product-tMX {
+              height: calc(100% - 2.2rem);
+              display: flex;
+              flex-direction: column;
+              flex-shrink: 0;
+              margin: 1.1rem 0;
+
+              .matahari-ERP {
+                white-space: nowrap;
+                flex-shrink: 0;
+                margin-bottom: 0.8rem;
+                font-size: 1.4rem;
+                font-weight: 600;
+                line-height: 1.5714285714;
+                color: #141718;
+                font-family: Inter, 'Source Sans Pro';
+              }
+              .tere-liye-NGh {
+                font-family: Inter, 'Source Sans Pro';
+                white-space: nowrap;
+                flex-shrink: 0;
+                font-size: 1.2rem;
+                font-weight: 400;
+                line-height: 1.6666666667;
+                color: #6c7274;
+              }
+            }
+          }
+          .perpustakaan-universitas-jambi-6yP {
+            margin: 2.6rem 32.1rem 0rem 0rem;
+            font-size: 1.4rem;
+            line-height: 1.5714285714;
+            font-family: Inter, 'Source Sans Pro';
+            max-width: 11.8rem;
+            text-align: center;
+            font-weight: 400;
+            color: #141718;
+            flex-shrink: 0;
+          }
+          .button-PxV {
+            line-height: 1.75;
+            white-space: nowrap;
+            justify-content: center;
+            margin: 1.8rem 0rem 1.4rem 0rem;
+            text-align: center;
+            font-size: 1.6rem;
+            font-weight: 500;
+            letter-spacing: -0.04rem;
+            font-family: Inter, 'Source Sans Pro';
+            display: flex;
+            align-items: center;
+            border-radius: 0.8rem;
+            flex-shrink: 0;
+            width: 15.2rem;
+            height: calc(100% - 3.2rem);
+            color: #ffffff;
+            background-color: #141718;
+          }
+        }
+        .item-Sfs {
+          align-items: center;
+          border: solid 0.1rem #e8ecef;
+          flex-shrink: 0;
+          box-sizing: border-box;
+          padding: 2.7rem 1.7rem 2.1rem 0.6rem;
+          width: 100%;
+          height: 12rem;
+          display: flex;
+
+          .content-a1P {
+            margin-right: 33rem;
+            height: 100%;
+            display: flex;
+            align-items: center;
+            flex-shrink: 0;
+
+            .image-placeholder-82u {
+              height: 100%;
+              overflow: hidden;
+              position: relative;
+              flex-shrink: 0;
+              margin-right: 1.6rem;
+
+              .paste-image-UcZ {
+                width: 6rem;
+                height: 7.2rem;
+                object-fit: cover;
+                vertical-align: top;
+              }
+            }
+            .product-1cV {
+              margin: 1.1rem 0;
+              height: calc(100% - 2.2rem);
+              display: flex;
+              flex-direction: column;
+              flex-shrink: 0;
+
+              .bulan-MRT {
+                white-space: nowrap;
+                flex-shrink: 0;
+                margin-bottom: 0.8rem;
+                font-size: 1.4rem;
+                font-weight: 600;
+                line-height: 1.5714285714;
+                color: #141718;
+                font-family: Inter, 'Source Sans Pro';
+              }
+              .tere-liye-tgH {
+                font-size: 1.2rem;
+                font-weight: 400;
+                line-height: 1.6666666667;
+                color: #6c7274;
+                font-family: Inter, 'Source Sans Pro';
+                white-space: nowrap;
+                flex-shrink: 0;
+              }
+            }
+          }
+          .perpustakaan-universitas-jambi-q5j {
+            text-align: center;
+            font-size: 1.4rem;
+            max-width: 11.8rem;
+            font-weight: 400;
+            line-height: 1.5714285714;
+            color: #141718;
+            font-family: Inter, 'Source Sans Pro';
+            flex-shrink: 0;
+            margin: 2.6rem 32.1rem 0rem 0rem;
+          }
+          .button-96R {
+            margin: 1.8rem 0rem 1.4rem 0rem;
+            display: flex;
+            border-radius: 0.8rem;
+            flex-shrink: 0;
+            line-height: 1.75;
+            letter-spacing: -0.04rem;
+            width: 15.2rem;
+            height: calc(100% - 3.2rem);
+            font-size: 1.6rem;
+            font-weight: 500;
+            color: #ffffff;
+            align-items: center;
+            text-align: center;
+            font-family: Inter, 'Source Sans Pro';
+            white-space: nowrap;
+            justify-content: center;
+            background-color: #141718;
+          }
+        }
+        .item-F2y {
+          align-items: center;
+          border: solid 0.1rem #e8ecef;
+          flex-shrink: 0;
+          box-sizing: border-box;
+          padding: 2.7rem 1.7rem 2.1rem 0.6rem;
+          width: 100%;
+          height: 12rem;
+          display: flex;
+
+          .content-mn1 {
+            margin-right: 33rem;
+            height: 100%;
+            display: flex;
+            align-items: center;
+            flex-shrink: 0;
+
+            .image-placeholder-XFP {
+              flex-shrink: 0;
+              margin-right: 1.6rem;
+              height: 100%;
+              overflow: hidden;
+              position: relative;
+
+              .paste-image-Gyf {
+                object-fit: cover;
+                vertical-align: top;
+                width: 6rem;
+                height: 7.2rem;
+              }
+            }
+            .product-cnd {
+              margin: 1.1rem 0;
+              height: calc(100% - 2.2rem);
+              display: flex;
+              flex-direction: column;
+              flex-shrink: 0;
+
+              .nebula-Zhs {
+                margin-bottom: 0.8rem;
+                font-size: 1.4rem;
+                font-weight: 600;
+                line-height: 1.5714285714;
+                color: #141718;
+                font-family: Inter, 'Source Sans Pro';
+                white-space: nowrap;
+                flex-shrink: 0;
+              }
+              .tere-liye-JfT {
+                line-height: 1.6666666667;
+                color: #6c7274;
+                font-family: Inter, 'Source Sans Pro';
+                white-space: nowrap;
+                flex-shrink: 0;
+                font-size: 1.2rem;
+                font-weight: 400;
+              }
+            }
+          }
+          .perpustakaan-universitas-jambi-eDX {
+            font-family: Inter, 'Source Sans Pro';
+            flex-shrink: 0;
+            margin: 2.6rem 32.1rem 0rem 0rem;
+            max-width: 11.8rem;
+            text-align: center;
+            font-size: 1.4rem;
+            font-weight: 400;
+            line-height: 1.5714285714;
+            color: #141718;
+          }
+          .button-Z5b {
+            font-weight: 500;
+            color: #ffffff;
+            flex-shrink: 0;
+            background-color: #141718;
+            height: calc(100% - 3.2rem);
+            text-align: center;
+            font-size: 1.6rem;
+            line-height: 1.75;
+            font-family: Inter, 'Source Sans Pro';
+            width: 15.2rem;
+            white-space: nowrap;
+            display: flex;
+            margin: 1.8rem 0rem 1.4rem 0rem;
+            letter-spacing: -0.04rem;
+            align-items: center;
+            justify-content: center;
+            border-radius: 0.8rem;
+          }
+        }
+      }
+    }
+  }
+  .footer-amP {
+    flex-direction: column;
+    background-color: #141718;
+    flex-shrink: 0;
+    box-sizing: border-box;
+    padding: 8rem 16rem 3.2rem 14.65rem;
+    width: 100%;
+    align-items: center;
+    display: flex;
+
+    .logo-and-links-Wuw {
+      display: flex;
+      align-items: center;
+      flex-shrink: 0;
+      margin-bottom: 5.7rem;
+      width: 100%;
+      height: 2.4rem;
+
+      .logo-and-slogan-3Q5 {
+        flex-shrink: 0;
+        margin-right: 27.8rem;
+        height: 100%;
+        display: flex;
+        align-items: center;
+
+        .logo-ncZ {
+          color: #ffffff;
+          font-family: Poppins, 'Source Sans Pro';
+          align-items: center;
+          height: 100%;
+          cursor: pointer;
+          font-size: 2.4rem;
+          font-weight: 500;
+          line-height: 1;
+          margin-right: 1.85rem;
+          display: flex;
+          text-align: center;
+          width: 13.2rem;
+          white-space: nowrap;
+          justify-content: center;
+          flex-shrink: 0;
+
+          .logo-ncZ-sub-0 {
+          }
+          .logo-ncZ-sub-1 {
+            font-size: 2.4rem;
+            font-weight: 500;
+            line-height: 1;
+            color: #38cb89;
+            font-family: Poppins, 'Source Sans Pro';
+          }
+          .logo-ncZ-sub-2 {
+          }
+          .logo-ncZ-sub-3 {
+            font-size: 2.4rem;
+            font-weight: 500;
+            line-height: 1;
+            color: #6c7274;
+            font-family: Poppins, 'Source Sans Pro';
+          }
+        }
+        .rectangle-319-CJu {
+          background-color: #6c7274;
+          flex-shrink: 0;
+          margin-right: 3.2rem;
+          width: 0.1rem;
+          height: 2.4rem;
+        }
+        .gift-decoration-store-Y7s {
+          font-size: 1.4rem;
+          font-weight: 400;
+          line-height: 1.5714285714;
+          color: #e8ecef;
+          font-family: Inter, 'Source Sans Pro';
+          white-space: nowrap;
+          flex-shrink: 0;
+        }
+      }
+      .nav-5Nh {
+        margin: 0.1rem 0;
+        height: calc(100% - 0.2rem);
+        display: flex;
+        align-items: center;
+        flex-shrink: 0;
+
+        .home-ctR {
+          font-size: 1.4rem;
+          line-height: 1.5714285714;
+          color: #fdfdfd;
+          flex-shrink: 0;
+          margin-right: 4rem;
+          cursor: pointer;
+          font-weight: 400;
+          font-family: Inter, 'Source Sans Pro';
+          white-space: nowrap;
+        }
+        .shop-MLD {
+          font-size: 1.4rem;
+          font-weight: 400;
+          line-height: 1.5714285714;
+          color: #fdfdfd;
+          font-family: Inter, 'Source Sans Pro';
+          white-space: nowrap;
+          flex-shrink: 0;
+          margin-right: 2.2rem;
+        }
+        .auto-group-fgrf-tqw {
+          box-sizing: border-box;
+          padding-left: 1.8rem;
+          height: 100%;
+          font-weight: 400;
+          margin-right: 4rem;
+          font-size: 1.4rem;
+          line-height: 1.5714285714;
+          color: #fdfdfd;
+          font-family: Inter, 'Source Sans Pro';
+          white-space: nowrap;
+          flex-shrink: 0;
+        }
+        .contact-us-cG9 {
+          line-height: 1.5714285714;
+          color: #fdfdfd;
+          font-family: Inter, 'Source Sans Pro';
+          white-space: nowrap;
+          flex-shrink: 0;
+          cursor: pointer;
+          font-size: 1.4rem;
+          font-weight: 400;
+        }
+      }
+    }
+    .bottom-bar-YQh {
+      padding: 1.6rem 0;
+      width: calc(100% - 1.55rem);
+      height: 5.6rem;
+      border: solid 0.1rem #6c7274;
+      margin: 0rem 0.2rem 0rem 1.35rem;
+      box-sizing: border-box;
+      display: flex;
+      align-items: center;
+      flex-shrink: 0;
+
+      .copyright-Fa1 {
+        margin: 0rem 49.5rem 0.4rem 0rem;
+        display: flex;
+        column-gap: 2.8rem;
+        align-items: center;
+        flex-shrink: 0;
+
+        .copyright-2023-3legant-all-rights-reserved-nK3 {
+          font-family: Poppins, 'Source Sans Pro';
+          white-space: nowrap;
+          flex-shrink: 0;
+          font-size: 1.2rem;
+          font-weight: 400;
+          line-height: 1.6666666667;
+          color: #e8ecef;
+        }
+        .privacy-policy-hgu {
+          flex-shrink: 0;
+          font-size: 1.2rem;
+          font-weight: 600;
+          line-height: 1.6666666667;
+          color: #fdfdfd;
+          font-family: Poppins, 'Source Sans Pro';
+          white-space: nowrap;
+        }
+        .terms-of-use-eMF {
+          flex-shrink: 0;
+          font-size: 1.2rem;
+          font-weight: 600;
+          line-height: 1.6666666667;
+          color: #fdfdfd;
+          font-family: Poppins, 'Source Sans Pro';
+          white-space: nowrap;
+        }
+      }
+      .social-icon-nTT {
+        flex-shrink: 0;
+        box-sizing: border-box;
+        padding: 0.2rem 0.2rem 0.2rem 0rem;
+        height: 100%;
+        display: flex;
+        column-gap: 3.2rem;
+        align-items: center;
+
+        .social-outline-instagram-Jgh {
+          width: 2rem;
+          height: 2rem;
+          object-fit: contain;
+          vertical-align: top;
+          flex-shrink: 0;
+        }
+        .social-outline-facebook-FM3 {
+          width: 1.2rem;
+          height: 1.8rem;
+          object-fit: contain;
+          vertical-align: top;
+          flex-shrink: 0;
+        }
+        .social-outline-youtube-PTF {
+          width: 2rem;
+          height: 1.8rem;
+          object-fit: contain;
+          vertical-align: top;
+          flex-shrink: 0;
+        }
+      }
+    }
+  }
+}

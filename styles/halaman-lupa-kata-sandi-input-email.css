@@ -1,0 +1,329 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 100%;
+}.halaman-lupa-kata-sandi-input-email-WKB {
+  width: 100%;
+  overflow: hidden;
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  background-color: #ffffff;
+}
+.halaman-lupa-kata-sandi-input-email-WKB .auto-group-zswv-3K7 {
+  margin-right: 16rem;
+  width: calc(100% - 16rem);
+  height: 68.4rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.halaman-lupa-kata-sandi-input-email-WKB .auto-group-zswv-3K7 .left-a49 {
+  margin-right: 8.8rem;
+  box-sizing: border-box;
+  padding: 3.2rem 30.25rem 3.2rem 30.15rem;
+  width: 73.6rem;
+  height: 100%;
+  background-color: #000000;
+  flex-shrink: 0;
+}
+.halaman-lupa-kata-sandi-input-email-WKB .auto-group-zswv-3K7 .left-a49 .logo-HjF {
+  margin-bottom: 59.6rem;
+  width: 100%;
+  height: 2.4rem;
+  cursor: pointer;
+  text-align: center;
+  font-size: 2.4rem;
+  font-weight: 500;
+  line-height: 1;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.halaman-lupa-kata-sandi-input-email-WKB .auto-group-zswv-3K7 .left-a49 .logo-HjF .logo-HjF-sub-0 {
+}
+.halaman-lupa-kata-sandi-input-email-WKB .auto-group-zswv-3K7 .left-a49 .logo-HjF .logo-HjF-sub-1 {
+  font-size: 2.4rem;
+  font-weight: 500;
+  line-height: 1;
+  color: #38cb89;
+  font-family: Poppins, 'Source Sans Pro';
+}
+.halaman-lupa-kata-sandi-input-email-WKB .auto-group-zswv-3K7 .left-a49 .logo-HjF .logo-HjF-sub-2 {
+}
+.halaman-lupa-kata-sandi-input-email-WKB .auto-group-zswv-3K7 .left-a49 .logo-HjF .logo-HjF-sub-3 {
+  font-size: 2.4rem;
+  font-weight: 500;
+  line-height: 1;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+}
+.halaman-lupa-kata-sandi-input-email-WKB .auto-group-zswv-3K7 .sign-in-JXs {
+  margin: 22rem 0rem 26.8rem 0rem;
+  width: 45.6rem;
+  height: calc(100% - 48.8rem);
+  row-gap: 3.2rem;
+  display: flex;
+  flex-direction: column;
+  background-color: #fdfdfd;
+  flex-shrink: 0;
+}
+.halaman-lupa-kata-sandi-input-email-WKB .auto-group-zswv-3K7 .sign-in-JXs .lupa-kata-sandi-bWy {
+  font-size: 4rem;
+  font-weight: 500;
+  line-height: 1.1;
+  letter-spacing: -0.04rem;
+  color: #141718;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.halaman-lupa-kata-sandi-input-email-WKB .auto-group-zswv-3K7 .sign-in-JXs .form-input-irV {
+  width: 100%;
+  height: 4rem;
+  border: solid 0.1rem #e8ecef;
+  box-sizing: border-box;
+  flex-shrink: 0;
+}
+.halaman-lupa-kata-sandi-input-email-WKB .auto-group-zswv-3K7 .sign-in-JXs .form-input-irV .content-5h3 {
+  width: 100%;
+  height: 100%;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.625;
+  color: #6c7274;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  border: solid 0.1rem #e8ecef;
+  box-sizing: border-box;
+}
+.halaman-lupa-kata-sandi-input-email-WKB .auto-group-zswv-3K7 .sign-in-JXs .button-mZs {
+  width: 100%;
+  height: 4.8rem;
+  cursor: pointer;
+  text-align: center;
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.75;
+  letter-spacing: -0.04rem;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #141718;
+  border-radius: 0.8rem;
+  flex-shrink: 0;
+}
+.halaman-lupa-kata-sandi-input-email-WKB .footer-EiM {
+  box-sizing: border-box;
+  padding: 8rem 16rem 3.2rem 14.65rem;
+  width: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  background-color: #141718;
+  flex-shrink: 0;
+}
+.halaman-lupa-kata-sandi-input-email-WKB .footer-EiM .logo-and-links-yR3 {
+  margin-bottom: 5.7rem;
+  width: 100%;
+  height: 2.4rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.halaman-lupa-kata-sandi-input-email-WKB .footer-EiM .logo-and-links-yR3 .logo-and-slogan-WQy {
+  margin-right: 27.8rem;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.halaman-lupa-kata-sandi-input-email-WKB .footer-EiM .logo-and-links-yR3 .logo-and-slogan-WQy .perpusapp-4Bb {
+  margin-right: 1.85rem;
+  text-align: center;
+  font-size: 2.4rem;
+  font-weight: 500;
+  line-height: 1;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: baseline;
+  flex-shrink: 0;
+}
+.halaman-lupa-kata-sandi-input-email-WKB .footer-EiM .logo-and-links-yR3 .logo-and-slogan-WQy .perpusapp-4Bb .perpusapp-4Bb-sub-0 {
+}
+.halaman-lupa-kata-sandi-input-email-WKB .footer-EiM .logo-and-links-yR3 .logo-and-slogan-WQy .perpusapp-4Bb .perpusapp-4Bb-sub-1 {
+  font-size: 2.4rem;
+  font-weight: 500;
+  line-height: 1;
+  color: #38cb89;
+  font-family: Poppins, 'Source Sans Pro';
+}
+.halaman-lupa-kata-sandi-input-email-WKB .footer-EiM .logo-and-links-yR3 .logo-and-slogan-WQy .perpusapp-4Bb .perpusapp-4Bb-sub-2 {
+}
+.halaman-lupa-kata-sandi-input-email-WKB .footer-EiM .logo-and-links-yR3 .logo-and-slogan-WQy .perpusapp-4Bb .perpusapp-4Bb-sub-3 {
+  font-size: 2.4rem;
+  font-weight: 500;
+  line-height: 1;
+  color: #6c7274;
+  font-family: Poppins, 'Source Sans Pro';
+}
+.halaman-lupa-kata-sandi-input-email-WKB .footer-EiM .logo-and-links-yR3 .logo-and-slogan-WQy .rectangle-319-mVK {
+  margin-right: 3.2rem;
+  width: 0.1rem;
+  height: 2.4rem;
+  background-color: #6c7274;
+  flex-shrink: 0;
+}
+.halaman-lupa-kata-sandi-input-email-WKB .footer-EiM .logo-and-links-yR3 .logo-and-slogan-WQy .gift-decoration-store-Jk9 {
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.5714285714;
+  color: #e8ecef;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.halaman-lupa-kata-sandi-input-email-WKB .footer-EiM .logo-and-links-yR3 .nav-qVB {
+  margin: 0.1rem 0;
+  height: calc(100% - 0.2rem);
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.halaman-lupa-kata-sandi-input-email-WKB .footer-EiM .logo-and-links-yR3 .nav-qVB .home-BJ9 {
+  margin-right: 4rem;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.5714285714;
+  color: #fdfdfd;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.halaman-lupa-kata-sandi-input-email-WKB .footer-EiM .logo-and-links-yR3 .nav-qVB .shop-iJ5 {
+  margin-right: 2.2rem;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.5714285714;
+  color: #fdfdfd;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.halaman-lupa-kata-sandi-input-email-WKB .footer-EiM .logo-and-links-yR3 .nav-qVB .auto-group-bwps-r9P {
+  margin-right: 4rem;
+  box-sizing: border-box;
+  padding-left: 1.8rem;
+  height: 100%;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.5714285714;
+  color: #fdfdfd;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.halaman-lupa-kata-sandi-input-email-WKB .footer-EiM .logo-and-links-yR3 .nav-qVB .contact-us-wwX {
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.5714285714;
+  color: #fdfdfd;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.halaman-lupa-kata-sandi-input-email-WKB .footer-EiM .bottom-bar-HVb {
+  margin: 0rem 0.2rem 0rem 1.35rem;
+  box-sizing: border-box;
+  padding: 1.6rem 0;
+  width: calc(100% - 1.55rem);
+  height: 5.6rem;
+  display: flex;
+  align-items: center;
+  border-top: solid 0.1rem #6c7274;
+  flex-shrink: 0;
+}
+.halaman-lupa-kata-sandi-input-email-WKB .footer-EiM .bottom-bar-HVb .copyright-PYd {
+  margin: 0rem 49.8rem 0.4rem 0rem;
+  display: flex;
+  column-gap: 2.8rem;
+  align-items: center;
+  flex-shrink: 0;
+}
+.halaman-lupa-kata-sandi-input-email-WKB .footer-EiM .bottom-bar-HVb .copyright-PYd .copyright-2023-perpusapp-all-rights-reserved-iqo {
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.6666666667;
+  color: #e8ecef;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.halaman-lupa-kata-sandi-input-email-WKB .footer-EiM .bottom-bar-HVb .copyright-PYd .privacy-policy-F53 {
+  font-size: 1.2rem;
+  font-weight: 600;
+  line-height: 1.6666666667;
+  color: #fdfdfd;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.halaman-lupa-kata-sandi-input-email-WKB .footer-EiM .bottom-bar-HVb .copyright-PYd .terms-of-use-at1 {
+  font-size: 1.2rem;
+  font-weight: 600;
+  line-height: 1.6666666667;
+  color: #fdfdfd;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.halaman-lupa-kata-sandi-input-email-WKB .footer-EiM .bottom-bar-HVb .social-icon-Kah {
+  box-sizing: border-box;
+  padding: 0.2rem 0.2rem 0.2rem 0rem;
+  height: 100%;
+  display: flex;
+  column-gap: 3.2rem;
+  align-items: center;
+  flex-shrink: 0;
+}
+.halaman-lupa-kata-sandi-input-email-WKB .footer-EiM .bottom-bar-HVb .social-icon-Kah .social-outline-instagram-ESm {
+  width: 2rem;
+  height: 2rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.halaman-lupa-kata-sandi-input-email-WKB .footer-EiM .bottom-bar-HVb .social-icon-Kah .social-outline-facebook-N3B {
+  width: 1.2rem;
+  height: 1.8rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.halaman-lupa-kata-sandi-input-email-WKB .footer-EiM .bottom-bar-HVb .social-icon-Kah .social-outline-youtube-JSd {
+  width: 2rem;
+  height: 1.8rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}

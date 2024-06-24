@@ -1,0 +1,820 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 144rem;
+}.halaman-reservasi-berhasil-NGq {
+  background-color: #ffffff;
+  width: 100%;
+  overflow: hidden;
+  position: relative;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+
+  .navigation-bar-6Tj {
+    height: 6rem;
+    display: flex;
+    align-items: center;
+    background-color: #ffffff;
+    flex-shrink: 0;
+    box-sizing: border-box;
+    padding: 1.6rem 16rem 1.6rem 14.65rem;
+    width: 100%;
+
+    .legant-od3 {
+      margin-right: 20.45rem;
+      cursor: pointer;
+      text-align: center;
+      font-size: 2.4rem;
+      color: #000000;
+      font-family: Poppins, 'Source Sans Pro';
+      align-items: baseline;
+      flex-shrink: 0;
+      font-weight: 500;
+      line-height: 1;
+      white-space: nowrap;
+      display: flex;
+
+      .legant-od3-sub-0 {
+      }
+      .legant-od3-sub-1 {
+        line-height: 1;
+        color: #38cb89;
+        font-family: Poppins, 'Source Sans Pro';
+        font-size: 2.4rem;
+        font-weight: 500;
+      }
+      .legant-od3-sub-2 {
+      }
+    }
+    .elements-navigation-link-group--XBf {
+      align-items: center;
+      flex-shrink: 0;
+      margin: 0.2rem 21.8rem 0.2rem 0rem;
+      height: calc(100% - 0.4rem);
+      display: flex;
+      column-gap: 4rem;
+
+      .elements-navigation-link--pwT {
+        width: 5.6rem;
+        height: 100%;
+        cursor: pointer;
+        flex-shrink: 0;
+
+        .button-n7b {
+          height: 100%;
+          border: solid 0 #141718;
+          box-sizing: border-box;
+          width: 100%;
+
+          .content-wWH {
+            font-weight: 500;
+            font-family: Inter, 'Source Sans Pro';
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            width: 100%;
+            height: 100%;
+            font-size: 1.4rem;
+            line-height: 1.7142857143;
+            color: #6c7274;
+            white-space: nowrap;
+          }
+        }
+      }
+      .elements-navigation-link--dP7 {
+        width: 13.1rem;
+        height: 100%;
+        cursor: pointer;
+        flex-shrink: 0;
+
+        .button-n17 {
+          border: solid 0 #141718;
+          box-sizing: border-box;
+          width: 100%;
+          height: 100%;
+
+          .content-96Z {
+            line-height: 1.7142857143;
+            color: #6c7274;
+            font-family: Inter, 'Source Sans Pro';
+            align-items: center;
+            width: 100%;
+            height: 100%;
+            white-space: nowrap;
+            display: flex;
+            justify-content: center;
+            font-size: 1.4rem;
+            font-weight: 500;
+          }
+        }
+      }
+      .auto-group-ufn3-T7F {
+        height: 100%;
+        position: relative;
+        flex-shrink: 0;
+        width: 18.2rem;
+
+        .elements-navigation-link--bz9 {
+          width: 11.5704rem;
+          height: 2.4rem;
+          cursor: pointer;
+          position: absolute;
+          left: 0;
+          top: 0;
+
+          .button-9Ey {
+            border: solid 0 #141718;
+            box-sizing: border-box;
+            width: 100%;
+            height: 100%;
+
+            .content-Hry {
+              justify-content: center;
+              margin-right: 6.7704rem;
+              color: #6c7274;
+              font-family: Inter, 'Source Sans Pro';
+              white-space: nowrap;
+              display: flex;
+              align-items: center;
+              width: 4.8rem;
+              height: 100%;
+              font-size: 1.4rem;
+              font-weight: 500;
+              line-height: 1.7142857143;
+            }
+          }
+        }
+        .elements-navigation-link--nHw {
+          position: absolute;
+          left: 8.8rem;
+          top: 0;
+          width: 9.4rem;
+          height: 2.4rem;
+          cursor: pointer;
+
+          .button-KHs {
+            height: 100%;
+            font-size: 1.4rem;
+            line-height: 1.7142857143;
+            white-space: nowrap;
+            justify-content: center;
+            border: solid 0 #141718;
+            box-sizing: border-box;
+            width: 100%;
+            font-weight: 500;
+            color: #6c7274;
+            font-family: Inter, 'Source Sans Pro';
+            display: flex;
+            align-items: center;
+          }
+        }
+      }
+    }
+    .icons-E9w {
+      height: 100%;
+      display: flex;
+      align-items: center;
+      flex-shrink: 0;
+
+      .auto-group-y9gx-azV {
+        height: 100%;
+        display: flex;
+        align-items: center;
+        flex-shrink: 0;
+        box-sizing: border-box;
+        padding: 0.2rem 1.6rem 0.2rem 0.2rem;
+
+        .interface-outline-search-02-iqo {
+          height: 2rem;
+          object-fit: contain;
+          vertical-align: top;
+          flex-shrink: 0;
+          margin-right: 1.8rem;
+          width: 2rem;
+        }
+        .interface-outline-user-circle-3dB {
+          cursor: pointer;
+          object-fit: contain;
+          vertical-align: top;
+          flex-shrink: 0;
+          width: 2.4rem;
+          height: 2.4rem;
+        }
+      }
+      .elements-navigation-cart-button-yWq {
+        box-sizing: border-box;
+        padding: 0.4rem 0rem 0.4rem 0.372rem;
+        height: 100%;
+        cursor: pointer;
+        display: flex;
+        align-items: center;
+        flex-shrink: 0;
+
+        .outline-shopping-bag-tth {
+          flex-shrink: 0;
+          margin-right: 0.7721rem;
+          width: 1.8559rem;
+          height: 1.8rem;
+          position: relative;
+          object-fit: contain;
+          vertical-align: top;
+        }
+        .frame-3-Rtd {
+          height: 100%;
+          font-size: 1.2rem;
+          white-space: nowrap;
+          position: relative;
+          font-weight: 700;
+          line-height: 0.8333333333;
+          background-color: #141718;
+          border-radius: 1rem;
+          text-align: center;
+          color: #ffffff;
+          font-family: Inter, 'Source Sans Pro';
+          align-items: center;
+          flex-shrink: 0;
+          width: 2rem;
+          overflow: hidden;
+          display: flex;
+          justify-content: center;
+        }
+      }
+    }
+  }
+  .complete-6Uy {
+    margin: 0 4.75rem;
+    padding: 8rem 30.35rem;
+    display: flex;
+    flex-direction: column;
+    background-color: #ffffff;
+    flex-shrink: 0;
+    box-sizing: border-box;
+    width: calc(100% - 9.5rem);
+    align-items: center;
+
+    .reservasi-peminjaman-berhasil-cCR {
+      font-family: Poppins, 'Source Sans Pro';
+      text-align: center;
+      letter-spacing: -0.1rem;
+      color: #000000;
+      font-weight: 500;
+      line-height: 1.0740740741;
+      flex-shrink: 0;
+      margin-bottom: 7.9rem;
+      max-width: 61.8rem;
+      font-size: 5.4rem;
+    }
+    .order-complete-tfj {
+      margin-bottom: 8rem;
+      padding: 8rem 9.5rem 9rem 9.5rem;
+      width: 100%;
+      align-items: center;
+      box-shadow: 0 3.2rem 4.8rem rgba(17, 17, 17, 0.1000000015);
+      box-sizing: border-box;
+      display: flex;
+      flex-direction: column;
+      background-color: #ffffff;
+      border-radius: 0.8rem;
+      flex-shrink: 0;
+
+      .title-1EZ {
+        display: flex;
+        flex-direction: column;
+        flex-shrink: 0;
+        margin: 0rem 3.7rem 3.2rem 3.7rem;
+        width: calc(100% - 7.4rem);
+        align-items: center;
+
+        .terima-kasih--8a5 {
+          margin-bottom: 1.6rem;
+          font-weight: 500;
+          color: #6c7274;
+          font-family: Poppins, 'Source Sans Pro';
+          white-space: nowrap;
+          flex-shrink: 0;
+          text-align: center;
+          font-size: 2.8rem;
+          line-height: 1.2142857143;
+          letter-spacing: -0.06rem;
+        }
+        .tunggu-konfirmasi-dari-kami-eHX {
+          flex-shrink: 0;
+          max-width: 47.4rem;
+          font-weight: 500;
+          line-height: 1.1;
+          color: #22262e;
+          font-family: Poppins, 'Source Sans Pro';
+          text-align: center;
+          font-size: 4rem;
+          letter-spacing: -0.04rem;
+        }
+      }
+      .orders-1-MSq {
+        flex-shrink: 0;
+        margin: 0rem 9rem 4rem 9rem;
+        width: calc(100% - 18rem);
+        align-items: center;
+        display: flex;
+        flex-direction: column;
+
+        .item-tSm {
+          margin-bottom: 3.6rem;
+          width: 100%;
+          display: flex;
+          column-gap: 6.4rem;
+          align-items: flex-end;
+          flex-shrink: 0;
+
+          .image-placeholder-2Yy {
+            margin-bottom: 0.4rem;
+            overflow: hidden;
+            position: relative;
+            flex-shrink: 0;
+
+            .paste-image-yj7 {
+              width: 8rem;
+              height: 12rem;
+              object-fit: cover;
+              vertical-align: top;
+            }
+          }
+          .image-placeholder-86D {
+            margin-top: 0.4rem;
+            overflow: hidden;
+            position: relative;
+            flex-shrink: 0;
+
+            .paste-image-t5P {
+              width: 8rem;
+              height: 12rem;
+              object-fit: cover;
+              vertical-align: top;
+            }
+          }
+          .image-placeholder-dHs {
+            flex-shrink: 0;
+            margin-top: 0.4rem;
+            overflow: hidden;
+            position: relative;
+
+            .paste-image-nRf {
+              object-fit: cover;
+              vertical-align: top;
+              width: 8rem;
+              height: 12rem;
+            }
+          }
+        }
+        .order-detail-XPF {
+          width: calc(100% - 1.5rem);
+          height: 10.6rem;
+          display: flex;
+          align-items: center;
+          flex-shrink: 0;
+          margin: 0rem 0.7rem 0rem 0.8rem;
+
+          .title-3sP {
+            margin-right: 3.2rem;
+            width: 10.2rem;
+            height: 100%;
+            align-items: center;
+            display: flex;
+            flex-direction: column;
+            flex-shrink: 0;
+
+            .auto-group-cxnp-o5s {
+              flex-shrink: 0;
+              box-sizing: border-box;
+              padding-bottom: 2rem;
+              width: 100%;
+              display: flex;
+              flex-direction: column;
+
+              .tanggal--99j {
+                font-weight: 600;
+                color: #6c7274;
+                flex-shrink: 0;
+                font-family: Inter, 'Source Sans Pro';
+                white-space: nowrap;
+                margin-bottom: 2rem;
+                display: flex;
+                font-size: 1.4rem;
+                line-height: 1.5714285714;
+              }
+              .total--sLd {
+                font-weight: 600;
+                line-height: 1.5714285714;
+                color: #6c7274;
+                font-family: Inter, 'Source Sans Pro';
+                white-space: nowrap;
+                flex-shrink: 0;
+                display: flex;
+                font-size: 1.4rem;
+              }
+            }
+            .perpustakaan--1Bw {
+              white-space: nowrap;
+              flex-shrink: 0;
+              display: flex;
+              font-size: 1.4rem;
+              font-weight: 600;
+              line-height: 1.5714285714;
+              color: #6c7274;
+              font-family: Inter, 'Source Sans Pro';
+            }
+          }
+          .info-LED {
+            display: flex;
+            flex-direction: column;
+            flex-shrink: 0;
+            height: 100%;
+            row-gap: 2rem;
+
+            .october-31-2023-tFj {
+              font-weight: 600;
+              line-height: 1.5714285714;
+              color: #141718;
+              font-family: Inter, 'Source Sans Pro';
+              white-space: nowrap;
+              flex-shrink: 0;
+              display: flex;
+              font-size: 1.4rem;
+            }
+            .buku-pfB {
+              color: #141718;
+              font-family: Inter, 'Source Sans Pro';
+              white-space: nowrap;
+              flex-shrink: 0;
+              display: flex;
+              font-size: 1.4rem;
+              font-weight: 600;
+              line-height: 1.5714285714;
+            }
+            .perpustakaan-universitas-jambi-Zcm {
+              white-space: nowrap;
+              flex-shrink: 0;
+              display: flex;
+              font-size: 1.4rem;
+              font-weight: 600;
+              line-height: 1.5714285714;
+              color: #141718;
+              font-family: Inter, 'Source Sans Pro';
+            }
+          }
+        }
+      }
+      .orders-2-VFX {
+        align-items: center;
+        display: flex;
+        flex-direction: column;
+        border: solid 0.1rem #e8ecef;
+        flex-shrink: 0;
+        box-sizing: border-box;
+        padding: 1.3rem 9.7rem 0rem 9.7rem;
+        width: 100%;
+
+        .paste-image-Rey {
+          margin: 0rem 0rem 2.7rem 0.167rem;
+          width: 8rem;
+          height: 12rem;
+          object-fit: cover;
+          vertical-align: top;
+          flex-shrink: 0;
+        }
+        .order-detail-9ay {
+          width: 100%;
+          height: 10.6rem;
+          display: flex;
+          align-items: center;
+          flex-shrink: 0;
+
+          .title-WAd {
+            flex-shrink: 0;
+            margin-right: 3.2rem;
+            width: 10.2rem;
+            height: 100%;
+            align-items: center;
+            display: flex;
+            flex-direction: column;
+
+            .auto-group-mxu7-rEV {
+              display: flex;
+              flex-direction: column;
+              flex-shrink: 0;
+              box-sizing: border-box;
+              padding-bottom: 2rem;
+              width: 100%;
+
+              .tanggal--ypu {
+                margin-bottom: 2rem;
+                font-weight: 600;
+                display: flex;
+                font-size: 1.4rem;
+                line-height: 1.5714285714;
+                color: #6c7274;
+                font-family: Inter, 'Source Sans Pro';
+                white-space: nowrap;
+                flex-shrink: 0;
+              }
+              .total--W49 {
+                white-space: nowrap;
+                flex-shrink: 0;
+                display: flex;
+                font-size: 1.4rem;
+                font-weight: 600;
+                line-height: 1.5714285714;
+                color: #6c7274;
+                font-family: Inter, 'Source Sans Pro';
+              }
+            }
+            .perpustakaan--F1j {
+              font-weight: 600;
+              line-height: 1.5714285714;
+              color: #6c7274;
+              font-family: Inter, 'Source Sans Pro';
+              white-space: nowrap;
+              flex-shrink: 0;
+              display: flex;
+              font-size: 1.4rem;
+            }
+          }
+          .info-Nc9 {
+            height: 100%;
+            row-gap: 2rem;
+            display: flex;
+            flex-direction: column;
+            flex-shrink: 0;
+
+            .october-31-2023-uc5 {
+              color: #141718;
+              font-family: Inter, 'Source Sans Pro';
+              white-space: nowrap;
+              flex-shrink: 0;
+              display: flex;
+              font-size: 1.4rem;
+              font-weight: 600;
+              line-height: 1.5714285714;
+            }
+            .buku-SM7 {
+              display: flex;
+              font-size: 1.4rem;
+              font-weight: 600;
+              line-height: 1.5714285714;
+              color: #141718;
+              font-family: Inter, 'Source Sans Pro';
+              white-space: nowrap;
+              flex-shrink: 0;
+            }
+            .perpustakaan-umum-kota-jambi-nA5 {
+              line-height: 1.5714285714;
+              color: #141718;
+              font-family: Inter, 'Source Sans Pro';
+              white-space: nowrap;
+              flex-shrink: 0;
+              display: flex;
+              font-size: 1.4rem;
+              font-weight: 600;
+            }
+          }
+        }
+      }
+    }
+    .button-qPF {
+      text-align: center;
+      font-weight: 500;
+      align-items: center;
+      width: calc(100% - 50.7rem);
+      height: 5.2rem;
+      white-space: nowrap;
+      letter-spacing: -0.04rem;
+      font-family: Inter, 'Source Sans Pro';
+      font-size: 1.6rem;
+      line-height: 1.75;
+      color: #ffffff;
+      display: flex;
+      background-color: #141718;
+      flex-shrink: 0;
+      margin: 0 25.35rem;
+      cursor: pointer;
+      justify-content: center;
+      border-radius: 8rem;
+    }
+  }
+  .footer-UBK {
+    padding: 8rem 16rem 3.2rem 14.65rem;
+    width: 100%;
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+    background-color: #141718;
+    flex-shrink: 0;
+    box-sizing: border-box;
+
+    .logo-and-links-c2d {
+      align-items: center;
+      flex-shrink: 0;
+      margin-bottom: 5.7rem;
+      width: 100%;
+      height: 2.4rem;
+      display: flex;
+
+      .logo-and-slogan-vp1 {
+        margin-right: 27.8rem;
+        height: 100%;
+        display: flex;
+        align-items: center;
+        flex-shrink: 0;
+
+        .legant-U4q {
+          display: flex;
+          flex-shrink: 0;
+          line-height: 1;
+          font-family: Poppins, 'Source Sans Pro';
+          font-size: 2.4rem;
+          font-weight: 500;
+          color: #ffffff;
+          white-space: nowrap;
+          align-items: baseline;
+          margin-right: 1.85rem;
+          text-align: center;
+
+          .legant-U4q-sub-0 {
+          }
+          .legant-U4q-sub-1 {
+            font-size: 2.4rem;
+            font-weight: 500;
+            line-height: 1;
+            color: #38cb89;
+            font-family: Poppins, 'Source Sans Pro';
+          }
+          .legant-U4q-sub-2 {
+          }
+          .legant-U4q-sub-3 {
+            font-size: 2.4rem;
+            font-weight: 500;
+            line-height: 1;
+            color: #6c7274;
+            font-family: Poppins, 'Source Sans Pro';
+          }
+        }
+        .rectangle-319-u3f {
+          margin-right: 3.2rem;
+          width: 0.1rem;
+          height: 2.4rem;
+          background-color: #6c7274;
+          flex-shrink: 0;
+        }
+        .gift-decoration-store-S3b {
+          font-size: 1.4rem;
+          font-weight: 400;
+          line-height: 1.5714285714;
+          color: #e8ecef;
+          font-family: Inter, 'Source Sans Pro';
+          white-space: nowrap;
+          flex-shrink: 0;
+        }
+      }
+      .nav-kpy {
+        margin: 0.1rem 0;
+        height: calc(100% - 0.2rem);
+        display: flex;
+        align-items: center;
+        flex-shrink: 0;
+
+        .home-VnZ {
+          line-height: 1.5714285714;
+          color: #fdfdfd;
+          font-family: Inter, 'Source Sans Pro';
+          white-space: nowrap;
+          flex-shrink: 0;
+          margin-right: 4rem;
+          font-size: 1.4rem;
+          font-weight: 400;
+        }
+        .shop-SC1 {
+          white-space: nowrap;
+          flex-shrink: 0;
+          margin-right: 2.2rem;
+          font-size: 1.4rem;
+          font-weight: 400;
+          line-height: 1.5714285714;
+          color: #fdfdfd;
+          font-family: Inter, 'Source Sans Pro';
+        }
+        .auto-group-heww-ySq {
+          line-height: 1.5714285714;
+          font-family: Inter, 'Source Sans Pro';
+          white-space: nowrap;
+          flex-shrink: 0;
+          margin-right: 4rem;
+          box-sizing: border-box;
+          font-size: 1.4rem;
+          font-weight: 400;
+          padding-left: 1.8rem;
+          height: 100%;
+          color: #fdfdfd;
+        }
+        .contact-us-tJu {
+          font-size: 1.4rem;
+          font-weight: 400;
+          line-height: 1.5714285714;
+          color: #fdfdfd;
+          font-family: Inter, 'Source Sans Pro';
+          white-space: nowrap;
+          flex-shrink: 0;
+        }
+      }
+    }
+    .bottom-bar-d1b {
+      display: flex;
+      border: solid 0.1rem #6c7274;
+      box-sizing: border-box;
+      height: 5.6rem;
+      width: calc(100% - 1.55rem);
+      align-items: center;
+      flex-shrink: 0;
+      margin: 0rem 0.2rem 0rem 1.35rem;
+      padding: 1.6rem 0;
+
+      .copyright-8yw {
+        align-items: center;
+        flex-shrink: 0;
+        margin: 0rem 49.5rem 0.4rem 0rem;
+        display: flex;
+        column-gap: 2.8rem;
+
+        .copyright-2023-3legant-all-rights-reserved-UH7 {
+          font-size: 1.2rem;
+          font-weight: 400;
+          line-height: 1.6666666667;
+          color: #e8ecef;
+          font-family: Poppins, 'Source Sans Pro';
+          white-space: nowrap;
+          flex-shrink: 0;
+        }
+        .privacy-policy-zWM {
+          line-height: 1.6666666667;
+          color: #fdfdfd;
+          font-family: Poppins, 'Source Sans Pro';
+          white-space: nowrap;
+          flex-shrink: 0;
+          font-size: 1.2rem;
+          font-weight: 600;
+        }
+        .terms-of-use-vuo {
+          font-size: 1.2rem;
+          font-weight: 600;
+          line-height: 1.6666666667;
+          color: #fdfdfd;
+          font-family: Poppins, 'Source Sans Pro';
+          white-space: nowrap;
+          flex-shrink: 0;
+        }
+      }
+      .social-icon-Gim {
+        box-sizing: border-box;
+        padding: 0.2rem 0.2rem 0.2rem 0rem;
+        height: 100%;
+        display: flex;
+        column-gap: 3.2rem;
+        align-items: center;
+        flex-shrink: 0;
+
+        .social-outline-instagram-oCu {
+          width: 2rem;
+          height: 2rem;
+          object-fit: contain;
+          vertical-align: top;
+          flex-shrink: 0;
+        }
+        .social-outline-facebook-w4D {
+          width: 1.2rem;
+          height: 1.8rem;
+          object-fit: contain;
+          vertical-align: top;
+          flex-shrink: 0;
+        }
+        .social-outline-youtube-syT {
+          width: 2rem;
+          height: 1.8rem;
+          object-fit: contain;
+          vertical-align: top;
+          flex-shrink: 0;
+        }
+      }
+    }
+  }
+}

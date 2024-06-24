@@ -1,0 +1,1933 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 144rem;
+}.halaman-pencarian-sebelum-masuk-XxV {
+  box-sizing: border-box;
+  padding-top: 1.6rem;
+  width: 100%;
+  overflow: hidden;
+  position: relative;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  background-color: #ffffff;
+}
+.halaman-pencarian-sebelum-masuk-XxV .navigation-bar-T5T {
+  margin: 0rem 16rem 1.6rem 14.65rem;
+  width: calc(100% - 30.65rem);
+  height: 4rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.halaman-pencarian-sebelum-masuk-XxV .navigation-bar-T5T .auto-group-pc67-mM3 {
+  box-sizing: border-box;
+  padding: 0.5rem 2.672rem 0.7rem 0rem;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.halaman-pencarian-sebelum-masuk-XxV .navigation-bar-T5T .auto-group-pc67-mM3 .perpusapp-gyo {
+  margin: 0.2rem 23.286rem 0rem 0rem;
+  text-align: center;
+  font-size: 2.4rem;
+  font-weight: 500;
+  line-height: 1;
+  color: #000000;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: baseline;
+  flex-shrink: 0;
+}
+.halaman-pencarian-sebelum-masuk-XxV .navigation-bar-T5T .auto-group-pc67-mM3 .perpusapp-gyo .perpusapp-gyo-sub-0 {
+}
+.halaman-pencarian-sebelum-masuk-XxV .navigation-bar-T5T .auto-group-pc67-mM3 .perpusapp-gyo .perpusapp-gyo-sub-1 {
+  font-size: 2.4rem;
+  font-weight: 500;
+  line-height: 1;
+  color: #38cb89;
+  font-family: Poppins, 'Source Sans Pro';
+}
+.halaman-pencarian-sebelum-masuk-XxV .navigation-bar-T5T .auto-group-pc67-mM3 .perpusapp-gyo .perpusapp-gyo-sub-2 {
+}
+.halaman-pencarian-sebelum-masuk-XxV .navigation-bar-T5T .auto-group-pc67-mM3 .elements-navigation-link-group--PFw {
+  margin: 0.3rem 16.964rem 0.1rem 0rem;
+  height: calc(100% - 0.4rem);
+  display: flex;
+  column-gap: 4rem;
+  align-items: center;
+  flex-shrink: 0;
+}
+.halaman-pencarian-sebelum-masuk-XxV .navigation-bar-T5T .auto-group-pc67-mM3 .elements-navigation-link-group--PFw .elements-navigation-link--V45 {
+  width: 5.6rem;
+  height: 100%;
+  cursor: pointer;
+  flex-shrink: 0;
+}
+.halaman-pencarian-sebelum-masuk-XxV .navigation-bar-T5T .auto-group-pc67-mM3 .elements-navigation-link-group--PFw .elements-navigation-link--V45 .button-q7w {
+  width: 100%;
+  height: 100%;
+  border: solid 0 #141718;
+  box-sizing: border-box;
+}
+.halaman-pencarian-sebelum-masuk-XxV .navigation-bar-T5T .auto-group-pc67-mM3 .elements-navigation-link-group--PFw .elements-navigation-link--V45 .button-q7w .content-arD {
+  width: 100%;
+  height: 100%;
+  font-size: 1.4rem;
+  font-weight: 500;
+  line-height: 1.7142857143;
+  color: #6c7274;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.halaman-pencarian-sebelum-masuk-XxV .navigation-bar-T5T .auto-group-pc67-mM3 .elements-navigation-link-group--PFw .elements-navigation-link--geM {
+  width: 13.1rem;
+  height: 100%;
+  cursor: pointer;
+  flex-shrink: 0;
+}
+.halaman-pencarian-sebelum-masuk-XxV .navigation-bar-T5T .auto-group-pc67-mM3 .elements-navigation-link-group--PFw .elements-navigation-link--geM .button-q1T {
+  width: 100%;
+  height: 100%;
+  border: solid 0 #141718;
+  box-sizing: border-box;
+}
+.halaman-pencarian-sebelum-masuk-XxV .navigation-bar-T5T .auto-group-pc67-mM3 .elements-navigation-link-group--PFw .elements-navigation-link--geM .button-q1T .content-Q4Z {
+  width: 100%;
+  height: 100%;
+  font-size: 1.4rem;
+  font-weight: 500;
+  line-height: 1.7142857143;
+  color: #6c7274;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.halaman-pencarian-sebelum-masuk-XxV .navigation-bar-T5T .auto-group-pc67-mM3 .elements-navigation-link-group--PFw .auto-group-whtf-KBX {
+  width: 18.2rem;
+  height: 100%;
+  position: relative;
+  flex-shrink: 0;
+}
+.halaman-pencarian-sebelum-masuk-XxV .navigation-bar-T5T .auto-group-pc67-mM3 .elements-navigation-link-group--PFw .auto-group-whtf-KBX .button-fFP {
+  width: 11.7272rem;
+  height: 2.4rem;
+  cursor: pointer;
+  position: absolute;
+  left: 0;
+  top: 0;
+  border: solid 0 #141718;
+  box-sizing: border-box;
+}
+.halaman-pencarian-sebelum-masuk-XxV .navigation-bar-T5T .auto-group-pc67-mM3 .elements-navigation-link-group--PFw .auto-group-whtf-KBX .button-fFP .content-Px5 {
+  margin-right: 6.9272rem;
+  width: 4.8rem;
+  height: 100%;
+  font-size: 1.4rem;
+  font-weight: 500;
+  line-height: 1.7142857143;
+  color: #6c7274;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.halaman-pencarian-sebelum-masuk-XxV .navigation-bar-T5T .auto-group-pc67-mM3 .elements-navigation-link-group--PFw .auto-group-whtf-KBX .elements-navigation-link--VER {
+  width: 9.4rem;
+  height: 2.4rem;
+  cursor: pointer;
+  position: absolute;
+  left: 8.8rem;
+  top: 0;
+}
+.halaman-pencarian-sebelum-masuk-XxV .navigation-bar-T5T .auto-group-pc67-mM3 .elements-navigation-link-group--PFw .auto-group-whtf-KBX .elements-navigation-link--VER .button-pnV {
+  width: 100%;
+  height: 100%;
+  font-size: 1.4rem;
+  font-weight: 500;
+  line-height: 1.7142857143;
+  color: #6c7274;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border: solid 0 #141718;
+  box-sizing: border-box;
+}
+.halaman-pencarian-sebelum-masuk-XxV .navigation-bar-T5T .auto-group-pc67-mM3 .masuk-945 {
+  cursor: pointer;
+  display: flex;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.75;
+  color: #6e6d7a;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.halaman-pencarian-sebelum-masuk-XxV .navigation-bar-T5T .icons-GPb {
+  width: 7.3281rem;
+  height: 100%;
+  cursor: pointer;
+  flex-shrink: 0;
+}
+.halaman-pencarian-sebelum-masuk-XxV .navigation-bar-T5T .icons-GPb .sign-up-cyF {
+  width: 100%;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 1.4rem;
+  font-weight: 500;
+  line-height: 1.4285714286;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  background-color: #38cb89;
+  border-radius: 0.8rem;
+}
+.halaman-pencarian-sebelum-masuk-XxV .hero-X4d {
+  margin-bottom: 6rem;
+  box-sizing: border-box;
+  padding: 10.7rem 37.627rem 8.403rem 37.425rem;
+  width: 100%;
+  overflow: hidden;
+  position: relative;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  background-color: #000000;
+  flex-shrink: 0;
+}
+.halaman-pencarian-sebelum-masuk-XxV .hero-X4d .main-cta-2n5 {
+  margin: 0rem 4.514rem 0.031rem 4.734rem;
+  width: calc(100% - 9.2484rem);
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.halaman-pencarian-sebelum-masuk-XxV .hero-X4d .main-cta-2n5 .breadcrumbs-link-group-9rh {
+  margin: 0rem 24.442rem 1.6rem 24.5rem;
+  width: calc(100% - 48.9416rem);
+  height: 2.4rem;
+  flex-shrink: 0;
+}
+.halaman-pencarian-sebelum-masuk-XxV .hero-X4d .main-cta-2n5 .perpustakaan-untuk-semua-GgR {
+  margin-bottom: 3rem;
+  max-width: 34rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 3.2rem;
+  font-weight: 700;
+  line-height: 1.25;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.halaman-pencarian-sebelum-masuk-XxV .hero-X4d .main-cta-2n5 .sumber-pengetahuan-terlengkap-anda-dan-temui-dunia-baru-dengan-koleksi-besar-kami-tersedia-buku-buku-terbaik-dari-berbagai-genre-siap-untuk-dibaca-kapan-saja-selamat-datang-di-perpustakaan-digital-impian-yaq {
+  max-width: 59.7rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.75;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.halaman-pencarian-sebelum-masuk-XxV .hero-X4d .inputsearch-bs7 {
+  margin: 0rem 1.273rem 4.666rem 1.475rem;
+  box-sizing: border-box;
+  padding: 2rem 48.8rem 2.1rem 2.5rem;
+  width: calc(100% - 2.7484rem);
+  display: flex;
+  align-items: center;
+  background-color: #38cb89;
+  border-radius: 5rem;
+  flex-shrink: 0;
+}
+.halaman-pencarian-sebelum-masuk-XxV .hero-X4d .inputsearch-bs7 .svg-hQM {
+  margin: 0rem 1.541rem 0.138rem 0rem;
+  width: 1.5586rem;
+  height: 1.5623rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.halaman-pencarian-sebelum-masuk-XxV .hero-X4d .inputsearch-bs7 .internet-of-things-cGR {
+  display: flex;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #0d0c22;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.halaman-pencarian-sebelum-masuk-XxV .hero-X4d .trending-searches-KRj {
+  width: 100%;
+  height: 3rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.halaman-pencarian-sebelum-masuk-XxV .hero-X4d .trending-searches-KRj .trending-searches-48R {
+  margin: 0.2rem 0.455rem 0rem 0rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.3333333333;
+  color: #38cb89;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.halaman-pencarian-sebelum-masuk-XxV .hero-X4d .trending-searches-KRj .search-term-Zqs {
+  margin-right: 0.7953rem;
+  width: 11.7906rem;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.4285714286;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  border: solid 0.1rem #38cb89;
+  box-sizing: border-box;
+  border-radius: 5rem;
+  flex-shrink: 0;
+}
+.halaman-pencarian-sebelum-masuk-XxV .hero-X4d .trending-searches-KRj .search-term-e6d {
+  margin-right: 0.9453rem;
+  width: 5.0156rem;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.4285714286;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  border: solid 0.1rem #38cb89;
+  box-sizing: border-box;
+  border-radius: 5rem;
+  flex-shrink: 0;
+}
+.halaman-pencarian-sebelum-masuk-XxV .hero-X4d .trending-searches-KRj .search-term-XgD {
+  margin-right: 0.6953rem;
+  width: 6.2531rem;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.4285714286;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  border: solid 0.1rem #38cb89;
+  box-sizing: border-box;
+  border-radius: 5rem;
+  flex-shrink: 0;
+}
+.halaman-pencarian-sebelum-masuk-XxV .hero-X4d .trending-searches-KRj .search-term-Dow {
+  margin-right: 0.6453rem;
+  width: 11.4016rem;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.4285714286;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  border: solid 0.1rem #38cb89;
+  box-sizing: border-box;
+  border-radius: 5rem;
+  flex-shrink: 0;
+}
+.halaman-pencarian-sebelum-masuk-XxV .hero-X4d .trending-searches-KRj .search-term-7PX {
+  margin-right: 0.6953rem;
+  width: 9.1797rem;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.4285714286;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  border: solid 0.1rem #38cb89;
+  box-sizing: border-box;
+  border-radius: 5rem;
+  flex-shrink: 0;
+}
+.halaman-pencarian-sebelum-masuk-XxV .hero-X4d .trending-searches-KRj .search-term-oGM {
+  width: 10.5766rem;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.4285714286;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  border: solid 0.1rem #38cb89;
+  box-sizing: border-box;
+  border-radius: 5rem;
+  flex-shrink: 0;
+}
+.halaman-pencarian-sebelum-masuk-XxV .products-gb3 {
+  margin: 0rem 16rem 10rem 16rem;
+  width: calc(100% - 32rem);
+  height: 153.9rem;
+  display: flex;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.halaman-pencarian-sebelum-masuk-XxV .products-gb3 .sidebar-1dK {
+  margin-right: 2.4rem;
+  width: 26.2rem;
+  flex-shrink: 0;
+}
+.halaman-pencarian-sebelum-masuk-XxV .products-gb3 .sidebar-1dK .header-9jX {
+  margin: 0rem 18rem 2.6rem 0rem;
+  width: calc(100% - 18rem);
+  display: flex;
+  align-items: center;
+}
+.halaman-pencarian-sebelum-masuk-XxV .products-gb3 .sidebar-1dK .header-9jX .huge-icon-interface-outline-filter-05-VHb {
+  margin-right: 0.8rem;
+  width: 2.4rem;
+  height: 2.4rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.halaman-pencarian-sebelum-masuk-XxV .products-gb3 .sidebar-1dK .header-9jX .filter-Q9f {
+  font-size: 2rem;
+  font-weight: 600;
+  line-height: 1.6;
+  color: #111111;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.halaman-pencarian-sebelum-masuk-XxV .products-gb3 .sidebar-1dK .elements-filter-section-list-YFs {
+  margin-bottom: 2.1rem;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+}
+.halaman-pencarian-sebelum-masuk-XxV .products-gb3 .sidebar-1dK .elements-filter-section-list-YFs .elements-filter-section-title-sJ9 {
+  margin-bottom: 1.2rem;
+  width: 24.9097rem;
+  font-size: 1.6rem;
+  font-weight: 600;
+  line-height: 1.625;
+  color: #111111;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.halaman-pencarian-sebelum-masuk-XxV .products-gb3 .sidebar-1dK .elements-filter-section-list-YFs .content-aTT {
+  width: 100%;
+  height: 56.6rem;
+  display: flex;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.halaman-pencarian-sebelum-masuk-XxV .products-gb3 .sidebar-1dK .elements-filter-section-list-YFs .content-aTT .links-w37 {
+  margin-right: 13.2rem;
+  width: 12.2rem;
+  height: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.halaman-pencarian-sebelum-masuk-XxV .products-gb3 .sidebar-1dK .elements-filter-section-list-YFs .content-aTT .links-w37 .auto-group-p4zo-sSZ {
+  box-sizing: border-box;
+  padding-bottom: 1.2rem;
+  width: 100%;
+  row-gap: 1.2rem;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.halaman-pencarian-sebelum-masuk-XxV .products-gb3 .sidebar-1dK .elements-filter-section-list-YFs .content-aTT .links-w37 .auto-group-p4zo-sSZ .button-zXB {
+  width: 10.8rem;
+  height: 2.2rem;
+  font-size: 1.4rem;
+  font-weight: 600;
+  line-height: 1.5714285714;
+  color: #111111;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border: solid 0.1rem #111111;
+  box-sizing: border-box;
+  flex-shrink: 0;
+}
+.halaman-pencarian-sebelum-masuk-XxV .products-gb3 .sidebar-1dK .elements-filter-section-list-YFs .content-aTT .links-w37 .auto-group-p4zo-sSZ .get-started-VTw {
+  font-size: 1.4rem;
+  font-weight: 600;
+  line-height: 1.5714285714;
+  color: #807e7e;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.halaman-pencarian-sebelum-masuk-XxV .products-gb3 .sidebar-1dK .elements-filter-section-list-YFs .content-aTT .links-w37 .auto-group-p4zo-sSZ .get-started-pFK {
+  font-size: 1.4rem;
+  font-weight: 600;
+  line-height: 1.5714285714;
+  color: #807e7e;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.halaman-pencarian-sebelum-masuk-XxV .products-gb3 .sidebar-1dK .elements-filter-section-list-YFs .content-aTT .links-w37 .auto-group-p4zo-sSZ .get-started-AKB {
+  font-size: 1.4rem;
+  font-weight: 600;
+  line-height: 1.5714285714;
+  color: #807e7e;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.halaman-pencarian-sebelum-masuk-XxV .products-gb3 .sidebar-1dK .elements-filter-section-list-YFs .content-aTT .links-w37 .auto-group-p4zo-sSZ .get-started-Wdw {
+  font-size: 1.4rem;
+  font-weight: 600;
+  line-height: 1.5714285714;
+  color: #807e7e;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.halaman-pencarian-sebelum-masuk-XxV .products-gb3 .sidebar-1dK .elements-filter-section-list-YFs .content-aTT .links-w37 .auto-group-p4zo-sSZ .get-started-TJH {
+  font-size: 1.4rem;
+  font-weight: 600;
+  line-height: 1.5714285714;
+  color: #807e7e;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.halaman-pencarian-sebelum-masuk-XxV .products-gb3 .sidebar-1dK .elements-filter-section-list-YFs .content-aTT .links-w37 .auto-group-p4zo-sSZ .get-started-bvH {
+  font-size: 1.4rem;
+  font-weight: 600;
+  line-height: 1.5714285714;
+  color: #807e7e;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.halaman-pencarian-sebelum-masuk-XxV .products-gb3 .sidebar-1dK .elements-filter-section-list-YFs .content-aTT .links-w37 .auto-group-p4zo-sSZ .get-started-7dj {
+  font-size: 1.4rem;
+  font-weight: 600;
+  line-height: 1.5714285714;
+  color: #807e7e;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.halaman-pencarian-sebelum-masuk-XxV .products-gb3 .sidebar-1dK .elements-filter-section-list-YFs .content-aTT .links-w37 .auto-group-p4zo-sSZ .get-started-GFj {
+  font-size: 1.4rem;
+  font-weight: 600;
+  line-height: 1.5714285714;
+  color: #807e7e;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.halaman-pencarian-sebelum-masuk-XxV .products-gb3 .sidebar-1dK .elements-filter-section-list-YFs .content-aTT .links-w37 .auto-group-p4zo-sSZ .get-started-Qsj {
+  font-size: 1.4rem;
+  font-weight: 600;
+  line-height: 1.5714285714;
+  color: #807e7e;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.halaman-pencarian-sebelum-masuk-XxV .products-gb3 .sidebar-1dK .elements-filter-section-list-YFs .content-aTT .links-w37 .auto-group-p4zo-sSZ .get-started-xeM {
+  font-size: 1.4rem;
+  font-weight: 600;
+  line-height: 1.5714285714;
+  color: #807e7e;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.halaman-pencarian-sebelum-masuk-XxV .products-gb3 .sidebar-1dK .elements-filter-section-list-YFs .content-aTT .links-w37 .get-started-VuB {
+  font-size: 1.4rem;
+  font-weight: 600;
+  line-height: 1.5714285714;
+  color: #807e7e;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.halaman-pencarian-sebelum-masuk-XxV .products-gb3 .sidebar-1dK .elements-filter-section-list-YFs .content-aTT .links-w37 .auto-group-bol7-qi9 {
+  box-sizing: border-box;
+  padding-top: 1.2rem;
+  width: 100%;
+  row-gap: 1.2rem;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.halaman-pencarian-sebelum-masuk-XxV .products-gb3 .sidebar-1dK .elements-filter-section-list-YFs .content-aTT .links-w37 .auto-group-bol7-qi9 .get-started-Ni5 {
+  font-size: 1.4rem;
+  font-weight: 600;
+  line-height: 1.5714285714;
+  color: #807e7e;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.halaman-pencarian-sebelum-masuk-XxV .products-gb3 .sidebar-1dK .elements-filter-section-list-YFs .content-aTT .links-w37 .auto-group-bol7-qi9 .get-started-vUh {
+  font-size: 1.4rem;
+  font-weight: 600;
+  line-height: 1.5714285714;
+  color: #807e7e;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.halaman-pencarian-sebelum-masuk-XxV .products-gb3 .sidebar-1dK .elements-filter-section-list-YFs .content-aTT .links-w37 .auto-group-bol7-qi9 .get-started-seq {
+  font-size: 1.4rem;
+  font-weight: 600;
+  line-height: 1.5714285714;
+  color: #807e7e;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.halaman-pencarian-sebelum-masuk-XxV .products-gb3 .sidebar-1dK .elements-filter-section-list-YFs .content-aTT .links-w37 .auto-group-bol7-qi9 .get-started-Quf {
+  font-size: 1.4rem;
+  font-weight: 600;
+  line-height: 1.5714285714;
+  color: #807e7e;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.halaman-pencarian-sebelum-masuk-XxV .products-gb3 .sidebar-1dK .elements-filter-section-list-YFs .content-aTT .links-w37 .auto-group-bol7-qi9 .get-started-kid {
+  font-size: 1.4rem;
+  font-weight: 600;
+  line-height: 1.5714285714;
+  color: #807e7e;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.halaman-pencarian-sebelum-masuk-XxV .products-gb3 .sidebar-1dK .elements-filter-section-list-YFs .content-aTT .scrollbar-u5j {
+  width: 0.8rem;
+  height: 22.6rem;
+  background-color: #eaeaea;
+  border-radius: 10rem;
+  flex-shrink: 0;
+}
+.halaman-pencarian-sebelum-masuk-XxV .products-gb3 .sidebar-1dK .elements-filter-section-list-YFs .content-aTT .scrollbar-u5j .scroll-eJD {
+  width: 100%;
+  height: 18rem;
+  background-color: #6c7274;
+  border-radius: 2.8rem;
+}
+.halaman-pencarian-sebelum-masuk-XxV .products-gb3 .sidebar-1dK .price-slider-aBs {
+  width: 25.4rem;
+}
+.halaman-pencarian-sebelum-masuk-XxV .products-gb3 .sidebar-1dK .price-slider-aBs .elements-filter-section-title-j4m {
+  margin-bottom: 1.2rem;
+  width: 24.9097rem;
+  font-size: 1.6rem;
+  font-weight: 600;
+  line-height: 1.625;
+  color: #111111;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.halaman-pencarian-sebelum-masuk-XxV .products-gb3 .sidebar-1dK .price-slider-aBs .elements-filter-section-price-EnD {
+  width: 100%;
+  row-gap: 0.8rem;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+}
+.halaman-pencarian-sebelum-masuk-XxV .products-gb3 .sidebar-1dK .price-slider-aBs .elements-filter-section-price-EnD .checkbox-aLH {
+  width: 100%;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.halaman-pencarian-sebelum-masuk-XxV .products-gb3 .sidebar-1dK .price-slider-aBs .elements-filter-section-price-EnD .checkbox-aLH .value-jiy {
+  margin-right: 8.6rem;
+  font-size: 1.4rem;
+  font-weight: 600;
+  line-height: 1.5714285714;
+  color: #6c7274;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.halaman-pencarian-sebelum-masuk-XxV .products-gb3 .sidebar-1dK .price-slider-aBs .elements-filter-section-price-EnD .checkbox-aLH .ratio-button-5H3 {
+  width: 2.4rem;
+  height: 2.4rem;
+  object-fit: contain;
+  vertical-align: top;
+  border-radius: 0.4rem;
+  flex-shrink: 0;
+}
+.halaman-pencarian-sebelum-masuk-XxV .products-gb3 .sidebar-1dK .price-slider-aBs .elements-filter-section-price-EnD .checkbox-QKK {
+  width: 100%;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.halaman-pencarian-sebelum-masuk-XxV .products-gb3 .sidebar-1dK .price-slider-aBs .elements-filter-section-price-EnD .checkbox-QKK .value-ApH {
+  margin-right: 1.1rem;
+  font-size: 1.4rem;
+  font-weight: 600;
+  line-height: 1.5714285714;
+  color: #6c7274;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.halaman-pencarian-sebelum-masuk-XxV .products-gb3 .sidebar-1dK .price-slider-aBs .elements-filter-section-price-EnD .checkbox-QKK .ratio-button-7Ud {
+  width: 2.4rem;
+  height: 2.4rem;
+  object-fit: contain;
+  vertical-align: top;
+  border-radius: 0.4rem;
+  flex-shrink: 0;
+}
+.halaman-pencarian-sebelum-masuk-XxV .products-gb3 .sidebar-1dK .price-slider-aBs .elements-filter-section-price-EnD .checkbox-3t5 {
+  width: 100%;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.halaman-pencarian-sebelum-masuk-XxV .products-gb3 .sidebar-1dK .price-slider-aBs .elements-filter-section-price-EnD .checkbox-3t5 .value-Qid {
+  margin-right: 1rem;
+  font-size: 1.4rem;
+  font-weight: 600;
+  line-height: 1.5714285714;
+  color: #6c7274;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.halaman-pencarian-sebelum-masuk-XxV .products-gb3 .sidebar-1dK .price-slider-aBs .elements-filter-section-price-EnD .checkbox-3t5 .ratio-button-xEM {
+  width: 2.4rem;
+  height: 2.4rem;
+  object-fit: contain;
+  vertical-align: top;
+  border-radius: 0.4rem;
+  flex-shrink: 0;
+}
+.halaman-pencarian-sebelum-masuk-XxV .products-gb3 .sidebar-1dK .price-slider-aBs .elements-filter-section-price-EnD .checkbox-H1j {
+  width: 100%;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.halaman-pencarian-sebelum-masuk-XxV .products-gb3 .sidebar-1dK .price-slider-aBs .elements-filter-section-price-EnD .checkbox-H1j .value-qZ3 {
+  margin-right: 5.5rem;
+  font-size: 1.4rem;
+  font-weight: 600;
+  line-height: 1.5714285714;
+  color: #6c7274;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.halaman-pencarian-sebelum-masuk-XxV .products-gb3 .sidebar-1dK .price-slider-aBs .elements-filter-section-price-EnD .checkbox-H1j .ratio-button-P4m {
+  width: 2.4rem;
+  height: 2.4rem;
+  object-fit: contain;
+  vertical-align: top;
+  border-radius: 0.4rem;
+  flex-shrink: 0;
+}
+.halaman-pencarian-sebelum-masuk-XxV .products-gb3 .grids-uYu {
+  width: 83.4rem;
+  height: 100%;
+  flex-shrink: 0;
+}
+.halaman-pencarian-sebelum-masuk-XxV .products-gb3 .grids-uYu .hasil-pencarian-fY5 {
+  margin-bottom: 4rem;
+  font-size: 2rem;
+  font-weight: 600;
+  line-height: 1.6;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.halaman-pencarian-sebelum-masuk-XxV .products-gb3 .grids-uYu .product-CH7 {
+  width: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+}
+.halaman-pencarian-sebelum-masuk-XxV .products-gb3 .grids-uYu .product-CH7 .list-9i9 {
+  margin-bottom: 8rem;
+  width: 100%;
+  row-gap: 2.4rem;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.halaman-pencarian-sebelum-masuk-XxV .products-gb3 .grids-uYu .product-CH7 .list-9i9 .row-01-tvd {
+  width: 100%;
+  height: 43.3rem;
+  display: flex;
+  column-gap: 2.4rem;
+  align-items: center;
+  flex-shrink: 0;
+}
+.halaman-pencarian-sebelum-masuk-XxV .products-gb3 .grids-uYu .product-CH7 .list-9i9 .row-01-tvd .product-card-SSM {
+  width: 26.2rem;
+  height: 100%;
+  cursor: pointer;
+  flex-shrink: 0;
+}
+.halaman-pencarian-sebelum-masuk-XxV .products-gb3 .grids-uYu .product-CH7 .list-9i9 .row-01-tvd .product-card-SSM .image-placeholder-nWD {
+  margin-bottom: 1.2rem;
+  box-sizing: border-box;
+  padding: 1.6rem;
+  width: 100%;
+  height: 34.9rem;
+  overflow: hidden;
+  position: relative;
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/paste-image-bg-xKT.png');
+}
+.halaman-pencarian-sebelum-masuk-XxV .products-gb3 .grids-uYu .product-CH7 .list-9i9 .row-01-tvd .product-card-SSM .image-placeholder-nWD .auto-group-fgif-JzM {
+  margin-bottom: 26.1rem;
+  width: 100%;
+  height: 5.6rem;
+}
+.halaman-pencarian-sebelum-masuk-XxV .products-gb3 .grids-uYu .product-CH7 .list-9i9 .row-01-tvd .product-card-SSM .image-placeholder-nWD .auto-group-fgif-JzM .badges-TcM {
+  width: 7.1rem;
+  height: 100%;
+}
+.halaman-pencarian-sebelum-masuk-XxV .products-gb3 .grids-uYu .product-CH7 .list-9i9 .row-01-tvd .product-card-SSM .textprice-BHT {
+  row-gap: 0.4rem;
+  display: flex;
+  flex-direction: column;
+}
+.halaman-pencarian-sebelum-masuk-XxV .products-gb3 .grids-uYu .product-CH7 .list-9i9 .row-01-tvd .product-card-SSM .textprice-BHT .rating-rating-group-XMK {
+  display: flex;
+  column-gap: 0.2rem;
+  align-items: center;
+  flex-shrink: 0;
+}
+.halaman-pencarian-sebelum-masuk-XxV .products-gb3 .grids-uYu .product-CH7 .list-9i9 .row-01-tvd .product-card-SSM .textprice-BHT .rating-rating-group-XMK .star-icon-mWZ {
+  width: 1.6rem;
+  height: 1.6rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.halaman-pencarian-sebelum-masuk-XxV .products-gb3 .grids-uYu .product-CH7 .list-9i9 .row-01-tvd .product-card-SSM .textprice-BHT .rating-rating-group-XMK .star-icon-JmP {
+  width: 1.6rem;
+  height: 1.6rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.halaman-pencarian-sebelum-masuk-XxV .products-gb3 .grids-uYu .product-CH7 .list-9i9 .row-01-tvd .product-card-SSM .textprice-BHT .rating-rating-group-XMK .star-icon-rY1 {
+  width: 1.6rem;
+  height: 1.6rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.halaman-pencarian-sebelum-masuk-XxV .products-gb3 .grids-uYu .product-CH7 .list-9i9 .row-01-tvd .product-card-SSM .textprice-BHT .rating-rating-group-XMK .star-icon-c1P {
+  width: 1.6rem;
+  height: 1.6rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.halaman-pencarian-sebelum-masuk-XxV .products-gb3 .grids-uYu .product-CH7 .list-9i9 .row-01-tvd .product-card-SSM .textprice-BHT .rating-rating-group-XMK .star-icon-xL9 {
+  width: 1.6rem;
+  height: 1.6rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.halaman-pencarian-sebelum-masuk-XxV .products-gb3 .grids-uYu .product-CH7 .list-9i9 .row-01-tvd .product-card-SSM .textprice-BHT .loveseat-sofa-tjb {
+  font-size: 1.6rem;
+  font-weight: 600;
+  line-height: 1.625;
+  color: #141718;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.halaman-pencarian-sebelum-masuk-XxV .products-gb3 .grids-uYu .product-CH7 .list-9i9 .row-01-tvd .product-card-SSM .textprice-BHT .item-19900-cvV {
+  font-size: 1.4rem;
+  font-weight: 600;
+  line-height: 1.5714285714;
+  color: #111111;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.halaman-pencarian-sebelum-masuk-XxV .products-gb3 .grids-uYu .product-CH7 .list-9i9 .row-01-tvd .product-card-whs {
+  width: 26.2rem;
+  height: 100%;
+  cursor: pointer;
+  flex-shrink: 0;
+}
+.halaman-pencarian-sebelum-masuk-XxV .products-gb3 .grids-uYu .product-CH7 .list-9i9 .row-01-tvd .product-card-whs .image-placeholder-Hmj {
+  margin-bottom: 1.2rem;
+  box-sizing: border-box;
+  padding: 1.6rem;
+  width: 100%;
+  height: 34.9rem;
+  overflow: hidden;
+  position: relative;
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/paste-image-bg-SFK.png');
+}
+.halaman-pencarian-sebelum-masuk-XxV .products-gb3 .grids-uYu .product-CH7 .list-9i9 .row-01-tvd .product-card-whs .image-placeholder-Hmj .auto-group-a5ud-2DX {
+  margin-bottom: 26.1rem;
+  width: 100%;
+  height: 5.6rem;
+}
+.halaman-pencarian-sebelum-masuk-XxV .products-gb3 .grids-uYu .product-CH7 .list-9i9 .row-01-tvd .product-card-whs .image-placeholder-Hmj .auto-group-a5ud-2DX .badges-Zz9 {
+  width: 7.1rem;
+  height: 100%;
+}
+.halaman-pencarian-sebelum-masuk-XxV .products-gb3 .grids-uYu .product-CH7 .list-9i9 .row-01-tvd .product-card-whs .textprice-W8h {
+  row-gap: 0.4rem;
+  display: flex;
+  flex-direction: column;
+}
+.halaman-pencarian-sebelum-masuk-XxV .products-gb3 .grids-uYu .product-CH7 .list-9i9 .row-01-tvd .product-card-whs .textprice-W8h .rating-rating-group-4AD {
+  display: flex;
+  column-gap: 0.2rem;
+  align-items: center;
+  flex-shrink: 0;
+}
+.halaman-pencarian-sebelum-masuk-XxV .products-gb3 .grids-uYu .product-CH7 .list-9i9 .row-01-tvd .product-card-whs .textprice-W8h .rating-rating-group-4AD .star-icon-Ayw {
+  width: 1.6rem;
+  height: 1.6rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.halaman-pencarian-sebelum-masuk-XxV .products-gb3 .grids-uYu .product-CH7 .list-9i9 .row-01-tvd .product-card-whs .textprice-W8h .rating-rating-group-4AD .star-icon-vCR {
+  width: 1.6rem;
+  height: 1.6rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.halaman-pencarian-sebelum-masuk-XxV .products-gb3 .grids-uYu .product-CH7 .list-9i9 .row-01-tvd .product-card-whs .textprice-W8h .rating-rating-group-4AD .star-icon-rrm {
+  width: 1.6rem;
+  height: 1.6rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.halaman-pencarian-sebelum-masuk-XxV .products-gb3 .grids-uYu .product-CH7 .list-9i9 .row-01-tvd .product-card-whs .textprice-W8h .rating-rating-group-4AD .star-icon-Cfj {
+  width: 1.6rem;
+  height: 1.6rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.halaman-pencarian-sebelum-masuk-XxV .products-gb3 .grids-uYu .product-CH7 .list-9i9 .row-01-tvd .product-card-whs .textprice-W8h .rating-rating-group-4AD .star-icon-YzV {
+  width: 1.6rem;
+  height: 1.6rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.halaman-pencarian-sebelum-masuk-XxV .products-gb3 .grids-uYu .product-CH7 .list-9i9 .row-01-tvd .product-card-whs .textprice-W8h .loveseat-sofa-u4M {
+  font-size: 1.6rem;
+  font-weight: 600;
+  line-height: 1.625;
+  color: #141718;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.halaman-pencarian-sebelum-masuk-XxV .products-gb3 .grids-uYu .product-CH7 .list-9i9 .row-01-tvd .product-card-whs .textprice-W8h .item-19900-S4H {
+  font-size: 1.4rem;
+  font-weight: 600;
+  line-height: 1.5714285714;
+  color: #111111;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.halaman-pencarian-sebelum-masuk-XxV .products-gb3 .grids-uYu .product-CH7 .list-9i9 .row-01-tvd .product-card-AW5 {
+  width: 26.2rem;
+  height: 100%;
+  cursor: pointer;
+  flex-shrink: 0;
+}
+.halaman-pencarian-sebelum-masuk-XxV .products-gb3 .grids-uYu .product-CH7 .list-9i9 .row-01-tvd .product-card-AW5 .image-placeholder-WZw {
+  margin-bottom: 1.2rem;
+  box-sizing: border-box;
+  padding: 1.6rem;
+  width: 100%;
+  height: 34.9rem;
+  overflow: hidden;
+  position: relative;
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/paste-image-bg-mHT.png');
+}
+.halaman-pencarian-sebelum-masuk-XxV .products-gb3 .grids-uYu .product-CH7 .list-9i9 .row-01-tvd .product-card-AW5 .image-placeholder-WZw .auto-group-4vbz-3Jy {
+  width: 100%;
+  height: 5.6rem;
+}
+.halaman-pencarian-sebelum-masuk-XxV .products-gb3 .grids-uYu .product-CH7 .list-9i9 .row-01-tvd .product-card-AW5 .textprice-NMF {
+  row-gap: 0.4rem;
+  display: flex;
+  flex-direction: column;
+}
+.halaman-pencarian-sebelum-masuk-XxV .products-gb3 .grids-uYu .product-CH7 .list-9i9 .row-01-tvd .product-card-AW5 .textprice-NMF .rating-rating-group-XE9 {
+  display: flex;
+  column-gap: 0.2rem;
+  align-items: center;
+  flex-shrink: 0;
+}
+.halaman-pencarian-sebelum-masuk-XxV .products-gb3 .grids-uYu .product-CH7 .list-9i9 .row-01-tvd .product-card-AW5 .textprice-NMF .rating-rating-group-XE9 .star-icon-GSd {
+  width: 1.6rem;
+  height: 1.6rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.halaman-pencarian-sebelum-masuk-XxV .products-gb3 .grids-uYu .product-CH7 .list-9i9 .row-01-tvd .product-card-AW5 .textprice-NMF .rating-rating-group-XE9 .star-icon-Qoj {
+  width: 1.6rem;
+  height: 1.6rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.halaman-pencarian-sebelum-masuk-XxV .products-gb3 .grids-uYu .product-CH7 .list-9i9 .row-01-tvd .product-card-AW5 .textprice-NMF .rating-rating-group-XE9 .star-icon-A2D {
+  width: 1.6rem;
+  height: 1.6rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.halaman-pencarian-sebelum-masuk-XxV .products-gb3 .grids-uYu .product-CH7 .list-9i9 .row-01-tvd .product-card-AW5 .textprice-NMF .rating-rating-group-XE9 .star-icon-6gZ {
+  width: 1.6rem;
+  height: 1.6rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.halaman-pencarian-sebelum-masuk-XxV .products-gb3 .grids-uYu .product-CH7 .list-9i9 .row-01-tvd .product-card-AW5 .textprice-NMF .rating-rating-group-XE9 .star-icon-T1K {
+  width: 1.6rem;
+  height: 1.6rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.halaman-pencarian-sebelum-masuk-XxV .products-gb3 .grids-uYu .product-CH7 .list-9i9 .row-01-tvd .product-card-AW5 .textprice-NMF .loveseat-sofa-zmw {
+  font-size: 1.6rem;
+  font-weight: 600;
+  line-height: 1.625;
+  color: #141718;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.halaman-pencarian-sebelum-masuk-XxV .products-gb3 .grids-uYu .product-CH7 .list-9i9 .row-01-tvd .product-card-AW5 .textprice-NMF .price-YHf {
+  width: 12.4rem;
+  font-size: 1.4rem;
+  font-weight: 600;
+  line-height: 1.5714285714;
+  color: #111111;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.halaman-pencarian-sebelum-masuk-XxV .products-gb3 .grids-uYu .product-CH7 .list-9i9 .row-02-4Wu {
+  width: 100%;
+  height: 43.3rem;
+  display: flex;
+  column-gap: 2.4rem;
+  align-items: center;
+  flex-shrink: 0;
+}
+.halaman-pencarian-sebelum-masuk-XxV .products-gb3 .grids-uYu .product-CH7 .list-9i9 .row-02-4Wu .product-card-bFw {
+  width: 26.2rem;
+  height: 100%;
+  cursor: pointer;
+  flex-shrink: 0;
+}
+.halaman-pencarian-sebelum-masuk-XxV .products-gb3 .grids-uYu .product-CH7 .list-9i9 .row-02-4Wu .product-card-bFw .image-placeholder-YS5 {
+  margin-bottom: 1.2rem;
+  box-sizing: border-box;
+  padding: 1.6rem;
+  width: 100%;
+  height: 34.9rem;
+  overflow: hidden;
+  position: relative;
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/paste-image-bg-yUu.png');
+}
+.halaman-pencarian-sebelum-masuk-XxV .products-gb3 .grids-uYu .product-CH7 .list-9i9 .row-02-4Wu .product-card-bFw .image-placeholder-YS5 .auto-group-qw9h-Gss {
+  width: 100%;
+  height: 5.6rem;
+}
+.halaman-pencarian-sebelum-masuk-XxV .products-gb3 .grids-uYu .product-CH7 .list-9i9 .row-02-4Wu .product-card-bFw .textprice-14m {
+  width: 12.5rem;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+}
+.halaman-pencarian-sebelum-masuk-XxV .products-gb3 .grids-uYu .product-CH7 .list-9i9 .row-02-4Wu .product-card-bFw .textprice-14m .auto-group-jukk-YqP {
+  box-sizing: border-box;
+  padding-bottom: 0.4rem;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.halaman-pencarian-sebelum-masuk-XxV .products-gb3 .grids-uYu .product-CH7 .list-9i9 .row-02-4Wu .product-card-bFw .textprice-14m .auto-group-jukk-YqP .rating-rating-group-uA9 {
+  margin-bottom: 0.4rem;
+  display: flex;
+  column-gap: 0.2rem;
+  align-items: center;
+  flex-shrink: 0;
+}
+.halaman-pencarian-sebelum-masuk-XxV .products-gb3 .grids-uYu .product-CH7 .list-9i9 .row-02-4Wu .product-card-bFw .textprice-14m .auto-group-jukk-YqP .rating-rating-group-uA9 .star-icon-qJh {
+  width: 1.6rem;
+  height: 1.6rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.halaman-pencarian-sebelum-masuk-XxV .products-gb3 .grids-uYu .product-CH7 .list-9i9 .row-02-4Wu .product-card-bFw .textprice-14m .auto-group-jukk-YqP .rating-rating-group-uA9 .star-icon-nUq {
+  width: 1.6rem;
+  height: 1.6rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.halaman-pencarian-sebelum-masuk-XxV .products-gb3 .grids-uYu .product-CH7 .list-9i9 .row-02-4Wu .product-card-bFw .textprice-14m .auto-group-jukk-YqP .rating-rating-group-uA9 .star-icon-XhK {
+  width: 1.6rem;
+  height: 1.6rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.halaman-pencarian-sebelum-masuk-XxV .products-gb3 .grids-uYu .product-CH7 .list-9i9 .row-02-4Wu .product-card-bFw .textprice-14m .auto-group-jukk-YqP .rating-rating-group-uA9 .star-icon-GQ1 {
+  width: 1.6rem;
+  height: 1.6rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.halaman-pencarian-sebelum-masuk-XxV .products-gb3 .grids-uYu .product-CH7 .list-9i9 .row-02-4Wu .product-card-bFw .textprice-14m .auto-group-jukk-YqP .rating-rating-group-uA9 .star-icon-1sP {
+  width: 1.6rem;
+  height: 1.6rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.halaman-pencarian-sebelum-masuk-XxV .products-gb3 .grids-uYu .product-CH7 .list-9i9 .row-02-4Wu .product-card-bFw .textprice-14m .auto-group-jukk-YqP .loveseat-sofa-mLm {
+  font-size: 1.6rem;
+  font-weight: 600;
+  line-height: 1.625;
+  color: #141718;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.halaman-pencarian-sebelum-masuk-XxV .products-gb3 .grids-uYu .product-CH7 .list-9i9 .row-02-4Wu .product-card-bFw .textprice-14m .price-7Qd {
+  width: 100%;
+  font-size: 1.4rem;
+  font-weight: 600;
+  line-height: 1.5714285714;
+  color: #111111;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.halaman-pencarian-sebelum-masuk-XxV .products-gb3 .grids-uYu .product-CH7 .list-9i9 .row-02-4Wu .product-card-qLd {
+  width: 26.2rem;
+  height: 100%;
+  cursor: pointer;
+  flex-shrink: 0;
+}
+.halaman-pencarian-sebelum-masuk-XxV .products-gb3 .grids-uYu .product-CH7 .list-9i9 .row-02-4Wu .product-card-qLd .image-placeholder-yxd {
+  margin-bottom: 1.2rem;
+  box-sizing: border-box;
+  padding: 1.6rem;
+  width: 100%;
+  overflow: hidden;
+  position: relative;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/paste-image-bg-wj7.png');
+}
+.halaman-pencarian-sebelum-masuk-XxV .products-gb3 .grids-uYu .product-CH7 .list-9i9 .row-02-4Wu .product-card-qLd .image-placeholder-yxd .auto-group-3awf-htd {
+  margin-bottom: 21.5rem;
+  box-sizing: border-box;
+  padding-left: 19.8rem;
+  width: 100%;
+  height: 5.6rem;
+  flex-shrink: 0;
+}
+.halaman-pencarian-sebelum-masuk-XxV .products-gb3 .grids-uYu .product-CH7 .list-9i9 .row-02-4Wu .product-card-qLd .image-placeholder-yxd .auto-group-3awf-htd .add-to-wishlist-eJ5 {
+  margin-bottom: 2.4rem;
+  width: 3.2rem;
+  height: 3.2rem;
+  object-fit: contain;
+  vertical-align: top;
+  border-radius: 3.2rem;
+}
+.halaman-pencarian-sebelum-masuk-XxV .products-gb3 .grids-uYu .product-CH7 .list-9i9 .row-02-4Wu .product-card-qLd .image-placeholder-yxd .button-hover-MTP {
+  width: 100%;
+  height: 4.6rem;
+  text-align: center;
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.75;
+  letter-spacing: -0.04rem;
+  color: #fdfdfd;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  box-shadow: 0 0.8rem 1.6rem rgba(0, 0, 0, 0.0364401229);
+  background-color: #141718;
+  border-radius: 0.8rem;
+  flex-shrink: 0;
+}
+.halaman-pencarian-sebelum-masuk-XxV .products-gb3 .grids-uYu .product-CH7 .list-9i9 .row-02-4Wu .product-card-qLd .textprice-BhK {
+  row-gap: 0.4rem;
+  display: flex;
+  flex-direction: column;
+}
+.halaman-pencarian-sebelum-masuk-XxV .products-gb3 .grids-uYu .product-CH7 .list-9i9 .row-02-4Wu .product-card-qLd .textprice-BhK .rating-rating-group-Y25 {
+  display: flex;
+  column-gap: 0.2rem;
+  align-items: center;
+  flex-shrink: 0;
+}
+.halaman-pencarian-sebelum-masuk-XxV .products-gb3 .grids-uYu .product-CH7 .list-9i9 .row-02-4Wu .product-card-qLd .textprice-BhK .rating-rating-group-Y25 .star-icon-5Gu {
+  width: 1.6rem;
+  height: 1.6rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.halaman-pencarian-sebelum-masuk-XxV .products-gb3 .grids-uYu .product-CH7 .list-9i9 .row-02-4Wu .product-card-qLd .textprice-BhK .rating-rating-group-Y25 .star-icon-cXj {
+  width: 1.6rem;
+  height: 1.6rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.halaman-pencarian-sebelum-masuk-XxV .products-gb3 .grids-uYu .product-CH7 .list-9i9 .row-02-4Wu .product-card-qLd .textprice-BhK .rating-rating-group-Y25 .star-icon-Zhs {
+  width: 1.6rem;
+  height: 1.6rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.halaman-pencarian-sebelum-masuk-XxV .products-gb3 .grids-uYu .product-CH7 .list-9i9 .row-02-4Wu .product-card-qLd .textprice-BhK .rating-rating-group-Y25 .star-icon-v2d {
+  width: 1.6rem;
+  height: 1.6rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.halaman-pencarian-sebelum-masuk-XxV .products-gb3 .grids-uYu .product-CH7 .list-9i9 .row-02-4Wu .product-card-qLd .textprice-BhK .rating-rating-group-Y25 .star-icon-fW1 {
+  width: 1.6rem;
+  height: 1.6rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.halaman-pencarian-sebelum-masuk-XxV .products-gb3 .grids-uYu .product-CH7 .list-9i9 .row-02-4Wu .product-card-qLd .textprice-BhK .loveseat-sofa-1pm {
+  font-size: 1.6rem;
+  font-weight: 600;
+  line-height: 1.625;
+  color: #141718;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.halaman-pencarian-sebelum-masuk-XxV .products-gb3 .grids-uYu .product-CH7 .list-9i9 .row-02-4Wu .product-card-qLd .textprice-BhK .price-ZLV {
+  width: 12.4rem;
+  font-size: 1.4rem;
+  font-weight: 600;
+  line-height: 1.5714285714;
+  color: #111111;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.halaman-pencarian-sebelum-masuk-XxV .products-gb3 .grids-uYu .product-CH7 .list-9i9 .row-02-4Wu .product-card-t7s {
+  width: 26.2rem;
+  height: 100%;
+  cursor: pointer;
+  flex-shrink: 0;
+}
+.halaman-pencarian-sebelum-masuk-XxV .products-gb3 .grids-uYu .product-CH7 .list-9i9 .row-02-4Wu .product-card-t7s .image-placeholder-qJ1 {
+  margin-bottom: 1.2rem;
+  box-sizing: border-box;
+  padding: 1.6rem;
+  width: 100%;
+  height: 34.9rem;
+  overflow: hidden;
+  position: relative;
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/paste-image-bg-gm7.png');
+}
+.halaman-pencarian-sebelum-masuk-XxV .products-gb3 .grids-uYu .product-CH7 .list-9i9 .row-02-4Wu .product-card-t7s .image-placeholder-qJ1 .auto-group-hycx-mBf {
+  width: 100%;
+  height: 5.6rem;
+}
+.halaman-pencarian-sebelum-masuk-XxV .products-gb3 .grids-uYu .product-CH7 .list-9i9 .row-02-4Wu .product-card-t7s .textprice-Hvh {
+  width: 12.4rem;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+}
+.halaman-pencarian-sebelum-masuk-XxV .products-gb3 .grids-uYu .product-CH7 .list-9i9 .row-02-4Wu .product-card-t7s .textprice-Hvh .auto-group-zm2b-dzZ {
+  box-sizing: border-box;
+  padding-bottom: 0.4rem;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.halaman-pencarian-sebelum-masuk-XxV .products-gb3 .grids-uYu .product-CH7 .list-9i9 .row-02-4Wu .product-card-t7s .textprice-Hvh .auto-group-zm2b-dzZ .rating-rating-group-NhF {
+  margin-bottom: 0.4rem;
+  display: flex;
+  column-gap: 0.2rem;
+  align-items: center;
+  flex-shrink: 0;
+}
+.halaman-pencarian-sebelum-masuk-XxV .products-gb3 .grids-uYu .product-CH7 .list-9i9 .row-02-4Wu .product-card-t7s .textprice-Hvh .auto-group-zm2b-dzZ .rating-rating-group-NhF .star-icon-hzR {
+  width: 1.6rem;
+  height: 1.6rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.halaman-pencarian-sebelum-masuk-XxV .products-gb3 .grids-uYu .product-CH7 .list-9i9 .row-02-4Wu .product-card-t7s .textprice-Hvh .auto-group-zm2b-dzZ .rating-rating-group-NhF .star-icon-euf {
+  width: 1.6rem;
+  height: 1.6rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.halaman-pencarian-sebelum-masuk-XxV .products-gb3 .grids-uYu .product-CH7 .list-9i9 .row-02-4Wu .product-card-t7s .textprice-Hvh .auto-group-zm2b-dzZ .rating-rating-group-NhF .star-icon-QP3 {
+  width: 1.6rem;
+  height: 1.6rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.halaman-pencarian-sebelum-masuk-XxV .products-gb3 .grids-uYu .product-CH7 .list-9i9 .row-02-4Wu .product-card-t7s .textprice-Hvh .auto-group-zm2b-dzZ .rating-rating-group-NhF .star-icon-xQZ {
+  width: 1.6rem;
+  height: 1.6rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.halaman-pencarian-sebelum-masuk-XxV .products-gb3 .grids-uYu .product-CH7 .list-9i9 .row-02-4Wu .product-card-t7s .textprice-Hvh .auto-group-zm2b-dzZ .rating-rating-group-NhF .star-icon-WBB {
+  width: 1.6rem;
+  height: 1.6rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.halaman-pencarian-sebelum-masuk-XxV .products-gb3 .grids-uYu .product-CH7 .list-9i9 .row-02-4Wu .product-card-t7s .textprice-Hvh .auto-group-zm2b-dzZ .loveseat-sofa-e2V {
+  font-size: 1.6rem;
+  font-weight: 600;
+  line-height: 1.625;
+  color: #141718;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.halaman-pencarian-sebelum-masuk-XxV .products-gb3 .grids-uYu .product-CH7 .list-9i9 .row-02-4Wu .product-card-t7s .textprice-Hvh .price-BYD {
+  width: 100%;
+  font-size: 1.4rem;
+  font-weight: 600;
+  line-height: 1.5714285714;
+  color: #111111;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.halaman-pencarian-sebelum-masuk-XxV .products-gb3 .grids-uYu .product-CH7 .list-9i9 .row-03-uj7 {
+  width: 100%;
+  height: 43.3rem;
+  display: flex;
+  column-gap: 2.4rem;
+  align-items: center;
+  flex-shrink: 0;
+}
+.halaman-pencarian-sebelum-masuk-XxV .products-gb3 .grids-uYu .product-CH7 .list-9i9 .row-03-uj7 .product-card-3qK {
+  width: 26.2rem;
+  height: 100%;
+  cursor: pointer;
+  flex-shrink: 0;
+}
+.halaman-pencarian-sebelum-masuk-XxV .products-gb3 .grids-uYu .product-CH7 .list-9i9 .row-03-uj7 .product-card-3qK .image-placeholder-CiD {
+  margin-bottom: 1.2rem;
+  box-sizing: border-box;
+  padding: 1.6rem;
+  width: 100%;
+  height: 34.9rem;
+  overflow: hidden;
+  position: relative;
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/paste-image-bg-oyB.png');
+}
+.halaman-pencarian-sebelum-masuk-XxV .products-gb3 .grids-uYu .product-CH7 .list-9i9 .row-03-uj7 .product-card-3qK .image-placeholder-CiD .auto-group-htfd-wA1 {
+  width: 100%;
+  height: 5.6rem;
+}
+.halaman-pencarian-sebelum-masuk-XxV .products-gb3 .grids-uYu .product-CH7 .list-9i9 .row-03-uj7 .product-card-3qK .textprice-51K {
+  row-gap: 0.4rem;
+  display: flex;
+  flex-direction: column;
+}
+.halaman-pencarian-sebelum-masuk-XxV .products-gb3 .grids-uYu .product-CH7 .list-9i9 .row-03-uj7 .product-card-3qK .textprice-51K .rating-rating-group-pUh {
+  display: flex;
+  column-gap: 0.2rem;
+  align-items: center;
+  flex-shrink: 0;
+}
+.halaman-pencarian-sebelum-masuk-XxV .products-gb3 .grids-uYu .product-CH7 .list-9i9 .row-03-uj7 .product-card-3qK .textprice-51K .rating-rating-group-pUh .star-icon-AHf {
+  width: 1.6rem;
+  height: 1.6rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.halaman-pencarian-sebelum-masuk-XxV .products-gb3 .grids-uYu .product-CH7 .list-9i9 .row-03-uj7 .product-card-3qK .textprice-51K .rating-rating-group-pUh .star-icon-6x1 {
+  width: 1.6rem;
+  height: 1.6rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.halaman-pencarian-sebelum-masuk-XxV .products-gb3 .grids-uYu .product-CH7 .list-9i9 .row-03-uj7 .product-card-3qK .textprice-51K .rating-rating-group-pUh .star-icon-eid {
+  width: 1.6rem;
+  height: 1.6rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.halaman-pencarian-sebelum-masuk-XxV .products-gb3 .grids-uYu .product-CH7 .list-9i9 .row-03-uj7 .product-card-3qK .textprice-51K .rating-rating-group-pUh .star-icon-bds {
+  width: 1.6rem;
+  height: 1.6rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.halaman-pencarian-sebelum-masuk-XxV .products-gb3 .grids-uYu .product-CH7 .list-9i9 .row-03-uj7 .product-card-3qK .textprice-51K .rating-rating-group-pUh .star-icon-MN9 {
+  width: 1.6rem;
+  height: 1.6rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.halaman-pencarian-sebelum-masuk-XxV .products-gb3 .grids-uYu .product-CH7 .list-9i9 .row-03-uj7 .product-card-3qK .textprice-51K .loveseat-sofa-JYH {
+  font-size: 1.6rem;
+  font-weight: 600;
+  line-height: 1.625;
+  color: #141718;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.halaman-pencarian-sebelum-masuk-XxV .products-gb3 .grids-uYu .product-CH7 .list-9i9 .row-03-uj7 .product-card-3qK .textprice-51K .price-TAH {
+  width: 12.5rem;
+  font-size: 1.4rem;
+  font-weight: 600;
+  line-height: 1.5714285714;
+  color: #111111;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.halaman-pencarian-sebelum-masuk-XxV .products-gb3 .grids-uYu .product-CH7 .list-9i9 .row-03-uj7 .product-card-BMB {
+  width: 26.2rem;
+  height: 100%;
+  cursor: pointer;
+  flex-shrink: 0;
+}
+.halaman-pencarian-sebelum-masuk-XxV .products-gb3 .grids-uYu .product-CH7 .list-9i9 .row-03-uj7 .product-card-BMB .image-placeholder-Xvq {
+  margin-bottom: 1.2rem;
+  box-sizing: border-box;
+  padding: 1.6rem;
+  width: 100%;
+  height: 34.9rem;
+  overflow: hidden;
+  position: relative;
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/paste-image-bg-veD.png');
+}
+.halaman-pencarian-sebelum-masuk-XxV .products-gb3 .grids-uYu .product-CH7 .list-9i9 .row-03-uj7 .product-card-BMB .image-placeholder-Xvq .auto-group-jxhu-4Qy {
+  width: 100%;
+  height: 5.6rem;
+}
+.halaman-pencarian-sebelum-masuk-XxV .products-gb3 .grids-uYu .product-CH7 .list-9i9 .row-03-uj7 .product-card-BMB .textprice-bA1 {
+  width: 12.5rem;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+}
+.halaman-pencarian-sebelum-masuk-XxV .products-gb3 .grids-uYu .product-CH7 .list-9i9 .row-03-uj7 .product-card-BMB .textprice-bA1 .auto-group-cutz-k2u {
+  box-sizing: border-box;
+  padding-bottom: 0.4rem;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.halaman-pencarian-sebelum-masuk-XxV .products-gb3 .grids-uYu .product-CH7 .list-9i9 .row-03-uj7 .product-card-BMB .textprice-bA1 .auto-group-cutz-k2u .rating-rating-group-hD3 {
+  margin-bottom: 0.4rem;
+  display: flex;
+  column-gap: 0.2rem;
+  align-items: center;
+  flex-shrink: 0;
+}
+.halaman-pencarian-sebelum-masuk-XxV .products-gb3 .grids-uYu .product-CH7 .list-9i9 .row-03-uj7 .product-card-BMB .textprice-bA1 .auto-group-cutz-k2u .rating-rating-group-hD3 .star-icon-Req {
+  width: 1.6rem;
+  height: 1.6rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.halaman-pencarian-sebelum-masuk-XxV .products-gb3 .grids-uYu .product-CH7 .list-9i9 .row-03-uj7 .product-card-BMB .textprice-bA1 .auto-group-cutz-k2u .rating-rating-group-hD3 .star-icon-Zm3 {
+  width: 1.6rem;
+  height: 1.6rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.halaman-pencarian-sebelum-masuk-XxV .products-gb3 .grids-uYu .product-CH7 .list-9i9 .row-03-uj7 .product-card-BMB .textprice-bA1 .auto-group-cutz-k2u .rating-rating-group-hD3 .star-icon-7Xf {
+  width: 1.6rem;
+  height: 1.6rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.halaman-pencarian-sebelum-masuk-XxV .products-gb3 .grids-uYu .product-CH7 .list-9i9 .row-03-uj7 .product-card-BMB .textprice-bA1 .auto-group-cutz-k2u .rating-rating-group-hD3 .star-icon-s13 {
+  width: 1.6rem;
+  height: 1.6rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.halaman-pencarian-sebelum-masuk-XxV .products-gb3 .grids-uYu .product-CH7 .list-9i9 .row-03-uj7 .product-card-BMB .textprice-bA1 .auto-group-cutz-k2u .rating-rating-group-hD3 .star-icon-cUR {
+  width: 1.6rem;
+  height: 1.6rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.halaman-pencarian-sebelum-masuk-XxV .products-gb3 .grids-uYu .product-CH7 .list-9i9 .row-03-uj7 .product-card-BMB .textprice-bA1 .auto-group-cutz-k2u .loveseat-sofa-kqX {
+  font-size: 1.6rem;
+  font-weight: 600;
+  line-height: 1.625;
+  color: #141718;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.halaman-pencarian-sebelum-masuk-XxV .products-gb3 .grids-uYu .product-CH7 .list-9i9 .row-03-uj7 .product-card-BMB .textprice-bA1 .price-hEy {
+  width: 100%;
+  font-size: 1.4rem;
+  font-weight: 600;
+  line-height: 1.5714285714;
+  color: #111111;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.halaman-pencarian-sebelum-masuk-XxV .products-gb3 .grids-uYu .product-CH7 .list-9i9 .row-03-uj7 .product-card-EEu {
+  width: 26.2rem;
+  height: 100%;
+  cursor: pointer;
+  flex-shrink: 0;
+}
+.halaman-pencarian-sebelum-masuk-XxV .products-gb3 .grids-uYu .product-CH7 .list-9i9 .row-03-uj7 .product-card-EEu .image-placeholder-yyB {
+  margin-bottom: 1.2rem;
+  box-sizing: border-box;
+  padding: 1.6rem;
+  width: 100%;
+  height: 34.9rem;
+  overflow: hidden;
+  position: relative;
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/paste-image-bg-c8q.png');
+}
+.halaman-pencarian-sebelum-masuk-XxV .products-gb3 .grids-uYu .product-CH7 .list-9i9 .row-03-uj7 .product-card-EEu .image-placeholder-yyB .auto-group-kshu-Wy7 {
+  width: 100%;
+  height: 5.6rem;
+}
+.halaman-pencarian-sebelum-masuk-XxV .products-gb3 .grids-uYu .product-CH7 .list-9i9 .row-03-uj7 .product-card-EEu .textprice-r1P {
+  row-gap: 0.4rem;
+  display: flex;
+  flex-direction: column;
+}
+.halaman-pencarian-sebelum-masuk-XxV .products-gb3 .grids-uYu .product-CH7 .list-9i9 .row-03-uj7 .product-card-EEu .textprice-r1P .rating-rating-group-bUm {
+  display: flex;
+  column-gap: 0.2rem;
+  align-items: center;
+  flex-shrink: 0;
+}
+.halaman-pencarian-sebelum-masuk-XxV .products-gb3 .grids-uYu .product-CH7 .list-9i9 .row-03-uj7 .product-card-EEu .textprice-r1P .rating-rating-group-bUm .star-icon-wHj {
+  width: 1.6rem;
+  height: 1.6rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.halaman-pencarian-sebelum-masuk-XxV .products-gb3 .grids-uYu .product-CH7 .list-9i9 .row-03-uj7 .product-card-EEu .textprice-r1P .rating-rating-group-bUm .star-icon-V4M {
+  width: 1.6rem;
+  height: 1.6rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.halaman-pencarian-sebelum-masuk-XxV .products-gb3 .grids-uYu .product-CH7 .list-9i9 .row-03-uj7 .product-card-EEu .textprice-r1P .rating-rating-group-bUm .star-icon-EXj {
+  width: 1.6rem;
+  height: 1.6rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.halaman-pencarian-sebelum-masuk-XxV .products-gb3 .grids-uYu .product-CH7 .list-9i9 .row-03-uj7 .product-card-EEu .textprice-r1P .rating-rating-group-bUm .star-icon-zG1 {
+  width: 1.6rem;
+  height: 1.6rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.halaman-pencarian-sebelum-masuk-XxV .products-gb3 .grids-uYu .product-CH7 .list-9i9 .row-03-uj7 .product-card-EEu .textprice-r1P .rating-rating-group-bUm .star-icon-KBo {
+  width: 1.6rem;
+  height: 1.6rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.halaman-pencarian-sebelum-masuk-XxV .products-gb3 .grids-uYu .product-CH7 .list-9i9 .row-03-uj7 .product-card-EEu .textprice-r1P .loveseat-sofa-4QH {
+  font-size: 1.6rem;
+  font-weight: 600;
+  line-height: 1.625;
+  color: #141718;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.halaman-pencarian-sebelum-masuk-XxV .products-gb3 .grids-uYu .product-CH7 .list-9i9 .row-03-uj7 .product-card-EEu .textprice-r1P .price-oMs {
+  width: 12.4rem;
+  font-size: 1.4rem;
+  font-weight: 600;
+  line-height: 1.5714285714;
+  color: #111111;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.halaman-pencarian-sebelum-masuk-XxV .products-gb3 .grids-uYu .product-CH7 .button-JZX {
+  margin: 0 32.8rem;
+  width: calc(100% - 65.6rem);
+  height: 4rem;
+  text-align: center;
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.75;
+  letter-spacing: -0.04rem;
+  color: #141718;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border: solid 0.1rem #a3a3a3;
+  box-sizing: border-box;
+  border-radius: 8rem;
+  flex-shrink: 0;
+}
+.halaman-pencarian-sebelum-masuk-XxV .footer-9KF {
+  box-sizing: border-box;
+  padding: 8rem 16rem 3.2rem 14.65rem;
+  width: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  background-color: #141718;
+  flex-shrink: 0;
+}
+.halaman-pencarian-sebelum-masuk-XxV .footer-9KF .logo-and-links-sW9 {
+  margin-bottom: 5.7rem;
+  width: 100%;
+  height: 2.4rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.halaman-pencarian-sebelum-masuk-XxV .footer-9KF .logo-and-links-sW9 .logo-and-slogan-cid {
+  margin-right: 27.8rem;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.halaman-pencarian-sebelum-masuk-XxV .footer-9KF .logo-and-links-sW9 .logo-and-slogan-cid .logo-AVF {
+  margin-right: 1.85rem;
+  width: 13.2rem;
+  height: 100%;
+  cursor: pointer;
+  text-align: center;
+  font-size: 2.4rem;
+  font-weight: 500;
+  line-height: 1;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+}
+.halaman-pencarian-sebelum-masuk-XxV .footer-9KF .logo-and-links-sW9 .logo-and-slogan-cid .logo-AVF .logo-AVF-sub-0 {
+}
+.halaman-pencarian-sebelum-masuk-XxV .footer-9KF .logo-and-links-sW9 .logo-and-slogan-cid .logo-AVF .logo-AVF-sub-1 {
+  font-size: 2.4rem;
+  font-weight: 500;
+  line-height: 1;
+  color: #38cb89;
+  font-family: Poppins, 'Source Sans Pro';
+}
+.halaman-pencarian-sebelum-masuk-XxV .footer-9KF .logo-and-links-sW9 .logo-and-slogan-cid .logo-AVF .logo-AVF-sub-2 {
+}
+.halaman-pencarian-sebelum-masuk-XxV .footer-9KF .logo-and-links-sW9 .logo-and-slogan-cid .logo-AVF .logo-AVF-sub-3 {
+  font-size: 2.4rem;
+  font-weight: 500;
+  line-height: 1;
+  color: #6c7274;
+  font-family: Poppins, 'Source Sans Pro';
+}
+.halaman-pencarian-sebelum-masuk-XxV .footer-9KF .logo-and-links-sW9 .logo-and-slogan-cid .rectangle-319-My3 {
+  margin-right: 3.2rem;
+  width: 0.1rem;
+  height: 2.4rem;
+  background-color: #6c7274;
+  flex-shrink: 0;
+}
+.halaman-pencarian-sebelum-masuk-XxV .footer-9KF .logo-and-links-sW9 .logo-and-slogan-cid .gift-decoration-store-4Mf {
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.5714285714;
+  color: #e8ecef;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.halaman-pencarian-sebelum-masuk-XxV .footer-9KF .logo-and-links-sW9 .nav-PPw {
+  margin: 0.1rem 0;
+  height: calc(100% - 0.2rem);
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.halaman-pencarian-sebelum-masuk-XxV .footer-9KF .logo-and-links-sW9 .nav-PPw .home-86d {
+  margin-right: 4rem;
+  cursor: pointer;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.5714285714;
+  color: #fdfdfd;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.halaman-pencarian-sebelum-masuk-XxV .footer-9KF .logo-and-links-sW9 .nav-PPw .shop-qmj {
+  margin-right: 2.2rem;
+  cursor: pointer;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.5714285714;
+  color: #fdfdfd;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.halaman-pencarian-sebelum-masuk-XxV .footer-9KF .logo-and-links-sW9 .nav-PPw .auto-group-vdpo-Mzy {
+  margin-right: 4rem;
+  box-sizing: border-box;
+  padding-left: 1.8rem;
+  height: 100%;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.5714285714;
+  color: #fdfdfd;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.halaman-pencarian-sebelum-masuk-XxV .footer-9KF .logo-and-links-sW9 .nav-PPw .contact-us-rwj {
+  cursor: pointer;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.5714285714;
+  color: #fdfdfd;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.halaman-pencarian-sebelum-masuk-XxV .footer-9KF .bottom-bar-zHF {
+  margin: 0rem 0.2rem 0rem 1.35rem;
+  box-sizing: border-box;
+  padding: 1.6rem 0;
+  width: calc(100% - 1.55rem);
+  height: 5.6rem;
+  display: flex;
+  align-items: center;
+  border: solid 0.1rem #6c7274;
+  flex-shrink: 0;
+}
+.halaman-pencarian-sebelum-masuk-XxV .footer-9KF .bottom-bar-zHF .copyright-t7j {
+  margin: 0rem 49.8rem 0.4rem 0rem;
+  display: flex;
+  column-gap: 2.8rem;
+  align-items: center;
+  flex-shrink: 0;
+}
+.halaman-pencarian-sebelum-masuk-XxV .footer-9KF .bottom-bar-zHF .copyright-t7j .copyright-2023-3legant-all-rights-reserved-C8R {
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.6666666667;
+  color: #e8ecef;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.halaman-pencarian-sebelum-masuk-XxV .footer-9KF .bottom-bar-zHF .copyright-t7j .privacy-policy-6zV {
+  font-size: 1.2rem;
+  font-weight: 600;
+  line-height: 1.6666666667;
+  color: #fdfdfd;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.halaman-pencarian-sebelum-masuk-XxV .footer-9KF .bottom-bar-zHF .copyright-t7j .terms-of-use-Eqo {
+  font-size: 1.2rem;
+  font-weight: 600;
+  line-height: 1.6666666667;
+  color: #fdfdfd;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.halaman-pencarian-sebelum-masuk-XxV .footer-9KF .bottom-bar-zHF .social-icon-aPs {
+  box-sizing: border-box;
+  padding: 0.2rem 0.2rem 0.2rem 0rem;
+  height: 100%;
+  display: flex;
+  column-gap: 3.2rem;
+  align-items: center;
+  flex-shrink: 0;
+}
+.halaman-pencarian-sebelum-masuk-XxV .footer-9KF .bottom-bar-zHF .social-icon-aPs .social-outline-instagram-JKs {
+  width: 2rem;
+  height: 2rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.halaman-pencarian-sebelum-masuk-XxV .footer-9KF .bottom-bar-zHF .social-icon-aPs .social-outline-facebook-2Wm {
+  width: 1.2rem;
+  height: 1.8rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.halaman-pencarian-sebelum-masuk-XxV .footer-9KF .bottom-bar-zHF .social-icon-aPs .social-outline-youtube-A7B {
+  width: 2rem;
+  height: 1.8rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}

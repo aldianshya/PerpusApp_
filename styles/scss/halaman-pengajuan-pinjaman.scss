@@ -1,0 +1,818 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 144rem;
+}.halaman-pengajuan-pinjaman-a57 {
+  width: 100%;
+  overflow: hidden;
+  position: relative;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+
+  .navigation-bar-VC5 {
+    box-sizing: border-box;
+    padding: 1.6rem 16rem 1.6rem 14.65rem;
+    width: 100%;
+    height: 6rem;
+    display: flex;
+    align-items: center;
+    background-color: #ffffff;
+    flex-shrink: 0;
+
+    .legant-z8q {
+      font-weight: 500;
+      line-height: 1;
+      color: #000000;
+      display: flex;
+      flex-shrink: 0;
+      margin-right: 20.45rem;
+      cursor: pointer;
+      text-align: center;
+      font-size: 2.4rem;
+      font-family: Poppins, 'Source Sans Pro';
+      white-space: nowrap;
+      align-items: baseline;
+
+      .legant-z8q-sub-0 {
+      }
+      .legant-z8q-sub-1 {
+        font-size: 2.4rem;
+        font-weight: 500;
+        line-height: 1;
+        color: #38cb89;
+        font-family: Poppins, 'Source Sans Pro';
+      }
+      .legant-z8q-sub-2 {
+      }
+    }
+    .elements-navigation-link-group--gfs {
+      margin: 0.2rem 21.8rem 0.2rem 0rem;
+      height: calc(100% - 0.4rem);
+      display: flex;
+      column-gap: 4rem;
+      align-items: center;
+      flex-shrink: 0;
+
+      .elements-navigation-link--bH3 {
+        width: 5.6rem;
+        height: 100%;
+        cursor: pointer;
+        flex-shrink: 0;
+
+        .button-wbo {
+          width: 100%;
+          height: 100%;
+          border: solid 0 #141718;
+          box-sizing: border-box;
+
+          .content-W97 {
+            align-items: center;
+            justify-content: center;
+            font-size: 1.4rem;
+            font-family: Inter, 'Source Sans Pro';
+            white-space: nowrap;
+            display: flex;
+            color: #6c7274;
+            width: 100%;
+            height: 100%;
+            font-weight: 500;
+            line-height: 1.7142857143;
+          }
+        }
+      }
+      .elements-navigation-link--bgM {
+        width: 13.1rem;
+        height: 100%;
+        cursor: pointer;
+        flex-shrink: 0;
+
+        .button-x17 {
+          width: 100%;
+          height: 100%;
+          border: solid 0 #141718;
+          box-sizing: border-box;
+
+          .content-7eh {
+            font-weight: 500;
+            line-height: 1.7142857143;
+            color: #6c7274;
+            font-family: Inter, 'Source Sans Pro';
+            white-space: nowrap;
+            display: flex;
+            align-items: center;
+            width: 100%;
+            font-size: 1.4rem;
+            justify-content: center;
+            height: 100%;
+          }
+        }
+      }
+      .auto-group-zprd-d7F {
+        position: relative;
+        flex-shrink: 0;
+        width: 18.2rem;
+        height: 100%;
+
+        .elements-navigation-link--Ass {
+          height: 2.4rem;
+          cursor: pointer;
+          position: absolute;
+          left: 0;
+          top: 0;
+          width: 11.5704rem;
+
+          .button-JDP {
+            height: 100%;
+            border: solid 0 #141718;
+            box-sizing: border-box;
+            width: 100%;
+
+            .content-TMB {
+              line-height: 1.7142857143;
+              color: #6c7274;
+              font-family: Inter, 'Source Sans Pro';
+              white-space: nowrap;
+              align-items: center;
+              justify-content: center;
+              font-weight: 500;
+              width: 4.8rem;
+              height: 100%;
+              font-size: 1.4rem;
+              display: flex;
+              margin-right: 6.7704rem;
+            }
+          }
+        }
+        .elements-navigation-link--9jo {
+          position: absolute;
+          left: 8.8rem;
+          top: 0;
+          width: 9.4rem;
+          height: 2.4rem;
+          cursor: pointer;
+
+          .button-Un5 {
+            justify-content: center;
+            box-sizing: border-box;
+            width: 100%;
+            font-size: 1.4rem;
+            color: #6c7274;
+            white-space: nowrap;
+            display: flex;
+            border: solid 0 #141718;
+            height: 100%;
+            font-weight: 500;
+            line-height: 1.7142857143;
+            font-family: Inter, 'Source Sans Pro';
+            align-items: center;
+          }
+        }
+      }
+    }
+    .icons-b61 {
+      height: 100%;
+      display: flex;
+      align-items: center;
+      flex-shrink: 0;
+
+      .auto-group-bhq7-kDo {
+        box-sizing: border-box;
+        padding: 0.2rem 1.6rem 0.2rem 0.2rem;
+        height: 100%;
+        display: flex;
+        align-items: center;
+        flex-shrink: 0;
+
+        .interface-outline-search-02-Gxq {
+          height: 2rem;
+          object-fit: contain;
+          vertical-align: top;
+          flex-shrink: 0;
+          margin-right: 1.8rem;
+          width: 2rem;
+        }
+        .interface-outline-user-circle-oSy {
+          object-fit: contain;
+          vertical-align: top;
+          flex-shrink: 0;
+          width: 2.4rem;
+          height: 2.4rem;
+          cursor: pointer;
+        }
+      }
+      .elements-navigation-cart-button-wZB {
+        box-sizing: border-box;
+        padding: 0.4rem 0rem 0.4rem 0.372rem;
+        height: 100%;
+        cursor: pointer;
+        display: flex;
+        align-items: center;
+        flex-shrink: 0;
+
+        .outline-shopping-bag-rg9 {
+          margin-right: 0.7721rem;
+          width: 1.8559rem;
+          height: 1.8rem;
+          position: relative;
+          object-fit: contain;
+          vertical-align: top;
+          flex-shrink: 0;
+        }
+        .frame-3-aMF {
+          font-family: Inter, 'Source Sans Pro';
+          display: flex;
+          border-radius: 1rem;
+          text-align: center;
+          justify-content: center;
+          line-height: 0.8333333333;
+          color: #ffffff;
+          align-items: center;
+          background-color: #141718;
+          position: relative;
+          height: 100%;
+          overflow: hidden;
+          font-size: 1.2rem;
+          font-weight: 700;
+          white-space: nowrap;
+          flex-shrink: 0;
+          width: 2rem;
+        }
+      }
+    }
+  }
+  .complete-SeM {
+    background-color: #ffffff;
+    flex-shrink: 0;
+    box-sizing: border-box;
+    padding: 8rem 35.1rem;
+    width: 100%;
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+
+    .pengajuan-peminjaman-berhasil-akZ {
+      font-size: 5.4rem;
+      line-height: 1.0740740741;
+      letter-spacing: -0.1rem;
+      color: #000000;
+      margin-bottom: 7.9rem;
+      max-width: 65.2rem;
+      text-align: center;
+      font-weight: 500;
+      font-family: Poppins, 'Source Sans Pro';
+      flex-shrink: 0;
+    }
+    .order-complete-4vd {
+      display: flex;
+      flex-direction: column;
+      box-shadow: 0 3.2rem 4.8rem rgba(17, 17, 17, 0.1000000015);
+      align-items: center;
+      background-color: #ffffff;
+      border-radius: 0.8rem;
+      flex-shrink: 0;
+      margin-bottom: 8rem;
+      box-sizing: border-box;
+      padding: 8rem 9.5rem 9rem 9.5rem;
+      width: 100%;
+
+      .title-n5w {
+        flex-direction: column;
+        flex-shrink: 0;
+        margin: 0rem 3.7rem 3.2rem 3.7rem;
+        width: calc(100% - 7.4rem);
+        align-items: center;
+        display: flex;
+
+        .terima-kasih--hyb {
+          margin-bottom: 1.6rem;
+          text-align: center;
+          font-size: 2.8rem;
+          line-height: 1.2142857143;
+          font-family: Poppins, 'Source Sans Pro';
+          white-space: nowrap;
+          font-weight: 500;
+          letter-spacing: -0.06rem;
+          color: #6c7274;
+          flex-shrink: 0;
+        }
+        .tunggu-konfirmasi-dari-kami-p2d {
+          text-align: center;
+          font-size: 4rem;
+          color: #22262e;
+          font-family: Poppins, 'Source Sans Pro';
+          max-width: 47.4rem;
+          font-weight: 500;
+          line-height: 1.1;
+          letter-spacing: -0.04rem;
+          flex-shrink: 0;
+        }
+      }
+      .orders-1-Kk5 {
+        margin: 0rem 9rem 4rem 9rem;
+        width: calc(100% - 18rem);
+        align-items: center;
+        display: flex;
+        flex-direction: column;
+        flex-shrink: 0;
+
+        .item-fJ9 {
+          margin-bottom: 3.6rem;
+          width: 100%;
+          display: flex;
+          column-gap: 6.4rem;
+          align-items: flex-end;
+          flex-shrink: 0;
+
+          .image-placeholder-Cos {
+            position: relative;
+            flex-shrink: 0;
+            margin-bottom: 0.4rem;
+            overflow: hidden;
+
+            .paste-image-MRs {
+              width: 8rem;
+              height: 12rem;
+              object-fit: cover;
+              vertical-align: top;
+            }
+          }
+          .image-placeholder-twb {
+            position: relative;
+            flex-shrink: 0;
+            margin-top: 0.4rem;
+            overflow: hidden;
+
+            .paste-image-TE1 {
+              height: 12rem;
+              object-fit: cover;
+              vertical-align: top;
+              width: 8rem;
+            }
+          }
+          .image-placeholder-oYm {
+            overflow: hidden;
+            position: relative;
+            flex-shrink: 0;
+            margin-top: 0.4rem;
+
+            .paste-image-jhK {
+              width: 8rem;
+              height: 12rem;
+              object-fit: cover;
+              vertical-align: top;
+            }
+          }
+        }
+        .order-detail-epH {
+          width: calc(100% - 1.5rem);
+          height: 10.6rem;
+          display: flex;
+          align-items: center;
+          flex-shrink: 0;
+          margin: 0rem 0.7rem 0rem 0.8rem;
+
+          .title-y5s {
+            flex-shrink: 0;
+            margin-right: 3.2rem;
+            width: 10.2rem;
+            height: 100%;
+            align-items: center;
+            display: flex;
+            flex-direction: column;
+
+            .auto-group-w83m-v17 {
+              box-sizing: border-box;
+              padding-bottom: 2rem;
+              width: 100%;
+              display: flex;
+              flex-direction: column;
+              flex-shrink: 0;
+
+              .tanggal--4d7 {
+                font-size: 1.4rem;
+                font-weight: 600;
+                line-height: 1.5714285714;
+                color: #6c7274;
+                font-family: Inter, 'Source Sans Pro';
+                margin-bottom: 2rem;
+                display: flex;
+                white-space: nowrap;
+                flex-shrink: 0;
+              }
+              .total--b7F {
+                display: flex;
+                font-size: 1.4rem;
+                font-weight: 600;
+                line-height: 1.5714285714;
+                color: #6c7274;
+                font-family: Inter, 'Source Sans Pro';
+                white-space: nowrap;
+                flex-shrink: 0;
+              }
+            }
+            .perpustakaan--Kow {
+              white-space: nowrap;
+              flex-shrink: 0;
+              display: flex;
+              font-size: 1.4rem;
+              font-weight: 600;
+              line-height: 1.5714285714;
+              color: #6c7274;
+              font-family: Inter, 'Source Sans Pro';
+            }
+          }
+          .info-s4m {
+            flex-shrink: 0;
+            height: 100%;
+            row-gap: 2rem;
+            display: flex;
+            flex-direction: column;
+
+            .october-31-2023-pEu {
+              font-family: Inter, 'Source Sans Pro';
+              white-space: nowrap;
+              flex-shrink: 0;
+              display: flex;
+              font-size: 1.4rem;
+              font-weight: 600;
+              line-height: 1.5714285714;
+              color: #141718;
+            }
+            .buku-kPT {
+              color: #141718;
+              font-family: Inter, 'Source Sans Pro';
+              white-space: nowrap;
+              flex-shrink: 0;
+              display: flex;
+              font-size: 1.4rem;
+              font-weight: 600;
+              line-height: 1.5714285714;
+            }
+            .perpustakaan-universitas-jambi-Vrq {
+              color: #141718;
+              font-family: Inter, 'Source Sans Pro';
+              white-space: nowrap;
+              flex-shrink: 0;
+              display: flex;
+              font-size: 1.4rem;
+              font-weight: 600;
+              line-height: 1.5714285714;
+            }
+          }
+        }
+      }
+      .orders-2-Dnq {
+        align-items: center;
+        display: flex;
+        flex-direction: column;
+        border: solid 0.1rem #e8ecef;
+        flex-shrink: 0;
+        box-sizing: border-box;
+        padding: 1.3rem 9.7rem 0rem 9.7rem;
+        width: 100%;
+
+        .paste-image-xVX {
+          object-fit: cover;
+          vertical-align: top;
+          flex-shrink: 0;
+          margin: 0rem 0rem 2.7rem 0.167rem;
+          width: 8rem;
+          height: 12rem;
+        }
+        .order-detail-gRX {
+          width: 100%;
+          height: 10.6rem;
+          display: flex;
+          align-items: center;
+          flex-shrink: 0;
+
+          .title-drZ {
+            margin-right: 3.2rem;
+            width: 10.2rem;
+            height: 100%;
+            align-items: center;
+            display: flex;
+            flex-direction: column;
+            flex-shrink: 0;
+
+            .auto-group-usf9-amo {
+              display: flex;
+              flex-direction: column;
+              flex-shrink: 0;
+              box-sizing: border-box;
+              padding-bottom: 2rem;
+              width: 100%;
+
+              .tanggal--u3P {
+                margin-bottom: 2rem;
+                display: flex;
+                line-height: 1.5714285714;
+                color: #6c7274;
+                flex-shrink: 0;
+                font-size: 1.4rem;
+                font-weight: 600;
+                font-family: Inter, 'Source Sans Pro';
+                white-space: nowrap;
+              }
+              .total--Dpm {
+                display: flex;
+                font-size: 1.4rem;
+                font-weight: 600;
+                line-height: 1.5714285714;
+                color: #6c7274;
+                font-family: Inter, 'Source Sans Pro';
+                white-space: nowrap;
+                flex-shrink: 0;
+              }
+            }
+            .perpustakaan--Y6M {
+              white-space: nowrap;
+              flex-shrink: 0;
+              display: flex;
+              font-size: 1.4rem;
+              font-weight: 600;
+              line-height: 1.5714285714;
+              color: #6c7274;
+              font-family: Inter, 'Source Sans Pro';
+            }
+          }
+          .info-fwf {
+            flex-direction: column;
+            flex-shrink: 0;
+            height: 100%;
+            row-gap: 2rem;
+            display: flex;
+
+            .october-31-2023-Rfw {
+              color: #141718;
+              font-family: Inter, 'Source Sans Pro';
+              white-space: nowrap;
+              flex-shrink: 0;
+              display: flex;
+              font-size: 1.4rem;
+              font-weight: 600;
+              line-height: 1.5714285714;
+            }
+            .buku-mE1 {
+              display: flex;
+              font-size: 1.4rem;
+              font-weight: 600;
+              line-height: 1.5714285714;
+              color: #141718;
+              font-family: Inter, 'Source Sans Pro';
+              white-space: nowrap;
+              flex-shrink: 0;
+            }
+            .perpustakaan-umum-kota-jambi-ub7 {
+              font-family: Inter, 'Source Sans Pro';
+              white-space: nowrap;
+              flex-shrink: 0;
+              display: flex;
+              font-size: 1.4rem;
+              font-weight: 600;
+              line-height: 1.5714285714;
+              color: #141718;
+            }
+          }
+        }
+      }
+    }
+    .button-Njb {
+      margin: 0 25.35rem;
+      text-align: center;
+      white-space: nowrap;
+      justify-content: center;
+      background-color: #141718;
+      cursor: pointer;
+      font-size: 1.6rem;
+      letter-spacing: -0.04rem;
+      align-items: center;
+      flex-shrink: 0;
+      width: calc(100% - 50.7rem);
+      font-weight: 500;
+      border-radius: 8rem;
+      height: 5.2rem;
+      line-height: 1.75;
+      color: #ffffff;
+      font-family: Inter, 'Source Sans Pro';
+      display: flex;
+    }
+  }
+  .footer-dvR {
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+    background-color: #141718;
+    flex-shrink: 0;
+    box-sizing: border-box;
+    padding: 8rem 16rem 3.2rem 14.65rem;
+    width: 100%;
+
+    .logo-and-links-AfT {
+      width: 100%;
+      height: 2.4rem;
+      display: flex;
+      align-items: center;
+      flex-shrink: 0;
+      margin-bottom: 5.7rem;
+
+      .logo-and-slogan-iS5 {
+        margin-right: 27.8rem;
+        height: 100%;
+        display: flex;
+        align-items: center;
+        flex-shrink: 0;
+
+        .legant-fMK {
+          white-space: nowrap;
+          display: flex;
+          margin-right: 1.85rem;
+          font-size: 2.4rem;
+          line-height: 1;
+          font-family: Poppins, 'Source Sans Pro';
+          flex-shrink: 0;
+          text-align: center;
+          font-weight: 500;
+          color: #ffffff;
+          align-items: baseline;
+
+          .legant-fMK-sub-0 {
+          }
+          .legant-fMK-sub-1 {
+            font-size: 2.4rem;
+            font-weight: 500;
+            line-height: 1;
+            color: #38cb89;
+            font-family: Poppins, 'Source Sans Pro';
+          }
+          .legant-fMK-sub-2 {
+          }
+          .legant-fMK-sub-3 {
+            line-height: 1;
+            color: #6c7274;
+            font-family: Poppins, 'Source Sans Pro';
+            font-size: 2.4rem;
+            font-weight: 500;
+          }
+        }
+        .rectangle-319-vwT {
+          background-color: #6c7274;
+          flex-shrink: 0;
+          margin-right: 3.2rem;
+          width: 0.1rem;
+          height: 2.4rem;
+        }
+        .gift-decoration-store-fu3 {
+          font-weight: 400;
+          line-height: 1.5714285714;
+          color: #e8ecef;
+          font-family: Inter, 'Source Sans Pro';
+          white-space: nowrap;
+          flex-shrink: 0;
+          font-size: 1.4rem;
+        }
+      }
+      .nav-Cty {
+        height: calc(100% - 0.2rem);
+        display: flex;
+        align-items: center;
+        flex-shrink: 0;
+        margin: 0.1rem 0;
+
+        .home-LVP {
+          font-size: 1.4rem;
+          font-weight: 400;
+          line-height: 1.5714285714;
+          color: #fdfdfd;
+          font-family: Inter, 'Source Sans Pro';
+          white-space: nowrap;
+          flex-shrink: 0;
+          margin-right: 4rem;
+        }
+        .shop-t17 {
+          font-family: Inter, 'Source Sans Pro';
+          white-space: nowrap;
+          flex-shrink: 0;
+          margin-right: 2.2rem;
+          font-size: 1.4rem;
+          font-weight: 400;
+          line-height: 1.5714285714;
+          color: #fdfdfd;
+        }
+        .auto-group-xosk-27K {
+          box-sizing: border-box;
+          height: 100%;
+          font-weight: 400;
+          margin-right: 4rem;
+          padding-left: 1.8rem;
+          font-size: 1.4rem;
+          line-height: 1.5714285714;
+          color: #fdfdfd;
+          font-family: Inter, 'Source Sans Pro';
+          white-space: nowrap;
+          flex-shrink: 0;
+        }
+        .contact-us-8RF {
+          font-weight: 400;
+          line-height: 1.5714285714;
+          color: #fdfdfd;
+          font-family: Inter, 'Source Sans Pro';
+          white-space: nowrap;
+          flex-shrink: 0;
+          font-size: 1.4rem;
+        }
+      }
+    }
+    .bottom-bar-rs3 {
+      height: 5.6rem;
+      align-items: center;
+      flex-shrink: 0;
+      margin: 0rem 0.2rem 0rem 1.35rem;
+      box-sizing: border-box;
+      padding: 1.6rem 0;
+      width: calc(100% - 1.55rem);
+      display: flex;
+      border: solid 0.1rem #6c7274;
+
+      .copyright-a2M {
+        display: flex;
+        column-gap: 2.8rem;
+        align-items: center;
+        flex-shrink: 0;
+        margin: 0rem 49.5rem 0.4rem 0rem;
+
+        .copyright-2023-3legant-all-rights-reserved-JU9 {
+          color: #e8ecef;
+          font-family: Poppins, 'Source Sans Pro';
+          white-space: nowrap;
+          flex-shrink: 0;
+          font-size: 1.2rem;
+          font-weight: 400;
+          line-height: 1.6666666667;
+        }
+        .privacy-policy-RHs {
+          flex-shrink: 0;
+          font-size: 1.2rem;
+          font-weight: 600;
+          line-height: 1.6666666667;
+          color: #fdfdfd;
+          font-family: Poppins, 'Source Sans Pro';
+          white-space: nowrap;
+        }
+        .terms-of-use-mMj {
+          flex-shrink: 0;
+          font-size: 1.2rem;
+          font-weight: 600;
+          line-height: 1.6666666667;
+          color: #fdfdfd;
+          font-family: Poppins, 'Source Sans Pro';
+          white-space: nowrap;
+        }
+      }
+      .social-icon-W4R {
+        padding: 0.2rem 0.2rem 0.2rem 0rem;
+        height: 100%;
+        display: flex;
+        column-gap: 3.2rem;
+        align-items: center;
+        flex-shrink: 0;
+        box-sizing: border-box;
+
+        .social-outline-instagram-cdF {
+          width: 2rem;
+          height: 2rem;
+          object-fit: contain;
+          vertical-align: top;
+          flex-shrink: 0;
+        }
+        .social-outline-facebook-kUZ {
+          flex-shrink: 0;
+          width: 1.2rem;
+          height: 1.8rem;
+          object-fit: contain;
+          vertical-align: top;
+        }
+        .social-outline-youtube-6HX {
+          width: 2rem;
+          height: 1.8rem;
+          object-fit: contain;
+          vertical-align: top;
+          flex-shrink: 0;
+        }
+      }
+    }
+  }
+}

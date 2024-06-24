@@ -1,0 +1,309 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 144rem;
+}.icons-DPP {
+  width: 100%;
+  overflow: hidden;
+  position: relative;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  background-color: #ffffff;
+}
+.icons-DPP .header-y7f {
+  box-sizing: border-box;
+  padding: 10rem 7.5rem;
+  width: 100%;
+  height: 27.9rem;
+  background-color: #131416;
+  flex-shrink: 0;
+}
+.icons-DPP .header-y7f .typeface-hZT {
+  width: 12.8rem;
+  height: 100%;
+}
+.icons-DPP .header-y7f .typeface-hZT .icons-eUh {
+  margin-bottom: 1.8rem;
+  font-size: 4.8rem;
+  font-weight: 600;
+  line-height: 1.265;
+  color: #ffffff;
+  font-family: Be Vietnam Pro, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.icons-DPP .header-y7f .typeface-hZT .vector-1-mZK {
+  width: 10.95rem;
+  height: 0;
+  object-fit: contain;
+  vertical-align: top;
+}
+.icons-DPP .auto-group-xshq-WWu {
+  width: 100%;
+  height: 65.5rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.icons-DPP .auto-group-xshq-WWu .auto-group-yu2f-FzH {
+  width: 18.6rem;
+  height: 2.4rem;
+  position: absolute;
+  left: 7.7rem;
+  top: 7.8rem;
+  display: flex;
+  align-items: center;
+}
+.icons-DPP .auto-group-xshq-WWu .auto-group-yu2f-FzH .auto-group-h9eb-Np1 {
+  box-sizing: border-box;
+  padding: 0.2rem 2.7rem 0.2rem 0rem;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.icons-DPP .auto-group-xshq-WWu .auto-group-yu2f-FzH .auto-group-h9eb-Np1 .interface-outline-search-02-JBs {
+  margin-right: 2.8rem;
+  width: 2rem;
+  height: 2rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.icons-DPP .auto-group-xshq-WWu .auto-group-yu2f-FzH .auto-group-h9eb-Np1 .interface-outline-user-circle-ELR {
+  width: 2rem;
+  height: 2rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.icons-DPP .auto-group-xshq-WWu .auto-group-yu2f-FzH .elements-navigation-cart-button-y37 {
+  margin-right: 2rem;
+  box-sizing: border-box;
+  padding: 0.2rem 0rem 0.2rem 0.272rem;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.icons-DPP .auto-group-xshq-WWu .auto-group-yu2f-FzH .elements-navigation-cart-button-y37 .outline-shopping-bag-V1T {
+  margin-right: 0.7721rem;
+  width: 1.8558rem;
+  height: 1.8rem;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.icons-DPP .auto-group-xshq-WWu .auto-group-yu2f-FzH .elements-navigation-cart-button-y37 .frame-3-crm {
+  width: 2rem;
+  height: 100%;
+  overflow: hidden;
+  position: relative;
+  text-align: center;
+  font-size: 1.2rem;
+  font-weight: 700;
+  line-height: 0.8333333333;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #141718;
+  border-radius: 1rem;
+  flex-shrink: 0;
+}
+.icons-DPP .auto-group-xshq-WWu .auto-group-yu2f-FzH .icons-heart-line-tZP {
+  margin-bottom: 0.0209rem;
+  width: 2.2rem;
+  height: 1.7791rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.icons-DPP .auto-group-xshq-WWu .auto-group-yoyd-pT3 {
+  width: 45.4279rem;
+  height: 5.3333rem;
+  position: absolute;
+  left: 7.7721rem;
+  top: 11.3333rem;
+  display: flex;
+  align-items: center;
+}
+.icons-DPP .auto-group-xshq-WWu .auto-group-yoyd-pT3 .auto-group-xdnt-k5o {
+  box-sizing: border-box;
+  padding: 1.567rem 5.1rem 1.767rem 0rem;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.icons-DPP .auto-group-xshq-WWu .auto-group-yoyd-pT3 .auto-group-xdnt-k5o .outline-shopping-bag-4cH {
+  margin: 0.2rem 2.872rem 0rem 0rem;
+  width: 1.8558rem;
+  height: 1.8rem;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.icons-DPP .auto-group-xshq-WWu .auto-group-yoyd-pT3 .auto-group-xdnt-k5o .ticket-percent-yz9 {
+  margin: 0.2rem 2.8rem 0rem 0rem;
+  width: 2rem;
+  height: 1.8rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.icons-DPP .auto-group-xshq-WWu .auto-group-yoyd-pT3 .auto-group-xdnt-k5o .shipping-and-delivery-outline-fast-delivery-7Kf {
+  margin: 0.2rem 2.8rem 0rem 0rem;
+  width: 2rem;
+  height: 1.8rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.icons-DPP .auto-group-xshq-WWu .auto-group-yoyd-pT3 .auto-group-xdnt-k5o .finance-and-payment-outline-money-dYu {
+  margin: 0.2rem 2.9rem 0rem 0rem;
+  width: 2rem;
+  height: 1.6rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.icons-DPP .auto-group-xshq-WWu .auto-group-yoyd-pT3 .auto-group-xdnt-k5o .outline-call-A33 {
+  margin-right: 3.1rem;
+  width: 1.8rem;
+  height: 1.8rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.icons-DPP .auto-group-xshq-WWu .auto-group-yoyd-pT3 .auto-group-xdnt-k5o .outline-lock-01-Vb7 {
+  margin-right: 3.0056rem;
+  width: 1.6rem;
+  height: 2rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.icons-DPP .auto-group-xshq-WWu .auto-group-yoyd-pT3 .auto-group-xdnt-k5o .outline-store-01-36q {
+  margin-right: 2.8057rem;
+  width: 1.9887rem;
+  height: 2rem;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.icons-DPP .auto-group-xshq-WWu .auto-group-yoyd-pT3 .auto-group-xdnt-k5o .communication-outline-mail-BTw {
+  width: 2rem;
+  height: 1.8rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.icons-DPP .auto-group-xshq-WWu .auto-group-yoyd-pT3 .location-XGu {
+  box-sizing: border-box;
+  padding: 0.4318rem 0.4rem;
+  height: 100%;
+  overflow: hidden;
+  position: relative;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/subtract-Pqs.png');
+  flex-shrink: 0;
+}
+.icons-DPP .auto-group-xshq-WWu .auto-group-yoyd-pT3 .location-XGu .icon-GkH {
+  margin-bottom: 0.4697rem;
+  width: 4rem;
+  height: 4rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.icons-DPP .auto-group-xshq-WWu .auto-group-ed5v-C89 {
+  width: 11.6rem;
+  height: 2rem;
+  position: absolute;
+  left: 7.7rem;
+  top: 17.8rem;
+  display: flex;
+  align-items: center;
+}
+.icons-DPP .auto-group-xshq-WWu .auto-group-ed5v-C89 .social-outline-instagram-KiZ {
+  margin-right: 3rem;
+  width: 2rem;
+  height: 2rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.icons-DPP .auto-group-xshq-WWu .auto-group-ed5v-C89 .social-outline-facebook-Fs7 {
+  margin-right: 3.4rem;
+  width: 1.2rem;
+  height: 1.8rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.icons-DPP .auto-group-xshq-WWu .auto-group-ed5v-C89 .social-outline-youtube-Bkm {
+  width: 2rem;
+  height: 1.8rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.icons-DPP .auto-group-xshq-WWu .auto-group-a93q-vyF {
+  width: 16.3rem;
+  height: 2rem;
+  position: absolute;
+  left: 7.7rem;
+  top: 22.6rem;
+  display: flex;
+  align-items: center;
+}
+.icons-DPP .auto-group-xshq-WWu .auto-group-a93q-vyF .interface-outline-user-circle-rc1 {
+  margin-right: 2.7rem;
+  width: 2rem;
+  height: 2rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.icons-DPP .auto-group-xshq-WWu .auto-group-a93q-vyF .time-and-date-outline-calendar-BuB {
+  margin-right: 3.1rem;
+  width: 1.8rem;
+  height: 2rem;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.icons-DPP .auto-group-xshq-WWu .auto-group-a93q-vyF .outline-camera-83j {
+  margin-right: 2.9rem;
+  width: 2rem;
+  height: 1.8rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.icons-DPP .auto-group-xshq-WWu .auto-group-a93q-vyF .outline-edit-4i5 {
+  width: 1.8rem;
+  height: 1.8rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}

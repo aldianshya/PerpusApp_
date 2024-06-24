@@ -1,0 +1,594 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 144rem;
+}.konfirmasi-reservasi-Lzh {
+  width: 100%;
+  overflow: hidden;
+  position: relative;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+}
+.konfirmasi-reservasi-Lzh .logo-Ub7 {
+  box-sizing: border-box;
+  padding: 1.6rem 3.75rem;
+  width: 100%;
+  text-align: center;
+  font-size: 2.4rem;
+  font-weight: 500;
+  line-height: 1;
+  color: #000000;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: baseline;
+  background-color: #ffffff;
+  flex-shrink: 0;
+}
+.konfirmasi-reservasi-Lzh .logo-Ub7 .logo-Ub7-sub-0 {
+}
+.konfirmasi-reservasi-Lzh .logo-Ub7 .logo-Ub7-sub-1 {
+  font-size: 2.4rem;
+  font-weight: 500;
+  line-height: 1;
+  color: #38cb89;
+  font-family: Poppins, 'Source Sans Pro';
+}
+.konfirmasi-reservasi-Lzh .logo-Ub7 .logo-Ub7-sub-2 {
+}
+.konfirmasi-reservasi-Lzh .content-9am {
+  box-sizing: border-box;
+  padding: 3rem 3.6rem 4.3rem 3.6rem;
+  width: 100%;
+  height: 99.1rem;
+  background-color: #ffffff;
+  flex-shrink: 0;
+}
+.konfirmasi-reservasi-Lzh .content-9am .content-HBB {
+  width: 127.1rem;
+  height: 100%;
+  display: flex;
+  align-items: flex-start;
+}
+.konfirmasi-reservasi-Lzh .content-9am .content-HBB .menu-2uT {
+  margin-right: 3.1rem;
+  box-sizing: border-box;
+  padding: 4rem 4.35rem 20.4rem 4.35rem;
+  width: 31.7rem;
+  height: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  background-color: #f3f5f6;
+  border-radius: 0.8rem;
+  flex-shrink: 0;
+}
+.konfirmasi-reservasi-Lzh .content-9am .content-HBB .menu-2uT .frame-743-MB3 {
+  margin: 0rem 6.05rem 6rem 6.05rem;
+  width: calc(100% - 12.1rem);
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.konfirmasi-reservasi-Lzh .content-9am .content-HBB .menu-2uT .frame-743-MB3 .elements-menu-avatar-edit-UmT {
+  margin: 0rem 1.55rem 0.6rem 1.35rem;
+  width: calc(100% - 2.9rem);
+  height: 8.2rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.konfirmasi-reservasi-Lzh .content-9am .content-HBB .menu-2uT .frame-743-MB3 .elements-menu-avatar-edit-UmT .avatar-o33 {
+  width: 8rem;
+  height: 8rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  border-radius: 5.8rem;
+}
+.konfirmasi-reservasi-Lzh .content-9am .content-HBB .menu-2uT .frame-743-MB3 .elements-menu-avatar-edit-UmT .avatar-o33 .border-radius-light-solid-pill-Lof {
+  width: 8rem;
+  height: 8rem;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+}
+.konfirmasi-reservasi-Lzh .content-9am .content-HBB .menu-2uT .frame-743-MB3 .elements-menu-avatar-edit-UmT .icon-box-f5F {
+  width: 3rem;
+  height: 3rem;
+  position: absolute;
+  left: 4.9rem;
+  top: 5.2rem;
+  object-fit: contain;
+  vertical-align: top;
+  border-radius: 12.5rem;
+}
+.konfirmasi-reservasi-Lzh .content-9am .content-HBB .menu-2uT .frame-743-MB3 .tobi-anson-mty {
+  font-size: 2rem;
+  font-weight: 600;
+  line-height: 1.6;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.konfirmasi-reservasi-Lzh .content-9am .content-HBB .menu-2uT .frame-742-WLm {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.konfirmasi-reservasi-Lzh .content-9am .content-HBB .menu-2uT .frame-742-WLm .menu-item-rvR {
+  margin-bottom: 3.2rem;
+  font-size: 1.6rem;
+  font-weight: 600;
+  line-height: 1.625;
+  color: #6c7274;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.konfirmasi-reservasi-Lzh .content-9am .content-HBB .menu-2uT .frame-742-WLm .elements-PfT {
+  margin-bottom: 1.2rem;
+  box-sizing: border-box;
+  padding: 2rem 0;
+  width: 100%;
+  font-size: 1.6rem;
+  font-weight: 600;
+  line-height: 1.625;
+  color: #6c7274;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  border: solid 0 #141718;
+  flex-shrink: 0;
+}
+.konfirmasi-reservasi-Lzh .content-9am .content-HBB .menu-2uT .frame-742-WLm .elements-ts7 {
+  box-sizing: border-box;
+  padding: 2rem 0;
+  width: 100%;
+  font-size: 1.6rem;
+  font-weight: 600;
+  line-height: 1.625;
+  color: #6c7274;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  border: solid 0 #141718;
+  flex-shrink: 0;
+}
+.konfirmasi-reservasi-Lzh .content-9am .content-HBB .menu-2uT .frame-742-WLm .auto-group-pfvv-oz5 {
+  box-sizing: border-box;
+  padding: 3.2rem 0;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.konfirmasi-reservasi-Lzh .content-9am .content-HBB .menu-2uT .frame-742-WLm .auto-group-pfvv-oz5 .menu-item-AJq {
+  margin-bottom: 5.2rem;
+  font-size: 1.6rem;
+  font-weight: 600;
+  line-height: 1.625;
+  color: #6c7274;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.konfirmasi-reservasi-Lzh .content-9am .content-HBB .menu-2uT .frame-742-WLm .auto-group-pfvv-oz5 .menu-item-JA9 {
+  font-size: 1.6rem;
+  font-weight: 600;
+  line-height: 1.625;
+  color: #6c7274;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.konfirmasi-reservasi-Lzh .content-9am .content-HBB .menu-2uT .frame-742-WLm .elements-SGM {
+  margin-bottom: 3.2rem;
+  box-sizing: border-box;
+  padding: 2rem 0;
+  width: 100%;
+  font-size: 1.6rem;
+  font-weight: 600;
+  line-height: 1.625;
+  color: #141718;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  border: solid 0.1rem #141718;
+  flex-shrink: 0;
+}
+.konfirmasi-reservasi-Lzh .content-9am .content-HBB .menu-2uT .frame-742-WLm .menu-item-LMj {
+  font-size: 1.6rem;
+  font-weight: 600;
+  line-height: 1.625;
+  color: #6c7274;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.konfirmasi-reservasi-Lzh .content-9am .content-HBB .auto-group-6yss-FzV {
+  margin-top: 1.6rem;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.konfirmasi-reservasi-Lzh .content-9am .content-HBB .auto-group-6yss-FzV .kembali-cKF {
+  font-size: 1.6rem;
+  font-weight: 600;
+  line-height: 2;
+  color: #141718;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.konfirmasi-reservasi-Lzh .content-9am .content-HBB .auto-group-6yss-FzV .content-M1w {
+  margin: 0rem 0rem 1rem 3.1rem;
+  box-sizing: border-box;
+  padding: 1.6rem 0;
+  width: 89.2rem;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  border: solid 0 #6c7274;
+  flex-shrink: 0;
+}
+.konfirmasi-reservasi-Lzh .content-9am .content-HBB .auto-group-6yss-FzV .content-M1w .frame-746-4h3 {
+  box-sizing: border-box;
+  padding: 1.05rem 65.2rem 1rem 0rem;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  border: solid 0.1rem #d4d4d4;
+  flex-shrink: 0;
+}
+.konfirmasi-reservasi-Lzh .content-9am .content-HBB .auto-group-6yss-FzV .content-M1w .frame-746-4h3 .tanggal-pengajuan-PUR {
+  margin: 0rem 2.2rem 0.05rem 0rem;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.5714285714;
+  color: #141718;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.konfirmasi-reservasi-Lzh .content-9am .content-HBB .auto-group-6yss-FzV .content-M1w .frame-746-4h3 .item--VnM {
+  margin: 0.05rem 1.1rem 0rem 0rem;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.5714285714;
+  color: #141718;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.konfirmasi-reservasi-Lzh .content-9am .content-HBB .auto-group-6yss-FzV .content-M1w .frame-746-4h3 .item-2023-09-17-Cwf {
+  margin-top: 0.05rem;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.5714285714;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.konfirmasi-reservasi-Lzh .content-9am .content-HBB .auto-group-6yss-FzV .content-M1w .auto-group-q5dp-iQD {
+  box-sizing: border-box;
+  padding: 0.8rem 0;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.konfirmasi-reservasi-Lzh .content-9am .content-HBB .auto-group-6yss-FzV .content-M1w .auto-group-q5dp-iQD .frame-756-4U5 {
+  margin-bottom: 0.8rem;
+  box-sizing: border-box;
+  padding: 1.05rem 22rem 1rem 0rem;
+  display: flex;
+  align-items: center;
+  border: solid 0 #d4d4d4;
+  flex-shrink: 0;
+}
+.konfirmasi-reservasi-Lzh .content-9am .content-HBB .auto-group-6yss-FzV .content-M1w .auto-group-q5dp-iQD .frame-756-4U5 .tanggal-reservasi-nus {
+  margin: 0rem 2.7rem 0.05rem 0rem;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.5714285714;
+  color: #141718;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.konfirmasi-reservasi-Lzh .content-9am .content-HBB .auto-group-6yss-FzV .content-M1w .auto-group-q5dp-iQD .frame-756-4U5 .item--K97 {
+  margin: 0.05rem 1.1rem 0rem 0rem;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.5714285714;
+  color: #141718;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.konfirmasi-reservasi-Lzh .content-9am .content-HBB .auto-group-6yss-FzV .content-M1w .auto-group-q5dp-iQD .frame-756-4U5 .item-2023-09-17-357 {
+  margin-top: 0.05rem;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.5714285714;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.konfirmasi-reservasi-Lzh .content-9am .content-HBB .auto-group-6yss-FzV .content-M1w .auto-group-q5dp-iQD .frame-758-xxm {
+  box-sizing: border-box;
+  padding: 1.05rem 25.4rem 1rem 0rem;
+  display: flex;
+  align-items: center;
+  border: solid 0 #d4d4d4;
+  flex-shrink: 0;
+}
+.konfirmasi-reservasi-Lzh .content-9am .content-HBB .auto-group-6yss-FzV .content-M1w .auto-group-q5dp-iQD .frame-758-xxm .nama-peminjam-WUV {
+  margin: 0rem 4.1rem 0.05rem 0rem;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.5714285714;
+  color: #141718;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.konfirmasi-reservasi-Lzh .content-9am .content-HBB .auto-group-6yss-FzV .content-M1w .auto-group-q5dp-iQD .frame-758-xxm .item--EQV {
+  margin: 0.05rem 1.1rem 0rem 0rem;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.5714285714;
+  color: #141718;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.konfirmasi-reservasi-Lzh .content-9am .content-HBB .auto-group-6yss-FzV .content-M1w .auto-group-q5dp-iQD .frame-758-xxm .aeryn-ZSm {
+  margin-top: 0.05rem;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.5714285714;
+  color: #141718;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.konfirmasi-reservasi-Lzh .content-9am .content-HBB .auto-group-6yss-FzV .content-M1w .frame-757-V5X {
+  box-sizing: border-box;
+  padding: 1.05rem 72rem 1rem 0rem;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  border: solid 0.1rem #d4d4d4;
+  flex-shrink: 0;
+}
+.konfirmasi-reservasi-Lzh .content-9am .content-HBB .auto-group-6yss-FzV .content-M1w .frame-757-V5X .jumlah-buku-q9P {
+  margin: 0rem 6.3rem 0.05rem 0rem;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.5714285714;
+  color: #141718;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.konfirmasi-reservasi-Lzh .content-9am .content-HBB .auto-group-6yss-FzV .content-M1w .frame-757-V5X .item--ABf {
+  margin: 0.05rem 1.1rem 0rem 0rem;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.5714285714;
+  color: #141718;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.konfirmasi-reservasi-Lzh .content-9am .content-HBB .auto-group-6yss-FzV .content-M1w .frame-757-V5X .item-4-gvh {
+  margin-top: 0.05rem;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.5714285714;
+  color: #141718;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.table-smf {
+  margin: 1rem 3.8rem; /* Adjust the margin as needed */
+  width: calc(60%);
+  height: 100px; /* Let the height adjust based on content */
+}
+.table-smf thead {
+  background-color: #f2f2f2; /* Light gray background for the header */
+}
+
+/* Style for the table header cells */
+.table-smf th {
+  padding: 1rem; /* Adjust padding as needed */
+  font-size: 1.3rem;
+}
+
+/* Style for the table body cells */
+.table-smf td {
+  padding: 1rem; /* Adjust padding as needed */
+  border-bottom: 1px solid #141718; /* Add a bottom border for each row */
+  margin: 0px 0px 0px 0px;
+  font-size: 1.3rem;
+
+}
+
+/* Style for the "Edit" button */
+.table-smf .butoon-RBT {
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+}
+
+/* Style for the "Edit" button icon */
+.table-smf .outline-edit-9NM {
+  margin-right: 0.5rem; /* Adjust margin as needed */
+}
+
+/* Style for the "Edit" button text */
+.table-smf .edit-5mo {
+  font-size: 1rem; /* Adjust font size as needed */
+}
+.konfirmasi-reservasi-Lzh .footer-AvH {
+  margin: 0 0.1rem;
+  box-sizing: border-box;
+  padding: 8rem 14.1rem 3.2rem 16rem;
+  width: calc(100% - 0.2rem);
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  background-color: #141718;
+  flex-shrink: 0;
+}
+.konfirmasi-reservasi-Lzh .footer-AvH .logo-and-links-VBs {
+  margin: 0rem 0rem 4.9rem 0.15rem;
+  width: 113.55rem;
+  height: 2.4rem;
+  flex-shrink: 0;
+}
+.konfirmasi-reservasi-Lzh .footer-AvH .logo-and-links-VBs .logo-and-slogan-cnH {
+  width: 41.15rem;
+  height: 100%;
+  display: flex;
+  align-items: center;
+}
+.konfirmasi-reservasi-Lzh .footer-AvH .logo-and-links-VBs .logo-and-slogan-cnH .perpusapp-m9P {
+  margin-right: 1.85rem;
+  text-align: center;
+  font-size: 2.4rem;
+  font-weight: 500;
+  line-height: 1;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: baseline;
+  flex-shrink: 0;
+}
+.konfirmasi-reservasi-Lzh .footer-AvH .logo-and-links-VBs .logo-and-slogan-cnH .perpusapp-m9P .perpusapp-m9P-sub-0 {
+}
+.konfirmasi-reservasi-Lzh .footer-AvH .logo-and-links-VBs .logo-and-slogan-cnH .perpusapp-m9P .perpusapp-m9P-sub-1 {
+  font-size: 2.4rem;
+  font-weight: 500;
+  line-height: 1;
+  color: #38cb89;
+  font-family: Poppins, 'Source Sans Pro';
+}
+.konfirmasi-reservasi-Lzh .footer-AvH .logo-and-links-VBs .logo-and-slogan-cnH .perpusapp-m9P .perpusapp-m9P-sub-2 {
+}
+.konfirmasi-reservasi-Lzh .footer-AvH .logo-and-links-VBs .logo-and-slogan-cnH .perpusapp-m9P .perpusapp-m9P-sub-3 {
+  font-size: 2.4rem;
+  font-weight: 500;
+  line-height: 1;
+  color: #6c7274;
+  font-family: Poppins, 'Source Sans Pro';
+}
+.konfirmasi-reservasi-Lzh .footer-AvH .logo-and-links-VBs .logo-and-slogan-cnH .rectangle-319-oEV {
+  margin-right: 3.2rem;
+  width: 0.1rem;
+  height: 2.4rem;
+  background-color: #6c7274;
+  flex-shrink: 0;
+}
+.konfirmasi-reservasi-Lzh .footer-AvH .logo-and-links-VBs .logo-and-slogan-cnH .gift-decoration-store-KCq {
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.5714285714;
+  color: #e8ecef;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.konfirmasi-reservasi-Lzh .footer-AvH .bottom-bar-qS5 {
+  margin-right: 1.9rem;
+  box-sizing: border-box;
+  padding: 1.6rem 0;
+  width: calc(100% - 1.9rem);
+  height: 5.6rem;
+  display: flex;
+  align-items: center;
+  border: solid 0.1rem #6c7274;
+  flex-shrink: 0;
+}
+.konfirmasi-reservasi-Lzh .footer-AvH .bottom-bar-qS5 .copyright-ADT {
+  margin: 0rem 49.5rem 0.4rem 0rem;
+  display: flex;
+  column-gap: 2.8rem;
+  align-items: center;
+  flex-shrink: 0;
+}
+.konfirmasi-reservasi-Lzh .footer-AvH .bottom-bar-qS5 .copyright-ADT .copyright-2023-3legant-all-rights-reserved-5bK {
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.6666666667;
+  color: #e8ecef;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.konfirmasi-reservasi-Lzh .footer-AvH .bottom-bar-qS5 .copyright-ADT .privacy-policy-PM7 {
+  font-size: 1.2rem;
+  font-weight: 600;
+  line-height: 1.6666666667;
+  color: #fdfdfd;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.konfirmasi-reservasi-Lzh .footer-AvH .bottom-bar-qS5 .copyright-ADT .terms-of-use-jA5 {
+  font-size: 1.2rem;
+  font-weight: 600;
+  line-height: 1.6666666667;
+  color: #fdfdfd;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.konfirmasi-reservasi-Lzh .footer-AvH .bottom-bar-qS5 .social-icon-TLy {
+  box-sizing: border-box;
+  padding: 0.2rem 0.2rem 0.2rem 0rem;
+  height: 100%;
+  display: flex;
+  column-gap: 3.2rem;
+  align-items: center;
+  flex-shrink: 0;
+}
+.konfirmasi-reservasi-Lzh .footer-AvH .bottom-bar-qS5 .social-icon-TLy .social-outline-instagram-aRb {
+  width: 2rem;
+  height: 2rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.konfirmasi-reservasi-Lzh .footer-AvH .bottom-bar-qS5 .social-icon-TLy .social-outline-facebook-vEZ {
+  width: 1.2rem;
+  height: 1.8rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.konfirmasi-reservasi-Lzh .footer-AvH .bottom-bar-qS5 .social-icon-TLy .social-outline-youtube-rP7 {
+  width: 2rem;
+  height: 1.8rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}

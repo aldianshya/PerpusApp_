@@ -1,0 +1,684 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 100%;
+}.halaman-buat-akun-6Mo {
+  width: 100%;
+  overflow: hidden;
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  background-color: #ffffff;
+}
+.halaman-buat-akun-6Mo .auto-group-nfmu-vbj {
+  width: 100%;
+  height: 168rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.halaman-buat-akun-6Mo .auto-group-nfmu-vbj .left-QQR {
+  margin-right: 8.8rem;
+  box-sizing: border-box;
+  padding: 3.2rem 30.25rem 3.2rem 30.15rem;
+  width: 73.6rem;
+  height: 100%;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/image-placeholder.png');
+  flex-shrink: 0;
+}
+.halaman-buat-akun-6Mo .auto-group-nfmu-vbj .left-QQR .logo-6HF {
+  margin-bottom: 99.2rem;
+  width: 100%;
+  height: 2.4rem;
+  cursor: pointer;
+  text-align: center;
+  font-size: 2.4rem;
+  font-weight: 500;
+  line-height: 1;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.halaman-buat-akun-6Mo .auto-group-nfmu-vbj .left-QQR .logo-6HF .logo-6HF-sub-0 {
+}
+.halaman-buat-akun-6Mo .auto-group-nfmu-vbj .left-QQR .logo-6HF .logo-6HF-sub-1 {
+  font-size: 2.4rem;
+  font-weight: 500;
+  line-height: 1;
+  color: #38cb89;
+  font-family: Poppins, 'Source Sans Pro';
+}
+.halaman-buat-akun-6Mo .auto-group-nfmu-vbj .left-QQR .logo-6HF .logo-6HF-sub-2 {
+}
+.halaman-buat-akun-6Mo .auto-group-nfmu-vbj .left-QQR .logo-6HF .logo-6HF-sub-3 {
+  font-size: 2.4rem;
+  font-weight: 500;
+  line-height: 1;
+  color: #6c7274;
+  font-family: Poppins, 'Source Sans Pro';
+}
+.halaman-buat-akun-6Mo .auto-group-nfmu-vbj .sign-up-rSm {
+  margin: 6.5rem 0rem 10.8rem 0rem;
+  width: 102.275rem;
+  height: calc(100% - 31.8rem);
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  background-color: #fdfdfd;
+  flex-shrink: 0;
+}
+.halaman-buat-akun-6Mo .auto-group-nfmu-vbj .sign-up-rSm .title-Zc5 {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.click {
+  margin-bottom: 20px;
+  margin-right: 10px;
+}
+.halaman-buat-akun-6Mo .auto-group-nfmu-vbj .sign-up-rSm .title-Zc5 .header-XJ1 {
+  margin-bottom: 0.4rem;
+  width: 100%;
+  display: flex;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.halaman-buat-akun-6Mo .auto-group-nfmu-vbj .sign-up-rSm .title-Zc5 .header-XJ1 .buat-akun-GWV {
+  margin-right: 80.725rem;
+  font-size: 4rem;
+  font-weight: 500;
+  line-height: 1.1;
+  letter-spacing: -0.04rem;
+  color: #141718;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.halaman-buat-akun-6Mo .auto-group-nfmu-vbj .sign-up-rSm .title-Zc5 .header-XJ1 .content-6P3 {
+  margin-top: 0.525rem;
+  width: 1.35rem;
+  height: 1.35rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.halaman-buat-akun-6Mo .auto-group-nfmu-vbj .sign-up-rSm .title-Zc5 .auto-group-yvhh-oYM {
+  margin-right: 81.775rem;
+  width: calc(100% - 81.775rem);
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.halaman-buat-akun-6Mo .auto-group-nfmu-vbj .sign-up-rSm .title-Zc5 .auto-group-yvhh-oYM .sudah-punya-akun-weZ {
+  margin-right: 0.1rem;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.625;
+  color: #141718;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: baseline;
+  flex-shrink: 0;
+}
+.halaman-buat-akun-6Mo .auto-group-nfmu-vbj .sign-up-rSm .title-Zc5 .auto-group-yvhh-oYM .sudah-punya-akun-weZ .sudah-punya-akun-weZ-sub-0 {
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.625;
+  color: #6c7274;
+  font-family: Inter, 'Source Sans Pro';
+}
+.halaman-buat-akun-6Mo .auto-group-nfmu-vbj .sign-up-rSm .title-Zc5 .auto-group-yvhh-oYM .sudah-punya-akun-weZ .sudah-punya-akun-weZ-sub-1 {
+}
+.halaman-buat-akun-6Mo .auto-group-nfmu-vbj .sign-up-rSm .title-Zc5 .auto-group-yvhh-oYM .masuk-VZb {
+  cursor: pointer;
+  font-size: 1.6rem;
+  font-weight: 600;
+  line-height: 1.625;
+  color: #38cb89;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.halaman-buat-akun-6Mo .auto-group-nfmu-vbj .sign-up-rSm .auto-group-kqvd-129 {
+  box-sizing: border-box;
+  padding-top: 3.2rem;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.halaman-buat-akun-6Mo .auto-group-nfmu-vbj .sign-up-rSm .auto-group-kqvd-129 .form-XFP {
+  margin-bottom: 3.2rem;
+  width: 45.6rem;
+  row-gap: 3.2rem;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.halaman-buat-akun-6Mo .auto-group-nfmu-vbj .sign-up-rSm .auto-group-kqvd-129 .form-XFP .form-input-EQh {
+  width: 100%;
+  height: 4rem;
+  border: solid 0.1rem #e8ecef;
+  box-sizing: border-box;
+  flex-shrink: 0;
+}
+.halaman-buat-akun-6Mo .auto-group-nfmu-vbj .sign-up-rSm .auto-group-kqvd-129 .form-XFP .form-input-EQh .content-Zxm {
+  width: 100%;
+  height: 100%;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.625;
+  color: #6c7274;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  border: solid 0.1rem #e8ecef;
+  box-sizing: border-box;
+}
+.halaman-buat-akun-6Mo .auto-group-nfmu-vbj .sign-up-rSm .auto-group-kqvd-129 .form-XFP .form-input-3d3 {
+  width: 100%;
+  height: 4rem;
+  border: solid 0.1rem #e8ecef;
+  box-sizing: border-box;
+  flex-shrink: 0;
+}
+.halaman-buat-akun-6Mo .auto-group-nfmu-vbj .sign-up-rSm .auto-group-kqvd-129 .form-XFP .form-input-3d3 .content-Ckq {
+  width: 100%;
+  height: 100%;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.625;
+  color: #6c7274;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  border: solid 0.1rem #e8ecef;
+  box-sizing: border-box;
+}
+.halaman-buat-akun-6Mo .auto-group-nfmu-vbj .sign-up-rSm .auto-group-kqvd-129 .form-XFP .form-input-hhb {
+  width: 100%;
+  height: 4rem;
+  border: solid 0.1rem #e8ecef;
+  box-sizing: border-box;
+  flex-shrink: 0;
+}
+.halaman-buat-akun-6Mo .auto-group-nfmu-vbj .sign-up-rSm .auto-group-kqvd-129 .form-XFP .form-input-hhi {
+  width: 100%;
+  height: 4rem;
+  margin-top: -25px;
+  border: solid 0.1rem #e8ecef;
+  box-sizing: border-box;
+  flex-shrink: 0;
+}
+label {
+  font-size: 1.6rem;
+  font-weight: 400;
+  font-family: Inter, 'Source Sans Pro';
+}
+.halaman-buat-akun-6Mo .auto-group-nfmu-vbj .sign-up-rSm .auto-group-kqvd-129 .form-XFP .form-input-hhi .content-raQ {
+  width: 100%;
+  height: 100%;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.625;
+  color: #6c7274;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  border: solid 0.1rem #e8ecef;
+  box-sizing: border-box;
+}
+.halaman-buat-akun-6Mo .auto-group-nfmu-vbj .sign-up-rSm .auto-group-kqvd-129 .form-XFP .form-input-hhb .content-raV {
+  width: 100%;
+  height: 100%;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.625;
+  color: #6c7274;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  border: solid 0.1rem #e8ecef;
+  box-sizing: border-box;
+}
+.halaman-buat-akun-6Mo .auto-group-nfmu-vbj .sign-up-rSm .auto-group-kqvd-129 .form-XFP .form-input-x7j {
+  width: 100%;
+  height: 4rem;
+  border: solid 0.1rem #e8ecef;
+  box-sizing: border-box;
+  flex-shrink: 0;
+}
+.halaman-buat-akun-6Mo .auto-group-nfmu-vbj .sign-up-rSm .auto-group-kqvd-129 .form-XFP .form-input-x7j .content-uof {
+  width: 100%;
+  height: 100%;
+  border: solid 0.1rem #e8ecef;
+  box-sizing: border-box;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+
+.halaman-buat-akun-6Mo .auto-group-nfmu-vbj .sign-up-rSm .auto-group-kqvd-129 .form-XFP .form-input-x7j .content-uof .content-t1P {
+  width: 100%;
+  height: 2.8rem;
+  display: flex;
+  align-items: flex-end;
+}
+.halaman-buat-akun-6Mo .auto-group-nfmu-vbj .sign-up-rSm .auto-group-kqvd-129 .form-XFP .form-input-x7j .content-uof .content-t1P .kata-sandi-dUm {
+  margin: 0rem 35.2rem 0.2rem 0rem;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.625;
+  color: #6c7274;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.halaman-buat-akun-6Mo .auto-group-nfmu-vbj .sign-up-rSm .auto-group-kqvd-129 .form-XFP .form-input-x7j .content-uof .content-t1P .huge-icon-interface-outline-eye-Lty {
+  width: 2.4rem;
+  height: 2.4rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.halaman-buat-akun-6Mo .auto-group-nfmu-vbj .sign-up-rSm .auto-group-kqvd-129 .form-XFP .form-input-EzM {
+  width: 100%;
+  height: 4rem;
+  border: solid 0.1rem #e8ecef;
+  box-sizing: border-box;
+  flex-shrink: 0;
+}
+.halaman-buat-akun-6Mo .auto-group-nfmu-vbj .sign-up-rSm .auto-group-kqvd-129 .form-XFP .form-input-EzM .content-yS9 {
+  width: 100%;
+  height: 100%;
+  border: solid 0.1rem #e8ecef;
+  box-sizing: border-box;
+}
+.halaman-buat-akun-6Mo .auto-group-nfmu-vbj .sign-up-rSm .auto-group-kqvd-129 .form-XFP .form-input-EzM .content-yS9 .content-XyT {
+  box-sizing: border-box;
+  padding-right: 0.2rem;
+  width: 100%;
+  height: 2.8rem;
+  display: flex;
+  align-items: center;
+}
+.halaman-buat-akun-6Mo .auto-group-nfmu-vbj .sign-up-rSm .auto-group-kqvd-129 .form-XFP .form-input-EzM .content-yS9 .content-XyT .konfirmasi-kata-sandi-Udo {
+  margin: 0rem 27.2rem 0.2rem 0rem;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.625;
+  color: #6c7274;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.halaman-buat-akun-6Mo .auto-group-nfmu-vbj .sign-up-rSm .auto-group-kqvd-129 .form-XFP .form-input-EzM .content-yS9 .content-XyT .huge-icon-interface-outline-eye-CZo {
+  margin-top: 0.4rem;
+  width: 2rem;
+  height: 1.4rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.halaman-buat-akun-6Mo .auto-group-nfmu-vbj .sign-up-rSm .auto-group-kqvd-129 .form-XFP .form-input-69P {
+  width: 100%;
+  height: 4rem;
+  border: solid 0.1rem #e8ecef;
+  box-sizing: border-box;
+  flex-shrink: 0;
+}
+.halaman-buat-akun-6Mo .auto-group-nfmu-vbj .sign-up-rSm .auto-group-kqvd-129 .form-XFP .form-input-69P .content-34d {
+  width: 100%;
+  height: 100%;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.625;
+  color: #6c7274;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  border: solid 0.1rem #e8ecef;
+  box-sizing: border-box;
+}
+.halaman-buat-akun-6Mo .auto-group-nfmu-vbj .sign-up-rSm .auto-group-kqvd-129 .form-XFP .form-input-XkV {
+  width: 100%;
+  height: 4rem;
+  border: solid 0.1rem #e8ecef;
+  box-sizing: border-box;
+  flex-shrink: 0;
+}
+.halaman-buat-akun-6Mo .auto-group-nfmu-vbj .sign-up-rSm .auto-group-kqvd-129 .form-XFP .form-input-XkV .content-tqw {
+  width: 100%;
+  height: 100%;
+  border: solid 0.1rem #e8ecef;
+  box-sizing: border-box;
+}
+.halaman-buat-akun-6Mo .auto-group-nfmu-vbj .sign-up-rSm .auto-group-kqvd-129 .form-XFP .form-input-XkV .content-tqw .content-FgV {
+  box-sizing: border-box;
+  padding-right: 0.3rem;
+  width: 100%;
+  height: 2.8rem;
+  display: flex;
+  align-items: center;
+}
+.halaman-buat-akun-6Mo .auto-group-nfmu-vbj .sign-up-rSm .auto-group-kqvd-129 .form-XFP .form-input-XkV .content-tqw .content-FgV .tanggal-lahir-bkM {
+  margin: 0rem 33.8rem 0.2rem 0rem;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.625;
+  color: #6c7274;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.halaman-buat-akun-6Mo .auto-group-nfmu-vbj .sign-up-rSm .auto-group-kqvd-129 .form-XFP .form-input-XkV .content-tqw .content-FgV .time-and-date-outline-calendar-KwF {
+  margin-top: 0.4rem;
+  width: 1.8rem;
+  height: 2rem;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.halaman-buat-akun-6Mo .auto-group-nfmu-vbj .sign-up-rSm .auto-group-kqvd-129 .form-XFP .different-address-p7K {
+  margin-right: 4.6rem;
+  width: calc(100% - 4.6rem);
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.halaman-buat-akun-6Mo .auto-group-nfmu-vbj .sign-up-rSm .auto-group-kqvd-129 .form-XFP .different-address-p7K .ratio-button-kmf {
+  margin-right: 1.2rem;
+  width: 2.4rem;
+  height: 2.4rem;
+  object-fit: contain;
+  vertical-align: top;
+  border-radius: 0.4rem;
+  flex-shrink: 0;
+}
+.halaman-buat-akun-6Mo .auto-group-nfmu-vbj .sign-up-rSm .auto-group-kqvd-129 .form-XFP .different-address-p7K .saya-setuju-dengan-kebijakan-pribadi-dan-syarat-penggunaan-gQR {
+  max-width: 37.4rem;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.625;
+  color: #6c7274;
+  font-family: Inter, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.halaman-buat-akun-6Mo .auto-group-nfmu-vbj .sign-up-rSm .auto-group-kqvd-129 .form-XFP .different-address-p7K .saya-setuju-dengan-kebijakan-pribadi-dan-syarat-penggunaan-gQR .saya-setuju-dengan-kebijakan-pribadi-dan-syarat-penggunaan-gQR-sub-0 {
+}
+.halaman-buat-akun-6Mo .auto-group-nfmu-vbj .sign-up-rSm .auto-group-kqvd-129 .form-XFP .different-address-p7K .saya-setuju-dengan-kebijakan-pribadi-dan-syarat-penggunaan-gQR .saya-setuju-dengan-kebijakan-pribadi-dan-syarat-penggunaan-gQR-sub-1 {
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.625;
+  color: #6c7274;
+  font-family: Inter, 'Source Sans Pro';
+}
+.halaman-buat-akun-6Mo .auto-group-nfmu-vbj .sign-up-rSm .auto-group-kqvd-129 .form-XFP .different-address-p7K .saya-setuju-dengan-kebijakan-pribadi-dan-syarat-penggunaan-gQR .saya-setuju-dengan-kebijakan-pribadi-dan-syarat-penggunaan-gQR-sub-2 {
+  font-size: 1.6rem;
+  font-weight: 600;
+  line-height: 1.625;
+  color: #141718;
+  font-family: Inter, 'Source Sans Pro';
+}
+.halaman-buat-akun-6Mo .auto-group-nfmu-vbj .sign-up-rSm .auto-group-kqvd-129 .form-XFP .different-address-p7K .saya-setuju-dengan-kebijakan-pribadi-dan-syarat-penggunaan-gQR .saya-setuju-dengan-kebijakan-pribadi-dan-syarat-penggunaan-gQR-sub-3 {
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.625;
+  color: #6c7274;
+  font-family: Inter, 'Source Sans Pro';
+}
+.halaman-buat-akun-6Mo .auto-group-nfmu-vbj .sign-up-rSm .auto-group-kqvd-129 .form-XFP .different-address-p7K .saya-setuju-dengan-kebijakan-pribadi-dan-syarat-penggunaan-gQR .saya-setuju-dengan-kebijakan-pribadi-dan-syarat-penggunaan-gQR-sub-4 {
+}
+.halaman-buat-akun-6Mo .auto-group-nfmu-vbj .sign-up-rSm .auto-group-kqvd-129 .form-XFP .different-address-p7K .saya-setuju-dengan-kebijakan-pribadi-dan-syarat-penggunaan-gQR .saya-setuju-dengan-kebijakan-pribadi-dan-syarat-penggunaan-gQR-sub-5 {
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.625;
+  color: #6c7274;
+  font-family: Inter, 'Source Sans Pro';
+}
+.halaman-buat-akun-6Mo .auto-group-nfmu-vbj .sign-up-rSm .auto-group-kqvd-129 .form-XFP .different-address-p7K .saya-setuju-dengan-kebijakan-pribadi-dan-syarat-penggunaan-gQR .saya-setuju-dengan-kebijakan-pribadi-dan-syarat-penggunaan-gQR-sub-6 {
+  font-size: 1.6rem;
+  font-weight: 600;
+  line-height: 1.625;
+  color: #141718;
+  font-family: Inter, 'Source Sans Pro';
+}
+.halaman-buat-akun-6Mo .auto-group-nfmu-vbj .sign-up-rSm .auto-group-kqvd-129 .button-ooo {
+  width: 45.6rem;
+  height: 4.8rem;
+  cursor: pointer;
+  text-align: center;
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.75;
+  letter-spacing: -0.04rem;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #141718;
+  border-radius: 0.8rem;
+  flex-shrink: 0;
+  text-decoration: none;
+}
+.halaman-buat-akun-6Mo .footer-FQu {
+  box-sizing: border-box;
+  padding: 8rem 16rem 3.2rem 14.65rem;
+  width: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  background-color: #141718;
+  flex-shrink: 0;
+}
+.halaman-buat-akun-6Mo .footer-FQu .logo-and-links-mu3 {
+  margin-bottom: 5.7rem;
+  width: 100%;
+  height: 2.4rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.halaman-buat-akun-6Mo .footer-FQu .logo-and-links-mu3 .logo-and-slogan-6wK {
+  margin-right: 27.8rem;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.halaman-buat-akun-6Mo .footer-FQu .logo-and-links-mu3 .logo-and-slogan-6wK .logo-FJR {
+  margin-right: 1.85rem;
+  width: 13.2rem;
+  height: 100%;
+  cursor: pointer;
+  text-align: center;
+  font-size: 2.4rem;
+  font-weight: 500;
+  line-height: 1;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+}
+.halaman-buat-akun-6Mo .footer-FQu .logo-and-links-mu3 .logo-and-slogan-6wK .logo-FJR .logo-FJR-sub-0 {
+}
+.halaman-buat-akun-6Mo .footer-FQu .logo-and-links-mu3 .logo-and-slogan-6wK .logo-FJR .logo-FJR-sub-1 {
+  font-size: 2.4rem;
+  font-weight: 500;
+  line-height: 1;
+  color: #38cb89;
+  font-family: Poppins, 'Source Sans Pro';
+}
+.halaman-buat-akun-6Mo .footer-FQu .logo-and-links-mu3 .logo-and-slogan-6wK .logo-FJR .logo-FJR-sub-2 {
+}
+.halaman-buat-akun-6Mo .footer-FQu .logo-and-links-mu3 .logo-and-slogan-6wK .logo-FJR .logo-FJR-sub-3 {
+  font-size: 2.4rem;
+  font-weight: 500;
+  line-height: 1;
+  color: #6c7274;
+  font-family: Poppins, 'Source Sans Pro';
+}
+.halaman-buat-akun-6Mo .footer-FQu .logo-and-links-mu3 .logo-and-slogan-6wK .rectangle-319-Vc5 {
+  margin-right: 3.2rem;
+  width: 0.1rem;
+  height: 2.4rem;
+  background-color: #6c7274;
+  flex-shrink: 0;
+}
+.halaman-buat-akun-6Mo .footer-FQu .logo-and-links-mu3 .logo-and-slogan-6wK .gift-decoration-store-1KX {
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.5714285714;
+  color: #e8ecef;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.halaman-buat-akun-6Mo .footer-FQu .logo-and-links-mu3 .nav-vxH {
+  margin: 0.1rem 0;
+  height: calc(100% - 0.2rem);
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.halaman-buat-akun-6Mo .footer-FQu .logo-and-links-mu3 .nav-vxH .home-TSR {
+  margin-right: 4rem;
+  cursor: pointer;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.5714285714;
+  color: #fdfdfd;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.halaman-buat-akun-6Mo .footer-FQu .logo-and-links-mu3 .nav-vxH .shop-yvZ {
+  margin-right: 2.2rem;
+  cursor: pointer;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.5714285714;
+  color: #fdfdfd;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.halaman-buat-akun-6Mo .footer-FQu .logo-and-links-mu3 .nav-vxH .auto-group-uy83-WvV {
+  margin-right: 4rem;
+  box-sizing: border-box;
+  padding-left: 1.8rem;
+  height: 100%;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.5714285714;
+  color: #fdfdfd;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.halaman-buat-akun-6Mo .footer-FQu .logo-and-links-mu3 .nav-vxH .contact-us-1sF {
+  cursor: pointer;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.5714285714;
+  color: #fdfdfd;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.halaman-buat-akun-6Mo .footer-FQu .bottom-bar-Kd3 {
+  margin: 0rem 0.2rem 0rem 1.35rem;
+  box-sizing: border-box;
+  padding: 1.6rem 0;
+  width: calc(100% - 1.55rem);
+  height: 5.6rem;
+  display: flex;
+  align-items: center;
+  border-top: solid 0.1rem #6c7274;
+  flex-shrink: 0;
+}
+.halaman-buat-akun-6Mo .footer-FQu .bottom-bar-Kd3 .copyright-DyK {
+  margin: 0rem 49.8rem 0.4rem 0rem;
+  display: flex;
+  column-gap: 2.8rem;
+  align-items: center;
+  flex-shrink: 0;
+}
+.halaman-buat-akun-6Mo .footer-FQu .bottom-bar-Kd3 .copyright-DyK .copyright-2023-perpusapp-all-rights-reserved-YEu {
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.6666666667;
+  color: #e8ecef;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.halaman-buat-akun-6Mo .footer-FQu .bottom-bar-Kd3 .copyright-DyK .privacy-policy-3xM {
+  font-size: 1.2rem;
+  font-weight: 600;
+  line-height: 1.6666666667;
+  color: #fdfdfd;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.halaman-buat-akun-6Mo .footer-FQu .bottom-bar-Kd3 .copyright-DyK .terms-of-use-axH {
+  font-size: 1.2rem;
+  font-weight: 600;
+  line-height: 1.6666666667;
+  color: #fdfdfd;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.halaman-buat-akun-6Mo .footer-FQu .bottom-bar-Kd3 .social-icon-KQ5 {
+  box-sizing: border-box;
+  padding: 0.2rem 0.2rem 0.2rem 0rem;
+  height: 100%;
+  display: flex;
+  column-gap: 3.2rem;
+  align-items: center;
+  flex-shrink: 0;
+}
+.halaman-buat-akun-6Mo .footer-FQu .bottom-bar-Kd3 .social-icon-KQ5 .social-outline-instagram-qNR {
+  width: 2rem;
+  height: 2rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.halaman-buat-akun-6Mo .footer-FQu .bottom-bar-Kd3 .social-icon-KQ5 .social-outline-facebook-NNM {
+  width: 1.2rem;
+  height: 1.8rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.halaman-buat-akun-6Mo .footer-FQu .bottom-bar-Kd3 .social-icon-KQ5 .social-outline-youtube-iBK {
+  width: 2rem;
+  height: 1.8rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
